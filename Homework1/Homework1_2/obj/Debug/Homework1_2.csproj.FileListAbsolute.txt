@@ -1,0 +1,10 @@
+E:\C#\Homework1\Homework1_2\bin\Debug\Homework1_2.exe.config
+E:\C#\Homework1\Homework1_2\bin\Debug\Homework1_2.exe
+E:\C#\Homework1\Homework1_2\bin\Debug\Homework1_2.pdb
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.csprojAssemblyReference.cache
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.Properties.Resources.resources
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.csproj.GenerateResource.cache
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.csproj.CoreCompileInputs.cache
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.exe
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.pdb
+E:\C#\Homework1\Homework1_2\obj\Debug\Homework1_2.FormCalculator.resources
