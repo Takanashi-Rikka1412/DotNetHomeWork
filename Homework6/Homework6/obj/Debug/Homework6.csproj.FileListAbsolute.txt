@@ -1,7 +1,0 @@
-E:\C#\Homework6\Homework6\bin\Debug\Homework6.exe.config
-E:\C#\Homework6\Homework6\bin\Debug\Homework6.exe
-E:\C#\Homework6\Homework6\bin\Debug\Homework6.pdb
-E:\C#\Homework6\Homework6\obj\Debug\Homework6.csprojAssemblyReference.cache
-E:\C#\Homework6\Homework6\obj\Debug\Homework6.csproj.CoreCompileInputs.cache
-E:\C#\Homework6\Homework6\obj\Debug\Homework6.exe
-E:\C#\Homework6\Homework6\obj\Debug\Homework6.pdb
