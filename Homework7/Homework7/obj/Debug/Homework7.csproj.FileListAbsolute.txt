@@ -1,0 +1,10 @@
+E:\C#\Homework7\Homework7\bin\Debug\Homework7.exe.config
+E:\C#\Homework7\Homework7\bin\Debug\Homework7.exe
+E:\C#\Homework7\Homework7\bin\Debug\Homework7.pdb
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.csprojAssemblyReference.cache
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.csproj.GenerateResource.cache
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.csproj.CoreCompileInputs.cache
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.exe
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.pdb
+E:\C#\Homework7\Homework7\obj\Debug\Homework7.CayleyForm.resources
