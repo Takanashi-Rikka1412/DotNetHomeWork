@@ -1,0 +1,6 @@
+E:\C#\Homework8\NSOrder\bin\Debug\NSOrder.dll
+E:\C#\Homework8\NSOrder\bin\Debug\NSOrder.pdb
+E:\C#\Homework8\NSOrder\obj\Debug\NSOrder.csprojAssemblyReference.cache
+E:\C#\Homework8\NSOrder\obj\Debug\NSOrder.csproj.CoreCompileInputs.cache
+E:\C#\Homework8\NSOrder\obj\Debug\NSOrder.dll
+E:\C#\Homework8\NSOrder\obj\Debug\NSOrder.pdb
