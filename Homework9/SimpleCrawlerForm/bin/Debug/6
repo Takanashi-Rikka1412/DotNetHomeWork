@@ -1,0 +1,627 @@
+﻿
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="renderer" content="webkit" />
+<meta name="force-rendering" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="theme-color" content="#0066cc">
+<meta name="SiteName" content="中国工程院门户网站">
+<meta name="SiteDomain" content="www.cae.cn">
+<meta name="SiteIDCode" content="bm50000001">
+<link rel="shortcut icon" href="/cae/favicon.ico" type="image/x-icon" />
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link href="/cae/sites/main/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/cae/sites/main/css/style_new.css"/>
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script type="text/javascript" src="/cae/sites/main/js/jr_change_div.js"></script>
+</script>
+<title>中国工程院</title>
+</head>
+<body style="min-height:1200px;min-width:1280px;" >
+<div >
+ 
+
+
+
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script>
+	function sumitForm() {
+		$("#subForm")[0].submit();
+	}
+</script>
+<div class="inbig_bgtop">
+	<div class="top">
+  		<div class="top_mail fontst">
+
+			<div class="topdate">
+				<a href="https://mailsrv.cae.cn/" target="_blank" class="white12">进入邮件系统</a>&emsp;&emsp;<font size='2px'><script src="/cae/sites/main/js/date.js" type="text/javascript"></script></font>&emsp;&emsp;
+			</div>
+			<div class="tophome">
+				<span><img src="/cae/sites/main/images/h_01.png" /><a href="/cae/html/main/index.html">首页</a></span>
+
+			</div>
+		</div>
+		<div class="top_wx">
+			<div class="topnesoul">
+					<div class="nesoul">
+						<form method="POST" action="/cae/app/search/search.jsp" id="subForm">
+							<input type="hidden" name="area" value="3" />
+							<input type="hidden" name="webid" value="main" />
+							<dl> <input type="text" name="q" value="输入关键词" size="" class="inputnesoul" onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue; this.style.color='#999'}"/></dl>
+							<dt><img style="cursor:pointer;" onclick="sumitForm();" src="/cae/sites/main/images/h_03.png" /></dt>
+						</form>
+					</div>
+			</div>		
+			<p><a href="http://en.cae.cn/en/" target="_blank" class="white12">English Version</a></p>
+		</div>
+	</div>
+
+	<div class="top_logo">
+		<div class="logo"><a href="/cae/html/main/index.html"><img src="/cae/sites/main/images/logo.png" /></a></div>
+		
+
+
+<link href="/cae/sites/main/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/cae/sites/main/js/jr_change_div.js"></script>
+<script type="text/javascript">
+		$(function() {
+			for(var idListIndex = 1,columnIndex=306;idListIndex < 9 ; idListIndex++) {
+				//$("#9_"+idListIndex).bind('mouseover',function() {
+					//var curId = $(this).attr("id");
+					//curId = curId.substring(2);
+					$("#tab_9_"+idListIndex).load("/cae/html/main/col"+(columnIndex+parseInt(idListIndex))+"/column_"+(columnIndex+parseInt(idListIndex))+"_1.html");
+					//console.log("1#9_"+idListIndex+"----/cae/html/main/col"+(columnIndex+parseInt(idListIndex))+"/column_"+(columnIndex+parseInt(idListIndex))+"_1.html");
+				//});
+			}
+		});
+  </script>
+
+<div class="logo_r" id="anchor_point">
+		<div class="inmenu" id="anchor_points">
+			<ul>
+             
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_1' rel='tab_9_1'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,1,8,1)" onclick="columnOnclick('/html/main/col8/column_8_1.html',1)">工程院机构</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_2' rel='tab_9_2'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,2,8,1)" onclick="columnOnclick('/html/main/col48/column_48_1.html',2)">院士队伍</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_3' rel='tab_9_3'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,3,8,1)" onclick="columnOnclick('/html/main/col83/column_83_1.html',3)">战略咨询</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_4' rel='tab_9_4'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,4,8,1)" onclick="columnOnclick('/html/main/col99/column_99_1.html',4)">学术活动</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_5' rel='tab_9_5'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,5,8,1)" onclick="columnOnclick('/html/main/col104/column_104_1.html',5)">科技合作</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_6' rel='tab_9_6'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,6,8,1)" onclick="columnOnclick('/html/main/col123/column_123_1.html',6)">人才培养</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_7' rel='tab_9_7'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,7,8,1)" onclick="columnOnclick('/html/main/col296/column_296_1.html',7)">对外交流</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_8' rel='tab_9_8'>
+				 <h4>
+				 <a href="http://tousu.cae.cn:8090/cae/pro/messageIssuedList" onmouseover="this.style.color='#0f5eca';" onmouseout="this.style.color='#000000';">互动交流</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+		  </ul>
+		</div>
+		    <script>
+				function columnOnclick(columnlinkurl,coid){
+					
+				    location.href='/cae'+columnlinkurl+'';
+				}
+			</script>
+   <div style="height:46px;"></div>
+   <div id="tab_9_1" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_2" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_3" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_4" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_5" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_6" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_7" class="n_tab_div_con"  style="display:none">
+   </div>
+   
+</div>
+	</div>
+	
+</div>
+
+ 
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/cae/favicon.ico" type="image/x-icon" />
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/cae/sites/main/css/style_new.css"/>
+
+<title>中国工程院</title>
+</head>
+<body>
+<div class="inmenubig_home" >
+					<div class="inmenumd_home">
+						<div class="home_md">
+							<div class="home_left">
+									
+
+
+<script language="javascript" type="text/javascript" src="/cae/js/gdlb.js"></script>
+<div id="ban1">
+  <div class="banner">
+      <ul class="img" >
+  
+        <div class="divpicture">
+		<div><a href="/cae/html/main/col334/column_334_1.html" target="_blank"><img src="/cae/sites/main/images/zhuanti_20210415_1.png" /></a></div>
+		<div class="turn_info_img">
+			<div class="turn_info_textimg">
+				<h3><a href="/cae/html/main/col334/column_334_1.html" target="_blank" style="color: #FFFFFF;">党史学习教育</a></h3>
+			</div>
+		</div>
+		</div>
+	
+        <div class="divpicture">
+		<div><a href="/cae/html/main/col1/2021-04/29/20210429095128720609314_1.html" target="_blank"><img src="/cae/html/files/2021-04/29/20210429095323486580795.jpg" /></a></div>
+		<div class="turn_info_img">
+			<div class="turn_info_textimg">
+				<h3><a href="/cae/html/main/col1/2021-04/29/20210429095128720609314_1.html" target="_blank" style="color: #FFFFFF;">中国工程院和上海市人民政府共建“院士专家成果展示与...</a></h3>
+			</div>
+		</div>
+		</div>
+	
+        <div class="divpicture">
+		<div><a href="/cae/html/main/col1/2021-04/06/20210406150219498470807_1.html" target="_blank"><img src="/cae/html/files/2021-04/06/20210406150431010736289.jpg" /></a></div>
+		<div class="turn_info_img">
+			<div class="turn_info_textimg">
+				<h3><a href="/cae/html/main/col1/2021-04/06/20210406150219498470807_1.html" target="_blank" style="color: #FFFFFF;">国家产业基础专家委员会成立大会在北京召开</a></h3>
+			</div>
+		</div>
+		</div>
+	
+        <div class="divpicture">
+		<div><a href="/cae/html/main/col1/2021-04/06/20210406145744857614115_1.html" target="_blank"><img src="/cae/html/files/2021-04/06/20210406145919139619754.png" /></a></div>
+		<div class="turn_info_img">
+			<div class="turn_info_textimg">
+				<h3><a href="/cae/html/main/col1/2021-04/06/20210406145744857614115_1.html" target="_blank" style="color: #FFFFFF;">我院启动国家关键矿产及其材料产业供应链高质量发展战...</a></h3>
+			</div>
+		</div>
+		</div>
+	
+        <div class="divpicture">
+		<div><a href="/cae/html/main/col1/2021-03/31/20210331161536896775456_1.html" target="_blank"><img src="/cae/html/files/2021-03/31/20210331155837438666682.png" /></a></div>
+		<div class="turn_info_img">
+			<div class="turn_info_textimg">
+				<h3><a href="/cae/html/main/col1/2021-03/31/20210331161536896775456_1.html" target="_blank" style="color: #FFFFFF;">中国工程科技未来20年发展战略研究工作联合领导小组...</a></h3>
+			</div>
+		</div>
+		</div>
+	
+	    </ul>
+    <ul class="num">
+		
+    </ul>
+   
+  </div>
+</div>
+
+							</div>
+							<div class="home_right">
+								 <div class="home_right_top">
+								  			<div class="tit1_tab_div_common" id='11_1' onmousemove="showjinrtab(11,1,2)"><a href="#">国务院</a></div>
+											<div class="tit1_tab_div_current " id='11_2' onmousemove="showjinrtab(11,2,2)"><a href="#">工程院要闻</a></div>
+											<div class="tit1_more" id="div_navm_more1" >
+												<a id="navm_more1" href="/cae/html/main/col1/column_1_1.html" class="more_in">更多</a>
+											</div>
+											<div class="tit1_more" id="div_navm_more2" style="display:none">
+												<a id="navm_more2" href="https://www.gov.cn/pushinfo/v150203" target="_blank" class="more_in">更多</a>
+											</div>
+								 </div>
+								<div class="home_right_md" id="tab_11_1" style="display:none">
+									<div  class="n_tab_cae" >
+										<div class="govpushinfo">
+											<script language="javascript" type="text/javascript" src="//www.gov.cn/pushinfo/v150203/pushinfo.js" charset="utf-8"></script>
+										</div>
+									</div>
+								</div>
+								
+								<div id="tab_11_2" class="n_tab_cae" style="display:block">
+										<div class="gy_gwytop">
+											<div class="gy_gwy_biaot">
+												<h2 class="fontwr">
+												
+												<a href="/cae/html/main/col1/2021-04/23/20210423112428461458316_1.html" target="_blank">
+												<h2><div class="divpointnowrap" title="中国工程院2021年院士增选有效候选人名单">中国工程院2021年院士增选有效候选人名单</div></h2>	
+												</a>
+												</h2>
+											 &nbsp;&nbsp;经中国工程院主席团审议，确定2021年院士增选有效候选人577位，根据《中国工程院院士增选工作实施办法》，现予公布。
+											</div>
+										</div>		
+													
+										<div class="gy_gwy_news fontst">
+										<ul>
+											
+											<li><span>2021-04-29</span>
+													<a href="/cae/html/main/col1/2021-04/29/20210429164247816306436_1.html" target="_blank">
+														中国空间站天和核心舱发射任务成功 习近平致电祝贺
+													</a>
+											</li>
+											
+											<li><span>2021-04-29</span>
+													<a href="/cae/html/main/col1/2021-04/29/20210429095128720609314_1.html" target="_blank">
+														中国工程院和上海市人民政府共建“院士专家成果展示与转化中...
+													</a>
+											</li>
+											
+											<li><span>2021-04-25</span>
+													<a href="/cae/html/main/col1/2021-04/25/20210425163857277550625_1.html" target="_blank">
+														中英工程技术绿色低碳发展论坛成功召开
+													</a>
+											</li>
+											
+											<li><span>2021-04-19</span>
+													<a href="/cae/html/main/col1/2021-04/22/20210422092906664271665_1.html" target="_blank">
+														高位谋划科技助力乡村振兴——李晓红会见云南省委省政府主要...
+													</a>
+											</li>
+											
+											<li><span>2021-04-19</span>
+													<a href="/cae/html/main/col1/2021-04/22/20210422092906632707926_1.html" target="_blank">
+														乡村振兴谋新篇  科技帮扶办实事——李晓红赴澜沧调研乡村...
+													</a>
+											</li>
+											
+											<li><span>2021-04-19</span>
+													<a href="/cae/html/main/col1/2021-04/22/20210422092906601261474_1.html" target="_blank">
+														中国工程院调研组赴会泽调研乡村振兴工作
+													</a>
+											</li>
+											
+											<li><span>2021-04-19</span>
+													<a href="/cae/html/main/col1/2021-04/22/20210422092906570418583_1.html" target="_blank">
+														一张蓝图绘到底  乡村振兴正当时
+													</a>
+											</li>
+											
+											<li><span>2021-04-14</span>
+													<a href="/cae/html/main/col1/2021-04/14/20210414164243228234278_1.html" target="_blank">
+														永做核动力事业的拓荒牛——记著名核动力专家彭士禄院士
+													</a>
+											</li>
+											
+										</ul>
+										</div>
+									</div>
+									
+							</div>
+						</div>
+						</div>
+					</div>
+					
+</body>
+</html>
+<!-- 模板文件为:sites/main/top_home.jsp -->
+</div>
+ 
+
+
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link href="/cae/sites/main/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script type="text/javascript" src="/cae/sites/main/js/jr_change_div.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$("#tzitab_more_a").hover(function(){
+			var aHref = $("div[class=\"tzi_tab_div_current\"]").eq(1).attr("href");
+			$(this).attr("href",aHref);
+		});
+	});
+</script>
+
+
+<div class="tzn">
+	<div class="tznleft">
+		<div class="zjysd">
+			<div class="zjysd_l">
+				<span><a href="/cae/html/main/col34/column_34_1.html" target="_blank"><img src="/cae/sites/main/images/ysfc.png" /></a></span>
+				<p><a href="/cae/html/main/col34/column_34_1.html" target="_blank">走近院士</a></p>
+			</div>
+			<div class="zjysd_r ">
+				
+			    <span><div class="zjysd_r_div"><img src="/cae/html/files/2021-04/29/20210429095629862876118.jpg" /></div></span>
+				<h3>
+				<a href="/cae/html/main/col38/2021-04/29/20210429095551330357014_1.html" target="_blank" title="第七届科学道德建设委员会第6次会议在京召开">第七届科学道德建设委员会第6...</a>
+				</h3>
+				<p><a href="/cae/html/main/col38/2021-04/29/20210429095551330357014_1.html" target="_blank" >2021年4月19日上午，科学道德建设委员会主任陈左宁副院长在工程院主持召开了第七届科学道德建设委员...</a></p>
+			</div>
+		</div>
+	</div>
+	<div class="tznright">
+			<div class="yshdd">
+					<div class="yshdd_l">
+						<span><a href="/cae/html/main/col33/column_33_1.html" target="_blank"><img src="/cae/sites/main/images/yshd.png" /></a></span>
+						<p><a href="/cae/html/main/col33/column_33_1.html" target="_blank">院士活动</a></p>
+					</div>
+					<div class="yshdd_r ">
+						
+						<span><div class="yshdd_r_div"><img src="/cae/html/files/2021-04/22/20210422092356507745040.jpg" /></div></span>
+						<h3>
+						<a href="/cae/html/main/col148/2021-04/22/20210422092159195703653_1.html" target="_blank" title="高位谋划科技助力乡村振兴——李晓红会见云南省委省政府主要领导">高位谋划科技助力乡村振兴——...</a>
+						</h3>
+						<p><a href="/cae/html/main/col148/2021-04/22/20210422092159195703653_1.html" target="_blank" >2021年4月14日下午，中国工程院党组书记、院长李晓红率乡村振兴调研组，在昆明会见了云南省委书记阮...</a></p>
+					</div>
+			</div>
+	</div>
+</div>
+<div class="tzn23">
+	<div class="tznleft">
+			<div class="tznleft_top">
+					<div class="tzi_tab_div_current"><a href="#" style="cursor:default;">通知公告</a></div>
+					<div class="tzitab_more"><a href="/cae/html/main/col4/column_4_1.html">更多</a></div>
+			</div>
+			
+			<div class="tzn23_con1"  style="display:block;">
+					
+						<div class="newstzi_1" >
+							<span>2021-04-21</span>
+							<h3><a href="/cae/html/main/col4/2021-04/21/20210421091630164307527_1.html" target="_blank" class="grey14"><div class="divpointnowrap" title="中国工程院机关2021年公开遴选工作人员递补面试人选公告">中国工程院机关2021年公开遴选工作人员递补面试人选公告</div></a>
+							</h3>
+						</div>
+					
+						<div class="newstzi_1" >
+							<span>2021-04-16</span>
+							<h3><a href="/cae/html/main/col4/2021-04/16/20210416084734325313192_1.html" target="_blank" class="grey14"><div class="divpointnowrap" title="中国工程院机关2021年公开遴选工作人员面试公告">中国工程院机关2021年公开遴选工作人员面试公告</div></a>
+							</h3>
+						</div>
+					
+						<div class="newstzi_1" >
+							<span>2021-03-29</span>
+							<h3><a href="/cae/html/main/col4/2021-03/29/20210329160855632665307_1.html" target="_blank" class="grey14"><div class="divpointnowrap" title="中国工程院2021年第一季度政府网站与政务新媒体自查情况报告">中国工程院2021年第一季度政府网站与政务新媒体自查情况报告</div></a>
+							</h3>
+						</div>
+					
+			</div>
+		
+	</div>
+
+	<div class="tznright">
+			<div class="tznleft_top23">
+					<div href="/cae/html/main/col6/column_6_1.html#anchor_point" class="tzi_tab_div_current" id='119_1' onmousemove="showjinrtab(119,1,2)"><a href="#" style="cursor:default;">信息公开</a></div>
+					<div href="/cae/html/main/col305/column_305_1.html" class="tzi_tab_div_common" id='119_2' onmousemove="showjinrtab(119,2,2)"><a href="#" style="cursor:default;">人事任免</a></div>
+					<div class="tzitab_more23"><a id="tzitab_more_a" href="/cae/html/main/col6/column_6_1.html#anchor_point">更多</a></div>
+			</div>
+			<div class="xinrig23">
+					
+						<div id="tab_119_1" class="tzi_tab_div_con"  style="display:block;">
+								<div class="shouy_news">
+								<ul>
+									
+											<li><span>2021-04-26</span><a href="/cae/html/main/col31/2021-04/26/20210426150445416674052_1.html" target="_blank" class="grey14">中国工程院战略咨询中心2021年度部门预算</a></li>
+									
+											<li><span>2021-03-25</span><a href="/cae/html/main/col31/2021-03/25/20210325150220047234886_1.html" target="_blank" class="grey14">中国工程院2021年度部门预算</a></li>
+									
+											<li><span>2021-01-04</span><a href="/cae/html/main/col25/2021-01/04/20210104170949884134210_1.html" target="_blank" class="grey14">中国工程院2018—2022年工作纲要</a></li>
+									
+											<li><span>2020-07-17</span><a href="/cae/html/main/col31/2020-07/17/20200717140918076107360_1.html" target="_blank" class="grey14">中国工程院2019年度部门决算</a></li>
+									
+											<li><span>2020-06-11</span><a href="/cae/html/main/col31/2020-06/11/20200611134913400302624_1.html" target="_blank" class="grey14">中国工程院2020年度部门预算</a></li>
+									
+								</ul>
+								</div>
+						</div>
+					
+						<div id="tab_119_2" class="tzi_tab_div_con"  style="display:none;">
+								<div class="shouy_news">
+								<ul>
+									
+											<li><span>2020-12-16</span><a href="/cae/html/main/col305/2020-12/16/20201216102721114945026_1.html" target="_blank" class="grey14">中共中国工程院党组关于王振海等同志职务任免的通知</a></li>
+									
+											<li><span>2020-11-30</span><a href="/cae/html/main/col305/2020-11/30/20201130174137544221959_1.html" target="_blank" class="grey14">中共中国工程院党组关于陈永平同志职务任免的通知</a></li>
+									
+											<li><span>2019-01-11</span><a href="/cae/html/main/col305/2019-01/11/20190111152837603432736_1.html" target="_blank" class="grey14">中共中国工程院党组关于焦栋同志任职的通知</a></li>
+									
+											<li><span>2019-01-11</span><a href="/cae/html/main/col305/2019-01/11/20190111152651016348400_1.html" target="_blank" class="grey14">中共中国工程院党组关于徐进等同志职务任免的通知</a></li>
+									
+											<li><span>2018-09-17</span><a href="/cae/html/main/col305/2018-09/18/20180918104601560905894_1.html" target="_blank" class="grey14">中国工程院关于吴晓东等同志职务任免的通知</a></li>
+									
+								</ul>
+								</div>
+						</div>
+					
+			</div>
+	</div>
+</div>
+ 
+
+
+
+<div class="nzti">
+		<div class="nzti_top">
+			<h3>专题链接</h3>
+			<h4><a href="/cae/html/main/col290/column_290_1.html" target="_blank">更多</a></h4>
+		</div>
+		<div class="nzti_md">
+		<ul>
+			
+			
+				<li class="padnz"><a href="/cae/html/main/col298/column_298_1.html" target="_blank"><span><img src="/cae/html/files/2017-10/14/20171014164957572478022.jpg" width="291" height="103" /></span><p>党建工作</p></a></li>
+			
+				<li class="padnz"><a href="http://www.engineering.org.cn/ch/journal/" target="_blank"><span><img src="/cae/html/files/2017-10/14/20171014165151986866035.jpg" width="291" height="103" /></span><p>中国工程院院刊</p></a></li>
+			
+				<li class="padnz"><a href="http://www.engineering.org.cn/ch/journal/eng" target="_blank"><span><img src="/cae/html/files/2017-10/16/20171016140057680225838.jpg" width="291" height="103" /></span><p>Engineering期刊出版</p></a></li>
+			
+				<li ><a href="/cae/html/main/col209/column_209_1.html" target="_blank"><span><img src="/cae/html/files/2017-10/14/20171014165428736444797.jpg" width="291" height="103" /></span><p>院士医疗保健讲座视频</p></a></li>
+			
+				<li class="padnz"><a href="/cae/html/main/col329/column_329_1.html" target="_blank"><span><img src="/cae/html/files/2018-12/29/20181229180256730452144.jpg" width="291" height="103" /></span><p>院士增选</p></a></li>
+			
+				<li class="padnz"><a href="http://www.ckcest.cn" target="_blank"><span><img src="/cae/html/files/2017-10/14/20171014165137306362242.jpg" width="291" height="103" /></span><p>中国工程科技知识中心</p></a></li>
+			
+				<li class="padnz"><a href="http://www.ikcest.org" target="_blank"><span><img src="/cae/html/files/2017-12/19/20171219172350299655424.png" width="291" height="103" /></span><p>国际工程科技知识中心</p></a></li>
+			
+				<li ><a href="https://ysg.ckcest.cn" target="_blank"><span><img src="/cae/html/files/2020-04/03/20200403192246730837355.jpg" width="291" height="103" /></span><p>中国院士馆</p></a></li>
+			
+				<li class="padnz"><a href="https://ysg.ckcest.cn/gzbb/user/login" target="_blank"><span><img src="/cae/html/files/2020-12/31/20201231112839521269726.png" width="291" height="103" /></span><p>院士年度工作信息采集</p></a></li>
+			
+				<li class="padnz"><a href="http://zxyj.cae.cn:8080/caepm" target="_blank"><span><img src="/cae/html/files/2017-10/14/20171014165125549277112.jpg" width="291" height="103" /></span><p>咨询项目信息系统</p></a></li>
+			
+				<li class="padnz"><a href="/cae/html/main/col140/column_140_1.html" target="_blank"><span><img src="/cae/html/files/2017-10/17/20171017101227550322893.jpg" width="291" height="103" /></span><p>光华工程科技奖</p></a></li>
+			
+				<li ><a href="http://118.178.158.19:8097" target="_blank"><span><img src="/cae/html/files/2021-02/20/20210220194037466976286.jpg" width="291" height="103" /></span><p>中国工程院咨询项目经费监管系统</p></a></li>
+			
+		</ul>
+		</div>
+</div>
+
+<div class="inlink">
+	<div class="inlinkbig">
+		
+
+
+<div class="linknews fontst">
+		<div class="linknews_l">友情链接</div>
+		<div class="linnews_r">
+		<ul>
+			<li>
+			<SELECT onChange="window.open(this.options[this.selectedIndex].value)" name="linkSelect_1330" class="selectlink">
+		<OPTION value="/">部委链接</OPTION><OPTION value="http://www.gov.cn/">中国政府网</OPTION>
+<OPTION value="http://www.sdpc.gov.cn/">国家发改委</OPTION>
+<OPTION value="http://www.cas.ac.cn/">中国科学院</OPTION>
+<OPTION value="http://www.moe.gov.cn/">教育部</OPTION>
+<OPTION value="http://www.most.gov.cn/">科技部</OPTION>
+<OPTION value="http://www.nsfc.gov.cn/">国家基金委</OPTION>
+<OPTION value="http://www.cast.org.cn/">中国科协</OPTION>
+</SELECT>
+			</li>
+			<li>
+			<SELECT onChange="window.open(this.options[this.selectedIndex].value)" name="linkSelect_1331" class="selectlink">
+		<OPTION value="/">媒体链接</OPTION><OPTION value="http://www.xinhua.org/">新华社</OPTION>
+<OPTION value="http://www.peopledaily.com.cn/">人民日报</OPTION>
+<OPTION value="http://www.gmw.cn/">光明日报</OPTION>
+<OPTION value="http://www.stdaily.com/">科技日报</OPTION>
+<OPTION value="http://www.sciencenet.cn/">中国科学报</OPTION>
+<OPTION value="http://www.cctv.com/">中央电视台</OPTION>
+<OPTION value="http://journal.hep.com.cn/">中国学术前沿期刊网</OPTION>
+</SELECT>
+			</li>
+			<li>
+			<SELECT onChange="window.open(this.options[this.selectedIndex].value)" name="linkSelect_1332" class="selectlink">
+		<OPTION value="/">其他链接</OPTION><OPTION value="http://xzzf.mof.gov.cn/zhuantilanmu/jy/">厉行节约反对浪费制度建设和设施</OPTION>
+<OPTION value="http://www.xinhuanet.com/politics/cyzdjxs2017/index.htm">从严治党进行时</OPTION>
+</SELECT>
+			</li>
+		</ul>
+		</div>
+</div>
+
+	</div>
+</div>
+ 
+
+
+<script>
+function addFavCommon() {
+ try {
+    window.external.addFavorite('http://www.cae.cn', '中国工程院');//IE
+ } catch(e) {
+  try {
+      window.sidebar.addPanel('中国工程院', 'http://www.cae.cn', '中国工程院');//firefox
+  } catch(e) { 
+      alert("加入收藏失败，请使用Ctrl+D进行添加");
+  }
+ }
+}
+</script>
+<div class="foot">
+	<div class="foot_nav"><a href="/cae/html/main/col224/column_224_1.html">关于我们</a>    |    <a href="/cae/html/main/col221/column_221_1.html">网站地图</a>    |    <a href="/cae/html/main/col225/column_225_1.html">联系我们</a>    |    <a onclick="addFavCommon();" href="javascript:void(0);">收藏本站</a></div>
+	<div class="foot_text">
+		<div class="fontfoot">
+			<div>
+				地址：北京市西城区冰窖口胡同2号&ensp;邮政信箱：北京8068信箱&ensp;邮编：100088 <a class="blue" href="/cae/html/main/col225/column_225_1.html" target=_blank>工程院位置图</a>
+			</div>
+		 	<div>
+		 		电话：8610-59300000&ensp;传真：8610-59300001&ensp;邮箱：bgt@cae.cn
+		 	</div>
+			<div>
+				Copyright&ensp;&copy;&ensp;2003-2021&ensp;中国工程院&ensp;备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京ICP备14021735号-3</a>&ensp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008133"><img src="/cae/images/gonganico.png" style="margin-bottom:-5px;height: 20px;"/>京公网安备 11010202008133号</a>
+			</div>
+		</div>
+		<div class="picf">
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='https://dcs.conac.cn/js/33/000/0000/60905169/CA330000000609051690002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+			<script id="_jiucuo_" sitecode='bm50000001' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script>
+		</div>
+	</div>
+</div>
+<script>(function(b,a,e,h,f,c,g,s){b[h]=b[h]||function(){(b[h].c=b[h].c||[]).push(arguments)};b[h].s=!!c;g=a.getElementsByTagName(e)[0];s=a.createElement(e);s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)})(window,document,"script","_qha",8996,false);</script>
+</div>
+</body>
+</html>

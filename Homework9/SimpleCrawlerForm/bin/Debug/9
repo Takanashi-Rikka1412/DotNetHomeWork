@@ -1,0 +1,253 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="SiteName" content="中国工程院门户网站">
+<meta name="SiteDomain" content="www.cae.cn">
+<meta name="SiteIDCode" content="bm50000001">
+<meta name="ColumnName" content="资深院士工作动态">
+<meta name="ColumnType" content="资深院士工作动态">
+<meta name="ArticleTitle" content="两院资深院士联谊会第二届理事会第七次（扩大）会议召开">
+<meta name="PubData" content="2014-06-25">
+<meta name="ContentSource" content="二局科学道德办公室">
+<meta name="Keywords" content="两院 院资 资深 深院 院士 士联 联谊 谊会 会第 第二 二届 届理 理事 事会 会第 第七 七次 次（ （扩 扩大 大） ）会 会议 议">
+<meta name="Author" content="二局科学道德办公室">
+<meta name="Description" content="">
+<link rel="shortcut icon" href="/cae/favicon.ico" type="image/x-icon" />
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link href="/cae/sites/main/css/style.css" rel="stylesheet" type="text/css" />
+<title>两院资深院士联谊会第二届理事会第七次（扩大）会议召开</title>
+<script src="/cae/js/fronttitle.js"></script>
+<script src="/cae/js/validate.js"></script>
+<SCRIPT language=JavaScript>
+ function doZoom(size){
+  document.getElementById('zoom').style.fontSize=size+'px'
+ }
+</SCRIPT>
+<SCRIPT language=JavaScript> 
+ function doPrint(){
+ var str="<html>";
+ var article;
+ var css;
+ var strFontSize='【<A href="javascript:doZoom(16)">大</A> <A href="javascript:doZoom(14)">中</A> <A href="javascript:doZoom(12)">小</A>】'
+ var strdoPrint="doPrint()";
+ var strTmp;
+ 
+  css="<style>"
+  +"body{font-family:宋体}"
+  +"td,.f12{font-size:12px}"
+  +".f24 {font-size:24px;}"
+  +".f14 {font-size:14px;}"
+  +".title14 {font-size:14px;line-height:130%}"
+  +".l17 {line-height:170%;}"
+  +"</style>";
+ }
+</SCRIPT> 
+</head>
+<body>
+<div class="inbig_bgtop">
+
+
+
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link href="/cae/sites/main/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script >
+	$(function() {
+		$("#wxhover").hover(function() {
+			$("#wxshow").css('display',"block");
+		},function() {
+			$("#wxshow").css('display',"none");
+		});
+	});
+	function sumitForm() {
+		$("#subForm")[0].submit();
+	}
+</script>
+<div class="inbig_bgtop">
+	<div class="top">
+  		<div class="top_mail fontst">
+  	
+			<div class="topdate">
+				<a href="https://mailsrv.cae.cn/" target="_blank" class="white12">进入邮件系统</a>&emsp;&emsp;<font size='2px'><script src="/cae/sites/main/js/date.js" type="text/javascript"></script></font>&emsp;&emsp;
+			</div>
+			<div class="tophome">
+				<span><img src="/cae/sites/main/images/h_01.png" /><a href="/cae/html/main/index.html">首页</a></span>
+				
+			</div>
+		</div>
+		<div class="top_wx">
+			<div class="topnesoul">
+					<div class="nesoul">
+						<form method="POST" action="/cae/app/search/search.jsp" id="subForm">
+							<input type="hidden" name="area" value="3" />
+							<input type="hidden" name="webid" value="main" />
+							<dl> <input type="text" name="q" value="输入关键词" size="" class="inputnesoul" onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue; this.style.color='#999'}"/></dl>
+							<dt><img style="cursor:pointer;" onclick="sumitForm();" src="/cae/sites/main/images/h_03.png" /></dt>
+						</form>
+					</div>
+			</div>		
+			<p><a href="http://en.cae.cn/en/" target="_blank" class="white12">English Version</a></p>
+		</div>
+	</div>
+	<div class="top_logo">
+		<div class="logo" style="padding-left:0px;" ><a href="/cae/html/main/index.html"><img src="/cae/sites/main/images/logo.png" /></a></div>
+		
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/cae/favicon.ico" type="image/x-icon" />
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link href="/cae/sites/main/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script type="text/javascript" src="/cae/sites/main/js/jr_change_div.js"></script>
+<script>
+function columnOnclick(columnlinkurl){
+	location.href='/cae'+columnlinkurl+'';
+}
+</script>
+<div class="logo_r" id="anchor_point">
+			<div class="inmenu" id="anchor_points">
+			<ul>
+             
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_1' rel='tab_9_1'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col8/column_8_1.html')">工程院机构</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_2' rel='tab_9_2'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col48/column_48_1.html')">院士队伍</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_3' rel='tab_9_3'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col83/column_83_1.html')">战略咨询</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_4' rel='tab_9_4'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col99/column_99_1.html')">学术活动</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_5' rel='tab_9_5'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col104/column_104_1.html')">科技合作</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_6' rel='tab_9_6'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col123/column_123_1.html')">人才培养</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_7' rel='tab_9_7'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('/html/main/col296/column_296_1.html')">对外交流</a></h4>
+			   </div>
+			</li>
+			   
+              <li class="inmenu_line">
+			   <div class="navm_tab_div_common" id='9_8' rel='tab_9_8'>
+				 <h4><a     href="javascript:void(0)"   onclick="columnOnclick('http://tousu.cae.cn:8090/cae/pro/messageIssuedList')">互动交流</a></h4>
+			   </div>
+			</li>
+			   
+		  </ul>
+		</div>
+</div>
+
+	</div>
+	
+</div>
+
+
+	<div class="mdbg_w">
+		<div class="wenz_md">
+				<div class="right_md_top"><img src="/cae/sites/main/images/dianq_ico01.jpg" />当前位置：<a href="#" class="grey12 fontbold"><A href='/cae/html/main/index.html'>首页</a> > <A href='/cae/html/main/col33/column_33_1.html'>院士活动</a> > <A href='/cae/html/main/col43/column_43_1.html#anchor_point'>院士动态</a> > <A href='/cae/html/main/col46/column_46_1.html'>资深院士工作动态</a></a></div>
+				<div class="right_md_titltop">两院资深院士联谊会第二届理事会第七次（扩大）会议召开</div>
+				<div class="right_md_laiy">
+					<h4><strong>来源：</strong>二局科学道德办公室 　 <strong>发表时间：</strong>2014-06-25</h4>
+					<p>[ 字号　 <a href="javascript:doZoom(20)">大</a> <a href="javascript:doZoom(18)">中</a> <a href="javascript:doZoom(14)">小</a> ]</p>
+				</div>
+		  		<div class="right_md_text" id="zoom">
+					<P align=center><IMG border=0 src="/cae/html/files/2014-06/25/20140625162128714553560.jpg"></P>
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;2014年5月8日，两院资深院士联谊会第二届理事会第七次（扩大）会议在北京召开。联谊会副会长金国藩院士，理事王夔、陆士新、梁思礼、郑哲敏、张国成、赵文津、施仲衡、金鉴明、范云六和翟光明院士，中国科学院院士郭尚平、翟裕生，中国工程院院士钟山等以及两院机关工作人员近20余人参加。受师昌绪会长委托，金国藩副会长主持了会议。 </P>
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;金国藩副会长介绍了2013年立项的咨询项目“《关于深化科技体制改革加快国家创新体系建设的意见》实施过程中可能存在的问题和对策研究”进展情况。2014年立项的咨询项目“建立我国产学研协同创新机制研究”是联谊会2013年项目的延续和深化。院士们根据各自所在的行业，深入探讨了建立产学研协同创新机制的思路，并对产学研相互协同过程中可能出现的具体问题，如创新人才的素质、教育体制、科技创新体系、创新成果的推广和应用等问题进行了剖析。</P>
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;金国藩副会长还通报了微电子咨询研究报告推进国家决策的情况。联谊会于2011年开始进行我国微电子产业发展问题咨询研究。2013年7月，师昌绪会长给国务院领导写信，并呈报了咨询报告。国务院领导作了重要批示。2013年下半年，国家先后在上海和北京等地召开由相关部门领导、企业代表和专家参加的专题座谈会，讨论两院资深院士联谊会的报告，部分两院院士出席会议并发表意见。咨询项目于2013年年底结题。2014年3月，国务院就加快我国集成电路产业发展颁布了4号文件。两院资深院士联谊会提交的咨询报告，推进了国家推进微电子产业发展的决策工作。</P>
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;国务院4号文件颁布后，以许居衍为代表的部分微电子领域的院士提出了《关于落实国务院2014年4号文，推进“市场机制、低成本资金来源和研发投入动力”的建议》。会议对建议进行了审议，并建议上报。</P>
+<P>&nbsp;</P>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;（常军乾 供稿）</P>
+
+				</div>
+				<div class="right_md_close">
+				  <a href="#" onclick="javascript:window.close(); ">【关闭窗口】</a>
+				</div>	
+				
+				
+ 				<div style="width:100px;height:120px;position:fixed;right:30px;top:40%;margin:0 auto">
+					<img src="/cae/html/main/col46/2014-06/25/20140625162043510142535_1.png" />
+					
+				</div>
+		
+	</div>
+</div>
+
+
+
+<script>
+function addFavCommon() {
+ try {
+    window.external.addFavorite('http://www.cae.cn', '中国工程院');//IE
+ } catch(e) {
+  try {
+      window.sidebar.addPanel('中国工程院', 'http://www.cae.cn', '中国工程院');//firefox
+  } catch(e) { 
+      alert("加入收藏失败，请使用Ctrl+D进行添加");
+  }
+ }
+}
+</script>
+<div class="foot">
+	<div class="foot_nav"><a href="/cae/html/main/col224/column_224_1.html">关于我们</a>    |    <a href="/cae/html/main/col221/column_221_1.html">网站地图</a>    |    <a href="/cae/html/main/col225/column_225_1.html">联系我们</a>    |    <a onclick="addFavCommon();" href="javascript:void(0);">收藏本站</a></div>
+	<div class="foot_text">
+		<div class="fontfoot">
+			<div>
+				地址：北京市西城区冰窖口胡同2号&ensp;邮政信箱：北京8068信箱&ensp;邮编：100088 <a class="blue" href="/cae/html/main/col225/column_225_1.html" target=_blank>工程院位置图</a>
+			</div>
+		 	<div>
+		 		电话：8610-59300000&ensp;传真：8610-59300001&ensp;邮箱：bgt@cae.cn
+		 	</div>
+			<div>
+				Copyright&ensp;&copy;&ensp;2003-2021&ensp;中国工程院&ensp;备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京ICP备14021735号-3</a>&ensp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008133"><img src="/cae/images/gonganico.png" style="margin-bottom:-5px;height: 20px;"/>京公网安备 11010202008133号</a>
+			</div>
+		</div>
+		<div class="picf">
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='https://dcs.conac.cn/js/33/000/0000/60905169/CA330000000609051690002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+			<script id="_jiucuo_" sitecode='bm50000001' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script>
+		</div>
+	</div>
+</div>
+<script>(function(b,a,e,h,f,c,g,s){b[h]=b[h]||function(){(b[h].c=b[h].c||[]).push(arguments)};b[h].s=!!c;g=a.getElementsByTagName(e)[0];s=a.createElement(e);s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)})(window,document,"script","_qha",8996,false);</script>
+</body>
+</html>
+
+<!-- 模板文件为:sites/main/wenz.jsp -->

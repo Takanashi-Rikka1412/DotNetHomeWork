@@ -1,0 +1,1114 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>学术道德与学术规范</title>
+		<style type="text/css">
+			pre {white-space: pre-wrap;       
+				/* css-3 */white-space: -moz-pre-wrap;  
+				/* Mozilla, since 1999 */white-space: -pre-wrap;      
+				/* Opera 4-6 */white-space: -o-pre-wrap;    
+				/* Opera 7 */word-wrap: break-word;       
+				/* Internet Explorer 5.5+ */
+			} 
+			.wh32 {color: #2681dc !important;}
+			.zev_content p{word-wrap: break-word;word-break:break-all;}
+		</style>
+        <link rel="stylesheet" type="text/css" href="/css/templates/subArticle.css">
+        <link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+        <link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+        <script src="/js/ServerHost.js"></script>
+		<script src="/js/image.js"></script>
+		 <script>
+		 	var flag=false;
+		    if(flag)
+			{
+				ServerHost.createScript("/ananas/tk");
+			}
+			
+		 </script>
+        <link type="text/css" href="/css/comm.css?v=2021-0312" rel="stylesheet" />
+<link type="text/css" href="/css/course.css?v=2019-1204-1823" rel="stylesheet" />
+<link type="text/css" href="/css/tm.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css" />
+
+<link href="/css/master.css" rel="stylesheet" type="text/css" />
+<!--<link href="/css/pingfen_index.css" rel="stylesheet" type="text/css" />-->
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/ext.js"></script>
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+
+    </head>
+    <body class="bgc3" style="position:relative;">
+      
+			<div class="mb10">
+            			                                <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024"  charset="utf-8"></script>
+                                    </div>
+		
+
+
+	  <style type="text/css">
+		.mb10{margin-bottom:0px;}
+        h1, h2, h3,h4,h5,h6 {font-weight:bolder}
+        h1{font-size:2em}
+        h2{font-size:1.5em}
+        h3{font-size:1.17em}
+        h4{font-size:1em}
+        h5{font-size:.83em}
+        h6{font-size:.75em}
+        .normal_font{font-weight:normal;}
+	  </style>
+	  <div class="bgc3" >
+        <div id="tchDescBox" class="pt10 mb20 rel abs_out">
+            <span class="char_cort tch_desc_corp1 ml40 ">◆</span>
+            <span class="char_cort tch_desc_corp2 ml40">◆</span>
+            <div id="tchDescInnerBox" class="tchDescBox tchDescBoxShadow g3 f14 ova bccc bgwh">
+                <div class="mb10 f16 b fix">
+                    <span class="tch_card l"></span>
+                    <span class="ml10 pt2 dib">个人介绍</span>
+                </div>
+                <div id="tchDescContent" class="lh24 pt5"></div>
+            </div>
+        </div>
+          <div class="constr bgwh fix mb46" style="position:relative;">
+            <div class="pct66 l pb40" style="width:733px">
+                <div class="bbc pb1 rel" style="position:relative">
+                    <input type="hidden" id="video_width" value="733">
+                    <input type="hidden" id="video_height" value="434">
+                                            <script type="text/javascript" src="/space/swfobject/swfobject.js"></script>
+<script type="text/javascript" src="/space/swfobject/icplayer.js" charset="utf-8"></script>
+<link href="/space/swfobject/videojs/video-js.min.css" rel="stylesheet">
+<script src="/space/swfobject/videojs/video.min.js"></script>
+<script src="/space/swfobject/videojs/zh-CN.js"></script>
+
+
+<div class="mainBanner">
+    <div class="mainCon" style=" height:522px;"  >
+
+        <div class="mainCon_left mainBanCon" id="reader">
+
+            <script type="text/javascript">
+
+                function showFlashPlayer() {
+
+                                        var img = '<img width="733" height="434"\n' +
+                            '                         src="https://p.ananas.chaoxing.com/star3/733_434c/3255c1dee7bc024316fad5267d2bc278.jpg"\n' +
+                            '                         onerror="nofind(event)"\n' +
+                            '                         imagedata=\'https://p.ananas.chaoxing.com/star3/733_434/3255c1dee7bc024316fad5267d2bc278.jpg\'/>';
+                    var tpl = ' <div id="zvideo" style="width:733;height:434;left:0px" width="733" height="434">\n' +
+                            '                <div id="moocplayer" data=\'{"length":136030151,"screenshot":"https://p2.ananas.chaoxing.com/video/b1/00/70/ff2ae553522b61c18ab3e7cebd16cf74/snapshot.jpg","httpmd":"https://s1.ananas.chaoxing.com/video/b1/00/70/ff2ae553522b61c18ab3e7cebd16cf74/md.mp4?at_=1619767576892&ak_=26c8679d161134c93f3a5ef75b989b88&ad_=2cd1e5e2d62817f2329af578dff0acb0","duration":103,"mp3":"https://s1.ananas.chaoxing.com/video/b1/00/70/ff2ae553522b61c18ab3e7cebd16cf74/mp3/","download":"http://d0.ananas.chaoxing.com/download/ff2ae553522b61c18ab3e7cebd16cf74?at_=1619767576892&ak_=890338627ac6a6f653636987bba6cde4&ad_=eb1c6ad9b1bd892a340c718f1e070c2a","crc":"515b935259139aa3c32878abd692bbb7","httphd":"7d63e71ebe77a61485fdaa439b93cee42f8f330567739cfd92ab3da4563cd325ef5ad12108fa5f22f3787defac74ed8246308615795bd0c5af472a484c5307a14a6d6bf5a4e157d19cca2cc07ac9070eb90b239c73b39671ea9366e9a0ef7cd0228c88a71dd39fae3a0407a475571b4e2499fd532c7bca38b6606f792f778a99f6fdae46fa482f0217c56af64fc9a6d762aea256a0ffce61dd0d1f2c7e4c46bba81c744160a46e8cc37c388372063857958a60ab283d696c","http":"7d63e71ebe77a61485fdaa439b93cee42f8f330567739cfd92ab3da4563cd325ef5ad12108fa5f22f3787defac74ed8246308615795bd0c5af472a484c5307a14a6d6bf5a4e157d1df2e76cac5f4c86cb90b239c73b39671ea9366e9a0ef7cd0228c88a71dd39fae9ba6c0539c1bb7e9212e32476dfdcf9268c3d2546fa0a86626b01025ce124010a2857bdfe52de540cc86f7078ac3648f47f60594220085067d3346cb133ff56ee5ab8d5f0afac7f8efeee288145c72ea","thumbnails":"https://p2.ananas.chaoxing.com/video/b1/00/70/ff2ae553522b61c18ab3e7cebd16cf74/thumbnails/","objectid":"ff2ae553522b61c18ab3e7cebd16cf74","status":"success"}\'>\n' +
+                            '                </div>\n' +
+                            '            </div>\n' +
+                            '                <div id="zvideo_play">\n' +
+                            '                </div>';
+                    new Ext.XTemplate(img).insertBefore('reader', {});
+                    new Ext.XTemplate(tpl).insertBefore('reader', {});
+                }
+
+                function showHTML5Player() {
+
+                    var tpl = '<video  id="html5player" class="video-js vjs-default-skin vjs-big-play-centered"></video>';
+                    new Ext.XTemplate(tpl).insertBefore('reader', {});
+                    var player =
+                            videojs('html5player', {
+                                language : "zh-CN",
+                                controls : true,
+                                preload : "none",
+                                width: 733,
+                                height: 434,
+                                sources : [{
+                                    src: 'https://s1.ananas.chaoxing.com/video/b1/00/70/ff2ae553522b61c18ab3e7cebd16cf74/sd.mp4?at_=1619767576892&ak_=d6a9203a138a0a89d9cd8d696c6179ae&ad_=49f0ea8311ed9f69c05f3b361cab4535',
+                                    type : "video/mp4",
+                                    label : '标清',
+                                    res : 360
+                                }],
+                                poster: 'https://p.ananas.chaoxing.com/star3/733_434c/3255c1dee7bc024316fad5267d2bc278.jpg'
+
+                            });
+                }
+
+                function supportH5Video() {
+
+                    var videoMp4Support = function() {
+                        var elem = document.createElement('video');
+                        if ( typeof elem.canPlayType == 'function') {
+                            var playable = elem.canPlayType('video/mp4;codecs="avc1.42E01E,mp4a.40.2"');
+                            if ( (playable.toLowerCase() == 'maybe') || (playable.toLowerCase() == 'probably')) {
+                                return true;
+                            }
+                            var playable = elem.canPlayType('video/mp4;codecs="avc1.64001E,mp4a.40.2"');
+                            if ( (playable.toLowerCase() == 'maybe') || (playable.toLowerCase() == 'probably')) {
+                                return true;
+                            }
+                        }
+                        return false;
+                    }
+                    return videoMp4Support();
+                }
+
+                if (supportH5Video()) {
+                    showHTML5Player();
+                } else {
+                    showFlashPlayer();
+                }
+
+            </script>
+        </div>
+    </div>
+</div>
+                                                                <div class="course_title_box">
+                            <div class="fix">
+                                <div class="mt10 f33 l g5" >
+                                    <span title="学术道德与学术规范">学术道德与学术规范</span>
+                                                                                                             
+									                                </div>
+                                <div class="teacherDiv fr" style=" margin-top: 20px;  ">
+    <p class="zhuTacher" style=";">主讲教师：林嘉</p>
+    </div>                            </div>
+                        </div>
+					
+                </div>
+                <div class="ml40 mt10 ">
+                
+               		 
+               		
+                    <div class="mb10 fix">
+                        <div id="clazzTag" data="false" flag="false" class="l f14 lh24 g3" >
+						                        </div>
+
+                         <div id='courseStarTag' data="214685837" class="r mr20" style='width:300px;'>
+                                                 </div>
+						
+                    </div>
+					<div class="mb10 fix">
+						<div id="viewTimesTag" class="r mr20 lvtt" >
+							
+                        </div>
+                    </div>
+                                            <table>
+	    <tr  class="">
+		<td valign="top" class="w80 w70 g9 f14 tr">学校：</td>
+		<td >武汉大学</td>
+	</tr>
+			<tr valign="top" class="">
+		<td class="w70 g9 f14 tr">开课院系：</td>
+		<td >研究生院</td>
+	</tr>
+							 <tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">编号：</td>
+		<td>201406672</td>
+	</tr>
+			<tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">学分：</td>
+		<td>1</td>
+	</tr>
+			 <tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">课时：</td>
+		<td>16</td>
+	</tr>
+	</table>
+                                    </div>
+                <div class="ml30 mr30">
+                    <div class="mt10 mb20 fix">
+                        <div class="l">
+                            <div class="mt20">
+                                <div class="catalog_box bdd1 rel">
+                                    <img width="30" height="56" class="catalog_p" src="/images/catalog.png" />                                    <ul id="courseNavList" class="lh30 f16">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    	                    <div class="mt30 pt20">
+	                        <div id="courseDesc" class="courseArticle f20 mb10 pb5 bbc"> 课程介绍</div>
+	                        <div class="pl20">
+	                            <div class="mt5 ans-cc"><pre>     学术道德与学术规范是学术活动参与者应遵守的道德标准和行为规范，是研究生同学步入学术殿堂应遵循的基本准则。研究生是科研活动的生力军，无论是协助导师科研还是自主科研，都在科学探索事业中发挥着不可替代的作用。培养良好的学术道德与学术规范，既是学术共同体的要求，也是职业成功的保障。本课程包括20余个知识点，针对研究生同学在从事科学研究、论文写作及成果发表过程中的现实需要，介绍学术道德与科研诚信相关的法律知识和政策要求。以事实案例、新闻热点为线索，重点讲解在各个科学工作周期应遵循的学术规范，学术不端行为的界定、论文检测等方面的知识。学习成果的测试采用通关测试、作业互评和期未考试相接合的方式。</pre></div>
+	                        </div>
+	                    </div>
+                                                            						                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_224592428" class="courseArticle f20 mb10  pb5 bbc ">教师团队</div>
+                                <div class="mt5 ans-cc"><p>&nbsp;</p><p><img width="640" height="640" title="教师团队2.jpg" style="float: left;" src="http://p.ananas.chaoxing.com/star3/origin/a480e6d2dd0e44414c06a1d6557e9f6c.jpg"/></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_224592430" class="courseArticle f20 mb10  pb5 bbc ">学习相关</div>
+                                <div class="mt5 ans-cc"><p><br/></p><p><img src="http://p.ananas.chaoxing.com/star3/origin/5461dba9a31042cfbcfab07e.gif" width="250" height="56" title="课程先关.gif" border="0" hspace="0" vspace="0" style="width: 250px; height: 56px;"/><br/></p><p><img src="http://p.ananas.chaoxing.com/star3/origin/1f5eaf912bee590cdf4119cdaca297c3.jpg" width="350" height="232" title="QQ图片20170915222927.jpg" border="0" hspace="0" vspace="0" checked="0" style="text-align: center; text-indent: 28px; white-space: normal; width: 350px; height: 232px; float: right;"/><span style="font-family: 宋体; text-indent: 2em;">研究生是高校科学研究的生力军和未来国家科技创新的中坚力量，对学术道德和学术规范的尊重与遵守，不仅关系到个人学术声誉和职业发展，而且也关系到学校学术质量的提升和国家未来的科技创新水平，直接影响到国家的自主创新能力。</span></p><p style="text-indent:28px"><span style="font-size: 14px; font-family: 宋体;">什么是学术道德？什么是学术规范？学术研究各个环节应当避免哪些学术失范行为？学术不端行为的界定和检测方法是什么？各类型的学术论文写作规范是怎么样的？文后的</span></p><p style="text-indent:28px"><span style="font-size: 14px; font-family: 宋体;">参考文献怎么著录才是正确的？本课程将以生动的形式和丰富的案例为大家一一解答疑惑，</span><span style="font-size: 14px; font-family: &#39;Times New Roman&#39;;">帮助大家</span><span style="font-size: 14px; font-family: 宋体;">更好地了解与学术行为有关的概念，明确国家相关的法律法规和学校制定的政策制度。使大家在学术活动中自觉地遵守</span><span style="font-size: 14px; font-family: &#39;Times New Roman&#39;;">学术规范</span><span style="font-size: 14px; font-family: 宋体;">，掌握做为学术公民所必需的知识和技能，从而提高自身的科研能力和学术道德修养。</span></p><p style="text-indent:37px"><span style="font-size: 14px; font-family: 宋体;"></span><br/></p><p><img src="http://p.ananas.chaoxing.com/star3/origin/5461a44da31042cfbcfaadac.gif" width="250" height="56" title="" border="0" hspace="0" vspace="0" style="width: 250px; height: 56px;"/><br/></p><p style="text-indent:28px"><span style="font-size: 14px; font-family: 宋体;">围绕研究生从事学术研究工作的流程及特点，针对研究生学术失范行为发生的范畴。&nbsp;<span style="text-indent: 28px;  font-family: 宋体;"><img src="http://p.ananas.chaoxing.com/star3/origin/d1ae3bff9e15ac9ff0e45252d19c52b1.jpg" width="350" height="232" title="1.jpg" border="0" hspace="0" vspace="0" checked="0" style="width: 350px; height: 232px; float: right;"/></span><span style="text-indent: 28px;  font-family: 宋体;"></span></span><span style="font-family: 宋体;">&nbsp;</span></p><p style="text-indent:28px"><strong><span style="font-family: 宋体;">我们的课程共分为六讲，</span><span style="font-family: 宋体;">内容分别是：</span></strong></p><p style="text-indent:28px"><span style="font-family: 宋体;">第一讲，学术道德与学术</span><span style="font-family: 宋体;">规范概论；</span></p><p style="text-indent:28px"><span style="font-family: 宋体;">第二讲，学术研究前期工作规范；</span></p><p style="text-indent:28px"><span style="font-family: 宋体;">第三讲，学术研究过程中的规范；</span></p><p style="text-indent:28px"><span style="font-family: 宋体;">第四讲，学术成果呈现和写作规范；</span></p><p style="text-indent:28px"><span style="font-family: 宋体;">第五讲，学术成果发表与后续工作规范</span><span style="font-family: 宋体;">；</span></p><p style="text-indent:28px"><span style="font-family: 宋体;">第六讲，学术不端与侵权行为。</span></p><p>每次课程时间大约2个小时，包含三到四个主要的知识点，以富媒体形式（讲解、音频、视频、PPT、网络信息、动画等）向同学们展示。</p><p style="text-indent:28px"><span style=";font-size:19px;font-family:&#39;宋体&#39;"><span style="font-family: 宋体; font-size: 14px;"><img src="http://p.ananas.chaoxing.com/star3/origin/5461a503a31042cfbcfaadb6.gif" width="250" height="56" title="" border="0" hspace="0" vspace="0" style="width: 250px; height: 56px;"/><br/></span></span></p><p style="text-indent:28px"><span style=";font-size:19px;font-family:&#39;宋体&#39;"><span style="font-family: 宋体; font-size: 14px;"></span></span></p><p><span style="font-size: 14px; font-family: 宋体;">通过本课程的教学，向研究生讲解学术道德和学术规范为科学研究工作者</span><img src="http://p.ananas.chaoxing.com/star3/origin/c7ab74b9f2840ce2b9a604136d4210c2.jpg" width="350" height="232" title="QQ图片20170916141710.jpg" border="0" hspace="0" vspace="0" checked="0" style="text-indent: 28px; white-space: normal; font-family: 宋体; width: 350px; height: 232px; float: right;"/><span style="font-size: 14px; font-family: 宋体;">应遵循的</span><span style="text-indent: 2em; font-family: 宋体;">基本伦理和规范，并详细介绍学术研究工作规范和写作规范，以及学术不端与侵权行为的调查与处理办法；向学生倡导严谨的治学态度</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">，</span><span style="text-indent: 2em; font-family: 宋体;">防止学术浮躁</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">，</span><span style="text-indent: 2em; font-family: 宋体;">注重论文质量</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">，</span><span style="text-indent: 2em; font-family: 宋体;">不抄袭、不剽窃</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">；</span><span style="text-indent: 2em; font-family: 宋体;">提倡以创新为己任</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">，</span><span style="text-indent: 2em; font-family: 宋体;">求真务实</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">，</span><span style="text-indent: 2em; font-family: 宋体;">自觉抵制不良学术风气的影响</span><span style="text-indent: 2em; font-family: &quot;Times New Roman&quot;;">，</span><span style="text-indent: 2em; font-family: 宋体;">保证学术正常交流、提高学术水平。</span></p><p><br/></p><p><br/></p><p><br/></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_224592431" class="courseArticle f20 mb10  pb5 bbc ">教材参考</div>
+                                <div class="mt5 ans-cc"><h2><span style="line-height: 22px; text-indent: 2em; font-family: Arial; font-size: 16px;">参考文献</span></h2><p><strong><span style="font-family: 等线; color: black; background: white none repeat scroll 0% 0%; font-weight: normal; font-size: 16px;">1. 研究生学术道德案例教育百例，复旦大学研究生院 编</span></strong></p><p><strong><span style="font-family: 等线; color: black; background: white none repeat scroll 0% 0%; font-weight: normal; font-size: 16px;">ISBN</span></strong><strong><span style="font-family: 等线; color: black; background: white none repeat scroll 0% 0%; font-weight: normal; font-size: 16px;">：978-7-309-13749-1/G.1862</span></strong></p><p><strong><span style="font-family: 等线; color: black; background: white none repeat scroll 0% 0%; font-weight: normal; font-size: 16px;">2. 中国大学学术规范化与治理研究 / 文丰安著. --&nbsp; 北京 : 中国社会科学出版社, 2018，203页 ; 600px，ISBN：978-7-5203-2488-5: CNY59.00</span></strong></p><p><strong><span style="font-size: 16px;">索书号G644/W349</span></strong></p><p><span style="font-size: 16px;">电子书网址（部分阅读）：</span></p><p><span style="font-size:14px;font-family:等线"><a href="https://book.duxiu.com/search?sw=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E6%9C%AF%E9%81%93%E5%BE%B7%E6%A1%88%E4%BE%8B%E6%95%99%E8%82%B2%E7%99%BE%E4%BE%8B&amp;allsw=&amp;searchtype=&amp;channel=search&amp;bCon=&amp;ecode=utf-8&amp;Field=all" style="font-size: 18px; text-decoration: underline;"><span style="font-family: 等线; font-size: 16px;">https://book.duxiu.com/search?sw=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E6%9C%AF%E9%81%93%E5%BE%B7%E6%A1%88%E4%BE%8B%E6%95%99%E8%82%B2%E7%99%BE%E4%BE%8B&amp;allsw=&amp;searchtype=&amp;channel=search&amp;bCon=&amp;ecode=utf-8&amp;Field=all</span></a></span></p><p><strong><span style="font-family: 等线; color: black; background: white none repeat scroll 0% 0%; font-weight: normal; font-size: 16px;">3.</span></strong><span style="font-size: 16px;"> 学术规范通论 / 叶继元等编著. -- 第2版. --&nbsp;上海 : 华东师范大学出版社, 2017，345页 : 图 ; 650px，ISBN：978-7-5675-6654-5 : CNY45.00</span></p><p><strong><span style="font-size: 16px;">索书号G31/Y2812</span></strong></p><p><span style="font-size: 16px;">4. 大学学术失范与学术规范 / 王恩华著.--&nbsp; 长沙 : 湖南师范大学出版社, 2010，251页 ; 600px，ISBN：978-7-5648-0195-3 : CNY25.00</span></p><p><strong><span style="font-size: 16px;">索书号G644/W195</span></strong></p><p><span style="font-size: 16px;">电子书网址（全文）：</span></p><p><a href="https://book.duxiu.com/search?sw=%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E5%A4%B1%E8%8C%83%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83&amp;allsw=&amp;searchtype=&amp;channel=search&amp;bCon=&amp;ecode=utf-8&amp;Field=all" style="font-size: 18px; text-decoration: underline;"><span style="font-size: 16px;">https://book.duxiu.com/search?sw=%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%9C%AF%E5%A4%B1%E8%8C%83%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83&amp;allsw=&amp;searchtype=&amp;channel=search&amp;bCon=&amp;ecode=utf-8&amp;Field=all</span></a></p><p><span style="font-size: 16px;">5. 高等学校科学技术学术规范指南/教育部科学技术委员会学风建设委员会编写. -- 第2版. --&nbsp; 北京 : 中国人民大学出版社, 2017,87页 ; 525px,ISBN:978-7-300-23863-0 : CNY14.00</span></p><p><strong><span style="font-size: 16px;">索书号G644-65/J4472</span></strong></p><p><span style="font-size: 16px;">6. 学位论文写作与学术规范 / 肖东发, 李武编著. --&nbsp; 北京 : 北京大学出版社, 2009，187页 : 图 ; 575px.，ISBN：978-7-301-14677-4 : CNY23.00</span></p><p><strong><span style="font-size: 16px;">索书号G642.477/X249</span></strong></p><p><span style="font-size: 16px;">7.芝加哥大学论文写作指南 / (美) 凯特·L·杜拉宾著 ; 雷蕾译. --&nbsp; 北京 : 新华出版社, 2015，490页 : 图 ; 625px，ISBN:978-7-5166-1599-7: CNY68.00</span></p><p><strong><span style="font-size: 16px;">索书号G642.477/T444</span><span style="font-family: 等线; color: black; background: white none repeat scroll 0% 0%; font-weight: normal; font-size: 18px;"><br/></span></strong><span style="font-size: 16px;"><br/></span></p><p><span style="font-size: 16px;">电子书：</span><br/></p><p><iframe scrolling="no" class="ans-module ans-insertbook-module" module="insertbook" data="{&quot;readurl&quot;:&quot;http://resapi.chaoxing.com/realReadNew?showshidu=false&amp;gcebook=1&amp;showdown=false&amp;param=38e8d2a001d79fcd5fe64083c7cd8f160172235f78d0f79c4c0c2abc75537e33defb941a5bb0315c15861d44c23bda6989b0f9978e0c3359c53eda4b1cb27a2a77ae3b9224a0d2e5&quot;,&quot;pdgurl&quot;:&quot;http://resapi.chaoxing.com/pdgurl?param=7b169dc18c4fbd8882be9c0ebb6f91d76b8a78e558e995cda64690550f3b005a9d50a81334221e4aab5d6c589c221c9c599e0652a1adccc1095c57e5744086c5fb789aa49b7c806ca02d07a5305220f211e864ad2c34c021fac5c976903dee894643f05a482a66d54014a4505b984c33fb98be062291c1fb99f770c6ed0cbf09ad508a210ad4b7dd&quot;,&quot;coverurl&quot;:&quot;https://unicover.duxiu.com/coverNew/CoverNew.dll?iid=6668646D6B6964676969A19C5BA3A494AC96A99AA7A296A7A05B663430383439333635&quot;,&quot;bookname&quot;:&quot;\u829d\u52a0\u54e5\u5927\u5b66\u8bba\u6587\u5199\u4f5c\u6307\u5357&quot;,&quot;author&quot;:&quot;\uff08\u7f8e\uff09\u51ef\u7279\u00b7L\u00b7\u675c\u62c9\u5bbe\uff08KateL.Turabian\uff09\u8457&quot;,&quot;publisher&quot;:&quot;\u5317\u4eac\uff1a\u65b0\u534e\u51fa\u7248\u793e&quot;,&quot;publishdate&quot;:&quot;2015.09&quot;,&quot;size&quot;:&quot;490&quot;,&quot;mid&quot;:&quot;13459061000711601434913015&quot;,&quot;_jobid&quot;:&quot;16014349131760&quot;,&quot;start&quot;:&quot;1&quot;,&quot;end&quot;:&quot;490&quot;}" frameborder="0"></iframe></p><p>其他参考文献：<br/></p><p><iframe class="ans-module ans-insertbook-module" scrolling="no" data="{&quot;readurl&quot;:&quot;http://resapi.chaoxing.com/realRead?dxid=000000267905&amp;ssid=11367523&amp;d=83F30F96406D94ED6BCAA17B7E0ADDE3&amp;showshidu=false&amp;gcebook=4&amp;showdown=true&quot;,&quot;coverurl&quot;:&quot;http://cover.duxiu.com/cover/Cover.dll?iid=626260646768606663643131313936343231&quot;,&quot;bookname&quot;:&quot;\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u8457\u4f5c\u6743\u6cd5\u91ca\u4e49&quot;,&quot;author&quot;:&quot;\u6797\u56fd\u6c11\u7b49\u8457&quot;,&quot;publisher&quot;:&quot;\u6d4e\u5357\uff1a\u6d4e\u5357\u51fa\u7248\u793e&quot;,&quot;publishdate&quot;:&quot;1990.11&quot;,&quot;size&quot;:&quot;151&quot;,&quot;mid&quot;:&quot;8806883920711415696195483&quot;,&quot;_jobid&quot;:1415696195689,&quot;start&quot;:&quot;1&quot;,&quot;end&quot;:&quot;151&quot;}" module="insertbook" unselectable="on" frameborder="0"></iframe><br/></p><p><iframe class="ans-module ans-insertbook-module" scrolling="no" style="text-indent: 2em;" data="{&quot;readurl&quot;:&quot;http://resapi.chaoxing.com/realRead?dxid=000000983188&amp;ssid=10300018&amp;d=1F44B5B9B1FDFBEF288DEAF92ED4CB2A&amp;showshidu=false&amp;gcebook=4&amp;showdown=true&quot;,&quot;coverurl&quot;:&quot;http://cover.duxiu.com/cover/Cover.dll?iid=6564636764646364656C3136313238383634&quot;,&quot;bookname&quot;:&quot;\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u4e13\u5229\u6cd5\u4ecb\u7ecd&quot;,&quot;author&quot;:&quot;\u674e\u5bb6\u6d69\u7f16&quot;,&quot;publisher&quot;:&quot;\u5317\u4eac\uff1a\u4e13\u5229\u6587\u732e\u51fa\u7248\u793e&quot;,&quot;publishdate&quot;:&quot;1984&quot;,&quot;size&quot;:&quot;92&quot;,&quot;mid&quot;:&quot;6969814935261415696224568&quot;,&quot;_jobid&quot;:1415696224714,&quot;start&quot;:&quot;1&quot;,&quot;end&quot;:&quot;92&quot;}" module="insertbook" unselectable="on" frameborder="0"></iframe></p><blockquote class="cmd-autoblockquote"><p><iframe class="ans-module ans-insertbook-module" scrolling="no" data="{&quot;readurl&quot;:&quot;http://resapi.chaoxing.com/realRead?dxid=000001089645&amp;ssid=11124978&amp;d=93486CF93DCF92BDB83D66882ACD6FD5&amp;showshidu=false&amp;gcebook=4&amp;showdown=true&quot;,&quot;coverurl&quot;:&quot;http://cover.duxiu.com/cover/Cover.dll?iid=61615F6162645F6967683836373930353330&quot;,&quot;bookname&quot;:&quot;\u4e2d\u5916\u5b66\u4f4d\u5236\u5ea6\u4e0e\u5b66\u4f4d\u7533\u8bf7&quot;,&quot;author&quot;:&quot;\u949f\u91d1\u660e\u7f16\u8457&quot;,&quot;publisher&quot;:&quot;\u6b66\u6c49\uff1a\u6b66\u6c49\u5927\u5b66\u51fa\u7248\u793e&quot;,&quot;publishdate&quot;:&quot;1988.09&quot;,&quot;size&quot;:&quot;245&quot;,&quot;mid&quot;:&quot;2070155403781415696298628&quot;,&quot;_jobid&quot;:1415696298877,&quot;start&quot;:&quot;1&quot;,&quot;end&quot;:&quot;245&quot;}" module="insertbook" unselectable="on" frameborder="0"></iframe></p><p><iframe class="ans-module ans-insertbook-module" scrolling="no" data="{&quot;readurl&quot;:&quot;http://resapi.chaoxing.com/realRead?dxid=000000625697&amp;ssid=10674401&amp;d=7AE21B2CEC8D136F17EC4C6F0D07C931&amp;showshidu=false&amp;gcebook=4&amp;showdown=true&quot;,&quot;coverurl&quot;:&quot;http://cover.duxiu.com/cover/Cover.dll?iid=61605F6667645F6460613739373934323330&quot;,&quot;bookname&quot;:&quot;\u79d1\u6280\u5de5\u4f5c\u8005\u804c\u4e1a\u9053\u5fb7&quot;,&quot;author&quot;:&quot;\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u534f\u4f1a\u7b49\u7f16&quot;,&quot;publisher&quot;:&quot;\u5317\u4eac\uff1a\u65b0\u534e\u51fa\u7248\u793e&quot;,&quot;publishdate&quot;:&quot;1998&quot;,&quot;size&quot;:&quot;295&quot;,&quot;mid&quot;:&quot;1504312357501415696321718&quot;,&quot;_jobid&quot;:1415696321910,&quot;start&quot;:&quot;1&quot;,&quot;end&quot;:&quot;295&quot;}" module="insertbook" unselectable="on" frameborder="0"></iframe><br/></p><p><iframe class="ans-module ans-insertbook-module" scrolling="no" data="{&quot;readurl&quot;:&quot;http://resapi.chaoxing.com/realRead?dxid=000006711997&amp;ssid=12243219&amp;d=459DEB11A2D80BE59C92B8BB5EE24E2D&amp;showshidu=false&amp;gcebook=4&amp;showdown=false&quot;,&quot;coverurl&quot;:&quot;http://cover.duxiu.com/cover/Cover.dll?iid=6263606365646063626A3139303532393531&quot;,&quot;bookname&quot;:&quot;\u5b66\u4f4d\u8bba\u6587\u5199\u4f5c\u4e0e\u5b66\u672f\u89c4\u8303&quot;,&quot;author&quot;:&quot;\u8096\u4e1c\u53d1\uff0c\u674e\u6b66\u7f16\u8457&quot;,&quot;publisher&quot;:&quot;\u5317\u4eac\uff1a\u5317\u4eac\u5927\u5b66\u51fa\u7248\u793e&quot;,&quot;publishdate&quot;:&quot;2009.04&quot;,&quot;size&quot;:&quot;187&quot;,&quot;mid&quot;:&quot;5876445571071416365094519&quot;,&quot;_jobid&quot;:1416365094697,&quot;start&quot;:&quot;1&quot;,&quot;end&quot;:&quot;187&quot;}" module="insertbook" frameborder="0"></iframe><br/></p><p><br/></p><p><br/></p><p><br/></p></blockquote><p><br/></p><p><br/><br/></p><h2><span style="line-height: 22px; text-indent: 2em; font-family: Arial; font-size: 16px;">网络资源</span></h2><blockquote class="cmd-autoblockquote"><p><span style="font-family: 宋体; font-size: 14px;">中华人民共和国教育部</span></p><p><a href="http://www.moe.gov.cn/" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.moe.gov.cn/</a><br/></p><p><span style="font-family: 宋体; font-size: 14px;">中华人民共和国科学技术部&nbsp;</span></p><p><a href="http://www.most.gov.cn/index.htm" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.most.gov.cn/index.htm</a><br/></p><p><span style="font-family: 宋体; font-size: 14px;">中国工程院</span></p><p><a href="http://www.cae.cn/cae/html/main/index.html" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.cae.cn/cae/html/main/index.html</a><br/></p><p><span style="font-family: 宋体; font-size: 14px;">中国社会科学院</span></p><p style=";"><a href="http://cass.cssn.cn/" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://cass.cssn.cn/</a><br/></p><p style=";"><span style="font-family: 宋体; font-size: 14px; text-indent: 2em;">全国哲学社会科学规划办公室</span></p><p><a href="http://www.npopss-cn.gov.cn/" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.npopss-cn.gov.cn/</a><br/></p><p><span style="font-family: 宋体; font-size: 14px;">中国科研诚信网</span></p><p><a href="http://www.sinori.cn/jsp/index.jsp" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.sinori.cn/jsp/index.jsp</a><br/></p><p><span style="font-family: 宋体; font-size: 14px;">科学网</span></p><p><a href="http://www.sciencenet.cn/" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.sciencenet.cn/</a><br/></p><p><span style="font-family: 宋体; font-size: 14px;">中国社会科学网</span></p><p><span style="font-family: 宋体; font-size: 14px;"><a href="http://www.cssn.cn/" textvalue="" title="" type="text" data="" target="_blank" tips="yes" style="text-decoration: underline; text-align: center;">http://www.cssn.cn/</a><br/></span></p></blockquote><p><br/></p><p><span style="font-family: 宋体; font-size: 14px;"><br/></span></p><p><br/></p><p><br/></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_224592432" class="courseArticle f20 mb10  pb5 bbc ">课程二维码</div>
+                                <div class="mt5 ans-cc"><p><img src="http://p.ananas.chaoxing.com/star3/origin/69bc7996a51bab07985d1a2d14faa979.png" title="3.png" width="640" height="333"/></p></div>
+                                                    </div>
+																																	                                                                        <!--课程评价-->
+                                                        <div id="courseEvaluation" class="mt30 pt20">
+                                                        <input type="hidden" id="pageNum" value="1">
+                            <div id="courseArticle_cp" class="courseArticle f20 mb10  pb5 bbc fix"><h2 class="l f20 normal_font">课程评价</h2></div>
+
+                        </div>
+                                            
+					                </div>
+            </div>
+						            <div class="cell bgblue bgblue1 wh">
+                <div id="courseUnit" class="courseArticle mt25 pb20 f24 wh tc" > 课程章节</div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">1</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">前言</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214685837&knowledgeId=356248666">
+                                                                                   <div class="f16 chapter_index l">1.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">前言</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214685837&knowledgeId=356248691">
+                                                                                   <div class="f16 chapter_index l">1.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">课程思维导图</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">2</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">学术道德与学术规范概论</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">基本概念</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术研究基本流程</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术研究相关法律问题</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">研究生学术活动特点</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">3</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">学术研究前期工作规范</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">研究主题的确定</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">查新与项目申请</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">文献调研</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术研究前期工作中的学术不端行为</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">4</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">学术研究过程中的规范</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">自然科学研究中的学术规范</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">人文社会科学研究中的学术规范</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">科研项目执行与管理规范</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">5</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">学术成果呈现和写作规范</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">成果呈现方式</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">各类型论文写作规范</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">引文、注释、参考文献著录规范</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术成果呈现阶段的学术不端</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">6</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">学术成果发表与后续工作规范</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">6.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术论文发表与保护</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">6.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术论文答辩与提交</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">6.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术论文发表中的学术不端行为</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">7</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">学术不端与侵权行为</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术不端行为界定</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术不端行为检测系统</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术不端行为检测系统在高校的应用</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学术不端行为调查与处理</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">8</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">阅读材料</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">研究生学术道德阅读材料</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                            </div>
+			                            <div id="_report" style="position:absolute;left:30px;bottom:13px;">
+                    <img src="/images/report.png" style="height: 12px;">
+                    <a href="javascript:;" id="toReport" onclick="reportCourse()" style="font-size: 12px; color:rgb(145,160,181);margin-left: 4px;">举报</a>
+                </div>
+            </div>
+                        <script type="text/javascript" src="/js/min/mootools.1.4.0.js"></script>
+<script type="text/javascript" src="/js/min/comm.js"></script>
+<!--以下为临时添加内容-->
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/testRemind.js"></script>
+<script>
+
+    var rebindTestRemind = function(){
+    $$(".unimplement").addEvent("click", function(){
+    var obj = this;
+    $testRemind(obj,"该功能正在建设中",1);
+    setTimeout('$testRemind.hide()',2000);
+    })
+    }
+    rebindTestRemind();
+	
+	
+</script>
+<script type="text/javascript" src="/js/min/overlay.js"></script>
+<script type="text/javascript" src="/js/min/classToggle.js"></script>
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/autoRemind.js"></script>
+<script type="text/javascript" src="/js/min/tabSwitch.js"></script>
+<script type="text/javascript" src="/js/min/startDrag.js"></script>
+<script type="text/javascript" src="/js/min/ibox.js"></script>
+<script type="text/javascript" src="/js/min/ajax.js"></script>
+<script type="text/javascript" src="/js/head.js"></script>
+<script type="text/javascript" src="/js/course_clazz.js"></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
+<script src="/js/show_resources.js?v=2021-0315-1612"></script>
+<script src="/js/index.js" type="text/javascript"></script>
+
+<script>
+    uParse(".ans-cc");
+    audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+    });
+    //课程介绍展开收起
+    var courseInfoFold = $("courseInfoFold");
+    if ($isEle(courseInfoFold)){
+    var courseInfoBox = $("courseInfoBox"), courseInfoTxt = $("courseInfoTxt"), courseTxtDot = $("courseTxtDot");
+    var height = courseInfoFold.attr("data");
+    var classStr = "";
+    switch(height){
+    case "380":
+    classStr = "h380";
+    break;
+    case "330":
+    classStr = "h330";
+    break;
+    default:
+    classStr = "h150";
+    height = 151;
+    break;
+    }	
+    if(courseInfoTxt.getSize().y > height){
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.removeClass("abs_out");
+    courseInfoFold.removeClass("abs_out");
+    }
+    courseInfoFold.addEvent("click", function(){
+    if (this.txt() === "[展开]") {
+    courseInfoBox.removeClass(classStr);
+    courseInfoTxt.removeClass(classStr);
+    courseTxtDot.hide();
+    this.txt("[收起]")
+    } else {
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.show();
+    this.txt("[展开]")
+    }
+    })
+    }
+    var tchDescBox = $('tchDescBox');
+    $powerFloat($$('.course_tch_item'), {
+    position: "4-1",
+    offsets: {x:0, y:0},
+    target: tchDescBox,
+    showCall: function(){
+    var tchDesc = $('tchDescContent'), tchDescInnerBox = $('tchDescInnerBox');
+    tchDesc.html(this.attr('data'));
+    if(tchDesc.h() < 200) {
+        tchDescInnerBox.h(tchDesc.h() + 40);
+        }else{
+        tchDescInnerBox.h(240);
+        }
+        },
+        hideCall: function(){
+        }
+        });
+        var initStarNum = $$('.i_50').length, initGrayStarArr = $$('.i_49');
+        $$('.jsForStar').each(function(item, index){
+        item.store('initGray', item.getElement('i').hasClass('i_49'));
+        item.addEvents({
+        'mouseenter': function(){
+	           if(item.getElement('i').hasClass('i_49')){
+		           for(var i = 0; i < index+1; i++){
+			            if($$('.jsForStar')[i].getElement('i').hasClass('i_49')){
+			               $$('.jsForStar')[i].getElement('i').swapClass('i_49', 'i_50');
+			            }
+		            }
+	            }
+            },
+            'mouseleave': function(){
+                if(item.retrieve('initGray') && item.getElement('i').hasClass('i_50')){
+	            	for(var i = 0; i < initGrayStarArr.length; i++){
+		        	        if(initGrayStarArr[i].hasClass('i_50')){
+		                	initGrayStarArr[i].swapClass('i_50', 'i_49');
+		                }
+	                }
+                }
+             },
+                'click': function(){
+                    for(var i = index+1; i < $$('.jsForStar').length; i++){//当前星星的后面均变灰
+	                    if($$('.jsForStar')[i].getElement('i').hasClass('i_50')){	
+		                    $$('.jsForStar')[i].getElement('i').swapClass('i_50', 'i_49');
+		                    $$('.jsForStar')[i].store('initGray', true);
+	                    }
+                    }
+                    if(index === 0 && !item.retrieve('initGray')){
+                    	item.getElement('i').swapClass('i_50', 'i_49');
+                    }
+                    new AjaxPost(item, {
+	                    url: '/CourseController/setCourseStar',
+	                    data: {courseId: $('courseStars').attr('data'), starNumber: $$('.i_50').length},
+	                    callback: function(json){
+		                    	if(json.succ){
+			                    	$('personCount').txt(new Number($('personCount').txt()) + 1);
+			                   		 var html = '';
+			                     	for(var i = 0; i < new Number(json.html); i++){
+			                        	html += '<i class="i i_50"></i>';
+			                        }
+			                        $('courseStars').html(html);
+			                        $('courseStars').attr('flag', 'true');
+			                        $testRemind($('courseStars'), '评价成功！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }else{
+			                        $('courseStars').attr('flag', 'false');
+			                        $testRemind($('courseStars'), '评价失败！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }
+	                        }
+                      }).send();
+                  }
+                        })
+                        })
+</script>
+<script type="text/javascript">
+   var pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				//打开窗口
+			     document.getElementById("zopacity").style.display="block";
+			     document.getElementById("pingfenContent").style.display="block";
+				 if(curPersonStar > 0){
+					document.getElementById("id_zs_item").style.display="none";
+				 }
+				 //窗口定位
+				 var heit = window.screen.availHeight,
+                    wid = window.screen.availWidth,
+                    alertwid = document.getElementById("pingfenContent").css("width").replace("px",""),
+                    left = (wid-alertwid)/2,
+					top = heit/8; 
+                    document.getElementById("pingfenContent").css({position: "absolute",top: top, left: left,zIndex:9999}); 
+					
+					//加载评价记录列表
+					new AjaxPost(btn, {
+        				url : '/CourseController/CourseStarContextReplyList',
+        				data : {
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('replyList').html("");
+								for(var i=0;i<json.contextReplyList.length;i++){
+									var _width = json.contextReplyList[i].starNumber*18+(json.contextReplyList[i].starNumber-1)*6;
+									var html = ""+
+    							    "<div class=\"zs_item\">"+
+                                    	"<div class=\"zs_i_gray\">"+
+                                        	"<div class=\"zs_i_re\">"+
+                                            	"<div class=\"zs_i_abs\">"+
+                                                	"<p class=\"zs_i_portrait\"><img src=\""+json.contextReplyList[i].userImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                    "<ul class=\"zs_i_infor\">"+
+                                                    	"<li class=\"zs_i_top\"><span>"+json.contextReplyList[i].username+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.contextReplyList[i].createTimes+"</span></li>"+
+                                                        "<li class=\"zs_padding5\">"+
+                                                        	"<dl class=\"zs_star_gray\">"+
+                                                                "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                            "</dl>"+
+                                                		"</li>"+
+                                                    "</ul>"+
+                                                "</div>"+
+                                            "</div>"+
+                                            "<div>"+json.contextReplyList[i].context+"</div>"+
+                                        "</div>"+
+                                    "</div>";
+									
+    								$('replyList').html($('replyList').html()+html);
+									
+								}
+							    if(json.contextReplyList.length<=0){
+									$('replyList').html('暂无评论！');
+								}
+        					}
+        				}
+        			}).send();
+    		});
+    	}
+    }
+var close_pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				 document.getElementById("zopacity").style.display="none";
+				 document.getElementById("pingfenContent").style.display="none";
+    		});
+    	}
+    }
+close_pingfen($('_zs_close'))
+
+var commitPingfen = function(btn){
+	if($isEle(btn)){
+		btn.addEvent('click', function(){
+		var _context = $('zs_i_textarea').val(); 
+    		if(_context.length>0){
+    		   _context = _context.replace(/^\s+|\s+$/g, ""); 
+    		   if(_context.length>0&&_context.length<150){
+    		       new AjaxPost(btn, {
+        				url : '/CourseController/setCourseStarContext',
+        				data : {
+        					context : _context,
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('zs_i_textarea').val(""); 
+								document.getElementById("id_zs_item").style.display="none";
+								var beforehtml = $('replyList').html();
+								if(beforehtml=="暂无评论！"){
+									$('replyList').html("")
+								}
+								
+							 	var _width = curPersonStar*18+(curPersonStar-1)*6;
+								var html = ""+
+							    "<div class=\"zs_item\">"+
+                                	"<div class=\"zs_i_gray\">"+
+                                    	"<div class=\"zs_i_re\">"+
+                                        	"<div class=\"zs_i_abs\">"+
+                                            	"<p class=\"zs_i_portrait\"><img src=\""+json.curImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                "<ul class=\"zs_i_infor\">"+
+                                                	"<li class=\"zs_i_top\"><span>"+json.curUserName+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.publicTime+"</span></li>"+
+                                                    "<li class=\"zs_padding5\">"+
+                                                    	"<dl class=\"zs_star_gray\">"+
+                                                            "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                        "</dl>"+
+                                            		"</li>"+
+                                                "</ul>"+
+                                            "</div>"+
+                                        "</div>"+
+                                        "<div>"+_context+"</div>"+
+                                    "</div>"+
+                                "</div>";
+								$('replyList').html(html+$('replyList').html());
+        					}else{
+        					    alert(json.msg);
+        					    return;
+        					}
+        				}
+        			}).send();
+    		    }else{
+				   alert("0<字数<150");
+				}
+    		}
+		});
+	}
+}
+commitPingfen($('commitPingfen'))
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+} 
+</script>
+
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.2.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+
+<script>
+  	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+var courseStar=document.getElementById("courseStarTag");
+var oclazzTag=document.getElementById("clazzTag");
+var editvalue,courseid,isLogin,templatevalue;
+if(oclazzTag){  
+   editvalue=oclazzTag.getAttribute("data");
+   isLogin=oclazzTag.getAttribute("flag");
+   templatevalue=oclazzTag.getAttribute("template");
+}
+if(courseStar){
+	courseid=courseStar.getAttribute("data");
+}
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=214685837&edit="+editvalue;
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:templatevalue}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				//alert("getCourseStarTag");
+				jQuery('#courseStarTag').prepend(data);
+    		    //document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+jQuery.ajax({ //一个Ajax过程 
+			type: "get", //以get方式与后台沟通 
+			url : "/CourseController/courseEvaluation", 
+			dataType:'html',//返回的值
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){//如果调用成功 
+			    jQuery('#courseEvaluation').append(data);
+			} 
+		}); 
+	
+var oPriceCourse=document.getElementById("priceCourse");
+if(oPriceCourse){
+jQuery.ajax({ //一个Ajax过程 
+	type: "get", //以get方式与后台沟通 
+	url : "/course/priceTag", 
+	dataType:'html',//返回的值
+	data: {courseId:courseid}, 
+	success: function(data){//如果调用成功 
+	    jQuery('#priceCourse').append(data);
+	} 
+});
+}
+ 
+jQuery(function(){
+    try{
+        //获取登录状态
+        var login = true;
+        var fid = jQuery.cookie("fid");
+        var loginString = "_uid";
+                		var loginStatus=jQuery.cookie(loginString);
+						//alert(loginStatus);
+                		if(loginStatus==undefined) login=false;
+        	          //  alert(login);
+						
+                		//请求访问数
+                		jQuery.ajax({ //一个Ajax过程 
+                			type: "get", //以get方式与后台沟通 
+                			url : "/course/viewTimesTag", 
+                			dataType:'html',//返回的值
+                			data: {courseId:courseid,loginStatus:login},
+                			success: function(data){//如果调用成功 
+                			    jQuery('#viewTimesTag').append(data);
+                			} 
+                		}); 
+    }catch(e){
+	  alert(e.message);
+	 }
+});
+</script>
+<script>
+	jQuery(function(){
+		jQuery(".M1C2").hover(function(){
+			jQuery(this).children().eq(2).show();
+			},function(){
+				jQuery(this).children().eq(2).hide();
+				})
+		})
+	jQuery(function(){
+		jQuery(".Djckxq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).next().show();
+			jQuery(this).parent().prev().show();
+			})
+		jQuery(".Djsq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).prev().show();
+			jQuery(this).parent().prev().hide();
+			})
+	})
+	jQuery(function(){
+		jQuery(".MRc1bt a").click(function(){
+			if(jQuery(this).parent().next().is(":hidden")){
+				jQuery(".MRc1ul").hide();
+				jQuery(this).parent().next().show();
+				} else {
+				jQuery(this).parent().next().hide();
+					}
+
+	 })
+		
+   })
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm" style="left:50%;margin-left:-170px;">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<script>
+jQuery("#iboxAlertOk").click(function(){
+	jQuery('.courseAlert').hide();
+});
+jQuery(".courseTilte .ibox_close").click(function(){
+	jQuery('.courseAlert').hide();
+});
+
+jQuery(".courseTilte-confirm .ibox_close").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+</script>
+<script>
+	var $ = mootools;
+</script>
+<script>
+	jQuery(".listtitle").toggle(function(){
+		jQuery(this).next("div").show()
+	},function(){
+		jQuery(this).next("div").hide()
+	})
+</script>
+
+            <script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script>            <link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+            <script src="/js/grouplistUploadCourseImg.js?v=2019-1122-1325"></script>
+            <script src="/js/init-teamteacher.js"></script>
+            <script>
+		function moreEvaluation(courseId){
+				jQuery(".viewmore").hide();
+		 		jQuery("#pageNum").val(parseInt(jQuery("#pageNum").val())+1);
+				var page = jQuery("#pageNum").val();
+				jQuery.ajax({ //一个Ajax过程 
+					type: "get", //以get方式与后台沟通 
+					url : "/CourseController/courseEvaluation", 
+					dataType:'html',//返回的值
+					data: {courseId:courseid,edit:editvalue,page:page,hiddenMyEvaluation:1}, 
+					success: function(data){//如果调用成功 
+					    jQuery('#courseEvaluation').append(data);
+					} 
+				}); 
+		}
+        jQuery(".w_menu_item").on("click",function(){
+            jQuery(this).addClass("wcurr").siblings().removeClass("wcurr");
+            var  id = jQuery(this).attr("id");
+            var  parentId = jQuery(this).attr("parentId");
+            var array = document.getElementsByName("ariticleParentId_"+parentId);
+            if(array != null){
+                for(var i = 0 ; i<array.length;i++){
+                    array[i].css('display','none');
+                }
+            }
+            jQuery("#ariticlecontent_"+id).css('display','block');
+        })
+        if(214685837== '200119420'){
+            jQuery("#courseNavList li").each(function(){
+                if(jQuery(this).html().indexOf('课程评价') > 0 ){
+                    jQuery(this).css('display','none');
+                }
+            });
+        }
+	</script>
+
+    </div>
+          <input type="hidden" id="report_type" value="webURL"/>
+          <input type="hidden" id="sourceContent" value=""/>
+          <input type="hidden" id="sourceIdStr" value=""/>
+        <div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div>        <script src="/js/coursehomeTip.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+	    <script>
+               //初始化举报按钮
+        jQuery(document).ready(function () {
+            var is_login = jQuery("#is_login").val();
+            var is_teacher = jQuery("#is_teacher").val();
+            if (is_login == 'false') {
+                //未登录
+                jQuery("#toReport").attr('onclick', '_msgtip()');
+            } else if (typeof(is_teacher) != "undefined" && is_teacher == 'true') {
+                //教师身份
+                jQuery("#_report").remove();
+            }
+        })
+
+	   function showSemesterList(){
+		   var display = jQuery("#options").css("display");
+	  	   if(display == "none"){
+	  	  		jQuery("#options").show();
+	  	   }else{
+	  	   		jQuery("#options").hide();
+	  	   }
+	      
+	    }
+
+        var _msgtip = function () {
+            alert("请先登录！");
+        }
+    </script>
+
+    </body>
+	
+</html>

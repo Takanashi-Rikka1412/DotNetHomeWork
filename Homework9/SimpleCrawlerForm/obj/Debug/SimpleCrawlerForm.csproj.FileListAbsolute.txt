@@ -1,0 +1,13 @@
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.csprojAssemblyReference.cache
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.Form1.resources
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.Properties.Resources.resources
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.csproj.GenerateResource.cache
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.csproj.CoreCompileInputs.cache
+E:\C#\Homework9\SimpleCrawlerForm\bin\Debug\SimpleCrawlerForm.exe.config
+E:\C#\Homework9\SimpleCrawlerForm\bin\Debug\SimpleCrawlerForm.exe
+E:\C#\Homework9\SimpleCrawlerForm\bin\Debug\SimpleCrawlerForm.pdb
+E:\C#\Homework9\SimpleCrawlerForm\bin\Debug\SimpleCrawler.dll
+E:\C#\Homework9\SimpleCrawlerForm\bin\Debug\SimpleCrawler.pdb
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.csproj.CopyComplete
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.exe
+E:\C#\Homework9\SimpleCrawlerForm\obj\Debug\SimpleCrawlerForm.pdb

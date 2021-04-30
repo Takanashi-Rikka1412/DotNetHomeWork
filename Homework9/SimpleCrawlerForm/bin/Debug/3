@@ -1,0 +1,2285 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>科技与考古</title>
+		<style type="text/css">
+			pre {white-space: pre-wrap;       
+				/* css-3 */white-space: -moz-pre-wrap;  
+				/* Mozilla, since 1999 */white-space: -pre-wrap;      
+				/* Opera 4-6 */white-space: -o-pre-wrap;    
+				/* Opera 7 */word-wrap: break-word;       
+				/* Internet Explorer 5.5+ */
+			} 
+			.wh32 {color: #2681dc !important;}
+			.zev_content p{word-wrap: break-word;word-break:break-all;}
+		</style>
+        <link rel="stylesheet" type="text/css" href="/css/templates/subArticle.css">
+        <link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+        <link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+        <script src="/js/ServerHost.js"></script>
+		<script src="/js/image.js"></script>
+		 <script>
+		 	var flag=false;
+		    if(flag)
+			{
+				ServerHost.createScript("/ananas/tk");
+			}
+			
+		 </script>
+        <link type="text/css" href="/css/comm.css?v=2021-0312" rel="stylesheet" />
+<link type="text/css" href="/css/course.css?v=2019-1204-1823" rel="stylesheet" />
+<link type="text/css" href="/css/tm.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css" />
+
+<link href="/css/master.css" rel="stylesheet" type="text/css" />
+<!--<link href="/css/pingfen_index.css" rel="stylesheet" type="text/css" />-->
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/ext.js"></script>
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+
+    </head>
+    <body class="bgc3" style="position:relative;">
+      
+			<div class="mb10">
+            			                                <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024"  charset="utf-8"></script>
+                                    </div>
+		
+
+
+	  <style type="text/css">
+		.mb10{margin-bottom:0px;}
+        h1, h2, h3,h4,h5,h6 {font-weight:bolder}
+        h1{font-size:2em}
+        h2{font-size:1.5em}
+        h3{font-size:1.17em}
+        h4{font-size:1em}
+        h5{font-size:.83em}
+        h6{font-size:.75em}
+        .normal_font{font-weight:normal;}
+	  </style>
+	  <div class="bgc3" >
+        <div id="tchDescBox" class="pt10 mb20 rel abs_out">
+            <span class="char_cort tch_desc_corp1 ml40 ">◆</span>
+            <span class="char_cort tch_desc_corp2 ml40">◆</span>
+            <div id="tchDescInnerBox" class="tchDescBox tchDescBoxShadow g3 f14 ova bccc bgwh">
+                <div class="mb10 f16 b fix">
+                    <span class="tch_card l"></span>
+                    <span class="ml10 pt2 dib">个人介绍</span>
+                </div>
+                <div id="tchDescContent" class="lh24 pt5"></div>
+            </div>
+        </div>
+          <div class="constr bgwh fix mb46" style="position:relative;">
+            <div class="pct66 l pb40" style="width:733px">
+                <div class="bbc pb1 rel" style="position:relative">
+                    <input type="hidden" id="video_width" value="733">
+                    <input type="hidden" id="video_height" value="434">
+                                            <img class="clickme" width="733" height="434" src="https://p.ananas.chaoxing.com/star3/733_434c/f4c73193c1c2b43b0d11d95fa8c1602f.jpg" onerror="nofind(event)" imagedata='https://p.ananas.chaoxing.com/star3/733_434/f4c73193c1c2b43b0d11d95fa8c1602f.jpg'/>
+                                                                <div class="course_title_box">
+                            <div class="fix">
+                                <div class="mt10 f33 l g5" >
+                                    <span title="科技与考古">科技与考古</span>
+                                                                                                             
+									                                </div>
+                                <div class="teacherDiv fr" style=" margin-top: 20px;  ">
+    <p class="zhuTacher" style=";">主讲教师：潘春旭</p>
+            <div class="teacherTeam">
+            <p style=";">教师团队：共<span style=";">2</span>位</p>
+            <ul>
+                                    <li>潘春旭</li>
+                                    <li>江旭东</li>
+                            </ul>
+        </div>
+    </div>                            </div>
+                        </div>
+					
+                </div>
+                <div class="ml40 mt10 ">
+                
+               		 
+               		
+                    <div class="mb10 fix">
+                        <div id="clazzTag" data="false" flag="false" class="l f14 lh24 g3" >
+						                        </div>
+
+                         <div id='courseStarTag' data="207677988" class="r mr20" style='width:300px;'>
+                                                 </div>
+						
+                    </div>
+					<div class="mb10 fix">
+						<div id="viewTimesTag" class="r mr20 lvtt" >
+							
+                        </div>
+                    </div>
+                                            <table>
+	    <tr  class="">
+		<td valign="top" class="w80 w70 g9 f14 tr">学校：</td>
+		<td >武汉大学</td>
+	</tr>
+			<tr valign="top" class="">
+		<td class="w70 g9 f14 tr">开课院系：</td>
+		<td >物理科学与技术学院</td>
+	</tr>
+							 <tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">编号：</td>
+		<td>2333320014077</td>
+	</tr>
+			<tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">学分：</td>
+		<td>2</td>
+	</tr>
+			 <tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">课时：</td>
+		<td>32</td>
+	</tr>
+	</table>
+                                    </div>
+                <div class="ml30 mr30">
+                    <div class="mt10 mb20 fix">
+                        <div class="l">
+                            <div class="mt20">
+                                <div class="catalog_box bdd1 rel">
+                                    <img width="30" height="56" class="catalog_p" src="/images/catalog.png" />                                    <ul id="courseNavList" class="lh30 f16">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    	                    <div class="mt30 pt20">
+	                        <div id="courseDesc" class="courseArticle f20 mb10 pb5 bbc"> 课程介绍</div>
+	                        <div class="pl20">
+	                            <div class="mt5 ans-cc"><pre>科技考古（Archaeometry）的定义是利用自然科学的理论方法和技术，分析古代实物资料，从中提取古代人类的活动信息，用以探讨人类行为、生产方式、生产技能以及人与自然的关系及其发展规律的一门科学。它是考古学与自然科学相互渗透、结合的特殊边缘科学，是多学科综合技术的考古，各种方法互相配合。随着科技的发展，前沿科学已经成为考古研究，文物鉴定与保护等不可缺少的一个方面，研究成果对于增进和深入了解历史的发展和进程发挥着重大作用。
+
+例如，通过分析拉曼光谱和红外光谱的“指纹”特征，可以对高仿青铜器和书画进行真伪鉴别；通过研究青铜回火孪晶的特征，可以推测古代青铜器的热加工温度；通过背散射电子衍射（EBSD）技术，可以判断古代青铜器在制作中是否经过锻打或回火热处理；利用纳米技术，通过研究青铜器性能随时间变化的关系，有望解决了古代青铜器“直接”测年的世界性难题。
+
+本课程共八次课，通过主讲教师课堂讲授、观看录像、讨论等形式，深入浅出地介绍自然科学的思想和方法在考古研究和发展中的作用与应用，以及最新的研究成果。主要包括：科技考古的定义与内涵、测年技术、考古中常用科学仪器与技术简介、几件古代青铜器制作工艺剖析、青铜器的锈蚀防护与真伪鉴别、古代字画的保护与真伪鉴别、古代玉文化与古玉的鉴别、古代丝织物和石质物的保护与修复等。
+
+课程目标：1）普及科技考古知识，使学习者了解和掌握现代科技方法在考古研究、文物保护和文物鉴定中的应用；2）通过该课程的学习，使理工科的学生能够获得文科历史学和考古学等方面的知识，也使文科的学生能够增加理工科方面的知识和思维方式，提高学生的综合素质，以及多视角分析问题与解决问题的能力。 
+</pre></div>
+	                        </div>
+	                    </div>
+                                        						                        <div class="mt30 pt20">
+                            <div id="courseTeam" class="courseArticle mr10 f20  pb5 bbc  ">教师团队</div>
+                        </div>
+                        <div class="mt30 inline_box">
+                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix " data="">
+		
+            <a href="/personcontroller/teachercard?teacherId=4513868">
+            <img width="108" height="108" class="mr15 l" src="/img/img_person.png"  onerror="nofind(event)" imagedata='/img/img_person.png' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4513868">
+                    <strong class="mr10 f24">潘春旭</strong>
+                </a>
+                        教授（二级）</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：物理科学与技术学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix " data="">
+		
+            <a href="/personcontroller/teachercard?teacherId=4513867">
+            <img width="108" height="108" class="mr15 l" src="/img/img_person.png"  onerror="nofind(event)" imagedata='/img/img_person.png' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4513867">
+                    <strong class="mr10 f24">江旭东</strong>
+                </a>
+                        副研究员</p>
+            <p>单位：湖北省博物馆</p>
+                        <p>部门：文物保护中心</p>
+                        <p>职位：副主任</p>
+                </div>
+</div>
+                                </div>
+								                                                    </div>
+						                                        						                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_170256480" class="courseArticle f20 mb10  pb5 bbc ">教学大纲</div>
+                                <div class="mt5 ans-cc"><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><strong><span style="text-indent: 2em; font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第1讲：科技考古</span><span style="text-indent: 2em; font-size: 16px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">-</span><span style="text-indent: 2em; font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">揭示古代科学技术与人文的发展历程</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">科技考古</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">-</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">揭示古代科学技术与人文的发展历程（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">1.1 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">材料与文明（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">1.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">历史上的一些未解之迷（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">1.3 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">科技考古学（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">1.4 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">青铜和青铜时代（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：越王剑、致命武器、兵工厂；国宝贾湖骨笛、宋代缂丝、乾隆彩釉解读</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">讨论：历史上的未解之谜</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><br/></p><p><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第2讲：中国剑文化与古代青铜剑制作技术</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">古代青铜剑制作的关键技术（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">2.1 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">中国的剑文化（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">2.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">名剑的核心技术（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">2.3 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">我们的初步研究工作（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="color: rgb(51, 51, 51); font-family: Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Helvetica, sans-serif;">《国家宝藏》（河南博物院篇）和《如果国宝会说话》第一季1-12集</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><br/></p><p><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第3讲：几件古代青铜器的制作技术</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">几件古代青铜器的制作技术（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">3.1 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">秦始皇兵马俑铠甲丝的制作工艺（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">3.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">两件薄壁青铜容器的制作工艺（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">3.3 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">古代青铜器中加铅（</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">Pb</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）的意义与加铅方法（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="color: rgb(51, 51, 51); font-family: Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Helvetica, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);">国家宝藏（陕西历史博物馆篇和辽宁博物馆篇）</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);"></span></p><p><span style="font-size: 13px; color: rgb(0, 0, 0);">讨论：古玩市场与文物打假问题</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom">&nbsp;</p><p><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第4讲：科学技术在考古中的应用</span><span style="font-size: 16px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">-</span><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">测年</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">科学技术在考古中的应用</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">-</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">测年（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.1 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">考古学年代概述（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">树木年轮断代法的原理（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.3 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">碳同位素测年法－</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">14C</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">断代技术（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.4 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">释光测年法（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.5 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">古地磁测年法（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.6-4.7 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">氨基酸消旋法与骨化石氟含量法（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.8 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">化学元素分析断代</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">.</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">4.9 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">青铜器的直接测年（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="color: rgb(51, 51, 51); font-family: Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Helvetica, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);">谜中谜-汉朝睡美人和国家宝藏（故宫博物院篇）</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);"></span></p><p><br/></p><p><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第5讲：科学技术在考古中的应用－理化分析</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">科学技术在考古中的应用－理化分析（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">5.1 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">自然科学对文物、考古的贡献（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">5.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">文物的显微组织、形貌与结构分析技术（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">5.3 X-</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">射线、中子射线照相技术（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">5.4 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">科学技术在考古中的应用</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">-</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">其他方法（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="color: rgb(51, 51, 51); font-family: Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Helvetica, sans-serif;">1）金沙遗址出土古象牙；2）古代科技—战国青铜冰鉴；3）如果国宝会说话（13-25）</span></p><p><span style="font-size: 13px; font-family: 等线; color: rgb(0, 0, 0);">讨论：科技方法在考古和文物中的应用</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><br/></p><p><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第6讲：中国古代玉器与真伪鉴定问题</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">中国古代玉器与真伪鉴定问题（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">6.1-6.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">中国古玉及其时代特征（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">6.3 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">玉器的起源与功能（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">6.4 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">中国古代玉器发展史（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">6.5 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">古玉的做伪与鉴别（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="font-size: 14px; font-family: 等线; color: rgb(0, 0, 0);"><span style="color: rgb(51, 51, 51); font-family: Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Helvetica, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);">疯狂的真假宝玉和国家宝藏（浙江省博物馆篇）</span></span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom">&nbsp;<br/></p><p><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第7讲：几种文物的鉴别与防护</span></strong></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">几种文物的鉴别与防护（授课</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">PPT</span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">7.1 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">几种文物的鉴别与保护（序言）（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">7.2 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">字画真伪鉴别与保护（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">7.3 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">石质文物的保护（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">7.4 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">考古出土丝织品加固（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">7.5 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">古代青铜器的真伪鉴别与保护（授课视频）</span></p><p><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);">7.6 </span><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">一件特殊商代青铜提梁卣的研究与保护（授课视频）</span></p><p><span style="font-size: 13px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="text-indent: 2em;">国家宝藏（湖南省博物馆篇和上海博物馆篇）</span></p><p><span style="font-size: 13px; color: rgb(0, 0, 0);">讨论：其它文物的保护与鉴别问题</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom">&nbsp;</p><p style=";;;text-autospace:none;vertical-align:bottom"><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">第</span></strong><strong><span style="font-size: 16px; color: rgb(0, 0, 0);">8</span></strong><strong><span style="font-size: 16px; font-family: 宋体; color: rgb(0, 0, 0);">讲：青铜文物的科技保护</span></strong></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><span style="color: rgb(0, 0, 0);">8.1 </span><span style="font-family: 宋体; color: rgb(0, 0, 0);">文物保护的发展历程、科技特征、科技内涵</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><span style="color: rgb(0, 0, 0);">8.2 </span><span style="font-family: 宋体; color: rgb(0, 0, 0);">青铜文物病害的科学分析方法</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><span style="color: rgb(0, 0, 0);">8.3 </span><span style="font-family: 宋体; color: rgb(0, 0, 0);">文物保护与修复原则</span></p><p style=";;;;text-indent:28px;text-autospace:none;vertical-align:bottom"><span style="color: rgb(0, 0, 0);">8.4 </span><span style="font-family: 宋体; color: rgb(0, 0, 0);">博物馆无线环境实时监测系统</span></p><p><span style="font-size: 14px; font-family: 宋体; color: rgb(0, 0, 0);">观看录像：</span><span style="font-size: 14px; font-family: 等线; color: rgb(0, 0, 0);"></span><span style="color: rgb(51, 51, 51); font-family: Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, 微软雅黑, Helvetica, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);">国家宝藏（湖北省博物馆篇和南京博物院篇）</span><span style="font-size: 13px; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"></span></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_170256483" class="courseArticle f20 mb10  pb5 bbc ">参考教材</div>
+                                <div class="mt5 ans-cc"><p><span style="color: rgb(0, 0, 0); font-family: 宋体, SimSun; font-size: 16px;"></span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">1</span><span style="font-size: 16px;font-family: 宋体">、王昌燧著：《科技考古进展》</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">, </span><span style="font-size: 16px;font-family: 宋体">科学出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2013</span><span style="font-size: 16px;font-family: 宋体">年</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">03</span><span style="font-size: 16px;font-family: 宋体">月</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2</span><span style="font-size: 16px;font-family: 宋体">、陈铁梅编著：《科技考古学》，北京大学出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2008</span><span style="font-size: 16px;font-family: 宋体">年</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">3</span><span style="font-size: 16px;font-family: 宋体">、赵丛苍主编：《科技考古学概论》，高等教育出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2006</span><span style="font-size: 16px;font-family: 宋体">年</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">4</span><span style="font-size: 16px;font-family: 宋体">、李洋著：《炉捶之间：先秦两汉时期热锻薄壁青铜器研究》，上海古籍出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2017</span><span style="font-size: 16px;font-family: 宋体">年</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">11</span><span style="font-size: 16px;font-family: 宋体">月</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">5</span><span style="font-size: 16px;font-family: 宋体">、杨晶，吴加安著：《科技考古》，文物出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2008</span><span style="font-size: 16px;font-family: 宋体">年</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">6</span><span style="font-size: 16px;font-family: 宋体">、马清林、苏伯民、胡之德、李最雄编著：《中国文物分析鉴别与科学保护》，科学出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2001</span><span style="font-size: 16px;font-family: 宋体">年</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">7</span><span style="font-size: 16px;font-family: 宋体">、仇士华，蔡莲珍</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">&nbsp;</span><span style="font-size: 16px;font-family: 宋体">著：《</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">14C</span><span style="font-size: 16px;font-family: 宋体">测年及科技考古论集》，文物出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2009</span><span style="font-size: 16px;font-family: 宋体">年</span></p><p><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">8</span><span style="font-size: 16px;font-family: 宋体">、王浩天主编：《文物保护修复理论与实践——金石匠学之路》，科学出版社，</span><span style="font-size: 16px;font-family: &#39;Times New Roman&#39;, serif">2014</span><span style="font-size: 16px;font-family: 宋体">年</span></p></div>
+                                                    </div>
+											                                                                        <!--课程评价-->
+                                                        <div id="courseEvaluation" class="mt30 pt20">
+                                                        <input type="hidden" id="pageNum" value="1">
+                            <div id="courseArticle_cp" class="courseArticle f20 mb10  pb5 bbc fix"><h2 class="l f20 normal_font">课程评价</h2></div>
+
+                        </div>
+                                            
+											                        							
+                            <div class="mt30 pt20">
+                                <div id="courseResc" class="courseArticle f20 mb10 pb5 bbc">教学资源</div>
+                                <div class="mt15">
+                                    <script type="text/javascript" src="/js/resourceRecord.js"></script>
+<div class="fix">
+            <div class="l tc pt3">
+            <a class="resTab" rel="chapterResTabTip" href="javascript:;">
+                <div class="res_tab_selected bdrad3">课程章节资源</div>
+                <div id="chapterResTabTip" class="cor res_cor" rel="chapterResTab"></div>
+            </a>
+        </div>
+	</div>
+    <div id="chapterResTab" class="mt10 p1 brsh2 resTabTarget">
+        <table class="g9" width="100%"  style="table-layout:fixed;" cellpadding="5" cellspacing="0">
+            <tr id="resTableHead" class="bgf9">
+                <td width="200">课程章节</td>
+                <td width="60">| 文件类型</td>
+                <td width="80" >&nbsp;</td>
+                <td class="pct15">| 修改时间</td>
+                <td class="pct10" width="60px">| 大小</td>
+                <td class="pct20">| 备注</td>
+            </tr>
+                        								<tr id="resList_80440686"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80440686|/download/eb5469e8dc2f8d6ecd4f3155a1bb1adf?k=bfc5e2d1dfb9ee2feb1eee754b95e6e3&t=1619767520074_eb5469e8dc2f8d6ecd4f3155a1bb1adf_http:/cs.ananas.chaoxing.com/download/eb5469e8dc2f8d6ecd4f3155a1bb1adf_207677988_1024_230116601|/resourcescontroller/showpreview?attachmentId=611148026&courseId=207677988&fid=1024&knowledgeId=230116601|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116601|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=eb5469e8dc2f8d6ecd4f3155a1bb1adf&fn=0-%E7%A7%91%E6%8A%80%E4%B8%8E%E8%80%83%E5%8F%A4%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B-%E5%BD%95%E9%9F%B3-wy%281%29.ppt"  info="80440686">
+				                                            <td class="pt10 g6 resources_td">1.1 第一课时：课程简介，科技与考古－探索历史发展历程</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_04"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="0-科技与考古课程简介-录音-wy(1)"/>
+                            .ppt
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-11</td>
+                    <td class="pt5 pb5 resources_td">8.45MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80440687"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80440687|/download/e812c5f11bcd84aeb5e55989cf984e48?k=6e5a7516c58885716a575fe49526610f&t=1619767520074_e812c5f11bcd84aeb5e55989cf984e48_http:/cs.ananas.chaoxing.com/download/e812c5f11bcd84aeb5e55989cf984e48_207677988_1024_230116601|/resourcescontroller/showpreview?attachmentId=611148028&courseId=207677988&fid=1024&knowledgeId=230116601|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116601|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e812c5f11bcd84aeb5e55989cf984e48&fn=1-%E7%A7%91%E6%8A%80%E4%B8%8E%E8%80%83%E5%8F%A4+%E2%80%94+%E6%8E%A2%E7%B4%A2%E5%8E%86%E5%8F%B2%E5%8F%91%E5%B1%95%E8%BF%9B%E7%A8%8B-%E5%BD%95%E9%9F%B3-2-%E5%87%8Fx.pptx"  info="80440687">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_04"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1-科技与考古 — 探索历史发展进程-录音-2-减x"/>
+                            .pptx
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-11</td>
+                    <td class="pt5 pb5 resources_td">4.75MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120745"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80120745|/download/8173e72dbe5f9aeb51f9dce2334971f9?k=c193417a259298a3879816e180d1d8ed&t=1619767520073_8173e72dbe5f9aeb51f9dce2334971f9_http:/cs.ananas.chaoxing.com/download/8173e72dbe5f9aeb51f9dce2334971f9_207677988_1024_230116651|/resourcescontroller/showpreview?attachmentId=263167876&courseId=207677988&fid=1024&knowledgeId=230116651|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116651|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=8173e72dbe5f9aeb51f9dce2334971f9&fn=1.1+%E6%9D%90%E6%96%99%E4%B8%8E%E6%96%87%E6%98%8E+.mp4"  info="80120745">
+				                                            <td class="pt10 g6 resources_td">1.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.1 材料与文明 "/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">87.65MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120746"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80120746|/download/2624a024de68c3694832efe0578973d7?k=20015283270553b6e04eea5a57f07b2d&t=1619767520073_2624a024de68c3694832efe0578973d7_http:/cs.ananas.chaoxing.com/download/2624a024de68c3694832efe0578973d7_207677988_1024_230116651|/resourcescontroller/showpreview?attachmentId=263167884&courseId=207677988&fid=1024&knowledgeId=230116651|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116651|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=2624a024de68c3694832efe0578973d7&fn=1.2%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%BF%B7%E4%B8%8A.mp4"  info="80120746">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.2历史上的一些未解之迷上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">162.16MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120747"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80120747|/download/7a3488d03cb34d55c43ffa0437a3369a?k=c9efd4fa48e71afc5f6f3348a8b01634&t=1619767520073_7a3488d03cb34d55c43ffa0437a3369a_http:/cs.ananas.chaoxing.com/download/7a3488d03cb34d55c43ffa0437a3369a_207677988_1024_230116651|/resourcescontroller/showpreview?attachmentId=263167886&courseId=207677988&fid=1024&knowledgeId=230116651|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116651|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=7a3488d03cb34d55c43ffa0437a3369a&fn=1.2%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%B8%80%E4%BA%9B%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%BF%B7%E4%B8%8B.mp4"  info="80120747">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.2历史上的一些未解之迷下"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">131.16MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120748"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80120748|/download/ab72f0ab92e7834a5d768fda3b4a595d?k=b0276affa585999dcdcdbe6a3b43c5bf&t=1619767520073_ab72f0ab92e7834a5d768fda3b4a595d_http:/cs.ananas.chaoxing.com/download/ab72f0ab92e7834a5d768fda3b4a595d_207677988_1024_230116651|/resourcescontroller/showpreview?attachmentId=263167888&courseId=207677988&fid=1024&knowledgeId=230116651|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116651|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=ab72f0ab92e7834a5d768fda3b4a595d&fn=1.3%E7%A7%91%E6%8A%80%E8%80%83%E5%8F%A4%E5%AD%A6.mp4"  info="80120748">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.3科技考古学"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">237.51MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120749"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80120749|/download/1b1dbb1492ba91075bbefa04416f93c1?k=125b793115c1a80abdc08c5c8841ed36&t=1619767520073_1b1dbb1492ba91075bbefa04416f93c1_http:/cs.ananas.chaoxing.com/download/1b1dbb1492ba91075bbefa04416f93c1_207677988_1024_230116651|/resourcescontroller/showpreview?attachmentId=263167890&courseId=207677988&fid=1024&knowledgeId=230116651|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116651|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=1b1dbb1492ba91075bbefa04416f93c1&fn=1.4%E9%9D%92%E9%93%9C%E5%92%8C%E9%9D%92%E9%93%9C%E6%97%B6%E4%BB%A3.mp4"  info="80120749">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.4青铜和青铜时代"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">191.40MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80158666"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80158666|/download/f2ad09ed1b8b9984cabdc4b5b8fdc1c9?k=3924c8e22b0ac939b2de8962c875ccc7&t=1619767520074_f2ad09ed1b8b9984cabdc4b5b8fdc1c9_http:/cs.ananas.chaoxing.com/download/f2ad09ed1b8b9984cabdc4b5b8fdc1c9_207677988_1024_230116668|/resourcescontroller/showpreview?attachmentId=308738676&courseId=207677988&fid=1024&knowledgeId=230116668|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116668|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=f2ad09ed1b8b9984cabdc4b5b8fdc1c9&fn=%E8%89%AF%E6%B8%9A%E7%8E%89%E7%90%AE%E7%8E%8B%EF%BC%9A%E7%A5%9E%E4%B9%8B%E5%BE%BD%E7%AB%A0.mp4"  info="80158666">
+				                                            <td class="pt10 g6 resources_td">1.4 第四课时：课程辅助录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="良渚玉琮王：神之徽章"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-20</td>
+                    <td class="pt5 pb5 resources_td">56.19MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80158667"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80158667|/download/72098c5141302c2566f1544356af0026?k=31004682ce3c6ce5c5a31c25328b0bbb&t=1619767520074_72098c5141302c2566f1544356af0026_http:/cs.ananas.chaoxing.com/download/72098c5141302c2566f1544356af0026_207677988_1024_230116668|/resourcescontroller/showpreview?attachmentId=308738677&courseId=207677988&fid=1024&knowledgeId=230116668|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116668|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=72098c5141302c2566f1544356af0026&fn=%E3%80%8A%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F%E3%80%8B-%E9%AA%A8%E7%AC%9B%26%E7%BC%96%E9%92%9F-%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86%E8%A7%A3%E8%AF%BB.mp4"  info="80158667">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="《国家宝藏》-骨笛&编钟-台湾电视解读"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-20</td>
+                    <td class="pt5 pb5 resources_td">107.22MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80158668"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80158668|/download/ad3413b9d0d626dc04537320b9a49fea?k=2df1540763a8155a4c06ff64c576a519&t=1619767520074_ad3413b9d0d626dc04537320b9a49fea_http:/cs.ananas.chaoxing.com/download/ad3413b9d0d626dc04537320b9a49fea_207677988_1024_230116668|/resourcescontroller/showpreview?attachmentId=308738678&courseId=207677988&fid=1024&knowledgeId=230116668|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116668|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=ad3413b9d0d626dc04537320b9a49fea&fn=%E9%99%B6%E5%86%B6%E4%B8%8E%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%EF%BC%8D%E6%9F%AF%E4%BF%8A.MP4"  info="80158668">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="陶冶与中华文明－柯俊"/>
+                            .MP4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-20</td>
+                    <td class="pt5 pb5 resources_td">323.95MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80158669"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80158669|/download/db955a401ac4cd68aeac538783b6e9a5?k=75ecb8a627a5e787f4ea415a7b150b7a&t=1619767520074_db955a401ac4cd68aeac538783b6e9a5_http:/cs.ananas.chaoxing.com/download/db955a401ac4cd68aeac538783b6e9a5_207677988_1024_230116668|/resourcescontroller/showpreview?attachmentId=308738679&courseId=207677988&fid=1024&knowledgeId=230116668|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116668|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=db955a401ac4cd68aeac538783b6e9a5&fn=0-%E7%A7%91%E6%8A%80%E4%B8%8E%E8%80%83%E5%8F%A4%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B-%E5%BD%95%E9%9F%B3.ppt"  info="80158669">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_04"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="0-科技与考古课程简介-录音"/>
+                            .ppt
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-20</td>
+                    <td class="pt5 pb5 resources_td">8.45MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80180152"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80180152|/download/d778d7d913b1aa48644cfc16ffd4320f?k=7c5eb5382a7146f577cac43d055cc37b&t=1619767520074_d778d7d913b1aa48644cfc16ffd4320f_http:/cs.ananas.chaoxing.com/download/d778d7d913b1aa48644cfc16ffd4320f_207677988_1024_230116813|/resourcescontroller/showpreview?attachmentId=330738998&courseId=207677988&fid=1024&knowledgeId=230116813|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116813|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=d778d7d913b1aa48644cfc16ffd4320f&fn=2-%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%80%83%E5%8F%A4%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8-%E6%B5%8B%E5%B9%B4%281%29.pdf"  info="80180152">
+				                                            <td class="pt10 g6 resources_td">2.1 第一课时：科学技术在考古中的应用-测年</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2-科学技术在考古中的应用-测年(1)"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-24</td>
+                    <td class="pt5 pb5 resources_td">3.02MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120765"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120765|/download/3e24c09aae1195aaf61ae955d2e0c3f3?k=5c67aa220d8a5bdfa173e848944c8161&t=1619767520074_3e24c09aae1195aaf61ae955d2e0c3f3_http:/cs.ananas.chaoxing.com/download/3e24c09aae1195aaf61ae955d2e0c3f3_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168189&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=3e24c09aae1195aaf61ae955d2e0c3f3&fn=4.1%E8%80%83%E5%8F%A4%E5%AD%A6%E5%B9%B4%E4%BB%A3%E6%A6%82%E8%BF%B0.mp4"  info="80120765">
+				                                            <td class="pt10 g6 resources_td">2.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.1考古学年代概述"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">115.84MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120766"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120766|/download/abea6b42af4f864eff9180a2c457e114?k=8b986d12576e310014b2edc3d1f30687&t=1619767520074_abea6b42af4f864eff9180a2c457e114_http:/cs.ananas.chaoxing.com/download/abea6b42af4f864eff9180a2c457e114_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168190&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=abea6b42af4f864eff9180a2c457e114&fn=4.2%E6%A0%91%E6%9C%A8%E5%B9%B4%E8%BD%AE%E6%96%AD%E4%BB%A3%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86.mp4"  info="80120766">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.2树木年轮断代法的原理"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">39.27MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120767"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120767|/download/4b8516df7d26c61d3928c2d4b6562e40?k=cc33c563fb33eabffbdf4f9df1661cb6&t=1619767520074_4b8516df7d26c61d3928c2d4b6562e40_http:/cs.ananas.chaoxing.com/download/4b8516df7d26c61d3928c2d4b6562e40_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168191&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=4b8516df7d26c61d3928c2d4b6562e40&fn=4.3%E7%A2%B3%E5%90%8C%E4%BD%8D%E7%B4%A0%E6%B5%8B%E5%B9%B4%E6%B3%95%EF%BC%8D14C%E6%96%AD%E4%BB%A3%E6%8A%80%E6%9C%AF.mp4"  info="80120767">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.3碳同位素测年法－14C断代技术"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">205.99MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120768"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120768|/download/35233a5923709e3723cfb0b3a2abadd8?k=d0cf87f820c91fc6614fe058beec2bcc&t=1619767520074_35233a5923709e3723cfb0b3a2abadd8_http:/cs.ananas.chaoxing.com/download/35233a5923709e3723cfb0b3a2abadd8_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168192&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=35233a5923709e3723cfb0b3a2abadd8&fn=4.4%E9%87%8A%E5%85%89%E6%B5%8B%E5%B9%B4%E6%B3%95.mp4"  info="80120768">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.4释光测年法"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">265.03MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120769"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120769|/download/9fb9a45447fcd755dc1004b4bb6858f3?k=3376c7c40367e5d6edb0d9def5315952&t=1619767520074_9fb9a45447fcd755dc1004b4bb6858f3_http:/cs.ananas.chaoxing.com/download/9fb9a45447fcd755dc1004b4bb6858f3_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168193&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=9fb9a45447fcd755dc1004b4bb6858f3&fn=4.5%E5%8F%A4%E5%9C%B0%E7%A3%81%E6%B5%8B%E5%B9%B4%E6%B3%95.mp4"  info="80120769">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.5古地磁测年法"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">68.36MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120770"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120770|/download/1e841652fa18d6fd19c51414110f7907?k=cd17932101b0d4106ccef61256f85b2c&t=1619767520074_1e841652fa18d6fd19c51414110f7907_http:/cs.ananas.chaoxing.com/download/1e841652fa18d6fd19c51414110f7907_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168194&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=1e841652fa18d6fd19c51414110f7907&fn=4.6-4.7%E6%B0%A8%E5%9F%BA%E9%85%B8%E6%B6%88%E6%97%8B%E6%B3%95%E4%B8%8E%E9%AA%A8%E5%8C%96%E7%9F%B3%E6%B0%9F%E5%90%AB%E9%87%8F%E5%8F%91.mp4"  info="80120770">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.6-4.7氨基酸消旋法与骨化石氟含量发"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">41.92MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120771"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120771|/download/61c96ea700430c75e15692058684c583?k=26bf473fe61da52a196d54418ef0c712&t=1619767520074_61c96ea700430c75e15692058684c583_http:/cs.ananas.chaoxing.com/download/61c96ea700430c75e15692058684c583_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168195&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=61c96ea700430c75e15692058684c583&fn=4.8%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E5%88%86%E6%9E%90%E6%96%AD%E4%BB%A3.mp4"  info="80120771">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.8化学元素分析断代"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">29.50MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120772"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120772|/download/bee9fc4d7c02936206b546d87bf82f51?k=b638ca073906889c620a6b5df637b778&t=1619767520074_bee9fc4d7c02936206b546d87bf82f51_http:/cs.ananas.chaoxing.com/download/bee9fc4d7c02936206b546d87bf82f51_207677988_1024_230116814|/resourcescontroller/showpreview?attachmentId=263168196&courseId=207677988&fid=1024&knowledgeId=230116814|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=bee9fc4d7c02936206b546d87bf82f51&fn=4.9%E9%9D%92%E9%93%9C%E5%99%A8%E7%9A%84%E7%9B%B4%E6%8E%A5%E6%B5%8B%E5%B9%B4.mp4"  info="80120772">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.9青铜器的直接测年"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">164.46MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80216261"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80216261|/download/bf16536ee4329250bbf3cd6ec95172c1?k=bad711f516ff14686efcc865b48e3066&t=1619767520074_bf16536ee4329250bbf3cd6ec95172c1_http:/cs.ananas.chaoxing.com/download/bf16536ee4329250bbf3cd6ec95172c1_207677988_1024_230116815|/resourcescontroller/showpreview?attachmentId=365481323&courseId=207677988&fid=1024&knowledgeId=230116815|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116815|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=bf16536ee4329250bbf3cd6ec95172c1&fn=%E8%B6%8A%E7%8E%8B%E5%89%91%EF%BC%8B%E5%B8%9D%E5%9B%BD%E9%93%81%E9%AA%91%EF%BC%8B%E8%87%B4%E5%91%BD%E6%AD%A6%E5%99%A8_%E5%85%BC%E5%AE%B9%E6%A0%BC%E5%BC%8F.MP4"  info="80216261">
+				                                            <td class="pt10 g6 resources_td">2.3 第三课时：辅助教学视频-石峁之谜</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="越王剑＋帝国铁骑＋致命武器_兼容格式"/>
+                            .MP4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-03-03</td>
+                    <td class="pt5 pb5 resources_td">219.52MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80216262"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80216262|/download/bf16536ee4329250bbf3cd6ec95172c1?k=bad711f516ff14686efcc865b48e3066&t=1619767520074_bf16536ee4329250bbf3cd6ec95172c1_http:/cs.ananas.chaoxing.com/download/bf16536ee4329250bbf3cd6ec95172c1_207677988_1024_230116815|/resourcescontroller/showpreview?attachmentId=365481324&courseId=207677988&fid=1024&knowledgeId=230116815|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116815|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=bf16536ee4329250bbf3cd6ec95172c1&fn=%E8%B6%8A%E7%8E%8B%E5%89%91%EF%BC%8B%E8%87%B4%E5%91%BD%E6%AD%A6%E5%99%A8%2B%E7%89%A9%E5%8B%92%E5%B7%A5%E5%90%8D_%E5%85%BC%E5%AE%B9%E6%A0%BC%E5%BC%8F.MP4"  info="80216262">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="越王剑＋致命武器+物勒工名_兼容格式"/>
+                            .MP4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-03-03</td>
+                    <td class="pt5 pb5 resources_td">219.52MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120773"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120773|/download/a0e054ae463969e6a15c12b75b19f5ad?k=55c4707e8bc868197381c24379fad91e&t=1619767520074_a0e054ae463969e6a15c12b75b19f5ad_http:/cs.ananas.chaoxing.com/download/a0e054ae463969e6a15c12b75b19f5ad_207677988_1024_230116816|/resourcescontroller/showpreview?attachmentId=263168197&courseId=207677988&fid=1024&knowledgeId=230116816|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116816|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=a0e054ae463969e6a15c12b75b19f5ad&fn=%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%80%83%E5%8F%A4%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%8D%E7%90%86%E5%8C%96%E5%88%86%E6%9E%90x%EF%BC%8D%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0%E7%A8%BF.pdf"  info="80120773">
+				                                            <td class="pt10 g6 resources_td">3.1 第一课时：科学技术在考古中的应用－理化分析</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="科学技术在考古中的应用－理化分析x－校内上传稿"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">4.94MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120774"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120774|/download/5198971803fcc27825947568484da652?k=e1e2c5aa88d24130cdf284d479c3627f&t=1619767520074_5198971803fcc27825947568484da652_http:/cs.ananas.chaoxing.com/download/5198971803fcc27825947568484da652_207677988_1024_230116817|/resourcescontroller/showpreview?attachmentId=263168201&courseId=207677988&fid=1024&knowledgeId=230116817|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116817|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=5198971803fcc27825947568484da652&fn=5.1%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%AF%B9%E6%96%87%E7%89%A9%E3%80%81%E8%80%83%E5%8F%A4%E7%9A%84%E8%B4%A1%E7%8C%AE.mp4"  info="80120774">
+				                                            <td class="pt10 g6 resources_td">3.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.1自然科学对文物、考古的贡献"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">75.91MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120775"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120775|/download/7c5093f8453b0120962afb6263e6e21f?k=eb4b6441d9efe477534860965315663c&t=1619767520074_7c5093f8453b0120962afb6263e6e21f_http:/cs.ananas.chaoxing.com/download/7c5093f8453b0120962afb6263e6e21f_207677988_1024_230116817|/resourcescontroller/showpreview?attachmentId=263168202&courseId=207677988&fid=1024&knowledgeId=230116817|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116817|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=7c5093f8453b0120962afb6263e6e21f&fn=5.2%E6%96%87%E7%89%A9%E7%9A%84%E6%98%BE%E5%BE%AE%E7%BB%84%E7%BB%87%E3%80%81%E5%BD%A2%E8%B2%8C%E4%B8%8E%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF.mp4"  info="80120775">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.2文物的显微组织、形貌与结构分析技术"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">246.48MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120776"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120776|/download/73bb37b909d1e1331ace438aab62ee3c?k=faae07e913c22da9a4bdc0be482fe9b6&t=1619767520074_73bb37b909d1e1331ace438aab62ee3c_http:/cs.ananas.chaoxing.com/download/73bb37b909d1e1331ace438aab62ee3c_207677988_1024_230116817|/resourcescontroller/showpreview?attachmentId=263168203&courseId=207677988&fid=1024&knowledgeId=230116817|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116817|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=73bb37b909d1e1331ace438aab62ee3c&fn=5.3X-%E5%B0%84%E7%BA%BF%E3%80%81%E4%B8%AD%E5%AD%90%E5%B0%84%E7%BA%BF%E7%85%A7%E7%9B%B8%E6%8A%80%E6%9C%AF.mp4"  info="80120776">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.3X-射线、中子射线照相技术"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">157.67MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120777"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120777|/download/b4f0d9d8b380761eb7f5d51467695c4f?k=696df501aae7beca4b2f6237e7a49201&t=1619767520074_b4f0d9d8b380761eb7f5d51467695c4f_http:/cs.ananas.chaoxing.com/download/b4f0d9d8b380761eb7f5d51467695c4f_207677988_1024_230116817|/resourcescontroller/showpreview?attachmentId=263168204&courseId=207677988&fid=1024&knowledgeId=230116817|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116817|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=b4f0d9d8b380761eb7f5d51467695c4f&fn=5.4%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%80%83%E5%8F%A4%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8-%E8%A1%A5%E5%85%85.mp4"  info="80120777">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.4科学技术在考古中的应用-补充"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">284.60MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120753"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120753|/download/a5b188d3959d015e02d4104326a84f7b?k=280860330aaac16bfc145e80fec12e6a&t=1619767520073_a5b188d3959d015e02d4104326a84f7b_http:/cs.ananas.chaoxing.com/download/a5b188d3959d015e02d4104326a84f7b_207677988_1024_230116687|/resourcescontroller/showpreview?attachmentId=263168014&courseId=207677988&fid=1024&knowledgeId=230116687|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116687|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=a5b188d3959d015e02d4104326a84f7b&fn=%E4%B8%AD%E5%9B%BD%E5%89%91%E6%96%87%E5%8C%96%E4%B8%8E%E5%8F%A4%E4%BB%A3%E9%9D%92%E9%93%9C%E5%89%91%E5%88%B6%E4%BD%9C%E6%8A%80%E6%9C%AF-%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0%E7%A8%BF.pdf"  info="80120753">
+				                                            <td class="pt10 g6 resources_td">4.1 第一课时：中国剑文化与古代青铜剑制作技术</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="中国剑文化与古代青铜剑制作技术-校内上传稿"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">3.03MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120754"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120754|/download/539d50c62810b203c6e30928e3656c21?k=e1510597671ff4dca387a3bc404e0370&t=1619767520073_539d50c62810b203c6e30928e3656c21_http:/cs.ananas.chaoxing.com/download/539d50c62810b203c6e30928e3656c21_207677988_1024_230116755|/resourcescontroller/showpreview?attachmentId=263168044&courseId=207677988&fid=1024&knowledgeId=230116755|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116755|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=539d50c62810b203c6e30928e3656c21&fn=2.1%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%89%91%E6%96%87%E5%8C%96.mp4"  info="80120754">
+				                                            <td class="pt10 g6 resources_td">4.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.1中国的剑文化"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">241.48MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120755"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120755|/download/27ccf8704c134d64e309f5241ce535a9?k=6e1eaba4f0882156cbf464e5033d4d56&t=1619767520073_27ccf8704c134d64e309f5241ce535a9_http:/cs.ananas.chaoxing.com/download/27ccf8704c134d64e309f5241ce535a9_207677988_1024_230116755|/resourcescontroller/showpreview?attachmentId=263168055&courseId=207677988&fid=1024&knowledgeId=230116755|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116755|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=27ccf8704c134d64e309f5241ce535a9&fn=2.2%E5%90%8D%E5%89%91%E7%9A%84%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8A.mp4"  info="80120755">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.2名剑的核心技术上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">122.27MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120756"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120756|/download/e998e15ee71c87976bb2898950125680?k=ad6386d7f6c30e2159117f48e81ef037&t=1619767520073_e998e15ee71c87976bb2898950125680_http:/cs.ananas.chaoxing.com/download/e998e15ee71c87976bb2898950125680_207677988_1024_230116755|/resourcescontroller/showpreview?attachmentId=263168056&courseId=207677988&fid=1024&knowledgeId=230116755|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116755|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e998e15ee71c87976bb2898950125680&fn=2.2%E5%90%8D%E5%89%91%E7%9A%84%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8B.mp4"  info="80120756">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.2名剑的核心技术下"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">177.14MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120757"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120757|/download/6c0d6e041bde24bc3b945e99ac07627d?k=c801874373fe6a35c0c75fc8b24139d5&t=1619767520073_6c0d6e041bde24bc3b945e99ac07627d_http:/cs.ananas.chaoxing.com/download/6c0d6e041bde24bc3b945e99ac07627d_207677988_1024_230116755|/resourcescontroller/showpreview?attachmentId=263168058&courseId=207677988&fid=1024&knowledgeId=230116755|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116755|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=6c0d6e041bde24bc3b945e99ac07627d&fn=2.3%E6%88%91%E4%BB%AC%E7%9A%84%E5%88%9D%E6%AD%A5%E7%A0%94%E7%A9%B6%E5%B7%A5%E4%BD%9C.mp4"  info="80120757">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.3我们的初步研究工作"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">112.63MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120758"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120758|/download/0542490d36e9ed5f3c899e55685b15f1?k=00d7a111c954cf7a517c899631f9e6bd&t=1619767520073_0542490d36e9ed5f3c899e55685b15f1_http:/cs.ananas.chaoxing.com/download/0542490d36e9ed5f3c899e55685b15f1_207677988_1024_230116774|/resourcescontroller/showpreview?attachmentId=263168090&courseId=207677988&fid=1024&knowledgeId=230116774|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116774|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=0542490d36e9ed5f3c899e55685b15f1&fn=%E5%87%A0%E4%BB%B6%E5%8F%A4%E4%BB%A3%E9%9D%92%E9%93%9C%E5%99%A8%E7%9A%84%E5%88%B6%E4%BD%9C%E6%8A%80%E6%9C%AF-%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0%E7%A8%BF.pdf"  info="80120758">
+				                                            <td class="pt10 g6 resources_td">5.1 第一课时：几件古代青铜器的制作技术</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="几件古代青铜器的制作技术-校内上传稿"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">4.85MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120759"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120759|/download/483348dc0a10c14ed9dfb7fbd43f73f0?k=5156281ca0de14abe615aa366e72cec0&t=1619767520073_483348dc0a10c14ed9dfb7fbd43f73f0_http:/cs.ananas.chaoxing.com/download/483348dc0a10c14ed9dfb7fbd43f73f0_207677988_1024_230116781|/resourcescontroller/showpreview?attachmentId=263168091&courseId=207677988&fid=1024&knowledgeId=230116781|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116781|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=483348dc0a10c14ed9dfb7fbd43f73f0&fn=3.1%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%85%B5%E9%A9%AC%E4%BF%91%E9%93%A0%E7%94%B2%E4%B8%9D%E7%9A%84%E5%88%B6%E4%BD%9C%E5%B7%A5%E8%89%BA.mp4"  info="80120759">
+				                                            <td class="pt10 g6 resources_td">5.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.1秦始皇兵马俑铠甲丝的制作工艺"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">142.38MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120760"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120760|/download/b5d47b1f026cb585552bb1c07b9bfb11?k=1c573f5418111bae0d8c45e6a4007a11&t=1619767520073_b5d47b1f026cb585552bb1c07b9bfb11_http:/cs.ananas.chaoxing.com/download/b5d47b1f026cb585552bb1c07b9bfb11_207677988_1024_230116781|/resourcescontroller/showpreview?attachmentId=263168096&courseId=207677988&fid=1024&knowledgeId=230116781|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116781|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=b5d47b1f026cb585552bb1c07b9bfb11&fn=3.2%E5%AE%89%E9%99%86%E5%B8%82%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%9A%E4%B8%A4%E4%BB%B6%E5%95%86%E4%BB%A3%E8%96%84%E5%A3%81%E9%9D%92%E9%93%9C%E5%AE%B9%E5%99%A8%E7%9A%84%E5%88%B6%E4%BD%9C%E5%B7%A5%E8%89%BA%E4%B8%8A.mp4"  info="80120760">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.2安陆市博物馆：两件商代薄壁青铜容器的制作工艺上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">148.75MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120761"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120761|/download/e56e6e63b9a475f2a4780625dcec489d?k=e8e376aa8089278bc48ed149eac1da61&t=1619767520073_e56e6e63b9a475f2a4780625dcec489d_http:/cs.ananas.chaoxing.com/download/e56e6e63b9a475f2a4780625dcec489d_207677988_1024_230116781|/resourcescontroller/showpreview?attachmentId=263168101&courseId=207677988&fid=1024&knowledgeId=230116781|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116781|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e56e6e63b9a475f2a4780625dcec489d&fn=3.2%E5%AE%89%E9%99%86%E5%B8%82%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%9A%E4%B8%A4%E4%BB%B6%E5%95%86%E4%BB%A3%E8%96%84%E5%A3%81%E9%9D%92%E9%93%9C%E5%AE%B9%E5%99%A8%E7%9A%84%E5%88%B6%E4%BD%9C%E5%B7%A5%E8%89%BA%E4%B8%8B.mp4"  info="80120761">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.2安陆市博物馆：两件商代薄壁青铜容器的制作工艺下"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">201.07MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120762"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120762|/download/380c9f698ea2f966402b9af57119fff5?k=f1bdac7a86b9a6a2aa932ef813da1e95&t=1619767520074_380c9f698ea2f966402b9af57119fff5_http:/cs.ananas.chaoxing.com/download/380c9f698ea2f966402b9af57119fff5_207677988_1024_230116781|/resourcescontroller/showpreview?attachmentId=263168104&courseId=207677988&fid=1024&knowledgeId=230116781|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116781|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=380c9f698ea2f966402b9af57119fff5&fn=3.3%E5%8F%A4%E4%BB%A3%E9%9D%92%E9%93%9C%E5%99%A8%E4%B8%AD%E5%8A%A0%E9%93%85%EF%BC%88Pb%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%B8%8E%E5%8A%A0%E9%93%85%EF%BC%88Pb%EF%BC%89%E6%8A%80%E6%9C%AF%E6%8E%A2%E8%AE%A8%E4%B8%8A.mp4"  info="80120762">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.3古代青铜器中加铅（Pb）的意义与加铅（Pb）技术探讨上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">248.17MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120763"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120763|/download/bdbdf8bbe2919194c52af9e9c8ffabcf?k=adbda5c6ce3d315b7e394341df2a6fd4&t=1619767520074_bdbdf8bbe2919194c52af9e9c8ffabcf_http:/cs.ananas.chaoxing.com/download/bdbdf8bbe2919194c52af9e9c8ffabcf_207677988_1024_230116781|/resourcescontroller/showpreview?attachmentId=263168106&courseId=207677988&fid=1024&knowledgeId=230116781|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116781|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=bdbdf8bbe2919194c52af9e9c8ffabcf&fn=3.3%E5%8F%A4%E4%BB%A3%E9%9D%92%E9%93%9C%E5%99%A8%E4%B8%AD%E5%8A%A0%E9%93%85%EF%BC%88Pb%EF%BC%89%E7%9A%84%E6%84%8F%E4%B9%89%E4%B8%8E%E5%8A%A0%E9%93%85%EF%BC%88Pb%EF%BC%89%E6%8A%80%E6%9C%AF%E6%8E%A2%E8%AE%A8%E4%B8%8B.mp4"  info="80120763">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.3古代青铜器中加铅（Pb）的意义与加铅（Pb）技术探讨下"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">248.27MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120778"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120778|/download/2edf9a20b048f7874461e3a86d4952bd?k=53aa7b4984a43f429dd442974124a364&t=1619767520074_2edf9a20b048f7874461e3a86d4952bd_http:/cs.ananas.chaoxing.com/download/2edf9a20b048f7874461e3a86d4952bd_207677988_1024_230116821|/resourcescontroller/showpreview?attachmentId=263168205&courseId=207677988&fid=1024&knowledgeId=230116821|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116821|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=2edf9a20b048f7874461e3a86d4952bd&fn=7-%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%8E%89%E5%99%A8%E4%B8%8E%E7%9C%9F%E4%BC%AA%E9%89%B4%E5%AE%9A%E9%97%AE%E9%A2%98-%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0%E7%A8%BF-1.pdf"  info="80120778">
+				                                            <td class="pt10 g6 resources_td">6.1 第一课时：中国古代玉器与真伪鉴定问题</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7-中国古代玉器与真伪鉴定问题-校内上传稿-1"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">10.11MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120779"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120779|/download/e92c3d4b54bbff58bd52117d42f2b121?k=e590f8b16fd61058f535f80eea16911c&t=1619767520074_e92c3d4b54bbff58bd52117d42f2b121_http:/cs.ananas.chaoxing.com/download/e92c3d4b54bbff58bd52117d42f2b121_207677988_1024_230116822|/resourcescontroller/showpreview?attachmentId=263168206&courseId=207677988&fid=1024&knowledgeId=230116822|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116822|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e92c3d4b54bbff58bd52117d42f2b121&fn=6.1-6.2%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%8E%89%E5%8F%8A%E5%85%B6%E6%97%B6%E4%BB%A3%E7%89%B9%E5%BE%81.mp4"  info="80120779">
+				                                            <td class="pt10 g6 resources_td">6.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.1-6.2中国古玉及其时代特征"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">386.15MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120780"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120780|/download/e8f049f41bc5badec5840fc6549e6bfc?k=f70fba14679f42ad7d12fb1d75bc0cd1&t=1619767520074_e8f049f41bc5badec5840fc6549e6bfc_http:/cs.ananas.chaoxing.com/download/e8f049f41bc5badec5840fc6549e6bfc_207677988_1024_230116822|/resourcescontroller/showpreview?attachmentId=263168207&courseId=207677988&fid=1024&knowledgeId=230116822|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116822|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e8f049f41bc5badec5840fc6549e6bfc&fn=6.3%E7%8E%89%E5%99%A8%E7%9A%84%E8%B5%B7%E6%BA%90%E4%B8%8E%E5%8A%9F%E8%83%BD.mp4"  info="80120780">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.3玉器的起源与功能"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">299.81MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120781"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120781|/download/09a297fdc0310dec131d6b9c60c0292b?k=53696b3de78b5695d577d26ab973e90b&t=1619767520074_09a297fdc0310dec131d6b9c60c0292b_http:/cs.ananas.chaoxing.com/download/09a297fdc0310dec131d6b9c60c0292b_207677988_1024_230116822|/resourcescontroller/showpreview?attachmentId=263168208&courseId=207677988&fid=1024&knowledgeId=230116822|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116822|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=09a297fdc0310dec131d6b9c60c0292b&fn=6.4%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%8E%89%E5%99%A8%E5%8F%91%E5%B1%95%E5%8F%B2.mp4"  info="80120781">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.4中国古代玉器发展史"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">196.93MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120782"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120782|/download/03bb9886b00c76c3e31add58f3990e91?k=cf3f56dd829257ce16d1d85e38e4b000&t=1619767520074_03bb9886b00c76c3e31add58f3990e91_http:/cs.ananas.chaoxing.com/download/03bb9886b00c76c3e31add58f3990e91_207677988_1024_230116822|/resourcescontroller/showpreview?attachmentId=263168209&courseId=207677988&fid=1024&knowledgeId=230116822|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116822|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=03bb9886b00c76c3e31add58f3990e91&fn=6.5%E5%8F%A4%E7%8E%89%E7%9A%84%E5%81%9A%E4%BC%AA%E4%B8%8E%E9%89%B4%E5%88%AB%E4%B8%8A.mp4"  info="80120782">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.5古玉的做伪与鉴别上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">197.43MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120783"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120783|/download/de8341fce1660ae8daf7bf59d438732b?k=9f041ce2abb601247507c51344a0a9bb&t=1619767520074_de8341fce1660ae8daf7bf59d438732b_http:/cs.ananas.chaoxing.com/download/de8341fce1660ae8daf7bf59d438732b_207677988_1024_230116822|/resourcescontroller/showpreview?attachmentId=263168210&courseId=207677988&fid=1024&knowledgeId=230116822|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116822|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=de8341fce1660ae8daf7bf59d438732b&fn=6.5%E5%8F%A4%E7%8E%89%E7%9A%84%E5%81%9A%E4%BC%AA%E4%B8%8E%E9%89%B4%E5%88%AB%E4%B8%8B+.mp4"  info="80120783">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.5古玉的做伪与鉴别下 "/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">184.02MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120784"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120784|/download/ba6c25c8a0c43f5ae8a96f4f3bbbc0b5?k=bf4cf60c8a8948ae3da19b32f09ad2e0&t=1619767520074_ba6c25c8a0c43f5ae8a96f4f3bbbc0b5_http:/cs.ananas.chaoxing.com/download/ba6c25c8a0c43f5ae8a96f4f3bbbc0b5_207677988_1024_230116826|/resourcescontroller/showpreview?attachmentId=263168211&courseId=207677988&fid=1024&knowledgeId=230116826|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116826|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=ba6c25c8a0c43f5ae8a96f4f3bbbc0b5&fn=%E5%87%A0%E7%A7%8D%E6%96%87%E7%89%A9%E7%9A%84%E9%89%B4%E5%88%AB%E4%B8%8E%E9%98%B2%E6%8A%A4-%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0.pdf"  info="80120784">
+				                                            <td class="pt10 g6 resources_td">7.1 第一课时：几种文物的保护与鉴别</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="几种文物的鉴别与防护-校内上传"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">6.81MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120785"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120785|/download/65acd084f76ace855028aece96865c44?k=5acb2a5fe52c4e11ab10ec1ae15f7e03&t=1619767520074_65acd084f76ace855028aece96865c44_http:/cs.ananas.chaoxing.com/download/65acd084f76ace855028aece96865c44_207677988_1024_230116826|/resourcescontroller/showpreview?attachmentId=263168212&courseId=207677988&fid=1024&knowledgeId=230116826|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116826|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=65acd084f76ace855028aece96865c44&fn=8-2-%E7%A6%81%E5%87%BA%E6%96%87%E7%89%A9-%E4%B9%A6%E7%94%BB.pdf"  info="80120785">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8-2-禁出文物-书画"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">13.79MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120786"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120786|/download/f6da448788aaef91a765bd8eb6c702b4?k=58193a7ed3c98dae0b7bd0c07996d0cf&t=1619767520074_f6da448788aaef91a765bd8eb6c702b4_http:/cs.ananas.chaoxing.com/download/f6da448788aaef91a765bd8eb6c702b4_207677988_1024_230116826|/resourcescontroller/showpreview?attachmentId=263168214&courseId=207677988&fid=1024&knowledgeId=230116826|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116826|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=f6da448788aaef91a765bd8eb6c702b4&fn=8-3-%E7%A6%81%E5%87%BA%E6%96%87%E7%89%A9-%E5%85%B6%E4%BB%96%E6%9D%82%E9%A1%B9.pdf"  info="80120786">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8-3-禁出文物-其他杂项"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">14.48MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120787"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120787|/download/842ebb1444af2cae3c8e6a7fc982cbcd?k=c09460567ffee36dabfba8efa01d3db6&t=1619767520074_842ebb1444af2cae3c8e6a7fc982cbcd_http:/cs.ananas.chaoxing.com/download/842ebb1444af2cae3c8e6a7fc982cbcd_207677988_1024_230116826|/resourcescontroller/showpreview?attachmentId=263168215&courseId=207677988&fid=1024&knowledgeId=230116826|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116826|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=842ebb1444af2cae3c8e6a7fc982cbcd&fn=8-4-%E7%A6%81%E5%87%BA%E6%96%87%E7%89%A9-%E9%9D%92%E9%93%9C%E5%99%A8.pdf"  info="80120787">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8-4-禁出文物-青铜器"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">9.11MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120788"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120788|/download/18f861f6168fdaac07408e0b9ecb9711?k=6d4c9733f9c63cc85f7779cbbec6c33b&t=1619767520074_18f861f6168fdaac07408e0b9ecb9711_http:/cs.ananas.chaoxing.com/download/18f861f6168fdaac07408e0b9ecb9711_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168219&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=18f861f6168fdaac07408e0b9ecb9711&fn=7.1%E5%87%A0%E7%A7%8D%E6%96%87%E7%89%A9%E7%9A%84%E9%89%B4%E5%88%AB%E4%B8%8E%E4%BF%9D%E6%8A%A4.mp4"  info="80120788">
+				                                            <td class="pt10 g6 resources_td">7.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.1几种文物的鉴别与保护"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">193.66MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120789"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120789|/download/0f55eb89be0811d6805852ce835664a5?k=dbda37dcbaaad62683f2b989c3c01336&t=1619767520074_0f55eb89be0811d6805852ce835664a5_http:/cs.ananas.chaoxing.com/download/0f55eb89be0811d6805852ce835664a5_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168221&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=0f55eb89be0811d6805852ce835664a5&fn=7.2%E5%AD%97%E7%94%BB%E7%9C%9F%E4%BC%AA%E9%89%B4%E5%88%AB%E4%B8%8E%E4%BF%9D%E6%8A%A4.mp4"  info="80120789">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.2字画真伪鉴别与保护"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">181.06MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120790"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120790|/download/83ffbc4801dd057429e162f0343c1a96?k=4ad2a70466355c16ba203feba05b592c&t=1619767520074_83ffbc4801dd057429e162f0343c1a96_http:/cs.ananas.chaoxing.com/download/83ffbc4801dd057429e162f0343c1a96_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168222&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=83ffbc4801dd057429e162f0343c1a96&fn=7.3%E7%9F%B3%E8%B4%A8%E6%96%87%E7%89%A9%E7%9A%84%E4%BF%9D%E6%8A%A4.mp4"  info="80120790">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.3石质文物的保护"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">176.61MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120791"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120791|/download/d75565431472488595aeddd728828c97?k=d93124c2cb224a20dd9ffe779a028874&t=1619767520074_d75565431472488595aeddd728828c97_http:/cs.ananas.chaoxing.com/download/d75565431472488595aeddd728828c97_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168223&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=d75565431472488595aeddd728828c97&fn=7.4+%E8%80%83%E5%8F%A4%E5%87%BA%E5%9C%9F%E4%B8%9D%E7%BB%87%E5%93%81%E5%8A%A0%E5%9B%BA.mp4"  info="80120791">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.4 考古出土丝织品加固"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">108.47MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120792"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120792|/download/4486ea26d498993499582d7d03a88f7f?k=27a54ee69da7d69080044bc0f0a270ad&t=1619767520074_4486ea26d498993499582d7d03a88f7f_http:/cs.ananas.chaoxing.com/download/4486ea26d498993499582d7d03a88f7f_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168224&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=4486ea26d498993499582d7d03a88f7f&fn=7.5%E5%8F%A4%E4%BB%A3%E9%9D%92%E9%93%9C%E5%99%A8%E7%9A%84%E7%9C%9F%E4%BC%AA%E9%89%B4%E5%88%AB%E4%B8%8E%E4%BF%9D%E6%8A%A4%E4%B8%8A.mp4"  info="80120792">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.5古代青铜器的真伪鉴别与保护上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">158.16MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120793"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120793|/download/144e18ab6b294bf4a79a4d93a11ea034?k=9b068fa7b7b74e109c31f28289efb9ee&t=1619767520074_144e18ab6b294bf4a79a4d93a11ea034_http:/cs.ananas.chaoxing.com/download/144e18ab6b294bf4a79a4d93a11ea034_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168266&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=144e18ab6b294bf4a79a4d93a11ea034&fn=7.5%E5%8F%A4%E4%BB%A3%E9%9D%92%E9%93%9C%E5%99%A8%E7%9A%84%E7%9C%9F%E4%BC%AA%E9%89%B4%E5%88%AB%E4%B8%8E%E4%BF%9D%E6%8A%A4%E4%B8%8B.mp4"  info="80120793">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.5古代青铜器的真伪鉴别与保护下"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">165.04MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120794"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120794|/download/71aaac32b26c7eddad3393494bdfefb2?k=9ebf08810ddc2244665e94992254eb12&t=1619767520074_71aaac32b26c7eddad3393494bdfefb2_http:/cs.ananas.chaoxing.com/download/71aaac32b26c7eddad3393494bdfefb2_207677988_1024_230116838|/resourcescontroller/showpreview?attachmentId=263168267&courseId=207677988&fid=1024&knowledgeId=230116838|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=71aaac32b26c7eddad3393494bdfefb2&fn=7.6%E4%B8%80%E4%BB%B6%E7%89%B9%E6%AE%8A%E5%95%86%E4%BB%A3%E9%9D%92%E9%93%9C%E6%8F%90%E6%A2%81%E5%8D%A3%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E4%BF%9D%E6%8A%A4.mp4"  info="80120794">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.6一件特殊商代青铜提梁卣的研究与保护"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">218.60MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120795"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120795|/download/8043d8eb5b1c0fe38222682ac2e79f3b?k=3defe3a838e84edfa0ae28297e60ff8c&t=1619767520074_8043d8eb5b1c0fe38222682ac2e79f3b_http:/cs.ananas.chaoxing.com/download/8043d8eb5b1c0fe38222682ac2e79f3b_207677988_1024_230116893|/resourcescontroller/showpreview?attachmentId=263168353&courseId=207677988&fid=1024&knowledgeId=230116893|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116893|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=8043d8eb5b1c0fe38222682ac2e79f3b&fn=%E9%9D%92%E9%93%9C%E6%96%87%E7%89%A9%E7%9A%84%E7%A7%91%E6%8A%80%E4%BF%9D%E6%8A%A4-%E4%B8%8A%E4%BC%A0%E7%A8%BF.pdf"  info="80120795">
+				                                            <td class="pt10 g6 resources_td">8.1 第一课时：青铜文物的科技保护</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="青铜文物的科技保护-上传稿"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">4.70MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120796"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120796|/download/96ad10ecef4ba0a6e05967b6c20ce0e5?k=b47f6c048b6456a7a4206782182d68b0&t=1619767520074_96ad10ecef4ba0a6e05967b6c20ce0e5_http:/cs.ananas.chaoxing.com/download/96ad10ecef4ba0a6e05967b6c20ce0e5_207677988_1024_230116908|/resourcescontroller/showpreview?attachmentId=263168356&courseId=207677988&fid=1024&knowledgeId=230116908|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116908|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=96ad10ecef4ba0a6e05967b6c20ce0e5&fn=8.1%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E6%A6%82%E8%A7%88.mp4"  info="80120796">
+				                                            <td class="pt10 g6 resources_td">8.2 第二课时：授课录像</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.1文物保护概览"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">161.96MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120797"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120797|/download/c6678d2dae3bb33e580bd4a77ee62982?k=40c456093e77346d6f14493a9f2d99da&t=1619767520074_c6678d2dae3bb33e580bd4a77ee62982_http:/cs.ananas.chaoxing.com/download/c6678d2dae3bb33e580bd4a77ee62982_207677988_1024_230116908|/resourcescontroller/showpreview?attachmentId=263168360&courseId=207677988&fid=1024&knowledgeId=230116908|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116908|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=c6678d2dae3bb33e580bd4a77ee62982&fn=8.2%E7%A7%91%E5%AD%A6%E8%AF%8A%E7%97%85.mp4"  info="80120797">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.2科学诊病"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">221.70MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120798"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120798|/download/735dd6b4122631a01b97a39059515f38?k=456a8e4ad0ef49529e01d26ecc3837d9&t=1619767520074_735dd6b4122631a01b97a39059515f38_http:/cs.ananas.chaoxing.com/download/735dd6b4122631a01b97a39059515f38_207677988_1024_230116908|/resourcescontroller/showpreview?attachmentId=263168362&courseId=207677988&fid=1024&knowledgeId=230116908|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116908|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=735dd6b4122631a01b97a39059515f38&fn=8.3%E5%85%A8%E9%9D%A2%E6%B2%BB%E7%97%85%E4%B8%8A.mp4"  info="80120798">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.3全面治病上"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">241.72MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120799"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120799|/download/0800c10ff1d1af77efbb10f4b4cc1b61?k=959404261adaa5c32b3395a731e1fe47&t=1619767520074_0800c10ff1d1af77efbb10f4b4cc1b61_http:/cs.ananas.chaoxing.com/download/0800c10ff1d1af77efbb10f4b4cc1b61_207677988_1024_230116908|/resourcescontroller/showpreview?attachmentId=263168364&courseId=207677988&fid=1024&knowledgeId=230116908|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116908|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=0800c10ff1d1af77efbb10f4b4cc1b61&fn=8.3%E5%85%A8%E9%9D%A2%E6%B2%BB%E7%97%85%E4%B8%8B.mp4"  info="80120799">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.3全面治病下"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">224.20MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120800"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80120800|/download/89ecbde66d156ba9424ea7cf2ce8bfaa?k=f4ca329590cf2c7838265cbf8c07b849&t=1619767520074_89ecbde66d156ba9424ea7cf2ce8bfaa_http:/cs.ananas.chaoxing.com/download/89ecbde66d156ba9424ea7cf2ce8bfaa_207677988_1024_230116908|/resourcescontroller/showpreview?attachmentId=263168367&courseId=207677988&fid=1024&knowledgeId=230116908|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116908|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=89ecbde66d156ba9424ea7cf2ce8bfaa&fn=8.4%E7%A7%AF%E6%9E%81%E9%98%B2%E7%97%85.mp4"  info="80120800">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.4积极防病"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">150.39MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80120801"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80120801|/download/e86412313b4f21af8f0627fd8d18d7d2?k=c7fa203f24a3f988f87027ce153ba448&t=1619767520074_e86412313b4f21af8f0627fd8d18d7d2_http:/cs.ananas.chaoxing.com/download/e86412313b4f21af8f0627fd8d18d7d2_207677988_1024_230116919|/resourcescontroller/showpreview?attachmentId=263168370&courseId=207677988&fid=1024&knowledgeId=230116919|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116919|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e86412313b4f21af8f0627fd8d18d7d2&fn=%E9%99%B6%E7%93%B7%E5%8E%86%E5%8F%B2%E4%B8%8E%E7%A7%91%E6%8A%80%E9%89%B4%E5%AE%9A-%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0.pdf"  info="80120801">
+				                                            <td class="pt10 g6 resources_td">9.1 第一课时：古陶器与古瓷器及其科学分析</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="陶瓷历史与科技鉴定-校内上传"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-14</td>
+                    <td class="pt5 pb5 resources_td">12.10MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80184683"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80184683|/download/cf9ab7e7aa4e99e7d8daf2e6dd5e8a02?k=38d4074ffbef31b69142aa8c22d3dec0&t=1619767520074_cf9ab7e7aa4e99e7d8daf2e6dd5e8a02_http:/cs.ananas.chaoxing.com/download/cf9ab7e7aa4e99e7d8daf2e6dd5e8a02_207677988_1024_230116921|/resourcescontroller/showpreview?attachmentId=333802355&courseId=207677988&fid=1024&knowledgeId=230116921|/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116921|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=cf9ab7e7aa4e99e7d8daf2e6dd5e8a02&fn=%E7%8E%B0%E4%BB%A3%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%9C%A8%E8%80%83%E5%8F%A4%E4%B8%8E%E6%96%87%E7%89%A9%E4%BF%9D%E6%8A%A4%E4%B8%AD%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95-%E6%A0%A1%E5%86%85%E4%B8%8A%E4%BC%A0%E7%A8%BF.pdf"  info="80184683">
+				                                            <td class="pt10 g6 resources_td">10.1 第一课时：现代科学技术在考古与文物保护中的最新进展</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="现代科学技术在考古与文物保护中的最新进展-校内上传稿"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-25</td>
+                    <td class="pt5 pb5 resources_td">1.48MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                                    </table>
+                    <div class="pt5 pb5 bgf9 f16 tc">
+                <a class="g9 resMoreBtn" href="javascript:;" rel="chapterResTab">
+                    <i class="i i_25"></i>
+                    <span type = "more" moreValue="更多" packUpValue="收起">更多</span>
+                </a>
+            </div>
+            </div>
+<style>
+.zbghover:hover { color:#666}
+td.pt10.g6.resources_td {word-wrap: break-word;}
+</style>
+<div id="resOptBox" class="rescources_opt_box brsh2 bdc4 abs_out f14" style="border:1px">
+    <a id="resOptDown" class="res_opt_a" href="javascript:;">
+        <span class="pl10 pt10">下载</span>
+    </a>
+    <a id="resOptPreview" class="res_opt_a" href="" target="_blank">
+             <span class="pl10 pt10">在线观看</span>
+         </a>
+    <a id="resOptStudy" class="res_opt_a" target="_blank" href="" rel="">
+        <span class="pl10 pt10">进入课程章节</span>
+    </a>
+    <a id="resOptUpload" class="res_opt_a" href="javascript:;"target="_self">
+        <span class="pl10 pt10">同步到网盘</span>
+    </a>
+</div>
+<script type="text/javascript">
+		function isPrivately(isPrivately){
+		if(isPrivately == 1){
+			alert('关闭试读');
+		} else if(isPrivately == 2){
+			alert('试读前三章');
+		} else if(isPrivately == 3){
+			alert('试读第一章');
+		}
+	}
+</script>
+                                </div>
+                            </div>
+																	                </div>
+            </div>
+						            <div class="cell bgblue bgblue1 wh">
+                <div id="courseUnit" class="courseArticle mt25 pb20 f24 wh tc" > 课程章节</div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">1</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第1讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116601">
+                                                                                   <div class="f16 chapter_index l">1.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：课程简介，科技与考古－探索历史发展历程</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116651">
+                                                                                   <div class="f16 chapter_index l">1.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116665">
+                                                                                   <div class="f16 chapter_index l">1.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-汉魂徐州</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116668">
+                                                                                   <div class="f16 chapter_index l">1.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第四课时：课程辅助录像</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">2</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第2讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116813">
+                                                                                   <div class="f16 chapter_index l">2.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：科学技术在考古中的应用-测年</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116814">
+                                                                                   <div class="f16 chapter_index l">2.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116815">
+                                                                                   <div class="f16 chapter_index l">2.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-石峁之谜</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">3</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第3讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116816">
+                                                                                   <div class="f16 chapter_index l">3.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：科学技术在考古中的应用－理化分析</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116817">
+                                                                                   <div class="f16 chapter_index l">3.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116819">
+                                                                                   <div class="f16 chapter_index l">3.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-重访三星堆</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">4</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第4讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116687">
+                                                                                   <div class="f16 chapter_index l">4.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：中国剑文化与古代青铜剑制作技术</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116755">
+                                                                                   <div class="f16 chapter_index l">4.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116770">
+                                                                                   <div class="f16 chapter_index l">4.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-揭秘曾侯乙</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">5</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第5讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116774">
+                                                                                   <div class="f16 chapter_index l">5.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：几件古代青铜器的制作技术</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116781">
+                                                                                   <div class="f16 chapter_index l">5.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116786">
+                                                                                   <div class="f16 chapter_index l">5.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-五千年良渚</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116812">
+                                                                                   <div class="f16 chapter_index l">5.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第四课时</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">6</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第6讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116821">
+                                                                                   <div class="f16 chapter_index l">6.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：中国古代玉器与真伪鉴定问题</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116822">
+                                                                                   <div class="f16 chapter_index l">6.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116824">
+                                                                                   <div class="f16 chapter_index l">6.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-大汉海昏侯</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">7</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第7讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116826">
+                                                                                   <div class="f16 chapter_index l">7.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：几种文物的保护与鉴别</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116838">
+                                                                                   <div class="f16 chapter_index l">7.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116876">
+                                                                                   <div class="f16 chapter_index l">7.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-回望殷墟</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116889">
+                                                                                   <div class="f16 chapter_index l">7.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第四课时</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">8</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第8讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116893">
+                                                                                   <div class="f16 chapter_index l">8.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：青铜文物的科技保护</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116908">
+                                                                                   <div class="f16 chapter_index l">8.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：授课录像</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116914">
+                                                                                   <div class="f16 chapter_index l">8.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三课时：辅助教学视频-探秘盘龙城</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116917">
+                                                                                   <div class="f16 chapter_index l">8.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第四课时</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">9</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第9讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116919">
+                                                                                   <div class="f16 chapter_index l">9.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：古陶器与古瓷器及其科学分析</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=263787596">
+                                                                                   <div class="f16 chapter_index l">9.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二课时：辅助教学视频-瓷都探考</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">10</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第10讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=230116921">
+                                                                                   <div class="f16 chapter_index l">10.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一课时：现代科学技术在考古与文物保护中的最新进展</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">11</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第11讲</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=207677988&knowledgeId=322559696">
+                                                                                   <div class="f16 chapter_index l">11.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">辅助教学视频-中国石窟走廊（1-4）</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                            </div>
+			                            <div id="_report" style="position:absolute;left:30px;bottom:13px;">
+                    <img src="/images/report.png" style="height: 12px;">
+                    <a href="javascript:;" id="toReport" onclick="reportCourse()" style="font-size: 12px; color:rgb(145,160,181);margin-left: 4px;">举报</a>
+                </div>
+            </div>
+                        <script type="text/javascript" src="/js/min/mootools.1.4.0.js"></script>
+<script type="text/javascript" src="/js/min/comm.js"></script>
+<!--以下为临时添加内容-->
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/testRemind.js"></script>
+<script>
+
+    var rebindTestRemind = function(){
+    $$(".unimplement").addEvent("click", function(){
+    var obj = this;
+    $testRemind(obj,"该功能正在建设中",1);
+    setTimeout('$testRemind.hide()',2000);
+    })
+    }
+    rebindTestRemind();
+	
+	
+</script>
+<script type="text/javascript" src="/js/min/overlay.js"></script>
+<script type="text/javascript" src="/js/min/classToggle.js"></script>
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/autoRemind.js"></script>
+<script type="text/javascript" src="/js/min/tabSwitch.js"></script>
+<script type="text/javascript" src="/js/min/startDrag.js"></script>
+<script type="text/javascript" src="/js/min/ibox.js"></script>
+<script type="text/javascript" src="/js/min/ajax.js"></script>
+<script type="text/javascript" src="/js/head.js"></script>
+<script type="text/javascript" src="/js/course_clazz.js"></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
+<script src="/js/show_resources.js?v=2021-0315-1612"></script>
+<script src="/js/index.js" type="text/javascript"></script>
+
+<script>
+    uParse(".ans-cc");
+    audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+    });
+    //课程介绍展开收起
+    var courseInfoFold = $("courseInfoFold");
+    if ($isEle(courseInfoFold)){
+    var courseInfoBox = $("courseInfoBox"), courseInfoTxt = $("courseInfoTxt"), courseTxtDot = $("courseTxtDot");
+    var height = courseInfoFold.attr("data");
+    var classStr = "";
+    switch(height){
+    case "380":
+    classStr = "h380";
+    break;
+    case "330":
+    classStr = "h330";
+    break;
+    default:
+    classStr = "h150";
+    height = 151;
+    break;
+    }	
+    if(courseInfoTxt.getSize().y > height){
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.removeClass("abs_out");
+    courseInfoFold.removeClass("abs_out");
+    }
+    courseInfoFold.addEvent("click", function(){
+    if (this.txt() === "[展开]") {
+    courseInfoBox.removeClass(classStr);
+    courseInfoTxt.removeClass(classStr);
+    courseTxtDot.hide();
+    this.txt("[收起]")
+    } else {
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.show();
+    this.txt("[展开]")
+    }
+    })
+    }
+    var tchDescBox = $('tchDescBox');
+    $powerFloat($$('.course_tch_item'), {
+    position: "4-1",
+    offsets: {x:0, y:0},
+    target: tchDescBox,
+    showCall: function(){
+    var tchDesc = $('tchDescContent'), tchDescInnerBox = $('tchDescInnerBox');
+    tchDesc.html(this.attr('data'));
+    if(tchDesc.h() < 200) {
+        tchDescInnerBox.h(tchDesc.h() + 40);
+        }else{
+        tchDescInnerBox.h(240);
+        }
+        },
+        hideCall: function(){
+        }
+        });
+        var initStarNum = $$('.i_50').length, initGrayStarArr = $$('.i_49');
+        $$('.jsForStar').each(function(item, index){
+        item.store('initGray', item.getElement('i').hasClass('i_49'));
+        item.addEvents({
+        'mouseenter': function(){
+	           if(item.getElement('i').hasClass('i_49')){
+		           for(var i = 0; i < index+1; i++){
+			            if($$('.jsForStar')[i].getElement('i').hasClass('i_49')){
+			               $$('.jsForStar')[i].getElement('i').swapClass('i_49', 'i_50');
+			            }
+		            }
+	            }
+            },
+            'mouseleave': function(){
+                if(item.retrieve('initGray') && item.getElement('i').hasClass('i_50')){
+	            	for(var i = 0; i < initGrayStarArr.length; i++){
+		        	        if(initGrayStarArr[i].hasClass('i_50')){
+		                	initGrayStarArr[i].swapClass('i_50', 'i_49');
+		                }
+	                }
+                }
+             },
+                'click': function(){
+                    for(var i = index+1; i < $$('.jsForStar').length; i++){//当前星星的后面均变灰
+	                    if($$('.jsForStar')[i].getElement('i').hasClass('i_50')){	
+		                    $$('.jsForStar')[i].getElement('i').swapClass('i_50', 'i_49');
+		                    $$('.jsForStar')[i].store('initGray', true);
+	                    }
+                    }
+                    if(index === 0 && !item.retrieve('initGray')){
+                    	item.getElement('i').swapClass('i_50', 'i_49');
+                    }
+                    new AjaxPost(item, {
+	                    url: '/CourseController/setCourseStar',
+	                    data: {courseId: $('courseStars').attr('data'), starNumber: $$('.i_50').length},
+	                    callback: function(json){
+		                    	if(json.succ){
+			                    	$('personCount').txt(new Number($('personCount').txt()) + 1);
+			                   		 var html = '';
+			                     	for(var i = 0; i < new Number(json.html); i++){
+			                        	html += '<i class="i i_50"></i>';
+			                        }
+			                        $('courseStars').html(html);
+			                        $('courseStars').attr('flag', 'true');
+			                        $testRemind($('courseStars'), '评价成功！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }else{
+			                        $('courseStars').attr('flag', 'false');
+			                        $testRemind($('courseStars'), '评价失败！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }
+	                        }
+                      }).send();
+                  }
+                        })
+                        })
+</script>
+<script type="text/javascript">
+   var pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				//打开窗口
+			     document.getElementById("zopacity").style.display="block";
+			     document.getElementById("pingfenContent").style.display="block";
+				 if(curPersonStar > 0){
+					document.getElementById("id_zs_item").style.display="none";
+				 }
+				 //窗口定位
+				 var heit = window.screen.availHeight,
+                    wid = window.screen.availWidth,
+                    alertwid = document.getElementById("pingfenContent").css("width").replace("px",""),
+                    left = (wid-alertwid)/2,
+					top = heit/8; 
+                    document.getElementById("pingfenContent").css({position: "absolute",top: top, left: left,zIndex:9999}); 
+					
+					//加载评价记录列表
+					new AjaxPost(btn, {
+        				url : '/CourseController/CourseStarContextReplyList',
+        				data : {
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('replyList').html("");
+								for(var i=0;i<json.contextReplyList.length;i++){
+									var _width = json.contextReplyList[i].starNumber*18+(json.contextReplyList[i].starNumber-1)*6;
+									var html = ""+
+    							    "<div class=\"zs_item\">"+
+                                    	"<div class=\"zs_i_gray\">"+
+                                        	"<div class=\"zs_i_re\">"+
+                                            	"<div class=\"zs_i_abs\">"+
+                                                	"<p class=\"zs_i_portrait\"><img src=\""+json.contextReplyList[i].userImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                    "<ul class=\"zs_i_infor\">"+
+                                                    	"<li class=\"zs_i_top\"><span>"+json.contextReplyList[i].username+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.contextReplyList[i].createTimes+"</span></li>"+
+                                                        "<li class=\"zs_padding5\">"+
+                                                        	"<dl class=\"zs_star_gray\">"+
+                                                                "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                            "</dl>"+
+                                                		"</li>"+
+                                                    "</ul>"+
+                                                "</div>"+
+                                            "</div>"+
+                                            "<div>"+json.contextReplyList[i].context+"</div>"+
+                                        "</div>"+
+                                    "</div>";
+									
+    								$('replyList').html($('replyList').html()+html);
+									
+								}
+							    if(json.contextReplyList.length<=0){
+									$('replyList').html('暂无评论！');
+								}
+        					}
+        				}
+        			}).send();
+    		});
+    	}
+    }
+var close_pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				 document.getElementById("zopacity").style.display="none";
+				 document.getElementById("pingfenContent").style.display="none";
+    		});
+    	}
+    }
+close_pingfen($('_zs_close'))
+
+var commitPingfen = function(btn){
+	if($isEle(btn)){
+		btn.addEvent('click', function(){
+		var _context = $('zs_i_textarea').val(); 
+    		if(_context.length>0){
+    		   _context = _context.replace(/^\s+|\s+$/g, ""); 
+    		   if(_context.length>0&&_context.length<150){
+    		       new AjaxPost(btn, {
+        				url : '/CourseController/setCourseStarContext',
+        				data : {
+        					context : _context,
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('zs_i_textarea').val(""); 
+								document.getElementById("id_zs_item").style.display="none";
+								var beforehtml = $('replyList').html();
+								if(beforehtml=="暂无评论！"){
+									$('replyList').html("")
+								}
+								
+							 	var _width = curPersonStar*18+(curPersonStar-1)*6;
+								var html = ""+
+							    "<div class=\"zs_item\">"+
+                                	"<div class=\"zs_i_gray\">"+
+                                    	"<div class=\"zs_i_re\">"+
+                                        	"<div class=\"zs_i_abs\">"+
+                                            	"<p class=\"zs_i_portrait\"><img src=\""+json.curImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                "<ul class=\"zs_i_infor\">"+
+                                                	"<li class=\"zs_i_top\"><span>"+json.curUserName+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.publicTime+"</span></li>"+
+                                                    "<li class=\"zs_padding5\">"+
+                                                    	"<dl class=\"zs_star_gray\">"+
+                                                            "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                        "</dl>"+
+                                            		"</li>"+
+                                                "</ul>"+
+                                            "</div>"+
+                                        "</div>"+
+                                        "<div>"+_context+"</div>"+
+                                    "</div>"+
+                                "</div>";
+								$('replyList').html(html+$('replyList').html());
+        					}else{
+        					    alert(json.msg);
+        					    return;
+        					}
+        				}
+        			}).send();
+    		    }else{
+				   alert("0<字数<150");
+				}
+    		}
+		});
+	}
+}
+commitPingfen($('commitPingfen'))
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+} 
+</script>
+
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.2.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+
+<script>
+  	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+var courseStar=document.getElementById("courseStarTag");
+var oclazzTag=document.getElementById("clazzTag");
+var editvalue,courseid,isLogin,templatevalue;
+if(oclazzTag){  
+   editvalue=oclazzTag.getAttribute("data");
+   isLogin=oclazzTag.getAttribute("flag");
+   templatevalue=oclazzTag.getAttribute("template");
+}
+if(courseStar){
+	courseid=courseStar.getAttribute("data");
+}
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=207677988&edit="+editvalue;
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:templatevalue}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				//alert("getCourseStarTag");
+				jQuery('#courseStarTag').prepend(data);
+    		    //document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+jQuery.ajax({ //一个Ajax过程 
+			type: "get", //以get方式与后台沟通 
+			url : "/CourseController/courseEvaluation", 
+			dataType:'html',//返回的值
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){//如果调用成功 
+			    jQuery('#courseEvaluation').append(data);
+			} 
+		}); 
+	
+var oPriceCourse=document.getElementById("priceCourse");
+if(oPriceCourse){
+jQuery.ajax({ //一个Ajax过程 
+	type: "get", //以get方式与后台沟通 
+	url : "/course/priceTag", 
+	dataType:'html',//返回的值
+	data: {courseId:courseid}, 
+	success: function(data){//如果调用成功 
+	    jQuery('#priceCourse').append(data);
+	} 
+});
+}
+ 
+jQuery(function(){
+    try{
+        //获取登录状态
+        var login = true;
+        var fid = jQuery.cookie("fid");
+        var loginString = "_uid";
+                		var loginStatus=jQuery.cookie(loginString);
+						//alert(loginStatus);
+                		if(loginStatus==undefined) login=false;
+        	          //  alert(login);
+						
+                		//请求访问数
+                		jQuery.ajax({ //一个Ajax过程 
+                			type: "get", //以get方式与后台沟通 
+                			url : "/course/viewTimesTag", 
+                			dataType:'html',//返回的值
+                			data: {courseId:courseid,loginStatus:login},
+                			success: function(data){//如果调用成功 
+                			    jQuery('#viewTimesTag').append(data);
+                			} 
+                		}); 
+    }catch(e){
+	  alert(e.message);
+	 }
+});
+</script>
+<script>
+	jQuery(function(){
+		jQuery(".M1C2").hover(function(){
+			jQuery(this).children().eq(2).show();
+			},function(){
+				jQuery(this).children().eq(2).hide();
+				})
+		})
+	jQuery(function(){
+		jQuery(".Djckxq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).next().show();
+			jQuery(this).parent().prev().show();
+			})
+		jQuery(".Djsq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).prev().show();
+			jQuery(this).parent().prev().hide();
+			})
+	})
+	jQuery(function(){
+		jQuery(".MRc1bt a").click(function(){
+			if(jQuery(this).parent().next().is(":hidden")){
+				jQuery(".MRc1ul").hide();
+				jQuery(this).parent().next().show();
+				} else {
+				jQuery(this).parent().next().hide();
+					}
+
+	 })
+		
+   })
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm" style="left:50%;margin-left:-170px;">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<script>
+jQuery("#iboxAlertOk").click(function(){
+	jQuery('.courseAlert').hide();
+});
+jQuery(".courseTilte .ibox_close").click(function(){
+	jQuery('.courseAlert').hide();
+});
+
+jQuery(".courseTilte-confirm .ibox_close").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+</script>
+<script>
+	var $ = mootools;
+</script>
+<script>
+	jQuery(".listtitle").toggle(function(){
+		jQuery(this).next("div").show()
+	},function(){
+		jQuery(this).next("div").hide()
+	})
+</script>
+
+            <script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script>            <link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+            <script src="/js/grouplistUploadCourseImg.js?v=2019-1122-1325"></script>
+            <script src="/js/init-teamteacher.js"></script>
+            <script>
+		function moreEvaluation(courseId){
+				jQuery(".viewmore").hide();
+		 		jQuery("#pageNum").val(parseInt(jQuery("#pageNum").val())+1);
+				var page = jQuery("#pageNum").val();
+				jQuery.ajax({ //一个Ajax过程 
+					type: "get", //以get方式与后台沟通 
+					url : "/CourseController/courseEvaluation", 
+					dataType:'html',//返回的值
+					data: {courseId:courseid,edit:editvalue,page:page,hiddenMyEvaluation:1}, 
+					success: function(data){//如果调用成功 
+					    jQuery('#courseEvaluation').append(data);
+					} 
+				}); 
+		}
+        jQuery(".w_menu_item").on("click",function(){
+            jQuery(this).addClass("wcurr").siblings().removeClass("wcurr");
+            var  id = jQuery(this).attr("id");
+            var  parentId = jQuery(this).attr("parentId");
+            var array = document.getElementsByName("ariticleParentId_"+parentId);
+            if(array != null){
+                for(var i = 0 ; i<array.length;i++){
+                    array[i].css('display','none');
+                }
+            }
+            jQuery("#ariticlecontent_"+id).css('display','block');
+        })
+        if(207677988== '200119420'){
+            jQuery("#courseNavList li").each(function(){
+                if(jQuery(this).html().indexOf('课程评价') > 0 ){
+                    jQuery(this).css('display','none');
+                }
+            });
+        }
+	</script>
+
+    </div>
+          <input type="hidden" id="report_type" value="webURL"/>
+          <input type="hidden" id="sourceContent" value=""/>
+          <input type="hidden" id="sourceIdStr" value=""/>
+        <div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div>        <script src="/js/coursehomeTip.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+	    <script>
+               //初始化举报按钮
+        jQuery(document).ready(function () {
+            var is_login = jQuery("#is_login").val();
+            var is_teacher = jQuery("#is_teacher").val();
+            if (is_login == 'false') {
+                //未登录
+                jQuery("#toReport").attr('onclick', '_msgtip()');
+            } else if (typeof(is_teacher) != "undefined" && is_teacher == 'true') {
+                //教师身份
+                jQuery("#_report").remove();
+            }
+        })
+
+	   function showSemesterList(){
+		   var display = jQuery("#options").css("display");
+	  	   if(display == "none"){
+	  	  		jQuery("#options").show();
+	  	   }else{
+	  	   		jQuery("#options").hide();
+	  	   }
+	      
+	    }
+
+        var _msgtip = function () {
+            alert("请先登录！");
+        }
+    </script>
+
+    </body>
+	
+</html>

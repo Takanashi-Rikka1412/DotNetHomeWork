@@ -1,0 +1,507 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/cae/favicon.ico" type="image/x-icon" />
+<link href="/cae/sites/main/css/gyong.css" rel="stylesheet" type="text/css" />
+<link href="/cae/sites/main/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script type="text/javascript" src="/cae/sites/main/js/jr_change_div.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$("#hex_tab_a").hover(function(){
+			var aHref = $("div[class=\"hex_tab_div_current\"] a").attr("hreft");
+			$(this).attr("href",aHref);
+		});
+		$("#renz_tab_a").hover(function(){
+			var aHref = $("div[class=\"renz_tab_div_current\"] a").attr("hreft");
+			$(this).attr("href",aHref);
+		});
+		$("#yuans_tab_a").hover(function(){
+			var aHref = $("div[class=\"yuans_tab_div_current\"] a").attr("hreft");
+			$(this).attr("href",aHref);
+		});
+		$("#qita_tab_a").hover(function(){
+			var aHref = $("div[class=\"qita_tab_div_current\"] a").attr("hreft");
+			$(this).attr("href",aHref);
+		});
+	});
+</script>
+<title>中国工程院</title>
+</head>
+<body>
+
+
+
+
+<script type="text/javascript" src="/cae/sites/main/js/jquery.min.js"></script>
+<script>
+	$(function() {
+		$("#wxhover").hover(function() {
+			$("#wxshow").css('display',"block");
+		},function() {
+			$("#wxshow").css('display',"none");
+		});
+	});
+	function sumitForm() {
+		$("#subForm")[0].submit();
+	}
+</script>
+<div class="inbig_bgtop">
+	<div class="top">
+  		<div class="top_mail fontst">
+
+			<div class="topdate">
+				<a href="https://mailsrv.cae.cn/" target="_blank" class="white12">进入邮件系统</a>&emsp;&emsp;<font size='2px'><script src="/cae/sites/main/js/date.js" type="text/javascript"></script></font>&emsp;&emsp;
+			</div>
+			<div class="tophome">
+				<span><img src="/cae/sites/main/images/h_01.png" /><a href="/cae/html/main/index.html">首页</a></span>
+
+			</div>
+		</div>
+		<div class="top_wx">
+			<div class="topnesoul">
+					<div class="nesoul">
+						<form method="POST" action="/cae/app/search/search.jsp" id="subForm">
+							<input type="hidden" name="area" value="3" />
+							<input type="hidden" name="webid" value="main" />
+							<dl> <input type="text" name="q" value="输入关键词" size="" class="inputnesoul" onFocus="if(value==defaultValue){value='';this.style.color='#000'}" onBlur="if(!value){value=defaultValue; this.style.color='#999'}"/></dl>
+							<dt><img style="cursor:pointer;" onclick="sumitForm();" src="/cae/sites/main/images/h_03.png" /></dt>
+						</form>
+					</div>
+			</div>		
+			<p><a href="http://en.cae.cn/en/" target="_blank" class="white12">English Version</a></p>
+		</div>
+	</div>
+
+	<div class="top_logo">
+		<div class="logo"><a href="/cae/html/main/index.html"><img src="/cae/sites/main/images/logo.png" /></a></div>
+		
+
+
+<link href="/cae/sites/main/css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/cae/sites/main/js/jr_change_div.js"></script>
+<script type="text/javascript">
+		$(function() {
+			for(var idListIndex = 1,columnIndex=306;idListIndex < 9 ; idListIndex++) {
+				//$("#9_"+idListIndex).bind('mouseover',function() {
+					//var curId = $(this).attr("id");
+					//curId = curId.substring(2);
+					$("#tab_9_"+idListIndex).load("/cae/html/main/col"+(columnIndex+parseInt(idListIndex))+"/column_"+(columnIndex+parseInt(idListIndex))+"_1.html");
+					//console.log("1#9_"+idListIndex+"----/cae/html/main/col"+(columnIndex+parseInt(idListIndex))+"/column_"+(columnIndex+parseInt(idListIndex))+"_1.html");
+				//});
+			}
+		});
+  </script>
+
+<div class="logo_r" id="anchor_point">
+		<div class="inmenu" id="anchor_points">
+			<ul>
+             
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_1' rel='tab_9_1'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,1,8,null)" onclick="columnOnclick('/html/main/col8/column_8_1.html',1)">工程院机构</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_2' rel='tab_9_2'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,2,8,null)" onclick="columnOnclick('/html/main/col48/column_48_1.html',2)">院士队伍</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_3' rel='tab_9_3'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,3,8,null)" onclick="columnOnclick('/html/main/col83/column_83_1.html',3)">战略咨询</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_4' rel='tab_9_4'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,4,8,null)" onclick="columnOnclick('/html/main/col99/column_99_1.html',4)">学术活动</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_5' rel='tab_9_5'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,5,8,null)" onclick="columnOnclick('/html/main/col104/column_104_1.html',5)">科技合作</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_6' rel='tab_9_6'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,6,8,null)" onclick="columnOnclick('/html/main/col123/column_123_1.html',6)">人才培养</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_7' rel='tab_9_7'>
+				 <h4>
+				 <a href="javascript:void(0)" onmousemove="showjinrtab(9,7,8,null)" onclick="columnOnclick('/html/main/col296/column_296_1.html',7)">对外交流</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+			<li>
+				 
+			   <div class="navm_tab_div_common" id='9_8' rel='tab_9_8'>
+				 <h4>
+				 <a href="http://tousu.cae.cn:8090/cae/pro/messageIssuedList" onmouseover="this.style.color='#0f5eca';" onmouseout="this.style.color='#000000';">互动交流</a>
+				 </h4>
+			   </div>
+				 
+			</li>
+			   
+		  </ul>
+		</div>
+		    <script>
+				function columnOnclick(columnlinkurl,coid){
+					
+				    location.href='/cae'+columnlinkurl+'';
+				}
+			</script>
+   <div style="height:46px;"></div>
+   <div id="tab_9_1" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_2" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_3" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_4" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_5" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_6" class="n_tab_div_con"  style="display:none">
+   </div>
+   <div id="tab_9_7" class="n_tab_div_con"  style="display:none">
+   </div>
+   
+</div>
+	</div>
+	
+</div>
+
+<div class="mdbg_pic clearfix">
+		<div class="right_md_picture"><img src="/cae/sites/main/images/dianq_ico01.jpg" />当前位置：<a href="#" class="grey12 fontbold"><A href='/cae/html/main/index.html'>首页</a> > <A href='/cae/html/main/col33/column_33_1.html'>院士活动</a></a></div>
+		<div class="nysfc_md3">
+				<div class="nysfc_01_rtop"><h3>机关信息</h3><div class="nysfc_more"><a href="/cae/html/main/col148/column_148_1.html">更多</a></div></div>
+				<div class="core_picmd">
+				<ul>
+					
+							<li>
+							<p><a href="/cae/html/main/col148/2021-04/22/20210422092159195703653_1.html" target="_blank"><img src="/cae/html/files/2021-04/22/20210422092356507745040.jpg" style="width:186px;height:146px;"/></a></p>
+							<h4><a href="/cae/html/main/col148/2021-04/22/20210422092159195703653_1.html" target="_blank">高位谋划科技助力乡村振兴——李晓红会见云南省委省政府主要领导</a></h4>
+							</li>
+					
+							<li>
+							<p><a href="/cae/html/main/col148/2021-04/22/20210422092435554314515_1.html" target="_blank"><img src="/cae/html/files/2021-04/22/20210422092530992758088.jpg" style="width:186px;height:146px;"/></a></p>
+							<h4><a href="/cae/html/main/col148/2021-04/22/20210422092435554314515_1.html" target="_blank">乡村振兴谋新篇  科技帮扶办实事——李晓红赴澜沧调研乡村振兴工作</a></h4>
+							</li>
+					
+							<li>
+							<p><a href="/cae/html/main/col148/2021-04/22/20210422092629117275157_1.html" target="_blank"><img src="/cae/html/files/2021-04/22/20210422092712211146615.jpg" style="width:186px;height:146px;"/></a></p>
+							<h4><a href="/cae/html/main/col148/2021-04/22/20210422092629117275157_1.html" target="_blank">中国工程院调研组赴会泽调研乡村振兴工作</a></h4>
+							</li>
+					
+							<li>
+							<p><a href="/cae/html/main/col148/2021-04/22/20210422092757820525770_1.html" target="_blank"><img src="/cae/html/files/2021-04/22/20210422092834726436800.jpg" style="width:186px;height:146px;"/></a></p>
+							<h4><a href="/cae/html/main/col148/2021-04/22/20210422092757820525770_1.html" target="_blank">一张蓝图绘到底  乡村振兴正当时</a></h4>
+							</li>
+					
+							<li>
+							<p><a href="/cae/html/main/col148/2020-10/27/20201027100928771243350_1.html" target="_blank"><img src="/cae/html/files/2020-10/27/20201027101036755879289.jpg" style="width:186px;height:146px;"/></a></p>
+							<h4><a href="/cae/html/main/col148/2020-10/27/20201027100928771243350_1.html" target="_blank">袁隆平院士向中国工程院定点扶贫县捐赠一万斤优质稻种</a></h4>
+							</li>
+																				
+				</ul>
+				</div>
+		</div>		
+		<div class="nysfc_md">
+				<div class="nysfc_01">
+						<div class="hex_rtop">
+								<div class="hex_tab_div_current" id='115_1' onmousemove="showjinrtab(115,1,2)"><a hreft="/cae/html/main/col43/column_43_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">寿辰贺信</a></div>
+								<div class="hex_tab_div_common" id='115_2' onmousemove="showjinrtab(115,2,2)"><a hreft="/cae/html/main/col44/column_44_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">逝世唁电</a></div>
+								<div class="hex_more"><a id="hex_tab_a" href="/cae/html/main/col43/column_43_1.html">更多</a></div>
+						</div>
+						<div id="tab_115_1" class="hex_tab_div_con" style="display:block">
+							<div class="nysfc_01_news">
+							<ul>
+						
+								<li><span>2021-02-26</span><a href="/cae/html/main/col43/2021-02/26/20210226153518882249014_1.html" class="grey14" target="_blank">李晓红院长祝孙永福院士八十岁寿辰贺信</a></li>
+						
+								<li><span>2021-02-10</span><a href="/cae/html/main/col43/2021-02/10/20210210140723591626360_1.html" class="grey14" target="_blank">李晓红院长祝石元春院士九十岁寿辰贺信</a></li>
+						
+								<li><span>2021-01-15</span><a href="/cae/html/main/col43/2021-01/15/20210115084805629758582_1.html" class="grey14" target="_blank">李晓红院长祝钟山院士九十岁寿辰贺信</a></li>
+						
+								<li><span>2021-01-09</span><a href="/cae/html/main/col43/2021-01/20/20210120170320082244991_1.html" class="grey14" target="_blank">李晓红院长祝陆元九院士一百零一岁寿辰贺信</a></li>
+						
+								<li><span>2021-01-07</span><a href="/cae/html/main/col43/2021-01/20/20210120170120052826732_1.html" class="grey14" target="_blank">李晓红院长祝王玉明院士八十岁寿辰贺信</a></li>
+						
+								<li><span>2021-01-05</span><a href="/cae/html/main/col43/2021-01/04/20210104195114277599843_1.html" class="grey14" target="_blank">李晓红院长祝杨胜利院士八十岁寿辰贺信</a></li>
+						
+								<li><span>2020-12-26</span><a href="/cae/html/main/col43/2020-12/25/20201225174728263590299_1.html" class="grey14" target="_blank">李晓红院长祝汤钊猷院士九十岁寿辰贺信</a></li>
+						
+								<li><span>2020-12-23</span><a href="/cae/html/main/col43/2020-12/23/20201223100307580480461_1.html" class="grey14" target="_blank">李晓红院长祝孙优贤院士八十岁寿辰贺信</a></li>
+						
+							</ul>						
+							</div>
+						</div>
+						<div id="tab_115_2" class="hex_tab_div_con"  style="display:none">
+							<div class="nysfc_01_news">
+							<ul>
+						
+								<li><span>2021-04-06</span><a href="/cae/html/main/col44/2021-04/06/20210406145337684217574_1.html" class="grey14" target="_blank">李京文院士逝世</a></li>
+						
+								<li><span>2021-04-01</span><a href="/cae/html/main/col44/2021-04/01/20210401165155951269122_1.html" class="grey14" target="_blank">彭士禄院士逝世</a></li>
+						
+								<li><span>2021-02-10</span><a href="/cae/html/main/col44/2021-02/10/20210210140429440569475_1.html" class="grey14" target="_blank">沈忠厚院士逝世</a></li>
+						
+								<li><span>2020-12-14</span><a href="/cae/html/main/col44/2020-12/16/20201216163942464404251_1.html" class="grey14" target="_blank">王玉普院士逝世</a></li>
+						
+								<li><span>2020-12-03</span><a href="/cae/html/main/col44/2020-12/03/20201203170535947200358_1.html" class="grey14" target="_blank">李冠兴院士逝世</a></li>
+						
+								<li><span>2020-11-10</span><a href="/cae/html/main/col44/2020-11/10/20201110154151930774558_1.html" class="grey14" target="_blank">陈灏珠院士逝世</a></li>
+						
+								<li><span>2020-11-09</span><a href="/cae/html/main/col44/2020-11/11/20201111153536140461728_1.html" class="grey14" target="_blank">侯锋院士逝世</a></li>
+						
+								<li><span>2020-09-24</span><a href="/cae/html/main/col44/2020-09/24/20200924140031568684320_1.html" class="grey14" target="_blank">李东英院士逝世</a></li>
+						
+							</ul>						
+							</div>						
+						</div>
+				</div>
+				<div class="nysfc_02">
+						<div class="hex_rtop">
+								<div class="renz_tab_div_current" id='116_1' onmousemove="showjinrtab(116,1,2)"><a hreft="/cae/html/main/col46/column_46_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">资深院士工作动态</a></div>
+								<div class="renz_tab_div_common" id='116_2' onmousemove="showjinrtab(116,2,2)"><a hreft="/cae/html/main/col45/column_45_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">学术任职</a></div>
+								<div class="hex_more"><a id="renz_tab_a" href="/cae/html/main/col43/column_43_1.html">更多</a></div>
+						</div>
+						<div id="tab_116_1" class="hex_tab_div_con"  style="display:block">
+								<div class="nysfc_01_news">
+								<ul>
+						
+									<li><span>2016-01-28</span><a href="/cae/html/main/col46/2016-01/28/20160128143211983588958_1.html" class="grey14" target="_blank">在两院资深院士联谊会理事会换届暨两院资深院士工作委员...</a></li>
+						
+									<li><span>2016-01-28</span><a href="/cae/html/main/col46/2016-01/28/20160128143307482259425_1.html" class="grey14" target="_blank">在两院资深院士联谊会理事会换届暨两院资深院士工作委员...</a></li>
+						
+									<li><span>2016-01-28</span><a href="/cae/html/main/col46/2016-01/28/20160128143458066824375_1.html" class="grey14" target="_blank">在两院资深院士联谊会理事会换届暨两院资深院士工作委员...</a></li>
+						
+									<li><span>2014-09-03</span><a href="/cae/html/main/col46/2014-09/03/20140903091625468128696_1.html" class="grey14" target="_blank">两院资深院士联谊会咨询项目交流会在京召开</a></li>
+						
+									<li><span>2014-09-02</span><a href="/cae/html/main/col46/2014-09/02/20140902090415200985725_1.html" class="grey14" target="_blank">部分资深院士参观中国北方车辆研究所</a></li>
+						
+									<li><span>2014-08-28</span><a href="/cae/html/main/col46/2014-08/28/20140828100121132188904_1.html" class="grey14" target="_blank">两院资深院士到国家半导体照明工程研发及产业联盟调研</a></li>
+						
+									<li><span>2014-06-25</span><a href="/cae/html/main/col46/2014-06/25/20140625162043510142535_1.html" class="grey14" target="_blank">两院资深院士联谊会第二届理事会第七次（扩大）会议召开</a></li>
+						
+									<li><span>2013-12-23</span><a href="/cae/html/main/col46/2013-12/23/20131223174223342399991_1.html" class="grey14" target="_blank">两院资深院士联谊会第二届理事会第六次（扩大）会议召开</a></li>
+						
+								</ul>						
+								</div>
+						</div>
+						<div id="tab_116_2" class="hex_tab_div_con"  style="display:none">
+								<div class="nysfc_01_news">
+								<ul>
+						
+									<li><span>2015-12-03</span><a href="/cae/html/main/col45/2015-12/03/20151203173348065796013_1.html" class="grey14" target="_blank">王正国院士接任新一届国际交通医学会主席</a></li>
+						
+									<li><span>2014-09-29</span><a href="/cae/html/main/col45/2014-09/29/20140929161911145143946_1.html" class="grey14" target="_blank">张建云当选英国皇家工程院外籍院士</a></li>
+						
+									<li><span>2014-02-08</span><a href="/cae/html/main/col45/2014-02/08/20140208161940330399067_1.html" class="grey14" target="_blank">张兴栋院士当选美国国家工程院外籍院士</a></li>
+						
+									<li><span>2013-10-24</span><a href="/cae/html/main/col45/2013-10/24/20131024160829742768174_1.html" class="grey14" target="_blank">樊代明当选美国医学科学院外籍院士</a></li>
+						
+									<li><span>2013-02-17</span><a href="/cae/html/main/col45/2013-02/17/20130217140628508819059_1.html" class="grey14" target="_blank">周济、谢克昌当选为美国工程院外籍院士</a></li>
+						
+									<li><span>2012-11-27</span><a href="/cae/html/main/col45/2012-11/27/20121127181706171961969_1.html" class="grey14" target="_blank">邓秀新院士当选国际柑橘学会会士</a></li>
+						
+									<li><span>2012-09-26</span><a href="/cae/html/main/col45/2012-09/26/20120926165631393317295_1.html" class="grey14" target="_blank">陈剑平当选为发展中国家科学院院士</a></li>
+						
+									<li><span>2012-07-30</span><a href="/cae/html/main/col45/2012-07/30/20120730084827595772814_1.html" class="grey14" target="_blank">曹雪涛院士当选亚洲大洋洲免疫学会联盟主席</a></li>
+						
+								</ul>						
+								</div>						
+						</div>
+				</div>
+		</div>
+		<div class="nysfc_md4">
+				<div class="nysfc_01">
+						<div class="hex_rtop">
+								<div class="yuans_tab_div_current" id='117_1' onmousemove="showjinrtab(117,1,2)"><a hreft="/cae/html/main/col145/column_145_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">会议、活动</a></div>
+								<div class="yuans_tab_div_common" id='117_2' onmousemove="showjinrtab(117,2,2)"><a hreft="/cae/html/main/col147/column_147_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">发挥院士作用</a></div>
+								<div class="hex_more"><a id="yuans_tab_a" href="/cae/html/main/col145/column_145_1.html">更多</a></div>
+						</div>
+						<div id="tab_117_1" class="hex_tab_div_con"  style="display:block">
+							<div class="nysfc_01_news">
+							<ul>
+						
+								<li><span>2020-09-08</span><a href="/cae/html/main/col145/2020-09/08/20200908194226793866737_1.html" class="grey14" target="_blank">钟南山、张伯礼、陈薇齐聚工程院，他们这么说</a></li>
+						
+								<li><span>2019-07-02</span><a href="/cae/html/main/col145/2019-07/02/20190702174931805917699_1.html" class="grey14" target="_blank">杜祥琬院士一行赴杭州调研“无废城市”建设情况</a></li>
+						
+								<li><span>2019-01-15</span><a href="/cae/html/main/col145/2019-01/15/20190115114747570132074_1.html" class="grey14" target="_blank">学习钱七虎院士先进事迹大会在南京召开</a></li>
+						
+								<li><span>2018-06-04</span><a href="/cae/html/main/col145/2018-06/04/20180604164958610282220_1.html" class="grey14" target="_blank">湖南召开科技创新奖励大会</a></li>
+						
+								<li><span>2018-06-04</span><a href="/cae/html/main/col145/2018-06/04/20180604164923383627495_1.html" class="grey14" target="_blank">2018国际临床和转化医学论坛筹备会在沪召开</a></li>
+						
+								<li><span>2018-06-04</span><a href="/cae/html/main/col145/2018-06/04/20180604164855704788007_1.html" class="grey14" target="_blank">第87期院士沙龙：人工智能与流程制造深度融合</a></li>
+						
+								<li><span>2018-06-04</span><a href="/cae/html/main/col145/2018-06/04/20180604164820922217183_1.html" class="grey14" target="_blank">中国工程院生态文明课题组到安吉县调研</a></li>
+						
+								<li><span>2018-06-04</span><a href="/cae/html/main/col145/2018-06/04/20180604164735500711037_1.html" class="grey14" target="_blank">《面向2035的“一带一路”医疗健康合作战略研究》项...</a></li>
+						
+							</ul>						
+							</div>
+						</div>
+						<div id="tab_117_2" class="hex_tab_div_con"  style="display:none">
+							<div class="nysfc_01_news">
+							<ul>
+						
+								<li><span>2021-04-13</span><a href="/cae/html/main/col147/2021-04/14/20210414162108804107019_1.html" class="grey14" target="_blank">中国工程院士为锦绣太原城建设建言献策</a></li>
+						
+								<li><span>2021-03-29</span><a href="/cae/html/main/col147/2021-03/29/20210329161226991496805_1.html" class="grey14" target="_blank">缅怀彭士禄院士，弘扬与祖国同行的科学家精神</a></li>
+						
+								<li><span>2021-03-20</span><a href="/cae/html/main/col147/2021-03/22/20210322085012635441649_1.html" class="grey14" target="_blank">“农民院士”的乡村新战场</a></li>
+						
+								<li><span>2021-03-17</span><a href="/cae/html/main/col147/2021-03/17/20210317105026645232934_1.html" class="grey14" target="_blank">王辰：一个具有“钉钉子精神”的人</a></li>
+						
+								<li><span>2021-03-17</span><a href="/cae/html/main/col147/2021-03/17/20210317104842723212228_1.html" class="grey14" target="_blank">黄璐琦：为国履职 为民尽责 善济岐黄</a></li>
+						
+								<li><span>2021-03-17</span><a href="/cae/html/main/col147/2021-03/17/20210317104343377815832_1.html" class="grey14" target="_blank">委员眼中的陈薇委员</a></li>
+						
+								<li><span>2021-03-06</span><a href="/cae/html/main/col147/2021-03/06/20210306212229672979810_1.html" class="grey14" target="_blank">全国政协委员陈晓红：强化新业态知识产权保护，有力支撑...</a></li>
+						
+								<li><span>2021-03-06</span><a href="/cae/html/main/col147/2021-03/06/20210306211815295305960_1.html" class="grey14" target="_blank">未来5年，健康中国怎么建？——专访全国政协委员王辰、...</a></li>
+						
+							</ul>						
+							</div>						
+						</div>
+				</div>
+				<div class="nysfc_02">
+						<div class="hex_rtop">
+								<div class="qita_tab_div_current" id='118_1' onmousemove="showjinrtab(118,1,2)"><a hreft="/cae/html/main/col149/column_149_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">服务院士</a></div>
+								<div class="qita_tab_div_common" id='118_2' onmousemove="showjinrtab(118,2,2)"><a hreft="/cae/html/main/col150/column_150_1.html" href="javascript:void(0);" style="cursor:default;" onclick="return false;">其他</a></div>
+								<div class="hex_more"><a id="qita_tab_a" href="/cae/html/main/col149/column_149_1.html">更多</a></div>
+						</div>
+						<div id="tab_118_1" class="hex_tab_div_con"  style="display:block">
+								<div class="nysfc_01_news">
+								<ul>
+						
+									<li><span>2020-12-11</span><a href="/cae/html/main/col149/2020-12/11/20201211174415913892808_1.html" class="grey14" target="_blank">中国工程院与泰康保险集团战略合作备忘录签字仪式在京举行</a></li>
+						
+									<li><span>2019-01-30</span><a href="/cae/html/main/col149/2019-01/30/20190130183414493497376_1.html" class="grey14" target="_blank">国粹艺术走进科学殿堂 “献给共和国的科学家们”新春京...</a></li>
+						
+									<li><span>2018-04-11</span><a href="/cae/html/main/col149/2018-04/11/20180411115344743609979_1.html" class="grey14" target="_blank">上海院士中心与中山医院签署“院士医疗合作备忘录”</a></li>
+						
+									<li><span>2018-03-19</span><a href="/cae/html/main/col149/2018-03/19/20180319093545581495350_1.html" class="grey14" target="_blank">湖南省科技厅领导看望慰问谭蔚泓和罗安院士</a></li>
+						
+									<li><span>2018-03-19</span><a href="/cae/html/main/col149/2018-03/19/20180319093514175401090_1.html" class="grey14" target="_blank">山东省委副书记、省长龚正看望于金明院士</a></li>
+						
+									<li><span>2018-01-03</span><a href="/cae/html/main/col149/2018-01/03/20180103164704922856011_1.html" class="grey14" target="_blank">武汉市领导慰问宁津生院士85岁生日</a></li>
+						
+									<li><span>2018-01-03</span><a href="/cae/html/main/col149/2018-01/03/20180103164611374649158_1.html" class="grey14" target="_blank">浙江省科协专项设立院士行业科技战略咨询项目</a></li>
+						
+									<li><span>2017-12-04</span><a href="/cae/html/main/col149/2017-12/04/20171204105646933865150_1.html" class="grey14" target="_blank">2017年在京院士专家体检咨询活动举行</a></li>
+						
+								</ul>						
+								</div>
+						</div>
+						<div id="tab_118_2" class="hex_tab_div_con"  style="display:none">
+								<div class="nysfc_01_news">
+								<ul>
+						
+									<li><span>2018-01-18</span><a href="/cae/html/main/col150/2018-01/18/20180118093339223152534_1.html" class="grey14" target="_blank">黑龙江省院士工作办公室拜访十九大代表杨德森院士</a></li>
+						
+									<li><span>2018-01-03</span><a href="/cae/html/main/col150/2018-01/03/20180103164840237742609_1.html" class="grey14" target="_blank">五位院士获浙江省杰出创新人才奖</a></li>
+						
+									<li><span>2018-01-03</span><a href="/cae/html/main/col150/2018-01/03/20180103164740890897646_1.html" class="grey14" target="_blank">南通开展与“两院”机构及院士合作调查</a></li>
+						
+									<li><span>2017-07-14</span><a href="/cae/html/main/col150/2017-07/14/20170714094541183764156_1.html" class="grey14" target="_blank">以山西焦煤集团为依托建立国际卓越煤矿瓦斯治理中心</a></li>
+						
+									<li><span>2017-03-06</span><a href="/cae/html/main/col150/2017-03/06/20170306094323259599669_1.html" class="grey14" target="_blank">上海将拍摄制作纪念两院院士严东生传记片与话剧</a></li>
+						
+									<li><span>2016-07-04</span><a href="/cae/html/main/col150/2016-07/04/20160704091105593734101_1.html" class="grey14" target="_blank">《工程》系列期刊影响力进一步提升</a></li>
+						
+									<li><span>2016-06-23</span><a href="/cae/html/main/col150/2016-06/23/20160623142711000901731_1.html" class="grey14" target="_blank">“科学与艺术”--何继善书法展在中国国际展览中心举办</a></li>
+						
+									<li><span>2016-04-07</span><a href="/cae/html/main/col150/2016-04/07/20160407155202013233566_1.html" class="grey14" target="_blank">张伯礼院士荣获2015年度天津市科技成就奖</a></li>
+						
+								</ul>						
+								</div>						
+						</div>
+				</div>
+		</div>
+	
+</div>
+
+
+
+<script>
+function addFavCommon() {
+ try {
+    window.external.addFavorite('http://www.cae.cn', '中国工程院');//IE
+ } catch(e) {
+  try {
+      window.sidebar.addPanel('中国工程院', 'http://www.cae.cn', '中国工程院');//firefox
+  } catch(e) { 
+      alert("加入收藏失败，请使用Ctrl+D进行添加");
+  }
+ }
+}
+</script>
+<div class="foot">
+	<div class="foot_nav"><a href="/cae/html/main/col224/column_224_1.html">关于我们</a>    |    <a href="/cae/html/main/col221/column_221_1.html">网站地图</a>    |    <a href="/cae/html/main/col225/column_225_1.html">联系我们</a>    |    <a onclick="addFavCommon();" href="javascript:void(0);">收藏本站</a></div>
+	<div class="foot_text">
+		<div class="fontfoot">
+			<div>
+				地址：北京市西城区冰窖口胡同2号&ensp;邮政信箱：北京8068信箱&ensp;邮编：100088 <a class="blue" href="/cae/html/main/col225/column_225_1.html" target=_blank>工程院位置图</a>
+			</div>
+		 	<div>
+		 		电话：8610-59300000&ensp;传真：8610-59300001&ensp;邮箱：bgt@cae.cn
+		 	</div>
+			<div>
+				Copyright&ensp;&copy;&ensp;2003-2021&ensp;中国工程院&ensp;备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京ICP备14021735号-3</a>&ensp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202008133"><img src="/cae/images/gonganico.png" style="margin-bottom:-5px;height: 20px;"/>京公网安备 11010202008133号</a>
+			</div>
+		</div>
+		<div class="picf">
+			<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='https://dcs.conac.cn/js/33/000/0000/60905169/CA330000000609051690002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+			<script id="_jiucuo_" sitecode='bm50000001' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script>
+		</div>
+	</div>
+</div>
+<script>(function(b,a,e,h,f,c,g,s){b[h]=b[h]||function(){(b[h].c=b[h].c||[]).push(arguments)};b[h].s=!!c;g=a.getElementsByTagName(e)[0];s=a.createElement(e);s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)})(window,document,"script","_qha",8996,false);</script>
+</body>
+</html>
+<!-- 模板文件为:sites/main/n_ysdt.jsp -->

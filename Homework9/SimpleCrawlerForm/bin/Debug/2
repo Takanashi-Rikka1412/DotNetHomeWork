@@ -1,0 +1,386 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>计量经济学</title>
+    <link rel="stylesheet" type="text/css" href="/css/detail/global.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/detail/headFoot.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/detail/style.css?v=2019-0925-1630"/>
+    <script src="/js/jquery-1.9.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="application/javascript" src="/js/detail/detail.js?v=2020-0103-1745"></script>
+</head>
+
+<body>
+    <iframe src="/portal/new-header?cur=2" name="header" frameborder="0" scrolling="no" style="width:100%; height: 80px;"></iframe><!--main start-->
+<div class="mainBox wrap">
+        <input type="hidden" id="courseId" value="207307701"/>
+    <input type="hidden" id="t" value="0"/>
+    <input type="hidden" id="jinkeType" value="0"/>
+        <div class="crumbs">当前位置：首页 > 学银慕课 > 计量经济学</div>
+    <div class="mgCard">
+        <div class="mgCard_play fl">
+                                                              <script type="text/javascript" src="/js/detail/video/swfobject.js"></script>
+<script type="text/javascript" src="/js/detail/video/icplayer.js" charset="utf-8"></script>
+<link href="/js/detail/video/video-js.min.css" rel="stylesheet">
+<script src="/js/detail/video/video.min.js"></script>
+<script src="/js/detail/video/zh-CN.js"></script>
+
+
+<div class="mainBanner">
+    <div class="mainCon" style="height:522px;">
+
+
+        <div class="mainCon_left mainBanCon" id="reader">
+
+            <script type="text/javascript">
+
+                function showFlashPlayer() {
+                    var img = '<img width="776" height="436"\n' +
+                            '                         src="http://p.ananas.chaoxing.com/star3/776_436c/55aef6d9498e4b57cd47c4ab.jpg"\n' +
+                            '                         onerror="nofind(event)"\n' +
+                            '                         imagedata=\'http://p.ananas.chaoxing.com/star3/776_436c/55aef6d9498e4b57cd47c4ab.jpg\'/>';
+                    var tpl = ' <div id="zvideo" style="width:776;height:436;left:0px" width="776" height="436">\n' +
+                            '                <div id="moocplayer" data=\'{"duration":142,"download":"http://d0.ananas.chaoxing.com/download/9421095ce90a71d138a441a5b768c253?at_=1619768301239&ak_=c8812cead0c7d8aaef18bf3df19f964e&ad_=5cd169c5cf6025569871f52c02c7d7e8","filename":"安财《计量经济学》宣传片（修改）.mp4","crc":"f5529dbb52fb0d85112a9bb5f1703052","httphd":"7d63e71ebe77a61485fdaa439b93cee42f8f330567739cfd92ab3da4563cd325c73fc31ab7db2b0692a93f2e745cc6990536ba5f2113f2bc51cf63116abe8d773b3efc9097d0ab2b9047c086df23f252fe01cc9130767d0cde55eda5b20546881d07433573ac86ae331b5067a9f3d12d24cb9e46240e3cd194360016709d9a9ed34c5474dfad0addb7fd230946a1b206ae491142b60dd32cdef04e886761356d36489e336f19c83e398d0e59f425327b","length":44350467,"http":"7d63e71ebe77a61485fdaa439b93cee42f8f330567739cfd92ab3da4563cd325c73fc31ab7db2b0692a93f2e745cc6990536ba5f2113f2bc51cf63116abe8d773b3efc9097d0ab2be0d06c56bbedce0afe01cc9130767d0cde55eda5b20546882f9405480a121c4e33f6906762a1a65524c098ae2df9b42dc114caa33744cdb47c73096a8b6d8a724a6ad0c8ee14b82e9c0aae8ee0911861d4d56af1c656e64e2bb57b5f50f1158aeb7e8e5e4cb22e56","screenshot":"https://p2.ananas.chaoxing.com/video/ef/9421095ce90a71d138a441a5b768c253/snapshot.jpg","thumbnails":"https://p2.ananas.chaoxing.com/video/ef/9421095ce90a71d138a441a5b768c253/thumbnails/","objectid":"9421095ce90a71d138a441a5b768c253","httpmd":"https://s1.ananas.chaoxing.com/video/ef/9421095ce90a71d138a441a5b768c253/md.mp4?at_=1619768301239&ak_=c744a309e55e3c1b59a5fff9c18e7f2a&ad_=7d7fa047481cbb5e29d429790c063c49","status":"success"}\'>\n' +
+                            '                </div>\n' +
+                            '            </div>\n' +
+                            '                <div id="zvideo_play">\n' +
+                            '                </div>';
+                    $("#reader").append(img);
+                    $("#reader").append(tpl);
+                }
+
+                function showHTML5Player() {
+
+                    var tpl = '<video  id="html5player" class="video-js vjs-default-skin vjs-big-play-centered"></video>';
+                    $("#reader").append(tpl);
+                    var player =
+                            videojs('html5player', {
+                                language : "zh-CN",
+                                controls : true,
+                                preload : "none",
+                                width: 776,
+                                height: 436,
+                                sources : [{
+                                    src: 'https://s1.ananas.chaoxing.com/video/ef/9421095ce90a71d138a441a5b768c253/sd.mp4?at_=1619768301239&ak_=3780e55042e231555dfd900223bc15b7&ad_=ea97010ea941648f021a43d25fbd38ac',
+                                    type : "video/mp4",
+                                    label : '标清',
+                                    res : 360
+                                }],
+                                poster: 'http://p.ananas.chaoxing.com/star3/776_436c/55aef6d9498e4b57cd47c4ab.jpg'
+                            });
+                }
+
+                function supportH5Video() {
+
+                    var videoMp4Support = function() {
+                        var elem = document.createElement('video');
+                        if ( typeof elem.canPlayType == 'function') {
+                            var playable = elem.canPlayType('video/mp4;codecs="avc1.42E01E,mp4a.40.2"');
+                            if ( (playable.toLowerCase() == 'maybe') || (playable.toLowerCase() == 'probably')) {
+                                return true;
+                            }
+                            var playable = elem.canPlayType('video/mp4;codecs="avc1.64001E,mp4a.40.2"');
+                            if ( (playable.toLowerCase() == 'maybe') || (playable.toLowerCase() == 'probably')) {
+                                return true;
+                            }
+                        }
+                        return false;
+                    }
+                    return videoMp4Support();
+                }
+              if (supportH5Video()) {
+                  //showFlashPlayer();
+                  showHTML5Player();
+              } else {
+                 showFlashPlayer();
+              }
+            </script>
+        </div>
+    </div>
+</div>
+            
+
+
+        
+        </div>
+        <div class="mgCard_con fr" >
+                   
+            <dl class="mgCard_deta">
+                <dt title="计量经济学" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;font-size: 20px">计量经济学</dt>
+                <dd class="mgCard_deta_yi" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">主讲教师：马成文   教授   /安徽财经大学  </dd>
+                <dd class="mgCard_deta_er">
+					<span class="mgCard_dijiqi fl"><a class="mgCard_dijiqi_name">
+                                                                                                </a>
+						<span class="mgCard_dijiqi_con">
+                                                                                        													</span>
+					</span>
+                    <span class="fl">起止日期：至</span>
+                </dd>
+                <dd class="mgCard_deta_sa">
+                    <span>教学进度：</span>
+                    <span class="mgCard_state">
+                                                    <a>预报名</a>
+						    <a>进行中</a>
+						    <a class="current">已结束</a>
+                        					</span>
+                    <span class="span_margin">学时：54学时</span>
+                </dd>
+                
+            </dl>
+            <div class="mgCard_text">课程简介：
+                                                                              计量经济学是以经济理论为指导，以数据事实为依据，以数学、统计学为方法，以计算机为手段，研究经济关系和经济活动数量规律及其应用，并以建立计量经济模型为核心的一门经济学学科。高等院校财经类本科《计量经济学》课程应使学生在掌握基本的经典计量经济学理论与方法的基础上，进一步了解和掌握非经典的计量...
+                                                </div>
+            <div  id="course_info" class="mgCard_bnt_con clearfix">
+
+            </div>
+        </div>
+    </div>
+    <div class="service">
+        <div class="serviceData serviceData_red fl">
+            <span class="serviceData_ico"></span>
+            <dl class="serviceData_text">
+                <dt id="_viewTimes"></dt>
+                <dd>累计页面浏览量</dd>
+            </dl>
+        </div>
+        <div class="serviceData serviceData_blue fl">
+            <span class="serviceData_ico"></span>
+            <dl class="serviceData_text">
+                <dt id="_chooseCourseCount"></dt>
+                <dd>累计选课人数</dd>
+            </dl>
+        </div>
+        <div class="serviceData serviceData_violet fl">
+            <span class="serviceData_ico"></span>
+            <dl class="serviceData_text">
+                <dt id="_bbsAllCount"></dt>
+                <dd>累计互动次数</dd>
+            </dl>
+        </div>
+        <a class="service_bnt fr">课程结业证书</a>
+        <a class="service_bnt fr">X2倍速播放</a>
+        <a class="service_bnt fr">24小时内解答</a>
+        <span class="service_name fr">服务保障：</span>
+    </div>
+    <div class="mgCard_tab mgCard_blue">
+        <ul class="mgCard_tabName">
+            <li class="current" id="li_introduce">课程介绍<span class="line"></span></li>
+            <li id="li_knowledge-catalog">章节目录<span class="line"></span><span class="mgCard_shidu"></span></li>
+            <li id="li_coursebbs">师生互答<span class="line"></span></li>
+            <li>常见问题<span class="line"></span></li>
+        </ul>
+    </div>
+    <div class="mgCard_tabCon mgCard_blue">
+            <div class="kc_intro" id="introduce" style="display:block;">
+        </div>
+            <div class="kc_catalog" id="knowledge-catalog" style="display:none;">
+        </div>
+            <div class="kc_mutual" id="coursebbs" style="display:none;">
+        </div>
+            <div class="kc_problem" style="display:none;">
+            <div class="kc_catalog_title">
+                <div class="kc_catalog_name bgBlue">
+                    <span class="kc_catalog_name_line bgBlue"></span>
+                    常见问题
+                </div>
+            </div>
+            <div class="kc_mutual_search" style="display: none;">
+                <div class="kc_mutual_form">
+                    <input type="text" name="text" class="kc_mutual_input" placeholder="输入想要咨询的问题"/>
+                    <input type="button" name="button" value="提问" class="kc_mutual_bnt bgBlue"/>
+                </div>
+            </div>
+            <div class="kc_problem_con">
+                <dl class="kc_problem_row">
+                    <dt>1.我该如何学习这门课程？</dt>
+                    <dd>
+                        <p>（1）首先您要注册一个学银在线的账号。</p>
+                        <p>（2）您需要有一定的上网条件，能够流畅的观看教学视频。在观看的过程中，您可以选择在PC端登陆我们的网页， 也可以选择下载我们的app学习通，通过手机客户端来学习。</p>
+                        <p>（3）您一旦报名选择了课程，我们的课程主讲老师或课程团队会通过通知的形式给您发送课程有关的消息，同时会抄送您的邮箱，请您及时查收。</p>
+                    </dd>
+                </dl>
+                <dl class="kc_problem_row">
+                    <dt>2.我在学习过程中遇到问题了，怎么办？</dt>
+                    <dd>
+                        <p>您可以通过以下几种方式获取帮助：</p>
+                        <p>（1）在课程群聊中发布求助信息，说不定和你一起学习这门课的小伙伴就能够解决你的问题呢；</p>
+                        <p>（2）在课程讨论区留言，课程团队看到后将会及时回复。</p>
+                        <p>（3）联系我们的客服，或者随时给我们发邮件，邮箱地址：xueyinkf@chaoxing.com</p>
+                    </dd>
+                </dl>
+                <dl class="kc_problem_row">
+                    <dt>3.我是新手，能否给我一些学习建议？</dt>
+                    <dd>
+                        <p>
+                            （1）我们的课程采用MOOC的方式授课，因此您可以自由安排您的学习时间、学习地点。但我们仍旧希望您每周能都有固定的时间持续进行本课程的学习，根据人的记忆曲线显示这种规律的学习方式能够最大限度的提升您的学习质量。</p>
+                        <p>（2）学习的过程比较容易，为了检验您的学习成果，我们的课程团队会在课程章节结束后布置测验或作业，希望您尽可能的按时独立完成。如果有没有掌握的知识点，您可以继续回看复习课程。</p>
+                        <p>（3）希望您能够积极参与课程的讨论，与各位学习者一起煮酒论英雄。在讨论的过程中，不光可以对课程所学内容温习内化，还能互相碰撞出思想的火花，相信您一定会有额外的收获。</p>
+                    </dd>
+                </dl>
+                <dl class="kc_problem_row">
+                    <dt>4.课程会不会很难、很枯燥？</dt>
+                    <dd>
+                        <p>（1）我们的课程都是老师经过精心设计拍摄制作而成，并且由于是MOOC的方式，所以课程拆分成了不同的知识点，学习起来一点也不费劲。</p>
+                        <p>（2）我们的课程多采取理论结合实际的授课方式，课程中也有许多案例的呈现，相信会给学习者带来诸多方面的启发。我们也将力求做到深入浅出，支持学习者将研究发现转化为实践，改进自身教学。</p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!--main end-->
+<script type="text/javascript">
+    /**
+     * 课程介绍
+     */
+    function getCourseIntroduce() {
+        $.ajax({
+            type: "get",
+            url: "/detail/introduce",
+            data: {
+                courseId: '207307701',
+                orgCourseId: '207307701',
+                jinkeType : '0'
+            },
+            dataType: 'html',
+            success: function (data) {
+                $("#introduce").empty();
+                $("#introduce").append(data);
+            }
+        });
+    }
+
+    /**
+     * 章节目录
+     */
+    function getKnowledgeCatalog() {
+        $.ajax({
+            type: "get",
+            url: "/detail/knowledge-catalog",
+            data: {
+                courseId: '207307701',
+                orgCourseId: '207307701',
+                t : '0',
+                jinkeType : '0'
+            },
+            dataType: 'html',
+            success: function (data) {
+                $("#knowledge-catalog").empty();
+                $("#knowledge-catalog").append(data);
+            }
+        });
+    }
+
+    /**
+     * 师生互动
+     */
+    function getCourseBBs() {
+        $.ajax({
+            type: "get",
+            url: "/detail/coursebbs",
+            data: {
+                courseId: '207307701',
+                jinkeType : '0'
+            },
+            dataType: 'html',
+            success: function (data) {
+                $("#coursebbs").empty();
+                $("#coursebbs").append(data);
+            }
+        });
+    }
+
+    function getData(id) {
+        if (id == 'li_introduce') {
+            getCourseIntroduce();
+        } else if (id == 'li_knowledge-catalog') {
+            getKnowledgeCatalog();
+        } else if (id == 'li_coursebbs') {
+            getCourseBBs();
+        }
+    }
+
+    function clazzTag() {
+        jQuery.ajax({
+            type: "get",
+            url : "/detail/clazz-tag",
+            dataType:'html',
+            data: {
+                courseId:'207307701',
+                t : '0',
+                jinkeType : '0'
+            },
+            success: function(data){
+                jQuery('#course_info').prepend(data);
+            }
+        });
+    }
+
+    /**
+     * 3个统计数
+     */
+    function getStatisticsData() {
+        jQuery.ajax({
+            type: "get",
+            url : "/statistics/api/stattistics-data",
+            dataType:'html',
+            data: {
+                courseId:'207307701'
+            },
+            success: function(data){
+                var json = eval("(" + data + ")");
+                document.getElementById('_bbsAllCount').innerText = json.bbsAllCount;
+                document.getElementById('_chooseCourseCount').innerText = json.chooseCourseCount;
+                document.getElementById('_viewTimes').innerText = json.viewTimes;
+            }
+        });
+    }
+    $(function () {
+        //最后一个div隐藏
+        $('.kc_vertical_line').last().css('display', 'none')
+        $('.kc_mutual_text').last().css('border', 'none')
+
+        //tab
+        $('.mgCard_tabName').children().on('click', function () {
+            var id = $(this).attr('id');
+            getData(id);
+
+            $(this).addClass('current').siblings().removeClass('current')
+            $('.mgCard_tabCon').children().eq($(this).index()).show().siblings().hide()
+        })
+
+        //第几期
+        $('.mgCard_dijiqi').click(function(){
+            var _this = $(this).find('.mgCard_dijiqi_con')
+            if(_this.is(':visible')){
+                _this.css('display','none')
+            }else{
+                _this.css('display','block')
+            }
+        })
+        $('.mgCard_dijiqi_con').children().click(function(){
+            var thisVlaue = $(this).parent().prev()
+            thisVlaue.text($(this).text())
+        })
+
+        //点击div1外任何地方，div2消失
+        $(document).mouseup(function (e) {
+            var _con = $('.mgCard_dijiqi');
+            if (!_con.is(e.target) && _con.has(e.target).length === 0) {
+                $('.mgCard_dijiqi_con').hide()
+            }
+        })
+
+
+    });
+    $(document).ready(function () {
+        getCourseIntroduce();
+        clazzTag();
+        getStatisticsData();
+    });
+
+
+</script>
+    <iframe src="/footer/index-new" name="header" frameborder="0" scrolling="no" style="width:100%; height: 290px;"></iframe></body>
+</html>

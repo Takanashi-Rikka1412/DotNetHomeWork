@@ -1,0 +1,624 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+        	    		武汉大学网络教学平台
+    	    
+</title>
+ 
+<script src="/js/jquery.min.js" type="text/javascript" ></script>
+<script src="/js/jquery.jslides.js" type="text/javascript"></script>	<script src="/setcookie.jsp?fid=1024"  type="text/javascript"></script>
+<script type='text/javascript' src='/js/jquery.cookie.js'></script>
+
+
+	<script src="/js/commonIndexStyle.js" type="text/javascript"></script>
+
+<!--[if IE 6]>
+<script src="/js/DD_belatedPNG_0.0.8a-min.js"></script>
+<script>
+ 	DD_belatedPNG.fix('* ,img');
+    DD_belatedPNG.fix('* ,background');
+</script>
+<![endif]-->
+</head>
+<body>
+<!--浏览器温馨提示-->
+
+	<script src="/topjs?index=1&portal=0"  type="text/javascript"></script>
+
+
+    <style>
+		.tearcherList li{height:220px}
+	</style>
+
+
+
+ <!-- 黑龙江大学定制 -->
+						<div class="bg">
+							
+			<div class="wrap1000 clearfix">
+		 		<div    class="courseList fl" style="width:750px;overflow:hidden"  >
+        				<h3 class="courseTitle">
+														<a class="more fr"  href="/portal/schoolCourseInfo/columnCourse?columnId=44591"   target="_blank" >更多</a>
+																	<i></i>当前热点
+			</h3>
+						                <div  style="position:relative;width:775px;padding-bottom:33px;"  >
+        			<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+    				    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/218026815.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/5c04c9b951695faf10c6e93a20b5e094.png"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="一流本科课程的建设与申报" href="http://mooc1.mooc.whu.edu.cn/course/218026815.html"  target="_blank" >
+        							一流本科课程的建设与申报
+        						</a>
+        					</dd>
+    														    								<dd> 武汉大学 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/216567111.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/203dc11cfacf08c661c792d130b89c8b.png"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="武汉大学2020年“教与学的革命论坛”交流会" href="http://mooc1.mooc.whu.edu.cn/course/216567111.html"  target="_blank" >
+        							武汉大学2020年“教与学的...
+        						</a>
+        					</dd>
+    														    								<dd> 教与学的革命论坛 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/214674009.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/9b32a55609db8e25c6bb4800a0aa4547.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="2020年网络安全培训" href="http://mooc1.mooc.whu.edu.cn/course/214674009.html"  target="_blank" >
+        							2020年网络安全培训
+        						</a>
+        					</dd>
+    														    								<dd> 蔡利军 </dd>
+																						                        </dl>
+    				    				<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+    				                </div>
+			 		</div>
+		        </div>
+				</div>
+			
+			<div class="wrap1000 clearfix">
+		 		<div class="dzcloumsuper" style="display:none;">
+			<!-- 18738 黑龙江大学定制宽度 -->
+            <div class="news fl"  style="width:230px;border:none;" >
+                <h3 class="courseTitle">
+					<!-- 衡阳市广播电视大学定制 -->
+											<a  href="/portal/news/notice"   target="_blank"  class="more fr">更多</a>
+						<a  href="/portal/news/notice"   target="_blank" >公告通知</a>
+									</h3>
+                <ul>
+    										<!-- 黑龙江大学长度增加 -->
+												
+						<!-- 置顶 -->
+																								<!-- 最新 -->
+																								    					<li>
+							<i>1 </i>
+							<a href="/portal/news/info?id=43246" title="感谢信---致奋战在本科教学一线的教师和教学管理人员"  target="_blank" >感谢信---致奋战在本科教...</a>
+							     							<b>
+																	<img src="/images/newstop.png" />
+																</b>&nbsp;
+    						    						    												</li>
+    										<!-- 黑龙江大学长度增加 -->
+												
+						<!-- 置顶 -->
+																		<!-- 最新 -->
+																								    					<li>
+							<i>2 </i>
+							<a href="/portal/news/info?id=43245" title="关于紧急上线课件共享服务的通知"  target="_blank" >关于紧急上线课件共享服务的通知</a>
+							    						    												</li>
+    										<!-- 黑龙江大学长度增加 -->
+												
+						<!-- 置顶 -->
+																		<!-- 最新 -->
+																								    					<li>
+							<i>3 </i>
+							<a href="/portal/news/info?id=43247" title="关于完善虚拟课堂建设的紧急通知"  target="_blank" >关于完善虚拟课堂建设的紧急通知</a>
+							    						    												</li>
+    										<!-- 黑龙江大学长度增加 -->
+												
+						<!-- 置顶 -->
+																		<!-- 最新 -->
+																								    					<li>
+							<i>4 </i>
+							<a href="/portal/news/info?id=43244" title="2019-2020学年第二学期延期开学期间 本科教学工作实施办法"  target="_blank" >2019-2020学年第二学期延期开学期...</a>
+							    						    												</li>
+    										<!-- 黑龙江大学长度增加 -->
+												
+						<!-- 置顶 -->
+																		<!-- 最新 -->
+																								    					<li>
+							<i>5 </i>
+							<a href="/portal/news/info?id=43243" title="关于2019-2020学年第二学期开学前教学工作的指导意见"  target="_blank" >关于2019-2020学年第二学期开学前...</a>
+							    						    												</li>
+    				                </ul>
+            </div>
+        </div>
+					</div>
+			
+			<div class="wrap1000 clearfix">
+		  		<div class="dzcloum" style="display:none;">
+        	<div class="fl resourse">
+                <h3 class="listTitle">热门资料</h3>
+                <ul>
+    				        				<li>
+        					<i>
+        						                        			<img src="/images/icons/pdf.gif" width="20" height="17"/>
+                        		        					</i>
+															<a  target="_blank"    href="http://cs.ananas.chaoxing.com/download/f279de40d2e8b8f0be94f49299cf4782"  title="武汉大学延期开学期间在线学习手册（学生版）" >武汉大学延期开学期间在线学习手册（学生版） </a>
+							        				</li>
+        			        				<li>
+        					<i>
+        						                        			<img src="/images/icons/pdf.gif" width="20" height="17"/>
+                        		        					</i>
+															<a  target="_blank"    href="http://cs.ananas.chaoxing.com/download/9217d4b7190484c710c63e7d879b215a"  title="武汉大学延期开学期间在线教学操作手册（教师版）" >武汉大学延期开学期间在线教学操作手册（教师版） </a>
+							        				</li>
+        			                </ul>
+			</div>
+        </div>
+					</div>
+			
+			<div class="wrap1000 clearfix">
+		 			<div class="dzcloum" style="display:none;">
+			<div class="fl range">
+                <h3 class="listTitle">优秀教师</h3>
+               <div class="contentboxTwo">
+					<ul>
+														    						<li> 
+	    							<img width="60" height="60"  title="阮美辰" src="http://photo.mooc.whu.edu.cn/p/79238634_80">
+	                                <p style="white-space: -moz-pre-space;" title="阮美辰">阮美辰</p>
+	    						</li>
+	    																			    						<li> 
+	    							<img width="60" height="60"  title="江柏安" src="http://photo.mooc.whu.edu.cn/p/41003990_80">
+	                                <p style="white-space: -moz-pre-space;" title="江柏安">江柏安</p>
+	    						</li>
+	    																			    						<li> 
+	    							<img width="60" height="60"  title="陆朋" src="http://photo.mooc.whu.edu.cn/p/41007302_80">
+	                                <p style="white-space: -moz-pre-space;" title="陆朋">陆朋</p>
+	    						</li>
+	    																			    						<li> 
+	    							<img width="60" height="60"  title="曾翘楚" src="http://photo.mooc.whu.edu.cn/p/102443286_80">
+	                                <p style="white-space: -moz-pre-space;" title="曾翘楚">曾翘楚</p>
+	    						</li>
+	    																</ul>
+               </div>
+            </div>
+        </div>	
+						</div>
+			
+			<div class="wrap1000 clearfix">
+		 			<div class="dzcloum" style="display:none;">
+			<div class="fl range">
+                <h3 class="listTitle">优秀学生</h3>
+               <div class="contentboxTwo">
+					<ul>
+														    						<li> 
+	    							<img width="60" height="60"  title="胡雪洁" src="http://photo.mooc.whu.edu.cn/p/146806242_80">
+	                                <p style="white-space: -moz-pre-space;" title="胡雪洁">胡雪洁</p>
+	    						</li>
+	    																			    						<li> 
+	    							<img width="60" height="60"  title="赵经乐" src="http://photo.mooc.whu.edu.cn/p/146808607_80">
+	                                <p style="white-space: -moz-pre-space;" title="赵经乐">赵经乐</p>
+	    						</li>
+	    																			    						<li> 
+	    							<img width="60" height="60"  title="张沛远" src="http://photo.mooc.whu.edu.cn/p/145981199_80">
+	                                <p style="white-space: -moz-pre-space;" title="张沛远">张沛远</p>
+	    						</li>
+	    																			    						<li> 
+	    							<img width="60" height="60"  title="苏新尧" src="http://photo.mooc.whu.edu.cn/p/103164530_80">
+	                                <p style="white-space: -moz-pre-space;" title="苏新尧">苏新尧</p>
+	    						</li>
+	    																</ul>
+               </div>
+            </div>
+        </div>	
+						</div>
+						
+		 		<div   class="courseList wrap1000" >
+        				<h3 class="courseTitle">
+														<a class="more fr"  href="/portal/schoolCourseInfo/columnCourse?columnId=27338"   target="_blank" >更多</a>
+																	<i></i>武大慕课
+			</h3>
+						                <div  class="relzcourse clearfix" >
+        			<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+    				    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/214685837.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/3255c1dee7bc024316fad5267d2bc278.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="https://s1.ananas.chaoxing.com/video/b1/00/70/ff2ae553522b61c18ab3e7cebd16cf74/sd.mp4?at_=1619764906912&ak_=89a4c12b56ce40253d5e29e0770f7e7e&ad_=2862a3edaedb54b68e3dd2790a6888ca" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="学术道德与学术规范" href="http://mooc1.mooc.whu.edu.cn/course/214685837.html"  target="_blank" >
+        							学术道德与学术规范
+        						</a>
+        					</dd>
+    														    								<dd> 林嘉 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207161794.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/0470a823563a320f265fb85653d1471e.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="分子生物学" href="http://mooc1.mooc.whu.edu.cn/course/207161794.html"  target="_blank" >
+        							分子生物学
+        						</a>
+        					</dd>
+    														    								<dd> 刘青珍 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207307701.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/55aef6d9498e4b57cd47c4ab.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="https://s1.ananas.chaoxing.com/video/ef/9421095ce90a71d138a441a5b768c253/sd.mp4?at_=1619740037945&ak_=77c801ccc3b429e58b1bc5d5ea277c8e&ad_=76f13dd2ad2e8af8bc5ef2d405af965b" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="计量经济学" href="http://mooc1.mooc.whu.edu.cn/course/207307701.html"  target="_blank" >
+        							计量经济学
+        						</a>
+        					</dd>
+    														    								<dd> 吴江 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207554474.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/2cbed9bf6198faaa5fa17a34aa7c0c03.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="https://s1.ananas.chaoxing.com/video/dd/b2/00/3b1505d38ad99b31413e18f9aff4cd82/sd.mp4?at_=1619741685841&ak_=6d96a7758c339fa43549266d00d0f556&ad_=45c6a37421269ddd2fbf5bfc24aaeaee" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="医学史（医学这些事儿）" href="http://mooc1.mooc.whu.edu.cn/course/207554474.html"  target="_blank" >
+        							医学史（医学这些事儿）
+        						</a>
+        					</dd>
+    														    								<dd> 刘永明 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/201391643.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/54990a43e4b07853953d90a4.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="微观经济学" href="http://mooc1.mooc.whu.edu.cn/course/201391643.html"  target="_blank" >
+        							微观经济学
+        						</a>
+        					</dd>
+    														    								<dd> 文建东 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207166617.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/92a4b4670fcffc332af0c41ece545e0b.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="宏观经济学" href="http://mooc1.mooc.whu.edu.cn/course/207166617.html"  target="_blank" >
+        							宏观经济学
+        						</a>
+        					</dd>
+    														    								<dd> 文建东 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207631730.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/45f742a9cbd40d8b75dc2b2ce464023c.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="Object Oriented Programming" href="http://mooc1.mooc.whu.edu.cn/course/207631730.html"  target="_blank" >
+        							Object Oriented Programming
+        						</a>
+        					</dd>
+    														    								<dd> 桂浩 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207646926.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/4e2e3a232796f5f14876d34feae1c7e6.png"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="https://s1.ananas.chaoxing.com/video/20/2a/fc/91b38f01f19f3f5e71804c3bcd85a8ed/sd.mp4?at_=1619765531474&ak_=61fd8e463be51c45d9c5040b8966f09f&ad_=a3c26364cab5d1ea7ba430852da8da65" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="AIDS and I--艾滋病与我" href="http://mooc1.mooc.whu.edu.cn/course/207646926.html"  target="_blank" >
+        							AIDS and I--艾滋病与我
+        						</a>
+        					</dd>
+    														    								<dd> 曹倩 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207653276.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/2f73bd3a67ec33fd9dfce90851abee50.png"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="国际礼仪(通识课)" href="http://mooc1.mooc.whu.edu.cn/course/207653276.html"  target="_blank" >
+        							国际礼仪(通识课)
+        						</a>
+        					</dd>
+    														    								<dd> 李晶 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207658798.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/53dee26da310abc6bf236da6.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="https://s1.ananas.chaoxing.com/video/bf/55f2be8ae4b040cfea173a1c/sd.mp4?at_=1619765531506&ak_=628cfab40c1a6265ef8cf951968c2566&ad_=7a5def63608f81174f08ca929d38d65f" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="环境生物学" href="http://mooc1.mooc.whu.edu.cn/course/207658798.html"  target="_blank" >
+        							环境生物学
+        						</a>
+        					</dd>
+    														    								<dd> 肖化忠 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207677988.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/f4c73193c1c2b43b0d11d95fa8c1602f.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="科技与考古" href="http://mooc1.mooc.whu.edu.cn/course/207677988.html"  target="_blank" >
+        							科技与考古
+        						</a>
+        					</dd>
+    														    								<dd> 潘春旭 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207726523.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/a811de3b9eb48c1a9df3debcc82774a2.png"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="人文社科经典导引" href="http://mooc1.mooc.whu.edu.cn/course/207726523.html"  target="_blank" >
+        							人文社科经典导引
+        						</a>
+        					</dd>
+    														    								<dd> 徐广淼 </dd>
+																						                        </dl>
+    				    				<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+    				                </div>
+			 		</div>
+									<div class="bg">
+							
+		 		<div   class="courseList wrap1000" >
+        				<h3 class="courseTitle">
+														<a class="more fr"  href="/portal/schoolCourseInfo/columnCourse?columnId=112026"   target="_blank" >更多</a>
+																	<i></i>英才计划&amp;示范课堂
+			</h3>
+						                <div  class="relzcourse clearfix" >
+        			<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+    				    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207166617.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/92a4b4670fcffc332af0c41ece545e0b.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="宏观经济学" href="http://mooc1.mooc.whu.edu.cn/course/207166617.html"  target="_blank" >
+        							宏观经济学
+        						</a>
+        					</dd>
+    														    								<dd> 文建东 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/201391643.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/54990a43e4b07853953d90a4.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="微观经济学" href="http://mooc1.mooc.whu.edu.cn/course/201391643.html"  target="_blank" >
+        							微观经济学
+        						</a>
+        					</dd>
+    														    								<dd> 文建东 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/213591894.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/cc92256c122f98b92dc296611cc81cd8.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="$course.object.videourl" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="佛教文化" href="http://mooc1.mooc.whu.edu.cn/course/213591894.html"  target="_blank" >
+        							佛教文化
+        						</a>
+        					</dd>
+    														    								<dd> 高文强 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/214598268.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/21d8e7bf2a3e43a975033ded3a8c6cdb.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="物理化学01" href="http://mooc1.mooc.whu.edu.cn/course/214598268.html"  target="_blank" >
+        							物理化学01
+        						</a>
+        					</dd>
+    														    								<dd> 王志勇 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/206893572.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/53c8d26ba310a822ad8b3447.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="急救常识" href="http://mooc1.mooc.whu.edu.cn/course/206893572.html"  target="_blank" >
+        							急救常识
+        						</a>
+        					</dd>
+    														    								<dd> 赵剡 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/214450420.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/9fc37c929e62aecf9296cba4ca173c83.png"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="$course.object.videourl" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="文学欣赏与批评（2020秋）" href="http://mooc1.mooc.whu.edu.cn/course/214450420.html"  target="_blank" >
+        							文学欣赏与批评（2020秋）
+        						</a>
+        					</dd>
+    														    								<dd> 陈国恩 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207161794.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169/0470a823563a320f265fb85653d1471e.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+								        					</dt>
+                            <dd>
+        						<a title="分子生物学" href="http://mooc1.mooc.whu.edu.cn/course/207161794.html"  target="_blank" >
+        							分子生物学
+        						</a>
+        					</dd>
+    														    								<dd> 刘青珍 </dd>
+																						                        </dl>
+    										                    	<dl>
+                        	<dt>
+        						<a href="http://mooc1.mooc.whu.edu.cn/course/207684834.html"  target="_blank" >
+        							<img width="226" height="149" data-src="https://p.ananas.chaoxing.com/star3/270_169c/03bee20133685fd453c3cbf7f0e3878a.jpg"/>
+    								        						</a>
+								<!-- 有视频播放图标 -->
+																	<div id="zvideo_play"><a href="https://s1.ananas.chaoxing.com/video/d6/e5/02/25bcc9e3340e07a68d6b36d0303f7b9e/sd.mp4?at_=1619765887730&ak_=726afe0071fcf0eb52fa19ea8f6f34a8&ad_=80f3bbd3f488ef26ba22f59ba37ac8bb" target="_blank" style="display:block;height:100%"></a></div>
+								        					</dt>
+                            <dd>
+        						<a title="简明世界史（一）" href="http://mooc1.mooc.whu.edu.cn/course/207684834.html"  target="_blank" >
+        							简明世界史（一）
+        						</a>
+        					</dd>
+    														    								<dd> 潘迎春 </dd>
+																						                        </dl>
+    				    				<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+    				                </div>
+			 		</div>
+		        </div>
+		
+
+<!-- 填充底部内容 -->
+<div id="dzcontent"></div>
+<!-- 门户底部不显示，如中山大学（13454）-->
+	<!-- 上海科学技术职业学院	 -->
+	        <div class="bottom" >
+            <div class="wrap1000 clearfix">
+            	<div class="friendShip fl"  style="width:200px;" >
+                	<h3 style="padding-bottom:3px;" class="listTitle">友情链接</h3>
+                    <!-- 中国公安大学首页门户友情链接模块特殊定制 -->
+											<!-- 图片展示方式 -->
+            			            				<p>
+                				                					<a target="_blank"  href="http://www.whu.edu.cn/" >武汉大学官网</a>
+                					                						<span>|</span>
+                					                				                					<a target="_blank"  href="http://news.whu.edu.cn/" >武大新闻网</a>
+                					                						<span>|</span>
+                					                				                					<a target="_blank"  href="http://www.icourse163.org/" >中国大学MOOC(慕课)</a>
+                					                						<span>|</span>
+                					                				                					<a target="_blank"  href="https://www.edx.org/" >edX</a>
+                					                						<span>|</span>
+                					                				                					<a target="_blank"  href="http://www.icourses.cn/imooc/" >中国大学MOOC-爱课程</a>
+                					                				                            </p>
+        				        			                </div>
+        		<!-- 中国矿业大学样式定制 -->
+        		        			 <!-- 右侧学习通、帮助中心、常见问题不显示 ，如广东省办事处（10514） -->
+					                         <div class="fr wi2702"  style="height:80px;"  >
+            				<!-- 黑龙江大学定制 -->
+            											
+							<!-- 学习通二维码不显示 ，如超想创业学院（12103） -->
+																							    <a href="http://www.mooc.whu.edu.cn/img/gotoPassport2" target="_blank" style="background:none;width:90px;height:80px;"><img class="fl" style="width:80px;height:80px;" src="/img/ewm.png"/></a>
+																						
+							             				<!-- 帮助中心不显示 ，如中国矿业大学（2737） -->
+    						    							<a class="i01" href="http://www.mooc.whu.edu.cn/img/help" target="_blank"><i></i>帮助中心</a>
+    						    						<!-- 常见问题不显示 ，如浙江音乐学院（11565） -->
+    						    							<a class="i02" href="http://www.mooc.whu.edu.cn/img/question" target="_blank"><i></i>常见问题</a>
+    						    														<a class="i05" href="https://zhibo.chaoxing.com/download" target="_blank" style="width: 195px;"><i></i>超星直播客户端</a>
+    						    						<!-- 客服电话不显示 ，如大连艺术学院（1380） -->
+    														<!-- 客服电话显示401图片 ，如中国矿业大学（2737） -->
+    							<a class="i03"></a> 
+														                        </div>
+						
+                            		            </div>
+        </div>
+	<script src="/footerjs?portal=0"  type="text/javascript"></script>
+<!-- 回到顶部 -->
+<!-- 回到顶部公共页面 -->
+<style>
+			#returnTop {_display:none;position:fixed;_position:absolute;z-index:999;right:15px;bottom: 140px;_bottom:auto;width:60px;height:60px;text-indent:-999px;overflow:hidden;background-image:url(/images/topIcon.png);_background-image:url(/images/topIcon.png);background-repeat:no-repeat;background-position:0 0;transition:bottom 0.9s;-webkit-transition:bottom 0.9s;-moz-transition:bottom 0.9s;-o-transition:bottom 0.9s;}
+		#returnTop:hover {background-position:-70px 0;}
+	</style> 
+
+<a id="returnTop" href="javascript:;" title="回到顶部">回到顶部 </a>
+<script src="/js/top.js" type="text/javascript"></script>
+<!-- 回到顶部公共页面 -->
+<!-- 泛雅客服 不显示，如浙江音乐学院（11565）--> 
+    <!-- 在线客服公共页面 -->
+    <style>
+        	.contactUs:hover{background-position:-70px -60px}
+    	.contactUs{_display:none;position:fixed;_position:absolute;z-index:999;right:15px;bottom:64px;_bottom:auto;width:60px;height:60px;text-indent:-999px;overflow:hidden;background:url(/images/topIcon.png) 0 -61px;}
+        </style> 
+						<a href="https://robot.chaoxing.com/chat?unitId=40080&robotId=dbad6e4fa2e4415189a78868760c8792&referUrl=pc" target="_blank" class="contactUs" title="在线客服"></a>
+				
+<!-- 在线客服公共页面 -->
+<!-- 1186 单位定制意见反馈 -->
+
+<!-- 河南科技大学 -->
+
+<!-- 无锡商业职业技术学院 定制第一个栏目课程滚动-->
+<script>
+	var szptt=  "";
+    $(".dzcloumszptt").each(function(index) {
+    	szptt +=$(this).html();
+    	$(this).remove();
+    })
+    $("#dzcontent").append("<div class=\"bg02 clearfix\" style=\"margin-top: 40px;\"><div class=\"courseList wrap1000\">" + szptt + "</div></div>");
+</script>
+<script src="/js/ZoomPic.js" type="text/javascript"></script>
+<script src="/js/lazyImg.js" type="text/javascript"></script>
+</body>
+</html>
