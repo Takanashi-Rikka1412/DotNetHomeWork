@@ -1,0 +1,1357 @@
+﻿
+
+  
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>爱课程</title>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="description" content=""/>
+    
+
+
+<script type="text/javascript">
+window.nofind=function(src){ 
+		var img=event.srcElement; 
+		img.src=src; 
+		img.onerror=null;
+	}
+</script>
+<link rel="icon" href="//www.icourses.cn/web/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="//www.icourses.cn/web/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="//www.icourses.cn/web/icourse/lib/bootstrap/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="//www.icourses.cn/web/icourse/lib/font-awesome/css/font-awesome.min.css"/>
+
+
+	<link rel="stylesheet"
+		href="//www.icourses.cn/web/icourse/lib/videojs/video-js.css">
+	<link rel="stylesheet"
+		href="//www.icourses.cn/web/icourse/page/courseShareIntroduction/courseShareIntroduction.css">
+  </head>
+  <body id="introduction-body">
+    <section class="header-nav wrap">
+      <div>
+        
+
+
+
+
+
+<section class="container">
+	<section class="row cleafix">
+		<div class="header-login-common pull-right">
+			<!-- 登录条-->
+			<section class="header-login-rukou clearfix">
+				<div class="login-btn header-login-kehuduan pull-left">
+					<a class="kehuduantext" href="javascript:;">客户端</a>
+					<section class="login-panel header-login-kehuduan-box">   
+						<img
+							src="//www.icourses.cn/web/icourse/page/imgs/app_code.png">
+						
+						<section class="sanjiao-up">
+							<div class="sanjiao-up-border"></div>
+							<div class="sanjiao-up-content"></div>
+						</section>
+					</section>
+				</div>
+				<div id="header_login_dengluzhuce"
+					class="header-login-dengluzhuce pull-left">
+					<a id="header-login-btn" class="logintext" data-toggle="modal"
+						href="#">登录</a><span class="header-login-line">|</span><a
+						id="header-register-btn" target="_blank" class="zhucetext"
+						href="//www.icourses.cn/web/sword/portal/toRegedit">注册</a>
+				</div>
+				<div id="header_login_name" class="header-login-name pull-left">
+					<a id="header_login_name_text" class="nametext" href="//www.icourses.cn/web/sword/portal/userCenter#/info">name</a><span class="vip-user"></span><span class="auditing-user" title="申请正在审核中，请耐心等待"></span><span
+						class="header-login-line">|</span><a id="header_logout_text"
+						class="endtext" href="#">退出</a><span id="isTeacher"><span class="header-login-line">|</span><a
+						class="renzhengtext" target="_blank"
+						href="//www.icourses.cn/web/sword/portal/teacherAttestat">教师认证</a></span>
+				</div>
+			</section>
+		</div>
+		<div class="header-logo-common pull-left">
+			<a href="//www.icourses.cn/web/"> <img
+				src="//www.icourses.cn/web/icourse/page/imgs/icourse_logo_common.png">
+			</a>
+		</div>
+		<ul class="header-nav-list left clearfix">
+			
+			<li
+				class="header-nav-list-i pull-left">
+				<a href="//www.icourses.cn/home">首&nbsp&nbsp&nbsp&nbsp页</a>
+			</li>
+			
+			<li
+				class="header-nav-list-i pull-left">
+				<a href="//www.icourses.cn/oc">在线开放课程</a>
+			</li>
+			
+			<li
+				class="header-nav-list-i pull-left">
+				<a href="//www.icourses.cn/cuoc">视频公开课</a>
+			</li>
+			
+			<li
+				class="header-nav-list-i pull-left">
+				<a href="//www.icourses.cn/mooc">资源共享课</a>
+			</li>
+			
+			
+			<!-- 学校云 -->
+			<li
+				class="header-nav-list-i pull-left">
+				<a href="//www.icourses.cn/occ">学校云</a>
+			</li>
+		</ul>
+	</section>
+</section>
+
+      </div>
+    </section>
+    
+    <section class="container">
+		<section class="row courseshareintroduction">
+			<!-- 头部课程信息-->
+			<section class="course-introduction boxstyle clearfix">
+				<div class="course-introduction-infor pull-left">
+					
+					<div class="course-title clearfix">
+						<p class="pull-left">中国现当代文学史</p>
+						
+							<span class="pull-left">国家级</span>
+						
+					</div>
+					<div class="course-btn" id="course-btn">
+						<!-- <a href="javascript:;">开始学习</a> -->
+						<span class="course-btn-style btn-start active">开始学习</span> <a
+							class="course-btn-style btn-join" href="javascript:;">加入学习</a> <a
+							class="course-btn-style btn-alreadyjoin" href="javascript:;">已加入，开始学习</a>
+					</div>
+					<div class="course-text">
+						<p>百年名校，国家重点学科，与你同行。利用国家精品课建设成果，重视基础，强化能力，为你插上奋飞的双翼。教材兼具科学性和实践性，自学板块助你自主创新学习。资源库内容丰富，编排清晰，是一个自由采撷的精神园地。</p>
+					</div>
+				</div>
+				<div id="courseVideoPlay-video-box" class="course-introduction-video pull-right">
+					<div class="course-img">
+						<div id="hep-video-kcsk" class="courseVideoPlay-video hide">
+							<div class="hep-video">
+								<video id="kcskVideo" class="video-js vjs-default-skin"
+									width="420px" height="236px"></video>
+								<div class="hep-video-modal">
+									<div class="hep-video-backdrop"></div>
+									<div class="hep-video-play-btn"></div>
+								</div>
+							</div>
+							<div id="nextPlayDiv" class="hide">
+								<button id="nextPlay">播放下一个</button>
+							</div>
+							<div id="loopPlayDiv" class="hide">
+								<button id="loopPlay">再次播放</button>
+							</div>
+						</div>
+			        	<img id="hep-video-img" onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/default_pic.jpg')" src="https://s1.icourses.cn/campus/coursepic/2012/1115/2851_480.jpg">
+					</div>
+					<div id="introduction" class="course-try clearfix">
+						
+							
+								
+									<a data-class="video" class="active pull-left test-video"
+										data-url="https://resa.icourses.cn/share/process17/mp4/2017/4/12/56119f85-3f3e-4ed1-80d1-889c0f014150_SD.mp4" data-id="858597"
+										data-title="课程试看" data-type="mp4"
+										href="javascript:;">课程试看1</a>
+								
+								
+							
+						
+							
+								
+								
+									<a data-class="video" class="pull-left test-video"
+										data-title="课程试看" data-id="858604"
+										data-type="mp4" data-url="https://resa.icourses.cn/share/process20/mp4/2018/10/10/67676564ad2e4842af1fb0a6be9af4f4_SD.mp4"
+										href="javascript:;">课程试看2</a>
+								
+							
+						
+							
+								
+								
+									<a data-class="video" class="pull-left test-video"
+										data-title="课程试看" data-id="858609"
+										data-type="mp4" data-url="https://resa.icourses.cn/share/process21/mp4/2018/10/17/d6a91b0b8ffd48208a041f7af39b8c7f_SD.mp4"
+										href="javascript:;">课程试看3</a>
+								
+							
+						
+					</div>
+			</section>
+			<!-- 下部内容-->
+			<div class="clearfix">
+				<!-- 左侧内容-->
+				<section class="course-primary boxstyle pull-left">
+					
+					<!-- 课程介绍-->
+					<div class="course-primary-text">
+						<div class="title">课程介绍</div>
+						<div class="content">
+							<p class="text">课程简介
+[课程性质与目标]
+《中国现当代文学史》是汉语言文学本科专业一门必修的基础课。它讲述新文学酝酿、发生和发展的历史，展示这一历史过程中的文学运动、文学思潮和作家的创作成就。学生通过145个学时的听讲和课外的自学，能够了解中国现当代文学的性质、特点，较为全面地掌握文学运动、文学思潮和文学创作的历史变迁，准确理解各个历史时期重要作家的创作特色，具备较强的文学鉴赏和艺术审美能力。
+
+[课...</p>
+							<div class="related clearfix">
+								
+								<a class="related-item pull-left"
+									data-class="media" href="javascript:;"
+									data-title="教学大纲" data-id="162834"
+									data-url="https://resdoc.icourses.cn/op/view.aspx?src=https%3A%2F%2Fresx.icourses.cn%2Fshare%2Fppt%2Fppt1%2Fdochtmlsrc%2F20140912%2F35ed83fbf1038ed39b2330cd82e8a92d.doc" data-type="ppt">
+									<div class="imgbox"><!-- http://file1.icourses.cn/process4/campus/processres/cover/2014/9/13/ff808081-44729ca7-0148-6a95db70-1665.jpg -->
+										<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/default_pic.jpg')" src="https://resx.icourses.cn/share/process16/1.jpg">
+									</div>
+									<p>教学大纲</p>
+								</a>
+								
+								
+								<a class="related-item pull-left"
+									data-class="media" href="javascript:;"
+									data-title="教学日历" data-id="162835"
+									data-url="https://resdoc.icourses.cn/op/view.aspx?src=https%3A%2F%2Fresx.icourses.cn%2Fshare%2Fppt%2Fppt1%2Fdochtmlsrc%2F20140912%2F5cbdcd95f45a52358e87459bdb628f6c.doc" data-type="ppt">
+									<div class="imgbox"><!-- http://file1.icourses.cn/process4/campus/processres/cover/2014/9/13/ff808081-44729ca2-0148-6a9a7a55-1566.jpg -->
+										<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/default_pic.jpg')" src="https://resx.icourses.cn/share/process16/2.jpg">
+									</div>
+									<p>教学日历</p>
+								</a>
+								
+								
+								<a class="related-item pull-left"
+									data-class="media" href="javascript:;"
+									data-title="考评方式与标准" data-id="129845"
+									data-url="https://resdoc.icourses.cn/op/view.aspx?src=https%3A%2F%2Fresx.icourses.cn%2Fshare%2Fppt%2Fppt2%2Fdochtmlsrc%2F201211%2F7fbb292c0923368f6bd07bf61f54814d.doc" data-type="ppt">
+									<div class="imgbox"><!-- http://file1.icourses.cn/process4/campus/doc2swf//cover/2012/12/5/ff808081-3b65fb34-013b-672bf159-06c6.jpg -->
+										<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/default_pic.jpg')" src="https://resx.icourses.cn/share/process16/3.jpg">
+									</div>
+									<p>考评方式与标准</p>
+								</a>
+								
+								
+									<a class="related-item pull-left"
+										data-class="media" href="javascript:;"
+										data-title="学习指南" data-id="129844"
+										data-url="https://resdoc.icourses.cn/op/view.aspx?src=https%3A%2F%2Fresx.icourses.cn%2Fshare%2Fppt%2Fppt2%2Fdochtmlsrc%2F201211%2Fb4a4cd0ae467aee829138bbf62c7eabf.doc" data-type="ppt">
+										<div class="imgbox"><!-- http://file1.icourses.cn/process4/campus/doc2swf//cover/2012/12/5/ff808081-3b65fa81-013b-672be5df-065a.jpg -->
+											<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/default_pic.jpg')" src="https://resx.icourses.cn/share/process16/4.jpg">
+										</div>
+										<p>学习指南</p>
+									</a>
+								
+							</div>
+						</div>
+					</div>
+					<!-- 教学单元-->
+					<div class="course-primary-unit">
+						<div class="title">教学单元</div>
+						<div class="content">
+							<ul class="list-out-l">
+								
+									<li class="list-out-i">第1章
+										从晚清到五四
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>01-01</span>
+													<p>晚清文学改良</p></li>
+											
+												<li class="list-in-i"><span>01-02</span>
+													<p>新文化运动</p></li>
+											
+												<li class="list-in-i"><span>01-03</span>
+													<p>五四文学革命</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第2章
+										鲁迅的前期创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>02-01</span>
+													<p>生平、思想与创作概况</p></li>
+											
+												<li class="list-in-i"><span>02-02</span>
+													<p>《呐喊》与《彷徨》</p></li>
+											
+												<li class="list-in-i"><span>02-03</span>
+													<p>《阿Q正传》</p></li>
+											
+												<li class="list-in-i"><span>02-04</span>
+													<p>《野草》、《朝花夕拾》和杂文</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第3章
+										文学研究会及其创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>03-01</span>
+													<p>文学研究会及其散文创作</p></li>
+											
+												<li class="list-in-i"><span>03-02</span>
+													<p>问题小说与乡土小说</p></li>
+											
+												<li class="list-in-i"><span>03-03</span>
+													<p>叶绍钧的创作</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第4章
+										初期白话诗和新诗奠基者郭沫若
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>04-01</span>
+													<p>初期白话诗</p></li>
+											
+												<li class="list-in-i"><span>04-02</span>
+													<p>郭沫若及与《女神》</p></li>
+											
+												<li class="list-in-i"><span>04-03</span>
+													<p>郭沫若的历史剧创作与《屈原》</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第5章
+										创造社及郁达夫的小说创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>05-01</span>
+													<p>创造社及自叙传小说的兴起</p></li>
+											
+												<li class="list-in-i"><span>05-02</span>
+													<p>郁达夫及其小说</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第6章
+										20年代诗歌发展与象征诗派
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>06-01</span>
+													<p>小诗运动</p></li>
+											
+												<li class="list-in-i"><span>06-02</span>
+													<p>湖畔诗社的爱情诗</p></li>
+											
+												<li class="list-in-i"><span>06-03</span>
+													<p>李金发与象征诗派</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第7章
+										闻一多、徐志摩与新月诗派
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>07-01</span>
+													<p>新月诗派</p></li>
+											
+												<li class="list-in-i"><span>07-02</span>
+													<p>闻一多</p></li>
+											
+												<li class="list-in-i"><span>07-03</span>
+													<p>徐志摩</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第8章
+										初期话剧创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>08-01</span>
+													<p>发展概况</p></li>
+											
+												<li class="list-in-i"><span>08-02</span>
+													<p>田汉</p></li>
+											
+												<li class="list-in-i"><span>08-03</span>
+													<p>“独幕剧圣手”丁西林</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第9章
+										左翼文学运动及文艺思想论争
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>09-01</span>
+													<p>无产阶级革命文学的倡导</p></li>
+											
+												<li class="list-in-i"><span>09-02</span>
+													<p>中国左翼作家联盟的成立</p></li>
+											
+												<li class="list-in-i"><span>09-03</span>
+													<p>与“新月派”、“自由人”和“第三种人”的论战</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第10章
+										茅盾
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>10-01</span>
+													<p>生平、文艺思想与创作成就</p></li>
+											
+												<li class="list-in-i"><span>10-02</span>
+													<p>《子夜》</p></li>
+											
+												<li class="list-in-i"><span>10-03</span>
+													<p>短篇代表作</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第11章
+										左翼小说与戏剧
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>11-01</span>
+													<p>“革命的浪漫蒂克”</p></li>
+											
+												<li class="list-in-i"><span>11-02</span>
+													<p>丁玲、柔石和胡也频的创小说</p></li>
+											
+												<li class="list-in-i"><span>11-03</span>
+													<p>萧红与东北作家群</p></li>
+											
+												<li class="list-in-i"><span>11-04</span>
+													<p>左翼戏剧与夏衍</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第12章
+										殷夫、臧克家和中国诗歌会
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>12-01</span>
+													<p>殷夫与“红色鼓动之诗”</p></li>
+											
+												<li class="list-in-i"><span>12-02</span>
+													<p>中国诗歌会的创作</p></li>
+											
+												<li class="list-in-i"><span>12-03</span>
+													<p>臧克家的诗作</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第13章
+										京派小说与海派小说
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>13-01</span>
+													<p>京派小说</p></li>
+											
+												<li class="list-in-i"><span>13-02</span>
+													<p>海派小说</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第14章
+										30年代现代派诗歌
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>14-01</span>
+													<p>现代派诗歌概叙</p></li>
+											
+												<li class="list-in-i"><span>14-02</span>
+													<p>戴望舒的诗歌</p></li>
+											
+												<li class="list-in-i"><span>14-03</span>
+													<p>卞之琳、何其芳、废名等的诗歌</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第15章
+										老  舍
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>15-01</span>
+													<p>老北京文化与贫民经验</p></li>
+											
+												<li class="list-in-i"><span>15-02</span>
+													<p>市民社会的表现与批判</p></li>
+											
+												<li class="list-in-i"><span>15-03</span>
+													<p>城市贫民命运悲剧的经典：《骆驼祥子》</p></li>
+											
+												<li class="list-in-i"><span>15-04</span>
+													<p>老舍的幽默</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第16章
+										巴  金
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>16-01</span>
+													<p>巴金的生平与思想</p></li>
+											
+												<li class="list-in-i"><span>16-02</span>
+													<p>《家》及其文学成就</p></li>
+											
+												<li class="list-in-i"><span>16-03</span>
+													<p>《憩园》和《寒夜》</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第17章
+										曹  禺
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>17-01</span>
+													<p>生平及创作概况</p></li>
+											
+												<li class="list-in-i"><span>17-02</span>
+													<p>第二节	说不尽的《雷雨》</p></li>
+											
+												<li class="list-in-i"><span>17-03</span>
+													<p>《日出》及《原野》</p></li>
+											
+												<li class="list-in-i"><span>17-04</span>
+													<p>《北京人》和《家》</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第18章
+										沈从文
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>18-01</span>
+													<p>边城湘西的歌者</p></li>
+											
+												<li class="list-in-i"><span>18-02</span>
+													<p>田园牧歌的诗美之境</p></li>
+											
+												<li class="list-in-i"><span>18-03</span>
+													<p>“乡下人”眼中的都市</p></li>
+											
+												<li class="list-in-i"><span>18-04</span>
+													<p>以文学构筑的生命乌托邦</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第19章
+										“抗战”和40年代的文学运动及创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>19-01</span>
+													<p>战争时空下的文学格局和文学进程</p></li>
+											
+												<li class="list-in-i"><span>19-02</span>
+													<p>《讲话》与解放区的文艺运动</p></li>
+											
+												<li class="list-in-i"><span>19-03</span>
+													<p>胡风的理论与路翎的小说</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第20章
+										赵树理与孙犁
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>20-01</span>
+													<p>赵树理的问题小说</p></li>
+											
+												<li class="list-in-i"><span>20-02</span>
+													<p>孙犁的诗化小说</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第21章
+										丁玲与周立波
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>21-01</span>
+													<p>丁玲40年代的创作</p></li>
+											
+												<li class="list-in-i"><span>21-02</span>
+													<p>周立波与《暴风骤雨》</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第22章
+										艾 青
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>22-01</span>
+													<p>艾青的创作历程及在现代诗歌史上的地位</p></li>
+											
+												<li class="list-in-i"><span>22-02</span>
+													<p>艾青诗歌的主体意象</p></li>
+											
+												<li class="list-in-i"><span>22-03</span>
+													<p>艾青诗歌的主导性精神意识</p></li>
+											
+												<li class="list-in-i"><span>22-04</span>
+													<p>艾青的诗美</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第23章
+										“七月诗派”与“九叶诗派”
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>23-01</span>
+													<p>“七月派”诗</p></li>
+											
+												<li class="list-in-i"><span>23-02</span>
+													<p>“九叶派”诗</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第24章
+										田间、冯至及政治讽刺诗
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>24-01</span>
+													<p>田间、冯至等人的诗</p></li>
+											
+												<li class="list-in-i"><span>24-02</span>
+													<p>政治讽刺诗</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第25章
+										“孤岛”和上海沦陷区文学
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>25-01</span>
+													<p>孤岛文学概况</p></li>
+											
+												<li class="list-in-i"><span>25-02</span>
+													<p>张爱玲及其文学创作</p></li>
+											
+												<li class="list-in-i"><span>25-03</span>
+													<p>钱钟书及其小说《围城》</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第26章
+										1949～1976年文学的社会文化背景
+										<ul class="list-in-l">
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第27章
+										1949～1976文学思想潮流
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>27-01</span>
+													<p>本期文学思潮发展概况</p></li>
+											
+												<li class="list-in-i"><span>27-02</span>
+													<p>本期文学思潮理论焦点</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第28章
+										各体文学创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>28-01</span>
+													<p>本期诗歌创作</p></li>
+											
+												<li class="list-in-i"><span>28-02</span>
+													<p>本期小说创作（上）：中短篇小说</p></li>
+											
+												<li class="list-in-i"><span>28-03</span>
+													<p>本期小说创作（下）：长篇小说</p></li>
+											
+												<li class="list-in-i"><span>28-04</span>
+													<p>本期散文创作</p></li>
+											
+												<li class="list-in-i"><span>28-05</span>
+													<p>本期话剧创作</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第29章
+										1976～1989年间文学的社会文化背景
+										<ul class="list-in-l">
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第30章
+										1976～1989文学思想潮流
+										<ul class="list-in-l">
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第31章
+										各体文学创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>31-01</span>
+													<p>本期诗歌创作</p></li>
+											
+												<li class="list-in-i"><span>31-02</span>
+													<p>本期小说创作（上）：中短篇小说（一）</p></li>
+											
+												<li class="list-in-i"><span>31-03</span>
+													<p>本期小说创作（上）：中短篇小说（二）</p></li>
+											
+												<li class="list-in-i"><span>31-04</span>
+													<p>本期小说创作（上）：中短篇小说（三）</p></li>
+											
+												<li class="list-in-i"><span>31-05</span>
+													<p>本期小说创作（下）：长篇小说（一）</p></li>
+											
+												<li class="list-in-i"><span>31-06</span>
+													<p>本期小说创作（下）：长篇小说（二）</p></li>
+											
+												<li class="list-in-i"><span>31-07</span>
+													<p>本期报告文学创作</p></li>
+											
+												<li class="list-in-i"><span>31-08</span>
+													<p>本期话剧创作</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第32章
+										1989～2000年文学的社会文化背景
+										<ul class="list-in-l">
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第33章
+										文学发展概况
+										<ul class="list-in-l">
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第34章
+										各体文学创作
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>34-01</span>
+													<p>小说创作：长篇小说（一）</p></li>
+											
+												<li class="list-in-i"><span>34-02</span>
+													<p>小说创作：长篇小说（二）</p></li>
+											
+												<li class="list-in-i"><span>34-03</span>
+													<p>小说创作：长篇小说（三）</p></li>
+											
+												<li class="list-in-i"><span>34-04</span>
+													<p>小说创作：长篇小说（四）</p></li>
+											
+												<li class="list-in-i"><span>34-05</span>
+													<p>散文创作：文化散文</p></li>
+											
+										</ul>
+									</li>
+								
+									<li class="list-out-i">第35章
+										百年台港澳文学
+										<ul class="list-in-l">
+											
+												<li class="list-in-i"><span>35-01</span>
+													<p>台湾文学</p></li>
+											
+												<li class="list-in-i"><span>35-02</span>
+													<p>港澳文学</p></li>
+											
+										</ul>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+					<!-- 教材-->
+					<div class="course-teaching-material">
+						<div class="title">教材</div>
+						<div class="content">
+							<ul class="course-teaching-material-l clearfix">
+								
+									
+									
+										
+										
+											<li class="course-teaching-material-i pull-left">
+										
+									
+									<div class="teaching-material clearfix">
+										<div class="teaching-material-img pull-left">
+								        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/book_pic.jpg')" src="https://s1.icourses.cn/campus/bookpic/2012/1117/938_90.jpg">
+										</div>
+										<div class="teaching-material-content pull-left">
+											<div class="teaching-material-content-title">主教材</div>
+											<div class="teaching-material-content-level">《中国现代文学》、《</div>
+											<div class="teaching-material-content-isbn">
+												<span>ISBN:</span>
+												<p class="isbn-text">978-7-301-16718-2</p>
+											</div>
+											<div class="teaching-material-content-editor">
+												<span>主编:</span>
+												<p class="editor-text">陈国恩</p>
+											</div>
+											<div class="teaching-material-content-from">北京大学出版社</div>
+										</div>
+									</div>
+									</li>
+								
+									
+									
+										
+										
+											<li class="course-teaching-material-i pull-left">
+										
+									
+									<div class="teaching-material clearfix">
+										<div class="teaching-material-img pull-left">
+								        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/book_pic.jpg')" src="https://s1.icourses.cn/campus/bookpic/2012/1117/1689_90.jpg">
+										</div>
+										<div class="teaching-material-content pull-left">
+											<div class="teaching-material-content-title">主教材</div>
+											<div class="teaching-material-content-level">《中国当代文学概论》</div>
+											<div class="teaching-material-content-isbn">
+												<span>ISBN:</span>
+												<p class="isbn-text">978-7-307-06858-2</p>
+											</div>
+											<div class="teaching-material-content-editor">
+												<span>主编:</span>
+												<p class="editor-text">於可训</p>
+											</div>
+											<div class="teaching-material-content-from">武汉大学出版社</div>
+										</div>
+									</div>
+									</li>
+								
+									
+									
+										
+											<li class="course-teaching-material-i pull-left last">
+										
+										
+									
+									<div class="teaching-material clearfix">
+										<div class="teaching-material-img pull-left">
+								        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/book_pic.jpg')" src="https://s1.icourses.cn/campus/bookpic/2012/1117/1690_90.jpg">
+										</div>
+										<div class="teaching-material-content pull-left">
+											<div class="teaching-material-content-title">主教材</div>
+											<div class="teaching-material-content-level">《中国当代文学》</div>
+											<div class="teaching-material-content-isbn">
+												<span>ISBN:</span>
+												<p class="isbn-text">978-7-301-16603-1</p>
+											</div>
+											<div class="teaching-material-content-editor">
+												<span>主编:</span>
+												<p class="editor-text">樊星</p>
+											</div>
+											<div class="teaching-material-content-from">北京大学出版社</div>
+										</div>
+									</div>
+									</li>
+								
+									
+									
+										
+										
+											<li class="course-teaching-material-i pull-left">
+										
+									
+									<div class="teaching-material clearfix">
+										<div class="teaching-material-img pull-left">
+								        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/book_pic.jpg')" src="https://s1.icourses.cn/campus/bookpic/2012/1117/1691_90.jpg">
+										</div>
+										<div class="teaching-material-content pull-left">
+											<div class="teaching-material-content-title">辅助教材</div>
+											<div class="teaching-material-content-level">《中国现当代小说名作导读》上、下</div>
+											<div class="teaching-material-content-isbn">
+												<span>ISBN:</span>
+												<p class="isbn-text">7-5354-2765-0</p>
+											</div>
+											<div class="teaching-material-content-editor">
+												<span>主编:</span>
+												<p class="editor-text">於可训  叶立文</p>
+											</div>
+											<div class="teaching-material-content-from">长江文艺出版社</div>
+										</div>
+									</div>
+									</li>
+								
+									
+									
+										
+										
+											<li class="course-teaching-material-i pull-left">
+										
+									
+									<div class="teaching-material clearfix">
+										<div class="teaching-material-img pull-left">
+								        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/book_pic.jpg')" src="https://s1.icourses.cn/campus/bookpic/2012/1117/1692_90.jpg">
+										</div>
+										<div class="teaching-material-content pull-left">
+											<div class="teaching-material-content-title">辅助教材</div>
+											<div class="teaching-material-content-level">中国现代话剧名作导读</div>
+											<div class="teaching-material-content-isbn">
+												<span>ISBN:</span>
+												<p class="isbn-text">7-5354-2852-5</p>
+											</div>
+											<div class="teaching-material-content-editor">
+												<span>主编:</span>
+												<p class="editor-text">陈国恩</p>
+											</div>
+											<div class="teaching-material-content-from">长江文艺出版社</div>
+										</div>
+									</div>
+									</li>
+								
+									
+									
+										
+											<li class="course-teaching-material-i pull-left last">
+										
+										
+									
+									<div class="teaching-material clearfix">
+										<div class="teaching-material-img pull-left">
+								        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/book_pic.jpg')" src="https://s1.icourses.cn/campus/bookpic/2012/1117/1693_90.jpg">
+										</div>
+										<div class="teaching-material-content pull-left">
+											<div class="teaching-material-content-title">辅助教材</div>
+											<div class="teaching-material-content-level">中国新诗名作导读</div>
+											<div class="teaching-material-content-isbn">
+												<span>ISBN:</span>
+												<p class="isbn-text">7-5354-2628-X</p>
+											</div>
+											<div class="teaching-material-content-editor">
+												<span>主编:</span>
+												<p class="editor-text">龙泉明  赵小琪</p>
+											</div>
+											<div class="teaching-material-content-from">长江文艺出版社</div>
+										</div>
+									</div>
+									</li>
+								
+							</ul>
+							
+								
+								
+									<div class="teacher-team-btn course-materials-btn">
+										<a id="more-materials" class="teacher-team-btn-more hide"
+											href="javascritp:void(0);">查看更多</a>
+									</div>
+								
+							
+						</div>
+
+					</div>
+				</section>
+				<!-- 右侧内容-->
+				<section class="course-side pull-right">
+					<div class="course-information boxstyle">
+						<div class="title">课程信息</div>
+						<div class="content">
+							<div class="clearfix">
+								<span class="pull-left">课程类型:</span>
+								<p class="course-information-type pull-left">理论课</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">课程属性:</span>
+								<p class="course-information-attribute pull-left">专业基础课/技术基础课</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">课程学时:</span>
+								<p class="course-information-hour pull-left">150.0</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">学校:</span>
+								<p class="course-information-hour pull-left">武汉大学</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">学科门类:</span>
+								<p class="course-information-category pull-left">文学</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">专业大类:</span>
+								<p class="course-information-class pull-left">中国语言文学类</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">专业类:</span>
+								<p class="course-information-kind pull-left">汉语言文学</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">适用专业:</span>
+								<p class="course-information-suit pull-left">汉语言文学专业  国际汉语教学专业</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">学习人数:</span>
+								<p class="course-information-suit pull-left">31881</p>
+							</div>
+							<div class="clearfix">
+								<span class="pull-left">评论数:</span>
+								<p class="course-information-suit pull-left">107</p>
+							</div>
+						</div>
+					</div>
+					<div class="teacher-team boxstyle">
+						<div class="title">教学团队</div>
+						<div class="content">
+							<ul class="teacher-team-l">
+								
+									<li class="teacher-team-i">
+										<div class="teacher-details clearfix">
+											<div class="teacher-details-img pull-left">
+												<a target="_blank"
+													href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda3996902f2">
+										        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1112/ff8080813ada5f42013adda3996902f2_180.jpg">
+												</a>
+											</div>
+											<div class="pull-left">
+												<div class="teacher-name">
+													<p class="teacher-name-text">陈国恩</p>
+													<span class="teacher-name-role">课程负责人</span>
+												</div>
+												<div class="teacher-role">
+													<p>教授</p>
+												</div>
+											</div>
+										</div>
+									</li>
+								
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda39d8c02f3">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1113/ff8080813ada5f42013adda39d8c02f3_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">於可训</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda39e5b02f4">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1114/ff8080813ada5f42013adda39e5b02f4_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">樊星</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda39f2202f5">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1129/ff8080813ada5f42013adda39f2202f5_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">张洁</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda39fe502f6">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1115/ff8080813ada5f42013adda39fe502f6_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">方长安</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda3a0ad02f7">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1122/ff8080813ada5f42013adda3a0ad02f7_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">金宏宇</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda3a17402f8">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1115/ff8080813ada5f42013adda3a17402f8_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">叶立文</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda3a23402f9">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1123/ff8080813ada5f42013adda3a23402f9_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">张园</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>副教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda3a2f102fa">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1123/ff8080813ada5f42013adda3a2f102fa_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">荣光启</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>副教授</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+										<li class="teacher-team-i">
+											<div class="teacher-details clearfix">
+												<div class="teacher-details-img pull-left">
+													<a target="_blank"
+														href="//www.icourses.cn/web/sword/portal/teacherDetails?userId=ff8080813ada5f42013adda3a3b102fb">
+											        	<img onerror="nofind('//www.icourses.cn/web/icourse/page/imgs/hpimg.jpg')" src="https://s1.icourses.cn/campus/userpic/2012/1123/ff8080813ada5f42013adda3a3b102fb_180.jpg">
+													</a>
+												</div>
+												<div class="pull-left">
+													<div class="teacher-name">
+														<p class="teacher-name-text">叶李</p>
+														<span class="teacher-name-role">主讲教师</span>
+													</div>
+													<div class="teacher-role">
+														<p>讲师</p>
+													</div>
+												</div>
+											</div>
+										</li>
+									
+								
+									
+								
+									
+								
+								
+							</ul>
+							<div class="teacher-team-btn">
+								<a class="teacher-team-btn-more" target="_blank"
+									href="//www.icourses.cn/web/sword/portal/teacherTeam?courseId=2851">查看更多</a>
+							</div>
+						</div>
+					</div>
+				</section>
+			</div>
+		</section>
+	</section>
+    <!-- 首页底部-->
+    
+
+   	<div class="modal fade loading" id="searchModal" style="display: none;" 
+   		aria-hidden="true"></div>
+	<div class="seach-loading-html" 
+		style="position: absolute;
+		display: none;
+		z-index: 9999;
+		left: 50%;
+		top: 20%;">
+		<img src="//www.icourses.cn/web/icourse/page/bbs/imgs/bbs-loading.gif" 
+			alt="加载中...">
+	</div>
+<!-- 首页底部-->
+    <section class="wrap footer">
+      <section class="container"> 
+        <div class="row">
+          <div class="footer-friendlink clearfix"><span class="footer-friendlink-title">友情链接</span>
+            <ul class="footer-friendlink-l pull-right clearfix">
+              <li class="footer-friendlink-i pull-left"><a class="footer-friendlink-i-text" target="_blank" href="http://www.moe.gov.cn/">中华人民共和国教育部</a></li>
+              <li class="footer-friendlink-i pull-left"><a class="footer-friendlink-i-text" target="_blank" href="http://www.hep.com.cn/">高等教育出版社</a></li>
+              <li class="footer-friendlink-i pull-left"><a class="footer-friendlink-i-text" target="_blank" href="http://www.univs.cn/">中国大学生在线</a></li>
+            </ul>
+          </div>
+          <div class="footer-line"></div>
+          <div class="footer-nav pull-left">
+            <ul class="footer-nav-l">
+              <li class="footer-nav-i first"><a class="footer-nav-i-text" target="_blank" href="//www.icourses.cn/contactUs">联系我们</a></li>
+              <li class="footer-nav-i"><a class="footer-nav-i-text" target="_blank" href="//www.icourses.cn/aboutUs">关于网站</a></li>
+              <li class="footer-nav-i"><a class="footer-nav-i-text" target="_blank" href="//www.icourses.cn/privacy">隐私政策</a></li>
+              <li class="footer-nav-i"><a class="footer-nav-i-text" target="_blank" href="//www.icourses.cn/propertyRigjt">知识产权声明</a></li>
+            </ul>
+          </div>
+          <div class="footer-information pull-left">
+            <div class="footer-information-text first"><span>主办单位：高等教育出版社有限公司</span> <span><a target="_blank" href="https://beian.miit.gov.cn">京ICP备12020869号-2</a></span> <a class="footer-balink" target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007785"><img class="footer-ba" src="//www.icourses.cn/web/icourse/page/imgs/icourse_ba.png"><span>京公网安备 11010202007785号</span></a></div>
+            <div class="footer-information-text"><span>中国大学精品开放课程适用于《中华人民共和国著作权法》</span></div>
+            <div class="footer-information-text"><span>高等教育出版社享有中国大学精品开放课程信息网络传播的专有使用权 未经书面允许，请勿转播</span></div>
+          </div>
+        </div>
+      </section>
+    </section>
+    <style>
+	.footer-nav-i-text, .footer-nav-i-text:hover {
+	  color: #ccc;
+	  font-size: 14px;
+	  text-decoration: none;
+	  display: block;
+	  line-height: 25px; }
+	</style>
+<script type="text/javascript" src="//www.icourses.cn/web/icourse/page/common/js/baidu_tj.js"></script>
+	
+
+<script>
+	// 获取当前域名下的context，请求service用
+	function getServer() {
+		
+		/* var ctx = '/web';
+		if (ctx != "/") ctx = ctx + "/";
+		return ctx; */
+		
+		return "//www.icourses.cn/web/";
+		/* return "//www.icourses.cn/web/";  */
+		
+	}
+	// 获取静态文件地址，请求静态文件（js、html）用
+	function getStaticServer() {
+		return "//www.icourses.cn/web/";
+	}
+</script>
+<script src="//www.icourses.cn/web/icourse/lib/requirejs/require.js"></script>
+<script src="//www.icourses.cn/web/icourse/page/common/js/config.js?v.20210420"></script>
+
+ 	<script type="text/javascript">
+		var _courseId = "2851";
+		var _materials = [{"courseId":"2851","fullPicUrl":"https://s1.icourses.cn/campus/bookpic/2012/1117/938_90.jpg","iSBN":"978-7-301-16718-2","id":"11315","main":true,"materialAuthor":"陈国恩","materialName":"《中国现代文学》、《","materialPublisher":"北京大学出版社","materialType":"1","materialTypeDesc":"主教材"},{"courseId":"2851","fullPicUrl":"https://s1.icourses.cn/campus/bookpic/2012/1117/1689_90.jpg","iSBN":"978-7-307-06858-2","id":"11316","main":true,"materialAuthor":"於可训","materialName":"《中国当代文学概论》","materialPublisher":"武汉大学出版社","materialType":"1","materialTypeDesc":"主教材"},{"courseId":"2851","fullPicUrl":"https://s1.icourses.cn/campus/bookpic/2012/1117/1690_90.jpg","iSBN":"978-7-301-16603-1","id":"11317","main":true,"materialAuthor":"樊星","materialName":"《中国当代文学》","materialPublisher":"北京大学出版社","materialType":"1","materialTypeDesc":"主教材"},{"courseId":"2851","fullPicUrl":"https://s1.icourses.cn/campus/bookpic/2012/1117/1691_90.jpg","iSBN":"7-5354-2765-0","id":"11318","main":false,"materialAuthor":"於可训  叶立文","materialName":"《中国现当代小说名作导读》上、下","materialPublisher":"长江文艺出版社","materialType":"2","materialTypeDesc":"辅助教材"},{"courseId":"2851","fullPicUrl":"https://s1.icourses.cn/campus/bookpic/2012/1117/1692_90.jpg","iSBN":"7-5354-2852-5","id":"11319","main":false,"materialAuthor":"陈国恩","materialName":"中国现代话剧名作导读","materialPublisher":"长江文艺出版社","materialType":"2","materialTypeDesc":"辅助教材"},{"courseId":"2851","fullPicUrl":"https://s1.icourses.cn/campus/bookpic/2012/1117/1693_90.jpg","iSBN":"7-5354-2628-X","id":"11320","main":false,"materialAuthor":"龙泉明  赵小琪","materialName":"中国新诗名作导读","materialPublisher":"长江文艺出版社","materialType":"2","materialTypeDesc":"辅助教材"}];
+		require([ "Base" ], function(Base) {
+			require([ "Common" ]);
+			require([ "CourseShareIntroduction" ]);
+			var $kecheng = $(".sort-state-l");
+			$kecheng.on("click", "li", function() {
+				var $li = $(this);
+				$kecheng.find("li").removeClass("active");
+				$li.addClass("active");
+			});
+			//视频右键禁用
+			Base.noRight("courseVideoPlay-video-box");
+		});
+		
+	</script>
+  </body>
+</html>

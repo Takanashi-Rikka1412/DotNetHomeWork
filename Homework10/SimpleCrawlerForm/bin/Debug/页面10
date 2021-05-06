@@ -1,0 +1,1385 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>微观经济学</title>
+		<style type="text/css">
+			pre {white-space: pre-wrap;       
+				/* css-3 */white-space: -moz-pre-wrap;  
+				/* Mozilla, since 1999 */white-space: -pre-wrap;      
+				/* Opera 4-6 */white-space: -o-pre-wrap;    
+				/* Opera 7 */word-wrap: break-word;       
+				/* Internet Explorer 5.5+ */
+			} 
+			.wh32 {color: #2681dc !important;}
+			.zev_content p{word-wrap: break-word;word-break:break-all;}
+		</style>
+        <link rel="stylesheet" type="text/css" href="/css/templates/subArticle.css">
+        <link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+        <link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+        <script src="/js/ServerHost.js"></script>
+		<script src="/js/image.js"></script>
+		 <script>
+		 	var flag=false;
+		    if(flag)
+			{
+				ServerHost.createScript("/ananas/tk");
+			}
+			
+		 </script>
+        <link type="text/css" href="/css/comm.css?v=2021-0312" rel="stylesheet" />
+<link type="text/css" href="/css/course.css?v=2019-1204-1823" rel="stylesheet" />
+<link type="text/css" href="/css/tm.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css" />
+
+<link href="/css/master.css" rel="stylesheet" type="text/css" />
+<!--<link href="/css/pingfen_index.css" rel="stylesheet" type="text/css" />-->
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/ext.js"></script>
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+
+    </head>
+    <body class="bgc3" style="position:relative;">
+      
+			<div class="mb10">
+            			                                <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024"  charset="utf-8"></script>
+                                    </div>
+		
+
+
+	  <style type="text/css">
+		.mb10{margin-bottom:0px;}
+        h1, h2, h3,h4,h5,h6 {font-weight:bolder}
+        h1{font-size:2em}
+        h2{font-size:1.5em}
+        h3{font-size:1.17em}
+        h4{font-size:1em}
+        h5{font-size:.83em}
+        h6{font-size:.75em}
+        .normal_font{font-weight:normal;}
+	  </style>
+	  <div class="bgc3" >
+        <div id="tchDescBox" class="pt10 mb20 rel abs_out">
+            <span class="char_cort tch_desc_corp1 ml40 ">◆</span>
+            <span class="char_cort tch_desc_corp2 ml40">◆</span>
+            <div id="tchDescInnerBox" class="tchDescBox tchDescBoxShadow g3 f14 ova bccc bgwh">
+                <div class="mb10 f16 b fix">
+                    <span class="tch_card l"></span>
+                    <span class="ml10 pt2 dib">个人介绍</span>
+                </div>
+                <div id="tchDescContent" class="lh24 pt5"></div>
+            </div>
+        </div>
+          <div class="constr bgwh fix mb46" style="position:relative;">
+            <div class="pct66 l pb40" style="width:733px">
+                <div class="bbc pb1 rel" style="position:relative">
+                    <input type="hidden" id="video_width" value="733">
+                    <input type="hidden" id="video_height" value="434">
+                                            <img class="clickme" width="733" height="434" src="https://p.ananas.chaoxing.com/star3/733_434c/54990a43e4b07853953d90a4.jpg" onerror="nofind(event)" imagedata='https://p.ananas.chaoxing.com/star3/733_434/54990a43e4b07853953d90a4.jpg'/>
+                                                                <div class="course_title_box">
+                            <div class="fix">
+                                <div class="mt10 f33 l g5" >
+                                    <span title="微观经济学">微观经济学</span>
+                                                                                                             
+									                                </div>
+                                <div class="teacherDiv fr" style=" margin-top: 20px;  ">
+    <p class="zhuTacher" style=";">主讲教师：文建东</p>
+            <div class="teacherTeam">
+            <p style=";">教师团队：共<span style=";">1</span>位</p>
+            <ul>
+                                    <li>文建东</li>
+                            </ul>
+        </div>
+    </div>                            </div>
+                        </div>
+					
+                </div>
+                <div class="ml40 mt10 ">
+                
+               		 
+               		
+                    <div class="mb10 fix">
+                        <div id="clazzTag" data="false" flag="false" class="l f14 lh24 g3" >
+						                        </div>
+
+                         <div id='courseStarTag' data="201391643" class="r mr20" style='width:300px;'>
+                                                 </div>
+						
+                    </div>
+					<div class="mb10 fix">
+						<div id="viewTimesTag" class="r mr20 lvtt" >
+							
+                        </div>
+                    </div>
+                                            <table>
+									</table>
+                                    </div>
+                <div class="ml30 mr30">
+                    <div class="mt10 mb20 fix">
+                        <div class="l">
+                            <div class="mt20">
+                                <div class="catalog_box bdd1 rel">
+                                    <img width="30" height="56" class="catalog_p" src="/images/catalog.png" />                                    <ul id="courseNavList" class="lh30 f16">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    	                    <div class="mt30 pt20">
+	                        <div id="courseDesc" class="courseArticle f20 mb10 pb5 bbc"> </div>
+	                        <div class="pl20">
+	                            <div class="mt5 ans-cc"><pre>本课程是经济学的入门课程，目的是向学生介绍现代经济学的基本概念、基本构架和分析逻辑，培养对现实世界经济行为与经济现象的观察和分析能力，训练经济学直觉，教授经济学思维方式，使学生能够运用经济学的基本原理去观察、分析和解释现实生活中典型的经济现象和问题，并指导自己在工作、学习、生活和商业活动中做出最优决策。作为一个有别于其他社会科学的经济学的思维方式，微观经济学也可以广泛用来解释我们周围的世界，既可以解释人们的经济行为，也提供了一个有用的补充性视角，解释人们在非经济活动中的行为方式。</pre></div>
+	                        </div>
+	                    </div>
+                                        						                        <div class="mt30 pt20">
+                            <div id="courseTeam" class="courseArticle mr10 f20  pb5 bbc  ">教师团队</div>
+                        </div>
+                        <div class="mt30 inline_box">
+                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix " data="">
+		
+            <a href="/personcontroller/teachercard?teacherId=1183975">
+            <img width="108" height="108" class="mr15 l" src="/img/img_person.png"  onerror="nofind(event)" imagedata='/img/img_person.png' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=1183975">
+                    <strong class="mr10 f24">文建东</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：经济与管理学院</p>
+                        <p>职位：主任</p>
+                </div>
+</div>
+                                </div>
+								                                                    </div>
+						                                        						                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_125333581" class="courseArticle f20 mb10  pb5 bbc ">参考教材</div>
+                                <div class="mt5 ans-cc"><script>window.parent.UE.instants%25252525252525252525255B%252525252525252525252526%25252525252525252525252339%25252525252525252525253BueditorInstant3%252525252525252525252526%25252525252525252525252339%25252525252525252525253B%25252525252525252525255D._setup(document)%25252525252525252525253B</script><p><span style="color: rgb(0, 0, 0); font-size: 14px;"><img width="450" height="110" title="" style="width: 450px; height: 110px;" src="http://p.ananas.chaoxing.com/star3/origin/549b8900e4b07853953d9ca1.jpg" border="0" vspace="0" hspace="0"/></span></p><p><span style="color: rgb(0, 0, 0); font-size: 14px;">曼昆：《微观经济学原理》&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p><p><span style="color: rgb(0, 0, 0); font-size: 14px;">马工程教材：《西方经济学》上，高等教育出版社，2012年版</span></p><p><span style="color: rgb(0, 0, 0); font-size: 14px;">文建东、尚晓晔、欧阳伟如：《西方经济学精要与案例分析》，高等教育出版社，2013年版</span></p><p><span style="color: rgb(0, 0, 0); font-size: 14px;"><img width="600" height="349" title="" style="width: 600px; height: 349px;" src="http://p.ananas.chaoxing.com/star3/origin/549ba1715370219aa9a22106.jpg" border="0" vspace="0" hspace="0"/></span></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_125333582" class="courseArticle f20 mb10  pb5 bbc ">随身课堂</div>
+                                <div class="mt5 ans-cc"><p style="text-align:center"><span style="color: rgb(127, 127, 127);"><span style="color: rgb(165, 165, 165);"><img width="320" height="99" title="" src="http://p.ananas.chaoxing.com/star3/origin/549bc364e4b07853953d9fea.jpg" border="0" vspace="0" hspace="0" style="width: 320px; height: 99px;"/></span></span></p><p style="text-align:center"><img width="300" height="268" title="" src="http://p.ananas.chaoxing.com/star3/origin/549bc2e25370219aa9a22268.jpg" border="0" vspace="0" hspace="0" style="width: 300px; height: 268px;"/></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_125333583" class="courseArticle f20 mb10  pb5 bbc ">教学条件</div>
+                                <div class="mt5 ans-cc"><script>window.parent.UE.instants%2525252525252525255B%25252525252525252526%2525252525252525252339%2525252525252525253BueditorInstant1%25252525252525252526%2525252525252525252339%2525252525252525253B%2525252525252525255D._setup(document)%2525252525252525253B</script><p><span style="color: rgb(0, 0, 0); font-size: 14px;"><img width="500" height="97" title="" style="width: 500px; height: 97px;" src="http://p.ananas.chaoxing.com/star3/origin/549b8a2d5370219aa9a2207c.jpg" border="0" vspace="0" hspace="0"/></span></p><p><span style="color: rgb(0, 0, 0); font-size: 14px;"><img width="450" height="298" title="" style="width: 450px; height: 298px;" src="http://p.ananas.chaoxing.com/star3/origin/549b9dcce4b07853953d9cf6.jpg" border="0" vspace="0" hspace="0"/><br/></span></p><p><strong><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 14px;">1.必备数学知识</span></span></strong><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="color: rgb(0, 0, 0); font-family: 黑体, SimHei; font-size: 14px;"></span>：基本的数学函数、曲线、图形、方程知识</span></p><p><strong><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 14px;">2.备选的数学知识</span></span></strong><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="color: rgb(0, 0, 0); font-family: 宋体,SimSun; font-size: 14px;"></span>：基本的微积分知识如导数、偏导数、求极值或条件极值</span></p><p><br/></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_125333586" class="courseArticle f20 mb10  pb5 bbc ">研究内容</div>
+                                <div class="mt5 ans-cc"><p style="text-align: center;"><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><img width="600" height="195" title="" style="width: 600px; height: 195px;" src="http://p.ananas.chaoxing.com/star3/origin/549b8356e4b07853953d9c77.jpg" border="0" vspace="0" hspace="0"/></span><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;"><br/></span></span></strong></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;"><br/></span></span></strong><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">&nbsp;&nbsp;&nbsp;&nbsp; （</span><span style="font-family: 宋体,SimSun; font-size: 14px;">1）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">供</span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">求均衡价格理论</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析市场机制的运行，以讨论价格是如何决定的；</span><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p></o:p></span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">2）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">需求理</span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">论</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析消费者如何进行消费决策，以讨论商品需求是如何决定；</span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">3）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">生产</span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">与成本理论</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析投入和产出之间的物质技术关系；</span><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p></o:p></span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">4）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">厂商行</span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">为与市场结构理论</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析厂商在不同市场条件下如何做出产量与价格决策；</span><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p></o:p></span></p><p style="line-height: 1.5em; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">5）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">要素市</span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">场理论</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析厂商在不同市场条件下如何做出生产要素投入的决策，以及劳动、土地、资本等生产要素的供给、需求、价格如何决定；</span><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p></o:p></span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">6）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">一般均衡理论</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析当所有市场相互影响时所有产品与要素的均衡价格与均衡数量如何确定；</span><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p></o:p></span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">7）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">福利经济学</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——分析市场机制是否有效率，是否存在着市场失败，是否需要政府干预；</span><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p></o:p></span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><strong><span style="letter-spacing: 0pt; font-family: &quot;Times New Roman&quot;; font-size: 10.5pt;"><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">（</span><span style="font-family: 宋体,SimSun; font-size: 14px;">8）</span></span><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">行为经济学</span></strong><span style="letter-spacing: 0pt; font-family: 宋体,SimSun; font-size: 14px;">——以实验的方法和认知心理学的思路分析人们的全部行为方式。</span></p><p class="p0" style="line-height: 13.5pt; text-indent: 24pt;"><span style="color: rgb(102, 102, 102); letter-spacing: 0pt; font-family: sans-serif; font-size: 9pt;"><o:p><br/></o:p></span></p><p><br/></p></div>
+                                                    </div>
+											                                                                        <!--课程评价-->
+                                                        <div id="courseEvaluation" class="mt30 pt20">
+                                                        <input type="hidden" id="pageNum" value="1">
+                            <div id="courseArticle_cp" class="courseArticle f20 mb10  pb5 bbc fix"><h2 class="l f20 normal_font">课程评价</h2></div>
+
+                        </div>
+                                            
+					                </div>
+            </div>
+						            <div class="cell bgblue bgblue1 wh">
+                <div id="courseUnit" class="courseArticle mt25 pb20 f24 wh tc" > 课程章节</div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">1</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第一讲 微观经济学导论：稀缺性与微观经济学</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.1稀缺性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.2生产可能性边界</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.3 机会成本</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.4 基本的经济问题</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.5 绝对优势与比较优势</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.6 比较优势与机会成本</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.7</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.7 市场经济</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.8</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.8 计划经济与混合经济</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.9</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.9 经济学研究对象和研究问题的角度</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.10</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">1.10 微观经济学要研究什么</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">2</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第二讲 供给、需求与市场均衡</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">2.1影响价格的需求因素</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">2.2影响价格的供给因素</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">2.3市场均衡</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">2.4微观经济政策的市场影响&市场机制与资源配置</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">2.5市场均衡理论地应用（一）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">2.6市场均衡理论地应用（二）</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">3</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第三讲 弹性理论及其应用</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">3.1需求价格弹性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">3.2其他弹性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">3.3弹性理论的运用</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">4</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第四讲 消费者行为</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">4.1消费者偏好与效用</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">4.2无差异曲线</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">4.3预算约束</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">4.4消费者选择与消费者均衡</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">4.5需求的决定&消费者选择理论的应用</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">5</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第五讲 生产与成本</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">5.1生产理论</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">5.2长期生产</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">5.3成本理论</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">5.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">5.4短期成本与长期成本</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">6</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第六讲 竞争市场下的厂商行为</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">6.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">6.1竞争市场&利润最大化供给决策的原则</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">6.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">6.2短期厂商供给决策</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">6.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">6.3短期和长期厂商供给决策</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">7</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第七讲 不完全竞争市场中的厂商行为</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.1垄断的成因</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.2垄断厂商的收益规律</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.3垄断厂商的供给决策</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.4 什么是寡头垄断&共谋的寡头垄断:卡特尔</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.5 竞争的寡头垄断</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.6 纳什均衡</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.7</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.7 垄断竞争</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.8</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.8 价格歧视(一)</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.9</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.9 价格歧视(二)</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.10</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.10 为什么要反垄断</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">7.11</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">7.11 反垄断措施</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">8</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第八讲 要素市场理论</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.1要素需求理论</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.2边际收益产品与边际产品值</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.3要素需求要遵循的原则：利润最大化</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.4完全竞争市场中的要素价格决定与收入分配</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.5对劳动的需求</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.6劳动供给的最优决策</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.7</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.7劳动供给曲线的得出与移动</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.8</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.8劳动市场均衡</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">8.9</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">8.9土地报酬与资本报酬</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">9</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第九讲 市场失灵与公共政策</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.1什么是效率</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.2消费者剩余与生产者剩余</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.3竞争市场的效率性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.4帕累托效率与市场失灵</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.5什么是外部性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.6外部性对效率的影响（一）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.7</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.7外部性对效率的影响（二）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.8</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.8外部性的内在化</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.9</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.9科斯定理</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.10</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.10纠正外部性的公共政策</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.11</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.11公共品带来的市场失灵</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.12</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.12信息不对称的表现</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.13</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.13信息不对称的影响</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">9.14</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">9.14信息不对称的解决办法</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">10</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">第十讲 微观经济学的现状与前沿</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">10.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">10.1 新古典微观经济学的基本特征</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">10.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">10.2 新古典微观经济学的缺陷</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">10.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">10.3 非理性行为：行为经济学</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">10.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">10.4 行为经济学关于偏好与决策的理论</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">10.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">10.5 微观经济学与现实</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">10.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">调查问卷</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">11</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">2015-2016上学期翻转课堂</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">11.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">翻转课堂说明</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">11.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一次翻转课堂任务分配情况</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">11.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二次翻转课堂任务分配情况</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">11.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三次翻转课堂任务分配情况</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">11.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第四次翻转课堂任务分配情况</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">11.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">学生问题集锦（持续更新中）</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                            </div>
+			                            <div id="_report" style="position:absolute;left:30px;bottom:13px;">
+                    <img src="/images/report.png" style="height: 12px;">
+                    <a href="javascript:;" id="toReport" onclick="reportCourse()" style="font-size: 12px; color:rgb(145,160,181);margin-left: 4px;">举报</a>
+                </div>
+            </div>
+                        <script type="text/javascript" src="/js/min/mootools.1.4.0.js"></script>
+<script type="text/javascript" src="/js/min/comm.js"></script>
+<!--以下为临时添加内容-->
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/testRemind.js"></script>
+<script>
+
+    var rebindTestRemind = function(){
+    $$(".unimplement").addEvent("click", function(){
+    var obj = this;
+    $testRemind(obj,"该功能正在建设中",1);
+    setTimeout('$testRemind.hide()',2000);
+    })
+    }
+    rebindTestRemind();
+	
+	
+</script>
+<script type="text/javascript" src="/js/min/overlay.js"></script>
+<script type="text/javascript" src="/js/min/classToggle.js"></script>
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/autoRemind.js"></script>
+<script type="text/javascript" src="/js/min/tabSwitch.js"></script>
+<script type="text/javascript" src="/js/min/startDrag.js"></script>
+<script type="text/javascript" src="/js/min/ibox.js"></script>
+<script type="text/javascript" src="/js/min/ajax.js"></script>
+<script type="text/javascript" src="/js/head.js"></script>
+<script type="text/javascript" src="/js/course_clazz.js"></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
+<script src="/js/show_resources.js?v=2021-0315-1612"></script>
+<script src="/js/index.js" type="text/javascript"></script>
+
+<script>
+    uParse(".ans-cc");
+    audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+    });
+    //课程介绍展开收起
+    var courseInfoFold = $("courseInfoFold");
+    if ($isEle(courseInfoFold)){
+    var courseInfoBox = $("courseInfoBox"), courseInfoTxt = $("courseInfoTxt"), courseTxtDot = $("courseTxtDot");
+    var height = courseInfoFold.attr("data");
+    var classStr = "";
+    switch(height){
+    case "380":
+    classStr = "h380";
+    break;
+    case "330":
+    classStr = "h330";
+    break;
+    default:
+    classStr = "h150";
+    height = 151;
+    break;
+    }	
+    if(courseInfoTxt.getSize().y > height){
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.removeClass("abs_out");
+    courseInfoFold.removeClass("abs_out");
+    }
+    courseInfoFold.addEvent("click", function(){
+    if (this.txt() === "[展开]") {
+    courseInfoBox.removeClass(classStr);
+    courseInfoTxt.removeClass(classStr);
+    courseTxtDot.hide();
+    this.txt("[收起]")
+    } else {
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.show();
+    this.txt("[展开]")
+    }
+    })
+    }
+    var tchDescBox = $('tchDescBox');
+    $powerFloat($$('.course_tch_item'), {
+    position: "4-1",
+    offsets: {x:0, y:0},
+    target: tchDescBox,
+    showCall: function(){
+    var tchDesc = $('tchDescContent'), tchDescInnerBox = $('tchDescInnerBox');
+    tchDesc.html(this.attr('data'));
+    if(tchDesc.h() < 200) {
+        tchDescInnerBox.h(tchDesc.h() + 40);
+        }else{
+        tchDescInnerBox.h(240);
+        }
+        },
+        hideCall: function(){
+        }
+        });
+        var initStarNum = $$('.i_50').length, initGrayStarArr = $$('.i_49');
+        $$('.jsForStar').each(function(item, index){
+        item.store('initGray', item.getElement('i').hasClass('i_49'));
+        item.addEvents({
+        'mouseenter': function(){
+	           if(item.getElement('i').hasClass('i_49')){
+		           for(var i = 0; i < index+1; i++){
+			            if($$('.jsForStar')[i].getElement('i').hasClass('i_49')){
+			               $$('.jsForStar')[i].getElement('i').swapClass('i_49', 'i_50');
+			            }
+		            }
+	            }
+            },
+            'mouseleave': function(){
+                if(item.retrieve('initGray') && item.getElement('i').hasClass('i_50')){
+	            	for(var i = 0; i < initGrayStarArr.length; i++){
+		        	        if(initGrayStarArr[i].hasClass('i_50')){
+		                	initGrayStarArr[i].swapClass('i_50', 'i_49');
+		                }
+	                }
+                }
+             },
+                'click': function(){
+                    for(var i = index+1; i < $$('.jsForStar').length; i++){//当前星星的后面均变灰
+	                    if($$('.jsForStar')[i].getElement('i').hasClass('i_50')){	
+		                    $$('.jsForStar')[i].getElement('i').swapClass('i_50', 'i_49');
+		                    $$('.jsForStar')[i].store('initGray', true);
+	                    }
+                    }
+                    if(index === 0 && !item.retrieve('initGray')){
+                    	item.getElement('i').swapClass('i_50', 'i_49');
+                    }
+                    new AjaxPost(item, {
+	                    url: '/CourseController/setCourseStar',
+	                    data: {courseId: $('courseStars').attr('data'), starNumber: $$('.i_50').length},
+	                    callback: function(json){
+		                    	if(json.succ){
+			                    	$('personCount').txt(new Number($('personCount').txt()) + 1);
+			                   		 var html = '';
+			                     	for(var i = 0; i < new Number(json.html); i++){
+			                        	html += '<i class="i i_50"></i>';
+			                        }
+			                        $('courseStars').html(html);
+			                        $('courseStars').attr('flag', 'true');
+			                        $testRemind($('courseStars'), '评价成功！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }else{
+			                        $('courseStars').attr('flag', 'false');
+			                        $testRemind($('courseStars'), '评价失败！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }
+	                        }
+                      }).send();
+                  }
+                        })
+                        })
+</script>
+<script type="text/javascript">
+   var pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				//打开窗口
+			     document.getElementById("zopacity").style.display="block";
+			     document.getElementById("pingfenContent").style.display="block";
+				 if(curPersonStar > 0){
+					document.getElementById("id_zs_item").style.display="none";
+				 }
+				 //窗口定位
+				 var heit = window.screen.availHeight,
+                    wid = window.screen.availWidth,
+                    alertwid = document.getElementById("pingfenContent").css("width").replace("px",""),
+                    left = (wid-alertwid)/2,
+					top = heit/8; 
+                    document.getElementById("pingfenContent").css({position: "absolute",top: top, left: left,zIndex:9999}); 
+					
+					//加载评价记录列表
+					new AjaxPost(btn, {
+        				url : '/CourseController/CourseStarContextReplyList',
+        				data : {
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('replyList').html("");
+								for(var i=0;i<json.contextReplyList.length;i++){
+									var _width = json.contextReplyList[i].starNumber*18+(json.contextReplyList[i].starNumber-1)*6;
+									var html = ""+
+    							    "<div class=\"zs_item\">"+
+                                    	"<div class=\"zs_i_gray\">"+
+                                        	"<div class=\"zs_i_re\">"+
+                                            	"<div class=\"zs_i_abs\">"+
+                                                	"<p class=\"zs_i_portrait\"><img src=\""+json.contextReplyList[i].userImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                    "<ul class=\"zs_i_infor\">"+
+                                                    	"<li class=\"zs_i_top\"><span>"+json.contextReplyList[i].username+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.contextReplyList[i].createTimes+"</span></li>"+
+                                                        "<li class=\"zs_padding5\">"+
+                                                        	"<dl class=\"zs_star_gray\">"+
+                                                                "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                            "</dl>"+
+                                                		"</li>"+
+                                                    "</ul>"+
+                                                "</div>"+
+                                            "</div>"+
+                                            "<div>"+json.contextReplyList[i].context+"</div>"+
+                                        "</div>"+
+                                    "</div>";
+									
+    								$('replyList').html($('replyList').html()+html);
+									
+								}
+							    if(json.contextReplyList.length<=0){
+									$('replyList').html('暂无评论！');
+								}
+        					}
+        				}
+        			}).send();
+    		});
+    	}
+    }
+var close_pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				 document.getElementById("zopacity").style.display="none";
+				 document.getElementById("pingfenContent").style.display="none";
+    		});
+    	}
+    }
+close_pingfen($('_zs_close'))
+
+var commitPingfen = function(btn){
+	if($isEle(btn)){
+		btn.addEvent('click', function(){
+		var _context = $('zs_i_textarea').val(); 
+    		if(_context.length>0){
+    		   _context = _context.replace(/^\s+|\s+$/g, ""); 
+    		   if(_context.length>0&&_context.length<150){
+    		       new AjaxPost(btn, {
+        				url : '/CourseController/setCourseStarContext',
+        				data : {
+        					context : _context,
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('zs_i_textarea').val(""); 
+								document.getElementById("id_zs_item").style.display="none";
+								var beforehtml = $('replyList').html();
+								if(beforehtml=="暂无评论！"){
+									$('replyList').html("")
+								}
+								
+							 	var _width = curPersonStar*18+(curPersonStar-1)*6;
+								var html = ""+
+							    "<div class=\"zs_item\">"+
+                                	"<div class=\"zs_i_gray\">"+
+                                    	"<div class=\"zs_i_re\">"+
+                                        	"<div class=\"zs_i_abs\">"+
+                                            	"<p class=\"zs_i_portrait\"><img src=\""+json.curImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                "<ul class=\"zs_i_infor\">"+
+                                                	"<li class=\"zs_i_top\"><span>"+json.curUserName+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.publicTime+"</span></li>"+
+                                                    "<li class=\"zs_padding5\">"+
+                                                    	"<dl class=\"zs_star_gray\">"+
+                                                            "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                        "</dl>"+
+                                            		"</li>"+
+                                                "</ul>"+
+                                            "</div>"+
+                                        "</div>"+
+                                        "<div>"+_context+"</div>"+
+                                    "</div>"+
+                                "</div>";
+								$('replyList').html(html+$('replyList').html());
+        					}else{
+        					    alert(json.msg);
+        					    return;
+        					}
+        				}
+        			}).send();
+    		    }else{
+				   alert("0<字数<150");
+				}
+    		}
+		});
+	}
+}
+commitPingfen($('commitPingfen'))
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+} 
+</script>
+
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.2.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+
+<script>
+  	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+var courseStar=document.getElementById("courseStarTag");
+var oclazzTag=document.getElementById("clazzTag");
+var editvalue,courseid,isLogin,templatevalue;
+if(oclazzTag){  
+   editvalue=oclazzTag.getAttribute("data");
+   isLogin=oclazzTag.getAttribute("flag");
+   templatevalue=oclazzTag.getAttribute("template");
+}
+if(courseStar){
+	courseid=courseStar.getAttribute("data");
+}
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=201391643&edit="+editvalue;
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:templatevalue}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				//alert("getCourseStarTag");
+				jQuery('#courseStarTag').prepend(data);
+    		    //document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+jQuery.ajax({ //一个Ajax过程 
+			type: "get", //以get方式与后台沟通 
+			url : "/CourseController/courseEvaluation", 
+			dataType:'html',//返回的值
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){//如果调用成功 
+			    jQuery('#courseEvaluation').append(data);
+			} 
+		}); 
+	
+var oPriceCourse=document.getElementById("priceCourse");
+if(oPriceCourse){
+jQuery.ajax({ //一个Ajax过程 
+	type: "get", //以get方式与后台沟通 
+	url : "/course/priceTag", 
+	dataType:'html',//返回的值
+	data: {courseId:courseid}, 
+	success: function(data){//如果调用成功 
+	    jQuery('#priceCourse').append(data);
+	} 
+});
+}
+ 
+jQuery(function(){
+    try{
+        //获取登录状态
+        var login = true;
+        var fid = jQuery.cookie("fid");
+        var loginString = "_uid";
+                		var loginStatus=jQuery.cookie(loginString);
+						//alert(loginStatus);
+                		if(loginStatus==undefined) login=false;
+        	          //  alert(login);
+						
+                		//请求访问数
+                		jQuery.ajax({ //一个Ajax过程 
+                			type: "get", //以get方式与后台沟通 
+                			url : "/course/viewTimesTag", 
+                			dataType:'html',//返回的值
+                			data: {courseId:courseid,loginStatus:login},
+                			success: function(data){//如果调用成功 
+                			    jQuery('#viewTimesTag').append(data);
+                			} 
+                		}); 
+    }catch(e){
+	  alert(e.message);
+	 }
+});
+</script>
+<script>
+	jQuery(function(){
+		jQuery(".M1C2").hover(function(){
+			jQuery(this).children().eq(2).show();
+			},function(){
+				jQuery(this).children().eq(2).hide();
+				})
+		})
+	jQuery(function(){
+		jQuery(".Djckxq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).next().show();
+			jQuery(this).parent().prev().show();
+			})
+		jQuery(".Djsq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).prev().show();
+			jQuery(this).parent().prev().hide();
+			})
+	})
+	jQuery(function(){
+		jQuery(".MRc1bt a").click(function(){
+			if(jQuery(this).parent().next().is(":hidden")){
+				jQuery(".MRc1ul").hide();
+				jQuery(this).parent().next().show();
+				} else {
+				jQuery(this).parent().next().hide();
+					}
+
+	 })
+		
+   })
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm" style="left:50%;margin-left:-170px;">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<script>
+jQuery("#iboxAlertOk").click(function(){
+	jQuery('.courseAlert').hide();
+});
+jQuery(".courseTilte .ibox_close").click(function(){
+	jQuery('.courseAlert').hide();
+});
+
+jQuery(".courseTilte-confirm .ibox_close").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+</script>
+<script>
+	var $ = mootools;
+</script>
+<script>
+	jQuery(".listtitle").toggle(function(){
+		jQuery(this).next("div").show()
+	},function(){
+		jQuery(this).next("div").hide()
+	})
+</script>
+
+            <script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script>            <link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+            <script src="/js/grouplistUploadCourseImg.js?v=2019-1122-1325"></script>
+            <script src="/js/init-teamteacher.js"></script>
+            <script>
+		function moreEvaluation(courseId){
+				jQuery(".viewmore").hide();
+		 		jQuery("#pageNum").val(parseInt(jQuery("#pageNum").val())+1);
+				var page = jQuery("#pageNum").val();
+				jQuery.ajax({ //一个Ajax过程 
+					type: "get", //以get方式与后台沟通 
+					url : "/CourseController/courseEvaluation", 
+					dataType:'html',//返回的值
+					data: {courseId:courseid,edit:editvalue,page:page,hiddenMyEvaluation:1}, 
+					success: function(data){//如果调用成功 
+					    jQuery('#courseEvaluation').append(data);
+					} 
+				}); 
+		}
+        jQuery(".w_menu_item").on("click",function(){
+            jQuery(this).addClass("wcurr").siblings().removeClass("wcurr");
+            var  id = jQuery(this).attr("id");
+            var  parentId = jQuery(this).attr("parentId");
+            var array = document.getElementsByName("ariticleParentId_"+parentId);
+            if(array != null){
+                for(var i = 0 ; i<array.length;i++){
+                    array[i].css('display','none');
+                }
+            }
+            jQuery("#ariticlecontent_"+id).css('display','block');
+        })
+        if(201391643== '200119420'){
+            jQuery("#courseNavList li").each(function(){
+                if(jQuery(this).html().indexOf('课程评价') > 0 ){
+                    jQuery(this).css('display','none');
+                }
+            });
+        }
+	</script>
+
+    </div>
+          <input type="hidden" id="report_type" value="webURL"/>
+          <input type="hidden" id="sourceContent" value=""/>
+          <input type="hidden" id="sourceIdStr" value=""/>
+        <div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div>        <script src="/js/coursehomeTip.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+	    <script>
+               //初始化举报按钮
+        jQuery(document).ready(function () {
+            var is_login = jQuery("#is_login").val();
+            var is_teacher = jQuery("#is_teacher").val();
+            if (is_login == 'false') {
+                //未登录
+                jQuery("#toReport").attr('onclick', '_msgtip()');
+            } else if (typeof(is_teacher) != "undefined" && is_teacher == 'true') {
+                //教师身份
+                jQuery("#_report").remove();
+            }
+        })
+
+	   function showSemesterList(){
+		   var display = jQuery("#options").css("display");
+	  	   if(display == "none"){
+	  	  		jQuery("#options").show();
+	  	   }else{
+	  	   		jQuery("#options").hide();
+	  	   }
+	      
+	    }
+
+        var _msgtip = function () {
+            alert("请先登录！");
+        }
+    </script>
+
+    </body>
+	
+</html>

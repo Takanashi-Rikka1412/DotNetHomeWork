@@ -1,0 +1,19 @@
+﻿
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title></head>
+<body>
+    <form method="post" action="./s_err.aspx?aspxerrorpath=%2ffgs_book%2ffgs%2ffgs_calendar.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MTY2ODcyMjlkZMscylo4vUcxPORG/AwrF+3I83L0GHlwEp6X7DgwDs1t" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2D1CC1D4" />
+    <div>
+    
+        查詢錯誤!網頁不存在</div>
+    </form>
+</body>
+</html>

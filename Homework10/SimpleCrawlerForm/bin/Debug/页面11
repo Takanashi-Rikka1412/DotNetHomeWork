@@ -1,0 +1,1414 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>2020年网络安全培训</title>
+		<style type="text/css">
+			pre {white-space: pre-wrap;       
+				/* css-3 */white-space: -moz-pre-wrap;  
+				/* Mozilla, since 1999 */white-space: -pre-wrap;      
+				/* Opera 4-6 */white-space: -o-pre-wrap;    
+				/* Opera 7 */word-wrap: break-word;       
+				/* Internet Explorer 5.5+ */
+			} 
+			.wh32 {color: #2681dc !important;}
+			.zev_content p{word-wrap: break-word;word-break:break-all;}
+		</style>
+        <link rel="stylesheet" type="text/css" href="/css/templates/subArticle.css">
+        <link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+        <link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+        <script src="/js/ServerHost.js"></script>
+		<script src="/js/image.js"></script>
+		 <script>
+		 	var flag=false;
+		    if(flag)
+			{
+				ServerHost.createScript("/ananas/tk");
+			}
+			
+		 </script>
+        <link type="text/css" href="/css/comm.css?v=2021-0312" rel="stylesheet" />
+<link type="text/css" href="/css/course.css?v=2019-1204-1823" rel="stylesheet" />
+<link type="text/css" href="/css/tm.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css" />
+
+<link href="/css/master.css" rel="stylesheet" type="text/css" />
+<!--<link href="/css/pingfen_index.css" rel="stylesheet" type="text/css" />-->
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/ext.js"></script>
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+
+    </head>
+    <body class="bgc3" style="position:relative;">
+      
+			<div class="mb10">
+            			                                <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024"  charset="utf-8"></script>
+                                    </div>
+		
+
+
+	  <style type="text/css">
+		.mb10{margin-bottom:0px;}
+        h1, h2, h3,h4,h5,h6 {font-weight:bolder}
+        h1{font-size:2em}
+        h2{font-size:1.5em}
+        h3{font-size:1.17em}
+        h4{font-size:1em}
+        h5{font-size:.83em}
+        h6{font-size:.75em}
+        .normal_font{font-weight:normal;}
+	  </style>
+	  <div class="bgc3" >
+        <div id="tchDescBox" class="pt10 mb20 rel abs_out">
+            <span class="char_cort tch_desc_corp1 ml40 ">◆</span>
+            <span class="char_cort tch_desc_corp2 ml40">◆</span>
+            <div id="tchDescInnerBox" class="tchDescBox tchDescBoxShadow g3 f14 ova bccc bgwh">
+                <div class="mb10 f16 b fix">
+                    <span class="tch_card l"></span>
+                    <span class="ml10 pt2 dib">个人介绍</span>
+                </div>
+                <div id="tchDescContent" class="lh24 pt5"></div>
+            </div>
+        </div>
+          <div class="constr bgwh fix mb46" style="position:relative;">
+            <div class="pct66 l pb40" style="width:733px">
+                <div class="bbc pb1 rel" style="position:relative">
+                    <input type="hidden" id="video_width" value="733">
+                    <input type="hidden" id="video_height" value="434">
+                                            <img class="clickme" width="733" height="434" src="https://p.ananas.chaoxing.com/star3/733_434c/9b32a55609db8e25c6bb4800a0aa4547.jpg" onerror="nofind(event)" imagedata='https://p.ananas.chaoxing.com/star3/733_434/9b32a55609db8e25c6bb4800a0aa4547.jpg'/>
+                                                                <div class="course_title_box">
+                            <div class="fix">
+                                <div class="mt10 f33 l g5" >
+                                    <span title="2020年网络安全培训">2020年网络安全培训</span>
+                                                                                                             
+									                                </div>
+                                <div class="teacherDiv fr" style=" margin-top: 20px;  ">
+    <p class="zhuTacher" style=";">主讲教师：信息中心</p>
+    </div>                            </div>
+                        </div>
+					
+                </div>
+                <div class="ml40 mt10 ">
+                
+               		 
+               		
+                    <div class="mb10 fix">
+                        <div id="clazzTag" data="false" flag="false" class="l f14 lh24 g3" >
+						                        </div>
+
+                         <div id='courseStarTag' data="214674009" class="r mr20" style='width:300px;'>
+                                                 </div>
+						
+                    </div>
+					<div class="mb10 fix">
+						<div id="viewTimesTag" class="r mr20 lvtt" >
+							
+                        </div>
+                    </div>
+                                            <table>
+	    <tr  class="">
+		<td valign="top" class="w80 w70 g9 f14 tr">学校：</td>
+		<td >武汉大学</td>
+	</tr>
+			<tr valign="top" class="">
+		<td class="w70 g9 f14 tr">开课院系：</td>
+		<td >信息中心</td>
+	</tr>
+							 <tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">编号：</td>
+		<td>nic-202009</td>
+	</tr>
+			</table>
+                                    </div>
+                <div class="ml30 mr30">
+                    <div class="mt10 mb20 fix">
+                        <div class="l">
+                            <div class="mt20">
+                                <div class="catalog_box bdd1 rel">
+                                    <img width="30" height="56" class="catalog_p" src="/images/catalog.png" />                                    <ul id="courseNavList" class="lh30 f16">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    	                    <div class="mt30 pt20">
+	                        <div id="courseDesc" class="courseArticle f20 mb10 pb5 bbc"> 课程介绍</div>
+	                        <div class="pl20">
+	                            <div class="mt5 ans-cc"><pre>    为深入贯彻习近平总书记关于国家网络安全“四个坚持”的重要指示精神，全面落实教育部党委（党组）网络安全责任制，信息中心、宣传部联合开展教职工网络安全培训工作，组织全体教职工学习网络安全科普课程，培训旨在进一步普及网络安全知识，增强网络安全意识，提升网络安全素养，营造安全、健康、文明的网络环境，推进我校教育事业发展。</pre></div>
+	                        </div>
+	                    </div>
+                                                                                                                                    <!--课程评价-->
+                                                        <div id="courseEvaluation" class="mt30 pt20">
+                                                        <input type="hidden" id="pageNum" value="1">
+                            <div id="courseArticle_cp" class="courseArticle f20 mb10  pb5 bbc fix"><h2 class="l f20 normal_font">课程评价</h2></div>
+
+                        </div>
+                                            
+											                        							
+                            <div class="mt30 pt20">
+                                <div id="courseResc" class="courseArticle f20 mb10 pb5 bbc">教学资源</div>
+                                <div class="mt15">
+                                    <script type="text/javascript" src="/js/resourceRecord.js"></script>
+<div class="fix">
+            <div class="l tc pt3">
+            <a class="resTab" rel="chapterResTabTip" href="javascript:;">
+                <div class="res_tab_selected bdrad3">课程章节资源</div>
+                <div id="chapterResTabTip" class="cor res_cor" rel="chapterResTab"></div>
+            </a>
+        </div>
+	</div>
+    <div id="chapterResTab" class="mt10 p1 brsh2 resTabTarget">
+        <table class="g9" width="100%"  style="table-layout:fixed;" cellpadding="5" cellspacing="0">
+            <tr id="resTableHead" class="bgf9">
+                <td width="200">课程章节</td>
+                <td width="60">| 文件类型</td>
+                <td width="80" >&nbsp;</td>
+                <td class="pct15">| 修改时间</td>
+                <td class="pct10" width="60px">| 大小</td>
+                <td class="pct20">| 备注</td>
+            </tr>
+                        								<tr id="resList_80497757"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80497757|/download/1e3e823b1a51e4aa811e6aab35a471ad?k=7f0a9738df98ecbd6cfdf9b28101adb9&t=1620320704636_1e3e823b1a51e4aa811e6aab35a471ad_http:/cs.ananas.chaoxing.com/download/1e3e823b1a51e4aa811e6aab35a471ad_214674009_1024_355572466|/resourcescontroller/showpreview?attachmentId=619117034&courseId=214674009&fid=1024&knowledgeId=355572466|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572466|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=1e3e823b1a51e4aa811e6aab35a471ad&fn=%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8.mp4"  info="80497757">
+				                                            <td class="pt10 g6 resources_td">1.1 个人数据安全</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="个人数据安全"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">706.77MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497763"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80497763|/download/c30e9a916fbf5c43a55e58085ec3cab2?k=4be1e21438c7a632ee2257a3c883ff8b&t=1620320704637_c30e9a916fbf5c43a55e58085ec3cab2_http:/cs.ananas.chaoxing.com/download/c30e9a916fbf5c43a55e58085ec3cab2_214674009_1024_360374394|/resourcescontroller/showpreview?attachmentId=619125224&courseId=214674009&fid=1024&knowledgeId=360374394|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360374394|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=c30e9a916fbf5c43a55e58085ec3cab2&fn=%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8.mp4"  info="80497763">
+				                                            <td class="pt10 g6 resources_td">1.2 无线网络安全</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="无线网络安全"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">260.30MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497776"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80497776|/download/64bc92bf8f1f21d576e185ac48c57666?k=9a9ce7df376241167f12c17857d575cf&t=1620320704640_64bc92bf8f1f21d576e185ac48c57666_http:/cs.ananas.chaoxing.com/download/64bc92bf8f1f21d576e185ac48c57666_214674009_1024_360379749|/resourcescontroller/showpreview?attachmentId=619214521&courseId=214674009&fid=1024&knowledgeId=360379749|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360379749|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=64bc92bf8f1f21d576e185ac48c57666&fn=%E4%BA%91%E8%AE%A1%E7%AE%97%E5%AE%89%E5%85%A8.mp4"  info="80497776">
+				                                            <td class="pt10 g6 resources_td">1.3 云计算安全</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="云计算安全"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">149.56MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497765"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80497765|/download/5bd4eb30037c8ebf016b1883905a61c2?k=e0362ef28054fb80ea7393c547cf852b&t=1620320704637_5bd4eb30037c8ebf016b1883905a61c2_http:/cs.ananas.chaoxing.com/download/5bd4eb30037c8ebf016b1883905a61c2_214674009_1024_360380868|/resourcescontroller/showpreview?attachmentId=619127417&courseId=214674009&fid=1024&knowledgeId=360380868|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360380868|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=5bd4eb30037c8ebf016b1883905a61c2&fn=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8.mp4"  info="80497765">
+				                                            <td class="pt10 g6 resources_td">1.4 人工智能安全</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="人工智能安全"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">78.60MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494290"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80494290|/download/64bbea4da993a3e111d62016869ba754?k=626225b500eeb2ec9b4a95f23129029e&t=1620320704631_64bbea4da993a3e111d62016869ba754_http:/cs.ananas.chaoxing.com/download/64bbea4da993a3e111d62016869ba754_214674009_1024_355572467|/resourcescontroller/showpreview?attachmentId=613723869&courseId=214674009&fid=1024&knowledgeId=355572467|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572467|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=64bbea4da993a3e111d62016869ba754&fn=2.%E5%B0%8F%E5%B0%8F%E5%81%A5%E5%BA%B7%E7%A0%81%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%90%97.mp4"  info="80494290">
+				                                            <td class="pt10 g6 resources_td">1.5 小小健康码信息安全吗？</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.小小健康码信息安全吗"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">107.49MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494291"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80494291|/download/38ad5b5ef7736e8003ffcd871739bee4?k=bbcd97e31c004db4e79d95cc5182e22a&t=1620320704632_38ad5b5ef7736e8003ffcd871739bee4_http:/cs.ananas.chaoxing.com/download/38ad5b5ef7736e8003ffcd871739bee4_214674009_1024_355572468|/resourcescontroller/showpreview?attachmentId=613723880&courseId=214674009&fid=1024&knowledgeId=355572468|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572468|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=38ad5b5ef7736e8003ffcd871739bee4&fn=3.%E6%B3%A8%E6%84%8F%E5%AF%86%E7%A0%81%E5%AE%89%E5%85%A8.mp4"  info="80494291">
+				                                            <td class="pt10 g6 resources_td">1.6 注意密码安全</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.注意密码安全"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">53.22MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494292"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80494292|/download/f24d26270d26aa64b5572b44d04daeda?k=d262f34e0ecfe00324d8f981f21bb9aa&t=1620320704632_f24d26270d26aa64b5572b44d04daeda_http:/cs.ananas.chaoxing.com/download/f24d26270d26aa64b5572b44d04daeda_214674009_1024_355572469|/resourcescontroller/showpreview?attachmentId=613723895&courseId=214674009&fid=1024&knowledgeId=355572469|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572469|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=f24d26270d26aa64b5572b44d04daeda&fn=4.%E8%AD%A6%E6%83%95%E9%92%93%E9%B1%BC%E9%82%AE%E4%BB%B6.mp4"  info="80494292">
+				                                            <td class="pt10 g6 resources_td">1.7 警惕钓鱼邮件</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.警惕钓鱼邮件"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">45.94MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494294"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80494294|/download/24213fb9d16c232179dcde8fdbf465ac?k=fa4c319346ca080391b6ec1fa6c380a3&t=1620320704632_24213fb9d16c232179dcde8fdbf465ac_http:/cs.ananas.chaoxing.com/download/24213fb9d16c232179dcde8fdbf465ac_214674009_1024_355572470|/resourcescontroller/showpreview?attachmentId=613725595&courseId=214674009&fid=1024&knowledgeId=355572470|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572470|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=24213fb9d16c232179dcde8fdbf465ac&fn=5.%E7%BD%91%E7%BB%9C%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E9%98%B2%E6%8A%A4%E2%80%9C%E5%9B%9B%E8%B0%A8%E6%85%8E%E2%80%9D.mp4"  info="80494294">
+				                                            <td class="pt10 g6 resources_td">1.8 网络个人信息防护“四谨慎”</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.网络个人信息防护“四谨慎”"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">44.11MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497768"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   "
+                     rel="resOptBox" data="80497768|/download/d27aaa2723f64d6cdab2fc69283c3194?k=cc2d5861c46067636fc3e47995809bea&t=1620320704638_d27aaa2723f64d6cdab2fc69283c3194_http:/cs.ananas.chaoxing.com/download/d27aaa2723f64d6cdab2fc69283c3194_214674009_1024_357575721|/resourcescontroller/showpreview?attachmentId=619131534&courseId=214674009&fid=1024&knowledgeId=357575721|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357575721|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=d27aaa2723f64d6cdab2fc69283c3194&fn=6.%E9%98%B2%E8%8C%83%E2%80%9C%E4%BC%AA%E5%9F%BA%E7%AB%99%E2%80%9D.mp4"  info="80497768">
+				                                            <td class="pt10 g6 resources_td">1.9 防范“伪基站”</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.防范“伪基站”"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">144.95MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497767"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   "
+                     rel="resOptBox" data="80497767|/download/6be8175c26f10c222d2dce6811ed8ecc?k=9c6762150a332937a7b93d6efd7c88dc&t=1620320704638_6be8175c26f10c222d2dce6811ed8ecc_http:/cs.ananas.chaoxing.com/download/6be8175c26f10c222d2dce6811ed8ecc_214674009_1024_357575727|/resourcescontroller/showpreview?attachmentId=619131385&courseId=214674009&fid=1024&knowledgeId=357575727|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357575727|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=6be8175c26f10c222d2dce6811ed8ecc&fn=7.%E8%B7%AF%E8%BE%B9%E7%9A%84u%E7%9B%98%E4%B8%8D%E8%A6%81%E6%8D%A1.mp4"  info="80497767">
+				                                            <td class="pt10 g6 resources_td">1.10 路边的u盘不要捡</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.路边的u盘不要捡"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">109.38MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494296"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80494296|/download/f1f0fee648e43e8ed6780d21c476cfda?k=26d66382bc85556bfecdf73c3a0b4d39&t=1620320704633_f1f0fee648e43e8ed6780d21c476cfda_http:/cs.ananas.chaoxing.com/download/f1f0fee648e43e8ed6780d21c476cfda_214674009_1024_357575735|/resourcescontroller/showpreview?attachmentId=613733076&courseId=214674009&fid=1024&knowledgeId=357575735|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357575735|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=f1f0fee648e43e8ed6780d21c476cfda&fn=1.%E4%BA%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%281%29.mp4"  info="80494296">
+				                                            <td class="pt10 g6 resources_td">1.11 了解网络安全法</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.了解网络安全法(1)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">5.35MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494297"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80494297|/download/72a009ecdf1af86f69fbbf4c91c05d12?k=e08b42b5f2d1f83316c85beb6d78116b&t=1620320704633_72a009ecdf1af86f69fbbf4c91c05d12_http:/cs.ananas.chaoxing.com/download/72a009ecdf1af86f69fbbf4c91c05d12_214674009_1024_357577896|/resourcescontroller/showpreview?attachmentId=613736038&courseId=214674009&fid=1024&knowledgeId=357577896|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357577896|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=72a009ecdf1af86f69fbbf4c91c05d12&fn=1.%E7%96%AB%E6%83%85%E6%9C%9F%E9%97%B4%E5%B0%B1%E6%B2%A1%E6%9C%89%E4%B8%AA%E4%BA%BA%E9%9A%90%E7%A7%81%E5%90%97.mp4"  info="80494297">
+				                                            <td class="pt10 g6 resources_td">1.12 疫情期间就没有个人隐私吗</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.疫情期间就没有个人隐私吗"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">138.04MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494302"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80494302|/download/cceba9ac1d69c0d03bf6652e7e410bc4?k=d21f25722e15fe634a217fec20676fe7&t=1620320704634_cceba9ac1d69c0d03bf6652e7e410bc4_http:/cs.ananas.chaoxing.com/download/cceba9ac1d69c0d03bf6652e7e410bc4_214674009_1024_357577967|/resourcescontroller/showpreview?attachmentId=613736943&courseId=214674009&fid=1024&knowledgeId=357577967|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357577967|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=cceba9ac1d69c0d03bf6652e7e410bc4&fn=2.%E9%9D%92%E9%9D%92%E8%8D%89%E5%8E%9F%E4%B8%8A%E7%9A%84%E5%B9%B8%E7%A6%8F%E7%BE%8A%E6%AF%9B%E5%85%9A.mp4"  info="80494302">
+				                                            <td class="pt10 g6 resources_td">1.13 青青草原上的幸福羊毛党</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.青青草原上的幸福羊毛党"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">105.26MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494303"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80494303|/download/605e0ba5b989f3ffaffc4526a5694693?k=424db13f12a17541aa699956876e4415&t=1620320704634_605e0ba5b989f3ffaffc4526a5694693_http:/cs.ananas.chaoxing.com/download/605e0ba5b989f3ffaffc4526a5694693_214674009_1024_357577969|/resourcescontroller/showpreview?attachmentId=613738119&courseId=214674009&fid=1024&knowledgeId=357577969|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357577969|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=605e0ba5b989f3ffaffc4526a5694693&fn=3.%E5%A4%9A%E5%A4%A7%E4%BA%8B%E5%91%80-%E5%80%BC%E5%BE%97%E5%88%A0%E5%BA%93%E8%B7%91%E8%B7%AF%E4%B9%88.mp4"  info="80494303">
+				                                            <td class="pt10 g6 resources_td">1.14 多大事呀-值得删库跑路么</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.多大事呀-值得删库跑路么"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">99.05MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80494304"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80494304|/download/6ea30c41f03b9d769ca62a60f7e8b4d6?k=44df1f98769e5c9ad1b0299aa397f676&t=1620320704634_6ea30c41f03b9d769ca62a60f7e8b4d6_http:/cs.ananas.chaoxing.com/download/6ea30c41f03b9d769ca62a60f7e8b4d6_214674009_1024_357578014|/resourcescontroller/showpreview?attachmentId=613739086&courseId=214674009&fid=1024&knowledgeId=357578014|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357578014|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=6ea30c41f03b9d769ca62a60f7e8b4d6&fn=4.%E5%A0%A1%E5%9E%92%E6%9C%BA%E7%9A%84%E4%BD%9C%E7%94%A8.mp4"  info="80494304">
+				                                            <td class="pt10 g6 resources_td">1.15 堡垒机的作用</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.堡垒机的作用"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-14</td>
+                    <td class="pt5 pb5 resources_td">158.12MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80496645"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80496645|/download/9f4d6e80c55f26f5e10a3c96ea668ca7?k=b6965ef5e1ab03251eb26962fd76574b&t=1620320704635_9f4d6e80c55f26f5e10a3c96ea668ca7_http:/cs.ananas.chaoxing.com/download/9f4d6e80c55f26f5e10a3c96ea668ca7_214674009_1024_359586819|/resourcescontroller/showpreview?attachmentId=617486514&courseId=214674009&fid=1024&knowledgeId=359586819|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359586819|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=9f4d6e80c55f26f5e10a3c96ea668ca7&fn=%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8-%E4%BA%94%E6%AD%A5%E5%BB%BA%E8%AE%BE%E6%B3%95%EF%BC%88%E4%B8%8A%EF%BC%89.mp4"  info="80496645">
+				                                            <td class="pt10 g6 resources_td">2.1 数据安全-五步建设法（上）</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="数据安全-五步建设法（上）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-18</td>
+                    <td class="pt5 pb5 resources_td">301.58MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80496646"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80496646|/download/272fecb4a7d5e3ff243a2e264b8926e0?k=41a3c49546f3b83691d5cb15d477b7ad&t=1620320704636_272fecb4a7d5e3ff243a2e264b8926e0_http:/cs.ananas.chaoxing.com/download/272fecb4a7d5e3ff243a2e264b8926e0_214674009_1024_359588073|/resourcescontroller/showpreview?attachmentId=617493025&courseId=214674009&fid=1024&knowledgeId=359588073|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359588073|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=272fecb4a7d5e3ff243a2e264b8926e0&fn=%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8-%E4%BA%94%E6%AD%A5%E5%BB%BA%E8%AE%BE%E6%B3%95%EF%BC%88%E4%B8%8B%EF%BC%89.mp4"  info="80496646">
+				                                            <td class="pt10 g6 resources_td">2.2 数据安全-五步建设法（下）</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="数据安全-五步建设法（下）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-18</td>
+                    <td class="pt5 pb5 resources_td">591.89MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80496642"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80496642|/download/f88da7d855a6e56a95b05c2cc79d9052?k=2f549c5892b3492b3e34d43d9a5c7c2a&t=1620320704635_f88da7d855a6e56a95b05c2cc79d9052_http:/cs.ananas.chaoxing.com/download/f88da7d855a6e56a95b05c2cc79d9052_214674009_1024_359578863|/resourcescontroller/showpreview?attachmentId=617471138&courseId=214674009&fid=1024&knowledgeId=359578863|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359578863|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=f88da7d855a6e56a95b05c2cc79d9052&fn=App%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E5%90%88%E8%A7%84%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB%EF%BC%88%E4%B8%8A%EF%BC%89.mp4"  info="80496642">
+				                                            <td class="pt10 g6 resources_td">2.3 App隐私保护合规政策解读（上）</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="App隐私保护合规政策解读（上）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-18</td>
+                    <td class="pt5 pb5 resources_td">618.06MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80496643"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80496643|/download/6b2cb222e31e7fd19b3d47d614a84098?k=f861e4419d2c82f984bfb1681209dbd4&t=1620320704635_6b2cb222e31e7fd19b3d47d614a84098_http:/cs.ananas.chaoxing.com/download/6b2cb222e31e7fd19b3d47d614a84098_214674009_1024_359581336|/resourcescontroller/showpreview?attachmentId=617484372&courseId=214674009&fid=1024&knowledgeId=359581336|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359581336|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=6b2cb222e31e7fd19b3d47d614a84098&fn=App%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E5%90%88%E8%A7%84%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB%EF%BC%88%E4%B8%8B%EF%BC%89.mp4"  info="80496643">
+				                                            <td class="pt10 g6 resources_td">2.4 App隐私保护合规政策解读（下）</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="App隐私保护合规政策解读（下）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-18</td>
+                    <td class="pt5 pb5 resources_td">870.65MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497769"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80497769|/download/f4d8f8fc1dd1f2d2b2450bf696649ba7?k=df11ee035ed5aa957533173d773f67e1&t=1620320704639_f4d8f8fc1dd1f2d2b2450bf696649ba7_http:/cs.ananas.chaoxing.com/download/f4d8f8fc1dd1f2d2b2450bf696649ba7_214674009_1024_360383674|/resourcescontroller/showpreview?attachmentId=619136404&courseId=214674009&fid=1024&knowledgeId=360383674|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360383674|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=f4d8f8fc1dd1f2d2b2450bf696649ba7&fn=WEB%E5%AE%89%E5%85%A8%E4%B8%8E%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%EF%BC%88%E4%B8%8A%EF%BC%89.mp4"  info="80497769">
+				                                            <td class="pt10 g6 resources_td">2.5 WEB安全与渗透测试技术（上）</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="WEB安全与渗透测试技术（上）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">450.05MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497771"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80497771|/download/ea6ddb40b45bdf7f48ecdf9f8d48ac80?k=3a7fbf93771b07c44922791b586d4a33&t=1620320704639_ea6ddb40b45bdf7f48ecdf9f8d48ac80_http:/cs.ananas.chaoxing.com/download/ea6ddb40b45bdf7f48ecdf9f8d48ac80_214674009_1024_360385907|/resourcescontroller/showpreview?attachmentId=619147258&courseId=214674009&fid=1024&knowledgeId=360385907|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360385907|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=ea6ddb40b45bdf7f48ecdf9f8d48ac80&fn=WEB%E5%AE%89%E5%85%A8%E4%B8%8E%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%EF%BC%88%E4%B8%8B%EF%BC%89.mp4"  info="80497771">
+				                                            <td class="pt10 g6 resources_td">2.6 WEB安全与渗透测试技术（下）</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="WEB安全与渗透测试技术（下）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">311.12MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497772"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80497772|/download/5c430700bb389846eeed9201aeefcd32?k=169380c4d210ede8ff84e3d604bab9c8&t=1620320704639_5c430700bb389846eeed9201aeefcd32_http:/cs.ananas.chaoxing.com/download/5c430700bb389846eeed9201aeefcd32_214674009_1024_360389496|/resourcescontroller/showpreview?attachmentId=619172565&courseId=214674009&fid=1024&knowledgeId=360389496|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360389496|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=5c430700bb389846eeed9201aeefcd32&fn=%E9%98%B2%E5%BE%A1DDOS%E6%94%BB%E5%87%BB%E7%9A%84%E6%96%B9%E6%B3%95.mp4"  info="80497772">
+				                                            <td class="pt10 g6 resources_td">2.7 防御DDOS攻击的方法</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="防御DDOS攻击的方法"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">663.80MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497774"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi   resHidden abs_out  "
+                     rel="resOptBox" data="80497774|/download/e68ad783f1f54ebb0fa88a8cf40404ee?k=55a2519a22b71b897895701146f945e8&t=1620320704640_e68ad783f1f54ebb0fa88a8cf40404ee_http:/cs.ananas.chaoxing.com/download/e68ad783f1f54ebb0fa88a8cf40404ee_214674009_1024_360397561|/resourcescontroller/showpreview?attachmentId=619206032&courseId=214674009&fid=1024&knowledgeId=360397561|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360397561|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=e68ad783f1f54ebb0fa88a8cf40404ee&fn=%E9%98%B2%E5%BE%A1%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%AC%BA%E9%AA%97%E6%94%BB%E5%87%BB.mp4"  info="80497774">
+				                                            <td class="pt10 g6 resources_td">2.8 防御中间人欺骗攻击</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="防御中间人欺骗攻击"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">493.19MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80497775"  allowdown="false" hasReadingAuthority="true" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     rel="resOptBox" data="80497775|/download/692120ff86ae20cf0eec78c2fa3ff659?k=ee87ed0fcf70903747200773856b7f76&t=1620320704640_692120ff86ae20cf0eec78c2fa3ff659_http:/cs.ananas.chaoxing.com/download/692120ff86ae20cf0eec78c2fa3ff659_214674009_1024_360413231|/resourcescontroller/showpreview?attachmentId=619212990&courseId=214674009&fid=1024&knowledgeId=360413231|/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360413231|http://pan-yz.chaoxing.com/api/share/savefrom?puid=&fldid=&objectid=692120ff86ae20cf0eec78c2fa3ff659&fn=%E5%A6%82%E4%BD%95%E9%98%B2%E5%BE%A1%E6%9C%A8%E9%A9%AC%E6%94%BB%E5%87%BB.mp4"  info="80497775">
+				                                            <td class="pt10 g6 resources_td">2.9 如何防御木马攻击</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="如何防御木马攻击"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-09-21</td>
+                    <td class="pt5 pb5 resources_td">694.29MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                                    </table>
+                    <div class="pt5 pb5 bgf9 f16 tc">
+                <a class="g9 resMoreBtn" href="javascript:;" rel="chapterResTab">
+                    <i class="i i_25"></i>
+                    <span type = "more" moreValue="更多" packUpValue="收起">更多</span>
+                </a>
+            </div>
+            </div>
+<style>
+.zbghover:hover { color:#666}
+td.pt10.g6.resources_td {word-wrap: break-word;}
+</style>
+<div id="resOptBox" class="rescources_opt_box brsh2 bdc4 abs_out f14" style="border:1px">
+    <a id="resOptDown" class="res_opt_a" href="javascript:;">
+        <span class="pl10 pt10">下载</span>
+    </a>
+    <a id="resOptPreview" class="res_opt_a" href="" target="_blank">
+             <span class="pl10 pt10">在线观看</span>
+         </a>
+    <a id="resOptStudy" class="res_opt_a" target="_blank" href="" rel="">
+        <span class="pl10 pt10">进入课程章节</span>
+    </a>
+    <a id="resOptUpload" class="res_opt_a" href="javascript:;"target="_self">
+        <span class="pl10 pt10">同步到网盘</span>
+    </a>
+</div>
+<script type="text/javascript">
+		function isPrivately(isPrivately){
+		if(isPrivately == 1){
+			alert('关闭试读');
+		} else if(isPrivately == 2){
+			alert('试读前三章');
+		} else if(isPrivately == 3){
+			alert('试读第一章');
+		}
+	}
+</script>
+                                </div>
+                            </div>
+																	                </div>
+            </div>
+						            <div class="cell bgblue bgblue1 wh">
+                <div id="courseUnit" class="courseArticle mt25 pb20 f24 wh tc" > 课程章节</div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">1</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">网络安全基础</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572466">
+                                                                                   <div class="f16 chapter_index l">1.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">个人数据安全</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360374394">
+                                                                                   <div class="f16 chapter_index l">1.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">无线网络安全</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360379749">
+                                                                                   <div class="f16 chapter_index l">1.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">云计算安全</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360380868">
+                                                                                   <div class="f16 chapter_index l">1.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">人工智能安全</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572467">
+                                                                                   <div class="f16 chapter_index l">1.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">小小健康码信息安全吗？</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572468">
+                                                                                   <div class="f16 chapter_index l">1.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">注意密码安全</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572469">
+                                                                                   <div class="f16 chapter_index l">1.7</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">警惕钓鱼邮件</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=355572470">
+                                                                                   <div class="f16 chapter_index l">1.8</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">网络个人信息防护“四谨慎”</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357575721">
+                                                                                   <div class="f16 chapter_index l">1.9</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">防范“伪基站”</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357575727">
+                                                                                   <div class="f16 chapter_index l">1.10</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">路边的u盘不要捡</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357575735">
+                                                                                   <div class="f16 chapter_index l">1.11</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">了解网络安全法</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357577896">
+                                                                                   <div class="f16 chapter_index l">1.12</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">疫情期间就没有个人隐私吗</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357577967">
+                                                                                   <div class="f16 chapter_index l">1.13</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">青青草原上的幸福羊毛党</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357577969">
+                                                                                   <div class="f16 chapter_index l">1.14</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">多大事呀-值得删库跑路么</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=357578014">
+                                                                                   <div class="f16 chapter_index l">1.15</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">堡垒机的作用</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">2</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">网络安全课程</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359586819">
+                                                                                   <div class="f16 chapter_index l">2.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">数据安全-五步建设法（上）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359588073">
+                                                                                   <div class="f16 chapter_index l">2.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">数据安全-五步建设法（下）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359578863">
+                                                                                   <div class="f16 chapter_index l">2.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">App隐私保护合规政策解读（上）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=359581336">
+                                                                                   <div class="f16 chapter_index l">2.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">App隐私保护合规政策解读（下）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360383674">
+                                                                                   <div class="f16 chapter_index l">2.5</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">WEB安全与渗透测试技术（上）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360385907">
+                                                                                   <div class="f16 chapter_index l">2.6</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">WEB安全与渗透测试技术（下）</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360389496">
+                                                                                   <div class="f16 chapter_index l">2.7</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">防御DDOS攻击的方法</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360397561">
+                                                                                   <div class="f16 chapter_index l">2.8</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">防御中间人欺骗攻击</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1"  href="/nodedetailcontroller/visitnodedetail?courseId=214674009&knowledgeId=360413231">
+                                                                                   <div class="f16 chapter_index l">2.9</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">如何防御木马攻击</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                            </div>
+			                            <div id="_report" style="position:absolute;left:30px;bottom:13px;">
+                    <img src="/images/report.png" style="height: 12px;">
+                    <a href="javascript:;" id="toReport" onclick="reportCourse()" style="font-size: 12px; color:rgb(145,160,181);margin-left: 4px;">举报</a>
+                </div>
+            </div>
+                        <script type="text/javascript" src="/js/min/mootools.1.4.0.js"></script>
+<script type="text/javascript" src="/js/min/comm.js"></script>
+<!--以下为临时添加内容-->
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/testRemind.js"></script>
+<script>
+
+    var rebindTestRemind = function(){
+    $$(".unimplement").addEvent("click", function(){
+    var obj = this;
+    $testRemind(obj,"该功能正在建设中",1);
+    setTimeout('$testRemind.hide()',2000);
+    })
+    }
+    rebindTestRemind();
+	
+	
+</script>
+<script type="text/javascript" src="/js/min/overlay.js"></script>
+<script type="text/javascript" src="/js/min/classToggle.js"></script>
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/autoRemind.js"></script>
+<script type="text/javascript" src="/js/min/tabSwitch.js"></script>
+<script type="text/javascript" src="/js/min/startDrag.js"></script>
+<script type="text/javascript" src="/js/min/ibox.js"></script>
+<script type="text/javascript" src="/js/min/ajax.js"></script>
+<script type="text/javascript" src="/js/head.js"></script>
+<script type="text/javascript" src="/js/course_clazz.js"></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
+<script src="/js/show_resources.js?v=2021-0315-1612"></script>
+<script src="/js/index.js" type="text/javascript"></script>
+
+<script>
+    uParse(".ans-cc");
+    audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+    });
+    //课程介绍展开收起
+    var courseInfoFold = $("courseInfoFold");
+    if ($isEle(courseInfoFold)){
+    var courseInfoBox = $("courseInfoBox"), courseInfoTxt = $("courseInfoTxt"), courseTxtDot = $("courseTxtDot");
+    var height = courseInfoFold.attr("data");
+    var classStr = "";
+    switch(height){
+    case "380":
+    classStr = "h380";
+    break;
+    case "330":
+    classStr = "h330";
+    break;
+    default:
+    classStr = "h150";
+    height = 151;
+    break;
+    }	
+    if(courseInfoTxt.getSize().y > height){
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.removeClass("abs_out");
+    courseInfoFold.removeClass("abs_out");
+    }
+    courseInfoFold.addEvent("click", function(){
+    if (this.txt() === "[展开]") {
+    courseInfoBox.removeClass(classStr);
+    courseInfoTxt.removeClass(classStr);
+    courseTxtDot.hide();
+    this.txt("[收起]")
+    } else {
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.show();
+    this.txt("[展开]")
+    }
+    })
+    }
+    var tchDescBox = $('tchDescBox');
+    $powerFloat($$('.course_tch_item'), {
+    position: "4-1",
+    offsets: {x:0, y:0},
+    target: tchDescBox,
+    showCall: function(){
+    var tchDesc = $('tchDescContent'), tchDescInnerBox = $('tchDescInnerBox');
+    tchDesc.html(this.attr('data'));
+    if(tchDesc.h() < 200) {
+        tchDescInnerBox.h(tchDesc.h() + 40);
+        }else{
+        tchDescInnerBox.h(240);
+        }
+        },
+        hideCall: function(){
+        }
+        });
+        var initStarNum = $$('.i_50').length, initGrayStarArr = $$('.i_49');
+        $$('.jsForStar').each(function(item, index){
+        item.store('initGray', item.getElement('i').hasClass('i_49'));
+        item.addEvents({
+        'mouseenter': function(){
+	           if(item.getElement('i').hasClass('i_49')){
+		           for(var i = 0; i < index+1; i++){
+			            if($$('.jsForStar')[i].getElement('i').hasClass('i_49')){
+			               $$('.jsForStar')[i].getElement('i').swapClass('i_49', 'i_50');
+			            }
+		            }
+	            }
+            },
+            'mouseleave': function(){
+                if(item.retrieve('initGray') && item.getElement('i').hasClass('i_50')){
+	            	for(var i = 0; i < initGrayStarArr.length; i++){
+		        	        if(initGrayStarArr[i].hasClass('i_50')){
+		                	initGrayStarArr[i].swapClass('i_50', 'i_49');
+		                }
+	                }
+                }
+             },
+                'click': function(){
+                    for(var i = index+1; i < $$('.jsForStar').length; i++){//当前星星的后面均变灰
+	                    if($$('.jsForStar')[i].getElement('i').hasClass('i_50')){	
+		                    $$('.jsForStar')[i].getElement('i').swapClass('i_50', 'i_49');
+		                    $$('.jsForStar')[i].store('initGray', true);
+	                    }
+                    }
+                    if(index === 0 && !item.retrieve('initGray')){
+                    	item.getElement('i').swapClass('i_50', 'i_49');
+                    }
+                    new AjaxPost(item, {
+	                    url: '/CourseController/setCourseStar',
+	                    data: {courseId: $('courseStars').attr('data'), starNumber: $$('.i_50').length},
+	                    callback: function(json){
+		                    	if(json.succ){
+			                    	$('personCount').txt(new Number($('personCount').txt()) + 1);
+			                   		 var html = '';
+			                     	for(var i = 0; i < new Number(json.html); i++){
+			                        	html += '<i class="i i_50"></i>';
+			                        }
+			                        $('courseStars').html(html);
+			                        $('courseStars').attr('flag', 'true');
+			                        $testRemind($('courseStars'), '评价成功！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }else{
+			                        $('courseStars').attr('flag', 'false');
+			                        $testRemind($('courseStars'), '评价失败！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }
+	                        }
+                      }).send();
+                  }
+                        })
+                        })
+</script>
+<script type="text/javascript">
+   var pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				//打开窗口
+			     document.getElementById("zopacity").style.display="block";
+			     document.getElementById("pingfenContent").style.display="block";
+				 if(curPersonStar > 0){
+					document.getElementById("id_zs_item").style.display="none";
+				 }
+				 //窗口定位
+				 var heit = window.screen.availHeight,
+                    wid = window.screen.availWidth,
+                    alertwid = document.getElementById("pingfenContent").css("width").replace("px",""),
+                    left = (wid-alertwid)/2,
+					top = heit/8; 
+                    document.getElementById("pingfenContent").css({position: "absolute",top: top, left: left,zIndex:9999}); 
+					
+					//加载评价记录列表
+					new AjaxPost(btn, {
+        				url : '/CourseController/CourseStarContextReplyList',
+        				data : {
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('replyList').html("");
+								for(var i=0;i<json.contextReplyList.length;i++){
+									var _width = json.contextReplyList[i].starNumber*18+(json.contextReplyList[i].starNumber-1)*6;
+									var html = ""+
+    							    "<div class=\"zs_item\">"+
+                                    	"<div class=\"zs_i_gray\">"+
+                                        	"<div class=\"zs_i_re\">"+
+                                            	"<div class=\"zs_i_abs\">"+
+                                                	"<p class=\"zs_i_portrait\"><img src=\""+json.contextReplyList[i].userImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                    "<ul class=\"zs_i_infor\">"+
+                                                    	"<li class=\"zs_i_top\"><span>"+json.contextReplyList[i].username+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.contextReplyList[i].createTimes+"</span></li>"+
+                                                        "<li class=\"zs_padding5\">"+
+                                                        	"<dl class=\"zs_star_gray\">"+
+                                                                "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                            "</dl>"+
+                                                		"</li>"+
+                                                    "</ul>"+
+                                                "</div>"+
+                                            "</div>"+
+                                            "<div>"+json.contextReplyList[i].context+"</div>"+
+                                        "</div>"+
+                                    "</div>";
+									
+    								$('replyList').html($('replyList').html()+html);
+									
+								}
+							    if(json.contextReplyList.length<=0){
+									$('replyList').html('暂无评论！');
+								}
+        					}
+        				}
+        			}).send();
+    		});
+    	}
+    }
+var close_pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				 document.getElementById("zopacity").style.display="none";
+				 document.getElementById("pingfenContent").style.display="none";
+    		});
+    	}
+    }
+close_pingfen($('_zs_close'))
+
+var commitPingfen = function(btn){
+	if($isEle(btn)){
+		btn.addEvent('click', function(){
+		var _context = $('zs_i_textarea').val(); 
+    		if(_context.length>0){
+    		   _context = _context.replace(/^\s+|\s+$/g, ""); 
+    		   if(_context.length>0&&_context.length<150){
+    		       new AjaxPost(btn, {
+        				url : '/CourseController/setCourseStarContext',
+        				data : {
+        					context : _context,
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('zs_i_textarea').val(""); 
+								document.getElementById("id_zs_item").style.display="none";
+								var beforehtml = $('replyList').html();
+								if(beforehtml=="暂无评论！"){
+									$('replyList').html("")
+								}
+								
+							 	var _width = curPersonStar*18+(curPersonStar-1)*6;
+								var html = ""+
+							    "<div class=\"zs_item\">"+
+                                	"<div class=\"zs_i_gray\">"+
+                                    	"<div class=\"zs_i_re\">"+
+                                        	"<div class=\"zs_i_abs\">"+
+                                            	"<p class=\"zs_i_portrait\"><img src=\""+json.curImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                "<ul class=\"zs_i_infor\">"+
+                                                	"<li class=\"zs_i_top\"><span>"+json.curUserName+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.publicTime+"</span></li>"+
+                                                    "<li class=\"zs_padding5\">"+
+                                                    	"<dl class=\"zs_star_gray\">"+
+                                                            "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                        "</dl>"+
+                                            		"</li>"+
+                                                "</ul>"+
+                                            "</div>"+
+                                        "</div>"+
+                                        "<div>"+_context+"</div>"+
+                                    "</div>"+
+                                "</div>";
+								$('replyList').html(html+$('replyList').html());
+        					}else{
+        					    alert(json.msg);
+        					    return;
+        					}
+        				}
+        			}).send();
+    		    }else{
+				   alert("0<字数<150");
+				}
+    		}
+		});
+	}
+}
+commitPingfen($('commitPingfen'))
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+} 
+</script>
+
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.2.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+
+<script>
+  	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+var courseStar=document.getElementById("courseStarTag");
+var oclazzTag=document.getElementById("clazzTag");
+var editvalue,courseid,isLogin,templatevalue;
+if(oclazzTag){  
+   editvalue=oclazzTag.getAttribute("data");
+   isLogin=oclazzTag.getAttribute("flag");
+   templatevalue=oclazzTag.getAttribute("template");
+}
+if(courseStar){
+	courseid=courseStar.getAttribute("data");
+}
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=214674009&edit="+editvalue;
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:templatevalue}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				//alert("getCourseStarTag");
+				jQuery('#courseStarTag').prepend(data);
+    		    //document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+jQuery.ajax({ //一个Ajax过程 
+			type: "get", //以get方式与后台沟通 
+			url : "/CourseController/courseEvaluation", 
+			dataType:'html',//返回的值
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){//如果调用成功 
+			    jQuery('#courseEvaluation').append(data);
+			} 
+		}); 
+	
+var oPriceCourse=document.getElementById("priceCourse");
+if(oPriceCourse){
+jQuery.ajax({ //一个Ajax过程 
+	type: "get", //以get方式与后台沟通 
+	url : "/course/priceTag", 
+	dataType:'html',//返回的值
+	data: {courseId:courseid}, 
+	success: function(data){//如果调用成功 
+	    jQuery('#priceCourse').append(data);
+	} 
+});
+}
+ 
+jQuery(function(){
+    try{
+        //获取登录状态
+        var login = true;
+        var fid = jQuery.cookie("fid");
+        var loginString = "_uid";
+                		var loginStatus=jQuery.cookie(loginString);
+						//alert(loginStatus);
+                		if(loginStatus==undefined) login=false;
+        	          //  alert(login);
+						
+                		//请求访问数
+                		jQuery.ajax({ //一个Ajax过程 
+                			type: "get", //以get方式与后台沟通 
+                			url : "/course/viewTimesTag", 
+                			dataType:'html',//返回的值
+                			data: {courseId:courseid,loginStatus:login},
+                			success: function(data){//如果调用成功 
+                			    jQuery('#viewTimesTag').append(data);
+                			} 
+                		}); 
+    }catch(e){
+	  alert(e.message);
+	 }
+});
+</script>
+<script>
+	jQuery(function(){
+		jQuery(".M1C2").hover(function(){
+			jQuery(this).children().eq(2).show();
+			},function(){
+				jQuery(this).children().eq(2).hide();
+				})
+		})
+	jQuery(function(){
+		jQuery(".Djckxq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).next().show();
+			jQuery(this).parent().prev().show();
+			})
+		jQuery(".Djsq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).prev().show();
+			jQuery(this).parent().prev().hide();
+			})
+	})
+	jQuery(function(){
+		jQuery(".MRc1bt a").click(function(){
+			if(jQuery(this).parent().next().is(":hidden")){
+				jQuery(".MRc1ul").hide();
+				jQuery(this).parent().next().show();
+				} else {
+				jQuery(this).parent().next().hide();
+					}
+
+	 })
+		
+   })
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm" style="left:50%;margin-left:-170px;">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<script>
+jQuery("#iboxAlertOk").click(function(){
+	jQuery('.courseAlert').hide();
+});
+jQuery(".courseTilte .ibox_close").click(function(){
+	jQuery('.courseAlert').hide();
+});
+
+jQuery(".courseTilte-confirm .ibox_close").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+</script>
+<script>
+	var $ = mootools;
+</script>
+<script>
+	jQuery(".listtitle").toggle(function(){
+		jQuery(this).next("div").show()
+	},function(){
+		jQuery(this).next("div").hide()
+	})
+</script>
+
+            <script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script>            <link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+            <script src="/js/grouplistUploadCourseImg.js?v=2019-1122-1325"></script>
+            <script src="/js/init-teamteacher.js"></script>
+            <script>
+		function moreEvaluation(courseId){
+				jQuery(".viewmore").hide();
+		 		jQuery("#pageNum").val(parseInt(jQuery("#pageNum").val())+1);
+				var page = jQuery("#pageNum").val();
+				jQuery.ajax({ //一个Ajax过程 
+					type: "get", //以get方式与后台沟通 
+					url : "/CourseController/courseEvaluation", 
+					dataType:'html',//返回的值
+					data: {courseId:courseid,edit:editvalue,page:page,hiddenMyEvaluation:1}, 
+					success: function(data){//如果调用成功 
+					    jQuery('#courseEvaluation').append(data);
+					} 
+				}); 
+		}
+        jQuery(".w_menu_item").on("click",function(){
+            jQuery(this).addClass("wcurr").siblings().removeClass("wcurr");
+            var  id = jQuery(this).attr("id");
+            var  parentId = jQuery(this).attr("parentId");
+            var array = document.getElementsByName("ariticleParentId_"+parentId);
+            if(array != null){
+                for(var i = 0 ; i<array.length;i++){
+                    array[i].css('display','none');
+                }
+            }
+            jQuery("#ariticlecontent_"+id).css('display','block');
+        })
+        if(214674009== '200119420'){
+            jQuery("#courseNavList li").each(function(){
+                if(jQuery(this).html().indexOf('课程评价') > 0 ){
+                    jQuery(this).css('display','none');
+                }
+            });
+        }
+	</script>
+
+    </div>
+          <input type="hidden" id="report_type" value="webURL"/>
+          <input type="hidden" id="sourceContent" value=""/>
+          <input type="hidden" id="sourceIdStr" value=""/>
+        <div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div>        <script src="/js/coursehomeTip.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+	    <script>
+               //初始化举报按钮
+        jQuery(document).ready(function () {
+            var is_login = jQuery("#is_login").val();
+            var is_teacher = jQuery("#is_teacher").val();
+            if (is_login == 'false') {
+                //未登录
+                jQuery("#toReport").attr('onclick', '_msgtip()');
+            } else if (typeof(is_teacher) != "undefined" && is_teacher == 'true') {
+                //教师身份
+                jQuery("#_report").remove();
+            }
+        })
+
+	   function showSemesterList(){
+		   var display = jQuery("#options").css("display");
+	  	   if(display == "none"){
+	  	  		jQuery("#options").show();
+	  	   }else{
+	  	   		jQuery("#options").hide();
+	  	   }
+	      
+	    }
+
+        var _msgtip = function () {
+            alert("请先登录！");
+        }
+    </script>
+
+    </body>
+	
+</html>

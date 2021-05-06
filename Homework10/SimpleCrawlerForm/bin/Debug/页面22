@@ -1,0 +1,1356 @@
+﻿<!doctype html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+		<meta name="SiteName" content="�л����񹲺͹���ѧ������">
+		<meta name="SiteDomain" content="www.most.gov.cn/">
+		<meta name="SiteIDCode" content="bm06000001">
+		<meta name="SiteUrl" content="http://www.most.gov.cn/" />
+		<meta name="ColumnType" content="��ҳ" />
+		<meta name="guild" content="�Ƽ�" />
+		<meta name="district" content="������" />
+		<meta name="sitecatalog" content="�Ƽ�" />
+		<title>�л����񹲺͹���ѧ������</title>
+		<link rel="stylesheet" href="/css/header_topline.css">
+		<link rel="stylesheet" href="/css/header.css">
+		<link rel="stylesheet" href="/css/kjbmh10px5pic1015.css">
+		<link rel="stylesheet" href="/css/xxgk-fwpt.css" />
+        <link rel="stylesheet" href="/css/index_slides.css">
+		<link rel="stylesheet" href="/css/float.css">
+		<link rel="stylesheet" href="/css/footer.css">
+		<style>
+			* {
+		font-weight: 100;
+  		margin:0; 
+  		padding:0;
+		font-family: "Microsoft YaHei", "SimSun", "SimHei", "STSong", "STFangsong", "SimHei","Hiragino Sans GB";
+  	}
+  	body{  		
+  		margin: 0px;
+  		padding: 0px;	
+                background-color: #ffffff;	
+  	}
+	.en-font{
+		font-family: Tahoma, Geneva, sans-serif;
+	}
+	.menu-item {
+		width: 150px;
+	}
+	.menu-item ul {
+		width: 148px;
+	}
+	.content1_v1 {
+		border: none;
+	}
+	.content1_v1>div:hover{
+		border-bottom: 1px solid #2b7ee6 !important;
+	}
+	.content2_v1_4{
+		line-height: 30px;
+	}
+	.content2_v2_2 {
+		height: 240px;
+		width: 586px;
+		padding: 10px;
+	}
+	.content2_v2_2 ul {
+		padding: 0px;
+	}
+	.content1_v1 div {
+		width: 340px;
+		height: 50px;
+		border-bottom: 1px solid #d1d1d1;
+		cursor: pointer;
+	}
+	.content1_v1 p {
+		padding: 10px 15px 10px 20px;
+	}
+	#gzcy-two {
+		border: #bbb 1px solid;
+		border-top: none;
+		height: 108px;
+		padding-top: 0px;
+	}
+	.gzcy-two-item{
+		height: 49px;
+		margin: 0px 0px 0px 6px;
+		border-bottom: dashed 1px #d4d4d4;
+		line-height: 49px;
+		float: left;
+    	width: 110px;
+	}
+	.gzcy-two-item:hover{
+		background-color: #f5f5f5;
+	}
+	.gzcy-two-item a img{
+		display:inline-block;
+		position: relative;
+		top: 14px;
+		margin-right: 8px;
+	}
+	.gzcy-two-item a{
+		width: 100%;
+		text-decoration: none;
+		display:inline-block;
+		padding-left:0px;
+		color: #666666; 
+		font-size: 14px;
+		height: 52px;
+		line-height: 50px;
+	}
+	.gwyxc{
+		margin-top: 4px;height: 50px;width: 240px;position: relative;
+		
+	}
+	.gwyxc a:before{
+		content:'';
+	}
+	.gwyxc_con{
+		float: right;
+		position: absolute;
+		right: 20px;
+		top: 50px;
+		z-index: 1000;
+		display: none;
+		height: 240px;
+		width: 160px;
+	}
+	.content2_v3_1 p {
+		padding: 0px 10px 0px 15px;
+		font-size: 14px;
+		color: #666666;
+		line-height: 35px;
+	}
+	.content2_v3_1_1 p{
+		 line-height:50px;
+		 padding-left:20px;
+		 color:#ffffff;
+		 font-weight:bold;
+		 font-size:16px;
+	}
+	.govfwpt{    
+		margin-top: 4px;
+		height: 50px;
+		width: 240px;
+		position: relative;
+	}
+</style>
+	</head>
+	<body>
+		<script type="text/javascript" src="/inc/index_header_topline.js"></script>
+		<div class="header">
+			<div class="header" id="header-title">
+				<div id="header-title-pic"><img src="image/header-title.png" alt=""></div>
+				<div id="header-title-search">
+					<iframe src="/images/search_index.htm" frameborder="0" height="50" width="360" scrolling="no" style="border:none;"></iframe>
+					<!--
+<form name="formznjs" action="http://znjs.most.gov.cn/wasdemo/search" target="_blank" onSubmit="return transearchword()"  method="post" accept-charset="utf-8">
+<div id="header-title-search-text"><input name="searchword" type="text" size="26" placeholder="������ؼ���" onFocus="this.value=''" onKeyDown="if(window.event.keyCode==13){return  changSearch();}"/></div>
+<div id="header-title-search-btn"><a href="javascript:changSearch();">����</a></div>
+<input type="hidden" name="prepage" value="10">
+<input type="hidden" name="channelid" value="44374">
+<input type="hidden" name="sortfield" value="-DOCRELTIME">
+<input type="hidden" name="strKeyWords" >
+<input type="hidden" name="itime"  value="0" />
+</form>-->
+				</div>
+			</div>
+		</div>
+		<div id="menu-items" style="min-width:1200px;margin-bottom: 12px;">
+			<div class="menu" style="margin: 0px auto; font-size: 0px;">
+				<div class="menu-item" onmouseover="selectList('select_list1')" onmouseleave="leaveSelectList('select_list1')">
+					<a href="/zzjg/">��֯����</a>
+					<ul id="select_list1" style="display:none;">
+						<li><a href="/zzjg/kjbzn">�Ƽ���ְ��</a></li>
+						<li><a href="/zzjg/index.htm#z1">���쵼</a></li>
+						<li><a href="/zbjjz">פ���ͼ�����</a></li>
+						<li><a href="/zzjg/index.htm#z2">�������</a></li>
+						<li><a href="/zzjg/index.htm#z3">��ҵ��λ</a></li>
+						<li><a href="/zzjg/zwkjjg">פ��Ƽ�����</a></li>
+						<li><a href="/zzjg/zgshzz/">�������š������</a></li>
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list2')" onmouseleave="leaveSelectList('select_list2')">
+					<a>��Ϣ����</a>
+					<ul id="select_list2" style="display:none;">
+						<li><a href="/xxgk/xinxifenlei/zfxxgkzn/">����ָ��</a></li>
+						<li><a href="/xxgk/xinxifenlei/fdzdgknr/">������������</a></li>
+						<li><a href="/xxgk/xinxifenlei/ysqgk/">�����빫��</a></li>
+						<li><a href="/xxgk/xinxifenlei/xxgknb/">�����걨</a></li>
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list3')" onmouseleave="leaveSelectList('select_list3')">
+					<a href="/kjzc/">�Ƽ�����</a>
+					<ul id="select_list3" style="display:none;">
+						<li><a href="/kjzc/gjkjzc">���ҿƼ�����</a></li>
+						<li><a href="/kjzc/gjsdkjzc">�Ե�Ƽ�����</a></li>
+						<li><a href="/kjzc/dfzcjx">�ط����߾�ѡ</a></li>
+						<li><a href="/kjzc/kjzcgzdt">�Ƽ����߶�̬</a></li>
+						<li><a href="/kjzc/zdkjzcjd">�Ƽ����߽��</a></li>
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list4')" onmouseleave="leaveSelectList('select_list4')">
+					<a>�Ƽ��ƻ�</a>
+					<ul id="select_list4" style="display:none;">
+						<li><a href="http://service.most.gov.cn/index/xwljh.html" target="_blank">�Ƽ��ƻ���ϵ</a></li>
+						<li><a href="http://service.most.gov.cn/sbksdy/index.html" target="_blank">��Ŀ�����걨</a></li>
+						<li><a href="https://isisn.nsfc.gov.cn/egrantweb" target="_blank">��Ȼ�����걨</a></li>
+						<!--
+					<li><a href="/kjjh/gjkjjh">"ʮ����"���ҿƼ��ƻ�(ר��)</a></li>
+					<li><a href="/ndbg">��ȱ���</a></li>
+					<li><a href="/kjjh/xmsb/wlsbzx">�걨��ѯ</a></li>				
+-->
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list5')" onmouseleave="leaveSelectList('select_list5')">
+					<a>�������</a>
+					<ul id="select_list5" style="display:none;">
+						<li><a href="https://fuwu.most.gov.cn/html/xzxk/" target="_blank">�������</a></li>
+						<li><a href="/cxfw">��ѯ����</a></li>
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list8')" onmouseleave="leaveSelectList('select_list8')">
+					<a>��������</a>
+					<ul id="select_list8" style="display:none;">
+						<li><a href="/jgdj/">���ص���</a></li>
+						<li><a href="/ztzl/lxyzxxjy/index.htm">��ѧһ��</a></li>
+						<li><a href="/jgdj/dflz/index.htm">��������</a></li>
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list6')" onmouseleave="leaveSelectList('select_list6')">
+					<a>���ڲ���</a>
+					<ul id="select_list6" style="display:none;">
+						<li><a href="http://appweblogic.most.gov.cn/bzxx/index.htm">��������</a></li>
+						<li><a href="http://appweblogic.most.gov.cn/gzwd/gzwd.htm">�����ʴ�</a></li>
+						<li><a href="/jdts">�ලͶ��</a></li>
+						<li><a href="http://appweblogic.most.gov.cn/lsxw/xbwzwsdc.jsp">���ϵ���</a></li>
+					</ul>
+				</div>
+				<div class="menu-item" onmouseover="selectList('select_list7')" onmouseleave="leaveSelectList('select_list7')">
+					<a>ר��ר��</a>
+					<ul id="select_list7" style="display:none;">
+						<li><a href="/ztzl">�ȵ�ר��</a></li>
+						<li><a href="/zxgz">ר���</a></li>
+						<!--					<li><a href="/kjfz/kjlc">�Ƽ���չ</a></li>-->
+						<!--					<li><a href="/kjfz/kjrw">�Ƽ�����</a></li>-->
+						<!--					<li><a href="/kjfz/kjxz">��չ����</a></li>-->
+						<li><a href="/wqzl">����ר��</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
+
+		<div style="min-width:1200px;">
+			<div class="content1" style="margin-bottom: 10px; overflow: hidden; height: 305px;">
+				<div class="content1_v1">
+					
+						<div>
+							<p>
+								<a href="http://www.xinhuanet.com/politics/leaders/2021-05/01/c_1127401181.htm" title='ϰ��ƽ���й��������ξֵڶ�ʮ�Ŵμ���ѧϰʱǿ�� ������̬��������ս�Զ��� Ŭ������������Ȼ��г�������ִ���(2021-05-01)'
+								 target="_blank">
+									<span>
+										ϰ��ƽ���й��������ξֵڶ�ʮ�Ŵμ�...</span>
+								</a>
+							</p>
+						</div>
+					
+						<div>
+							<p>
+								<a href="http://www.xinhuanet.com/politics/leaders/2021-04/30/c_1127398723.htm" title='�й��������ξ��ٿ����� ϰ��ƽ����(2021-04-30)'
+								 target="_blank">
+									<span>
+										�й��������ξ��ٿ����� ϰ��ƽ����</span>
+								</a>
+							</p>
+						</div>
+					
+						<div>
+							<p>
+								<a href="http://www.xinhuanet.com/politics/2021-04/30/c_1127398943.htm" title='�ڡ���һ�������Ͷ��ڵ���֮�� ϰ��ƽ��ȫ������Ͷ�Ⱥ�����Խ��յ�ף�غͳ�ֿ��ο��(2021-04-30)'
+								 target="_blank">
+									<span>
+										�ڡ���һ�������Ͷ��ڵ���֮�� ϰ��...</span>
+								</a>
+							</p>
+						</div>
+					
+						<div>
+							<p>
+								<a href="http://www.xinhuanet.com/politics/leaders/2021-04/29/c_1127391037.htm" title='�й��ռ�վ��ͺ��Ĳշ�������ɹ� ϰ��ƽ�µ�ף��(2021-04-29)'
+								 target="_blank">
+									<span>
+										�й��ռ�վ��ͺ��Ĳշ�������ɹ� ...</span>
+								</a>
+							</p>
+						</div>
+					
+						<div>
+							<p>
+								<a href="http://www.xinhuanet.com/politics/2021-04/29/c_1127388818.htm" title='�����͡�Ŭ�����ٳ�����������ϰ��ƽ����ǿ��������ʵ(2021-04-29)'
+								 target="_blank">
+									<span>
+										�����͡�Ŭ�����ٳ�����������ϰ��ƽ...</span>
+								</a>
+							</p>
+						</div>
+					
+						<div>
+							<p>
+								<a href="http://www.xinhuanet.com/politics/2021-04/27/c_1127380605.htm" title='ϰ��ƽ����װ������ҵ��ǿ��ֻ�д��²�����ǿ(2021-04-27)'
+								 target="_blank">
+									<span>
+										ϰ��ƽ����װ������ҵ��ǿ��ֻ�д���...</span>
+								</a>
+							</p>
+						</div>
+					
+				</div>
+				<div class="content1_v2" style="height: 304px;">
+					<div class="lunbo" id="example2">
+                        <div id="slides2">
+                            <div class="slides_container">
+                                
+                                    <div class="posters slide">
+                                        <a href="/ztzl/srkzdsxxjy/" target="_blank">
+                                            <img src="./tpxc/202103/W020210310647233281507.jpg">
+                                        </a>
+                                    </div>
+                                
+                                    <div class="posters slide">
+                                        <a href="/ztzl/lhzt/lhzt2021/index.htm" target="_blank">
+                                            <img src="./tpxc/202103/W020210312384696713150.jpg">
+                                        </a>
+                                    </div>
+                                
+                                    <div class="posters slide">
+                                        <a href="http://www.xinhuanet.com/politics/2020-10/29/c_1126674147.htm" target="_blank">
+                                            <img src="./tpxc/202103/W020210312386019682178.jpg">
+                                        </a>
+                                    </div>
+                                
+                                    <div class="posters slide">
+                                        <a href="http://www.xinhuanet.com/politics/leaders/2020-03/02/c_1125652961.htm" target="_blank">
+                                            <img src="./tpxc/202003/W020200303366339849295.jpg">
+                                        </a>
+                                    </div>
+                                
+                                    <div class="posters slide">
+                                        <a href="https://www.xuexi.cn/lgpage/detail/index.html?id=5058796047456294330&item_id=5058796047456294330" target="_blank">
+                                            <img src="./tpxc/201910/W020191029524894843148.jpg">
+                                        </a>
+                                    </div>
+                                
+                                    <div class="posters slide">
+                                        <a href="http://www.xinhuanet.com/politics/leaders/2021-01/21/c_1127009956.htm" target="_blank">
+                                            <img src="./tpxc/202103/W020210329598681091947.jpg">
+                                        </a>
+                                    </div>
+                                
+                                    <div class="posters slide">
+                                        <a href="/ztzl/kxydfyyq/index.htm" target="_blank">
+                                            <img src="./tpxc/202002/W020200228360183433643.jpg">
+                                        </a>
+                                    </div>
+                                
+                            </div>
+                            <a href="javascript:;" class="prev"></a> 
+                            <a href="javascript:;" class="next"></a> 
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div class="content2" style="margin-bottom: 12px;">
+				<div class="content2_v1" style="width:330px; margin-right: 10px;">
+					<div id="change" style="height:50px;width:328px;overflow: hidden;">
+						<div class="content2_v1_1" style="width:164px;"><a href="./tpxw/">ͼƬ����</a></div>
+						<div class="content2_v1_2" style="width:163px;"><a href="/xinwzx/spzl/" target="_blank" />��Ƶ����</a></div>
+					</div>
+					<div style="width:327px;height: 260px;overflow: hidden;">
+						<div id="content2_v1_body" class="content2_v1_bod" style="width:330px;">
+							<div class="content2_v1_3" id="lunbo-1" style="left:-330px;">
+
+								
+									<div>
+										<a href="./tpxw/202103/t20210324_161932.htm" target="_blank">
+										<img src="./tpxw/202103/W020210324528923908313.jpg" width=330px></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�Ƽ���������־�ճ�ϯ�й���չ�߲���̳...</span>
+											</p>
+										</div>
+									</div>
+								
+
+
+								
+									<div>
+										<a href="./tpxw/202104/t20210427_162558.htm" target="_blank">
+										<img src="./tpxw/202104/W020210427403998433921.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													��ԾԾ��ϯ�Ƽ����½����ж����ʽǿ��...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./tpxw/202104/t20210427_162592.htm" target="_blank">
+										<img src="./tpxw/202104/W020210427588350003708.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�Ƽ���������־����¹�������в�����...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./tpxw/202104/t20210427_162557.htm" target="_blank">
+										<img src="./tpxw/202104/W020210427404190785801.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�Ƽ��� �㶫ʡ��������2021�겿ʡ������...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./tpxw/202104/t20210409_162253.htm" target="_blank">
+										<img src="./tpxw/202104/W020210409524535784942.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�Ƽ����ٿ�2021��ȵ��������ߵ�������...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./tpxw/202103/t20210324_161932.htm" target="_blank">
+										<img src="./tpxw/202103/W020210324528923908313.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�Ƽ���������־�ճ�ϯ�й���չ�߲���̳...</span>
+											</p>
+										</div>
+									</div>
+								
+
+								
+									<div>
+										<a href="./tpxw/202104/t20210427_162558.htm" target="_blank">
+										<img src="./tpxw/202104/W020210427403998433921.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													��ԾԾ��ϯ�Ƽ����½����ж����ʽǿ��...</span>
+											</p>
+										</div>
+									</div>
+								
+
+							</div>
+							<div id="index_xw_buttons">
+								<span index="1" class="on"></span>
+								<span index="2"></span>
+								<span index="3"></span>
+
+								<span index="4"></span>
+								<span index="5"></span>
+							</div>
+						</div>
+						<div id="content2_v1_body2" class="content2_v1_bod" style="display:none" style="width:330px;">
+							<div class="content2_v1_3" id="lunbo-2" style="left:-330px;">
+
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160200.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204535820154621.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�ж����ĺ���ίԱ��ڶ�ʮһ�λ����ٿ�</span>
+											</p>
+										</div>
+									</div>
+								
+
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160201.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204536866717413.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													���ǿͬ����˹�����ͬ�����ж������...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160202.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204536682345804.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													���ǿ��ϯ�Ϻ�������֯��Ա����������...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160204.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204537705312713.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													���������˹��һ�������ͬ�����ж�Ͷ...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160203.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204537248758275.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�����������˹�������ͬ�����ٿ��ж�...</span>
+											</p>
+										</div>
+									</div>
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160200.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204535820154621.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													�ж����ĺ���ίԱ��ڶ�ʮһ�λ����ٿ�</span>
+											</p>
+										</div>
+									</div>
+								
+
+								
+									<div>
+										<a href="./xinwzx/spzl/mtbd/202012/t20201204_160201.htm" target="_blank">
+										<img src="./xinwzx/spzl/mtbd/202012/W020201204536866717413.jpg"></a>
+										<div class="content2_v1_4">
+											<p>
+												<span>
+													���ǿͬ����˹�����ͬ�����ж������...</span>
+											</p>
+										</div>
+									</div>
+								
+
+							</div>
+							<div id="index_sp_buttons">
+								<span index="1" class="on"></span>
+								<span index="2"></span>
+								<span index="3"></span>
+								<span index="4"></span>
+								<span index="5"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="content2_v2" style="margin-right:12px; width: 608px;">
+					<div class="content2_v2_1" style="width:608px;">
+						<img style="float:left; width: 73px; height: 50px; padding-right: 10px;" src="image/image4.png">
+						<a href="/szyw/" class="content2_v2_1_active" t="4">ʱ��Ҫ��</a>
+						<a href="./kjbgz/" class="content2_v2_1_deactive" style="width: 94px;" t="5">�Ƽ�������</a>
+						<a href="/dfkj/" class="content2_v2_1_deactive" t="4">�ط��Ƽ�</a>
+						<a href="./gnwkjdt/" class="content2_v2_1_deactive" t="4">�Ƽ���̬</a>
+						<a href="./xinwzx/xwzx/" class="content2_v2_1_deactive" style="width: 60px;" t="3">������</a>
+						<a href="./xinwzx/mtjj/" class="content2_v2_1_deactive" t="4">ý��۽�</a>
+					</div>
+					<div class="content2_v2_2_body">
+						<!--					 ʱ��Ҫ��-->
+						<div class="content2_v2_2" id="content2_v2_2_szyw">
+							<d>
+								<ul style="height: 120px; overflow: hidden;">
+									
+										<li>
+											<a href='http://www.xinhuanet.com/politics/leaders/2021-05/02/c_1127403807.htm' title='ϰ��ƽ����ɫ�з������ز�̤�¹�����ɫ����ͳ�������ο�ʵ�'
+											 target="_blank">
+												ϰ��ƽ����ɫ�з������ز�̤�¹�����ɫ����ͳ�������ο�ʵ�</a>
+											<div><span>
+													2021-05-02</span></div>
+										</li>
+									
+										<li>
+											<a href='http://www.xinhuanet.com/politics/leaders/2021-04/29/c_1127393292.htm' title='ϰ��ƽͬ����������ŷ����ͨ�绰'
+											 target="_blank">
+												ϰ��ƽͬ����������ŷ����ͨ�绰</a>
+											<div><span>
+													2021-04-30</span></div>
+										</li>
+									
+										<li>
+											<a href='http://www.xinhuanet.com/politics/leaders/2021-04/29/c_1127393227.htm' title='ϰ��ƽͬ���ȱ��˹̹��ͳ�׶���ԼҮ��ͨ�绰'
+											 target="_blank">
+												ϰ��ƽͬ���ȱ��˹̹��ͳ�׶���ԼҮ��ͨ�绰</a>
+											<div><span>
+													2021-04-30</span></div>
+										</li>
+									
+								</ul>
+							</d>
+                            <ul style="height: 80px; overflow: hidden;">
+							</ul>
+                            <d>
+								<ul style="height: 40px; overflow: hidden;">
+									
+										<li>
+											<a href='http://www.xinhuanet.com/politics/leaders/2021-04/28/c_1127388369.htm' title='�������Ϻ����㽭����ʱǿ�� ����ʱ������ ��ǿʹ������ ���������������ϵǿ������ս�ԿƼ�����'
+											 target="_blank">
+												�������Ϻ����㽭����ʱǿ�� ����ʱ������ ��ǿʹ������ ����...</a>
+											<div><span>
+													2021-04-29</span></div>
+										</li>
+									
+								</ul>
+							</d>
+						</div>
+						<!--					 �Ƽ�������-->
+
+						<div class="content2_v2_2" style="display: none;">
+							<ul>
+								
+									<li>
+										<a href='./kjbgz/202105/t20210504_162687.htm' title='��־�ղ��������ġ�����'
+										 target="_blank">
+											��־�ղ��������ġ�����</a>
+										<div><span>
+												2021-05-04</span></div>
+									</li>
+								
+									<li>
+										<a href='./kjbgz/202104/t20210430_162668.htm' title='�Ƽ�����¹�������в��ڵ������е����������ڼ�ǩ����Ҫ����Э��'
+										 target="_blank">
+											�Ƽ�����¹�������в��ڵ������е����������ڼ�ǩ����Ҫ��...</a>
+										<div><span>
+												2021-04-30</span></div>
+									</li>
+								
+									<li>
+										<a href='./kjbgz/202105/t20210506_162697.htm' title='���Ҵ�Լ���˾۱��ܷ�չ�о�ר��4����Ŀ���ڼ����������ٿ�'
+										 target="_blank">
+											���Ҵ�Լ���˾۱��ܷ�չ�о�ר��4����Ŀ���ڼ����������ٿ�</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./kjbgz/202105/t20210506_162698.htm' title='����SHRM��֤̽�������ں���ģʽ ��������Դ����֯��������չ��̳������ٰ�'
+										 target="_blank">
+											����SHRM��֤̽�������ں���ģʽ ��������Դ����֯��������չ...</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./kjbgz/202104/t20210429_162633.htm' title='�߼�����������ˮ��չ����Ϊ�����ͳɹ����'
+										 target="_blank">
+											�߼�����������ˮ��չ����Ϊ�����ͳɹ����</a>
+										<div><span>
+												2021-04-29</span></div>
+									</li>
+								
+									<li>
+										<a href='./kjbgz/202104/t20210429_162632.htm' title='�߼������ľٰ쵳ʷѧϰ����������ΰ���߾���ר�⽲��'
+										 target="_blank">
+											�߼������ľٰ쵳ʷѧϰ����������ΰ���߾���ר�⽲��</a>
+										<div><span>
+												2021-04-29</span></div>
+									</li>
+								
+							</ul>
+						</div>
+						<!--					 �ط��Ƽ�-->
+						<div class="content2_v2_2" style="display: none;">
+							<ul>
+								
+									<li>
+										<a href='./dfkj/qh/zxdt/202105/t20210506_162705.htm' title='������+����+����+���񡱡����ຣ�Ƽ���ý�崴�·������Ĵ�����������'
+										 target="_blank">
+											������+����+����+���񡱡����ຣ�Ƽ���ý�崴�·������Ĵ���...</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./dfkj/shanx/zxdt/202105/t20210506_162704.htm' title='����ʡ�Ƽ�����Ա�����߹���ʳƷ�Ƽ��ɹ�ת���ƽ����������ٿ�'
+										 target="_blank">
+											����ʡ�Ƽ�����Ա�����߹���ʳƷ�Ƽ��ɹ�ת���ƽ����������ٿ�</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./dfkj/zj/zxdt/202105/t20210506_162703.htm' title='�������ٿ��Ƽ�ϵͳ����������̸��'
+										 target="_blank">
+											�������ٿ��Ƽ�ϵͳ����������̸��</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./dfkj/hub/zxdt/202105/t20210506_162702.htm' title='����ʡ�Ƽ�����̨���Ż��Ƽ�Ӫ�̻���19����'
+										 target="_blank">
+											����ʡ�Ƽ�����̨���Ż��Ƽ�Ӫ�̻���19����</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./dfkj/zj/zxdt/202105/t20210506_162701.htm' title='�㽭���ݣ��ƴ�������ͨ����������չ�ġ���ɽһ��·��'
+										 target="_blank">
+											�㽭���ݣ��ƴ�������ͨ����������չ�ġ���ɽһ��·��</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./dfkj/ln/zxdt/202105/t20210506_162700.htm' title='����ʡ�Ƽ�����֯����������ҵ�μӱ������ʻ���չ'
+										 target="_blank">
+											����ʡ�Ƽ�����֯����������ҵ�μӱ������ʻ���չ</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+							</ul>
+						</div>
+						<!--					 �Ƽ���̬-->
+						<div class="content2_v2_2" style="display: none;">
+							<ul>
+								
+									<li>
+										<a href='./gnwkjdt/202105/t20210506_162696.htm' title='�޻�����ѧ�����ص�ʵ�����о��Ŷӽ�ʾ½���޵���ֻ�����άƷ�ʸ����Ļ�����ѧ����'
+										 target="_blank">
+											�޻�����ѧ�����ص�ʵ�����о��Ŷӽ�ʾ½���޵���ֻ�����ά...</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./gnwkjdt/202105/t20210506_162695.htm' title='��ѧ�ҷ��ִ�������ϵͳȱ�ݻᵼ����������ɢ'
+										 target="_blank">
+											��ѧ�ҷ��ִ�������ϵͳȱ�ݻᵼ����������ɢ</a>
+										<div><span>
+												2021-05-06</span></div>
+									</li>
+								
+									<li>
+										<a href='./gnwkjdt/202104/t20210429_162631.htm' title='Ӣ��������ѧ�о������Ǽ��������ǿ�����ˣ�TB�����·���'
+										 target="_blank">
+											Ӣ��������ѧ�о������Ǽ��������ǿ�����ˣ�TB�����·���</a>
+										<div><span>
+												2021-04-29</span></div>
+									</li>
+								
+									<li>
+										<a href='./gnwkjdt/202104/t20210429_162630.htm' title='Ӣ��ӡ�����Ͽ����򻯵��ۿ��������ɱ�Ϊԭ������10��'
+										 target="_blank">
+											Ӣ��ӡ�����Ͽ����򻯵��ۿ��������ɱ�Ϊԭ������10��</a>
+										<div><span>
+												2021-04-29</span></div>
+									</li>
+								
+									<li>
+										<a href='./gnwkjdt/202104/t20210429_162629.htm' title='��ɫ���о���Ա���ָ���˥�Ϲ��̵Ļ���'
+										 target="_blank">
+											��ɫ���о���Ա���ָ���˥�Ϲ��̵Ļ���</a>
+										<div><span>
+												2021-04-29</span></div>
+									</li>
+								
+									<li>
+										<a href='./gnwkjdt/202104/t20210429_162628.htm' title='��ѧ�ҷ��������͡����ۺ��ࡱ�ɽ��ʯ��й©��Ⱦ'
+										 target="_blank">
+											��ѧ�ҷ��������͡����ۺ��ࡱ�ɽ��ʯ��й©��Ⱦ</a>
+										<div><span>
+												2021-04-29</span></div>
+									</li>
+								
+							</ul>
+						</div>
+						<!--					 ������-->
+						<div class="content2_v2_2" style="display: none;">
+							<ul>
+								
+									<li>
+										<a href='/xinwzx/xwzx/twzb/fbh21030801/index.htm' title='ʮ����ȫ���˴��Ĵλ���ڶ���������ͨ�������� ��־�ղ�����Ӧ����'
+										 target="_blank">
+											ʮ����ȫ���˴��Ĵλ���ڶ���������ͨ�������� ��־�ղ�����...</a>
+										<div><span>
+												2021-03-08</span></div>
+									</li>
+								
+									<li>
+										<a href='/xinwzx/xwzx/twzb/fbh210226/index.htm' title='���°�ͼӿ콨�贴���͹��ң�ȫ��֧���·�չ����й�������з�����'
+										 target="_blank">
+											���°�ͼӿ콨�贴���͹��ң�ȫ��֧���·�չ����й������...</a>
+										<div><span>
+												2021-02-26</span></div>
+									</li>
+								
+									<li>
+										<a href='/xinwzx/xwzx/twzb/fbh210120/index.htm' title='��ʵ����ȫ�ᾫ��ӿ��ƽ��������ʿƼ��������Ľ��跢����'
+										 target="_blank">
+											��ʵ����ȫ�ᾫ��ӿ��ƽ��������ʿƼ��������Ľ��跢����</a>
+										<div><span>
+												2021-01-20</span></div>
+									</li>
+								
+									<li>
+										<a href='/xinwzx/xwzx/twzb/fbh201231/index.htm' title='����Ժ�������ػ��ƾ����¹ڲ������總�������м���ع������������'
+										 target="_blank">
+											����Ժ�������ػ��ƾ����¹ڲ������總�������м���ع�����...</a>
+										<div><span>
+												2020-12-31</span></div>
+									</li>
+								
+									<li>
+										<a href='/xinwzx/xwzx/twzb/fbh201223/index.htm' title='���°���пƼ���ƶ������Ӯ��ƶ����ս���ŷ�����'
+										 target="_blank">
+											���°���пƼ���ƶ������Ӯ��ƶ����ս���ŷ�����</a>
+										<div><span>
+												2020-12-24</span></div>
+									</li>
+								
+									<li>
+										<a href='/xinwzx/xwzx/twzb/fbh201202/index.htm' title='ȫ����̬����ң�м��2020��ȱ������ŷ�����'
+										 target="_blank">
+											ȫ����̬����ң�м��2020��ȱ������ŷ�����</a>
+										<div><span>
+												2020-12-02</span></div>
+									</li>
+								
+							</ul>
+						</div>
+						<!--					 ý��۽�-->
+						<div class="content2_v2_2" style="display: none;">
+							<ul>
+								
+									<li>
+										<a href='http://paper.ce.cn/jjrb/html/2021-04/30/content_442692.htm' title='[�����ձ�]�����Ƽ�����ʵ�֡�̼�к͡�'
+										 target="_blank">
+											[�����ձ�]�����Ƽ�����ʵ�֡�̼�к͡�</a>
+										<div><span>
+												2021-04-30</span></div>
+									</li>
+								
+									<li>
+										<a href='http://www.xinhuanet.com/2021-04/25/c_1127374799.htm' title='[�»���]��ʮ�Ž��й������˲Ž����������3.5���˴βι�Ǣ̸'
+										 target="_blank">
+											[�»���]��ʮ�Ž��й������˲Ž����������3.5���˴βι�Ǣ̸</a>
+										<div><span>
+												2021-04-25</span></div>
+									</li>
+								
+									<li>
+										<a href='http://www.gd.xinhuanet.com/newscenter/2021-04/24/c_1127370780.htm' title='[�»���]��ʮ�Ž��й������˲Ž�����������ھ���'
+										 target="_blank">
+											[�»���]��ʮ�Ž��й������˲Ž�����������ھ���</a>
+										<div><span>
+												2021-04-24</span></div>
+									</li>
+								
+									<li>
+										<a href='http://www.xinhuanet.com/2021-04/19/c_1127347591.htm' title='[�»���]�Ƽ�����̼���̼�кͽ�����һϵ�д��³ɹ�'
+										 target="_blank">
+											[�»���]�Ƽ�����̼���̼�кͽ�����һϵ�д��³ɹ�</a>
+										<div><span>
+												2021-04-20</span></div>
+									</li>
+								
+									<li>
+										<a href='./xinwzx/mtjj/mtzf/202104/t20210414_162338.htm' title='[�����ձ�]�����ϵͳ�����ҹ����ﰲȫ�Ƽ�֧������'
+										 target="_blank">
+											[�����ձ�]�����ϵͳ�����ҹ����ﰲȫ�Ƽ�֧������</a>
+										<div><span>
+												2021-04-14</span></div>
+									</li>
+								
+									<li>
+										<a href='https://news.gmw.cn/2021-04/14/content_34762445.htm' title='[�����ձ�]��ѧ�Ҿ��񣺸�������չ�Ĳ��߶���'
+										 target="_blank">
+											[�����ձ�]��ѧ�Ҿ��񣺸�������չ�Ĳ��߶���</a>
+										<div><span>
+												2021-04-14</span></div>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="content2_v3">
+					<div class="content2_v3_1">
+						<div class="content2_v3_1_1">
+							<p>�Ƽ����쵼������</p>
+						</div>
+						<p><a href="/zzjg/bld/wzg/" target="_blank">��־��</a></p>
+						<p><a href="/zzjg/bld/hw/" target="_blank">�ơ���</a>��<a href="/zzjg/bld/xnp/" target="_blank">����ƽ</a>��<a href="/zzjg/bld/lm/"
+							 target="_blank">���</a>��<a href="/zzjg/bld/xlb/"
+							 target="_blank">�����</a><a href="/zzjg/bld/gth/" target="_blank">���û�</a>��<a href="/zzjg/bld/ljh/" target="_blank">���</a>��<a href="/zzjg/bld/lp/" target="_blank">�ƽ</a>��<a href="/zzjg/bld/lum/"
+							 target="_blank">½����</a></p>
+						<p><a href="/zzjg/bld/msb/" target="_blank">���ٲ�</a>��<a href="/zzjg/bld/hdf/" target="_blank">�ص·�</a></p>
+						<hr style="width: 90%; margin: 0px auto; border:none; border-top: 1px solid #bbb; margin-top: 10px;" />
+						<p style="padding-top:16px; float:left; width: 90px;"><a href="/zzjg/kjbzn/" target="_blank">�Ƽ���ְ��</a></p>
+						<p style="padding-top:16px; float:left; width: 100px; padding-left: 0px;"><a href="/zbjjz" target="_blank">פ���ͼ�����</a></p>
+						<p style="float:left; width: 90px;"><a href="/zzjg/index.htm#z2" target="_blank">�������</a></p>
+						<p style="float:left; width: 90px; padding-left:0px;"><a href="/zzjg/index.htm#z3" target="_blank">��ҵ��λ</a></p>
+					</div>
+				</div>
+			</div>
+
+
+			<div id="xxgk" style="margin-bottom: 12px;">
+				<div id="xxgk-left" style="width: 948px;">
+					<div id="xxgk-one" style="width: 943px;">
+						<div style="height:50px;width:40px;float:left;margin-top:5px;"><img alt="" src="image/zfxxgka.png" style="position: relative; top: -5px; left: -6px; width: 73px; height: 50px;"></div>
+						<div style="width: 110px;float: left; width: 120px; height: 50px; line-height: 50px;margin-left: 30px; font-size: 18px;font-weight: bold; margin-right: 20px;">������Ϣ����</div>
+						<div id="xxgk_tab">
+							<div class="xxgk-menu-item xxgk-menu-item-active">
+								<div class="xxgk-one-text-active"><a href="/xxgk/xinxifenlei/zjgx/">���¹���</a></div>
+							</div>
+							<div class="xxgk-menu-item">
+								<div class="xxgk-one-text-deactive">
+									<a href="./tztg/">֪ͨͨ��</a>
+								</div>
+							</div>
+							<div class="xxgk-menu-item">
+								<div class="xxgk-one-text-deactive"><a href="/xxgk/xinxifenlei/fdzdgknr/fgzc/">��������</a></div>
+							</div>
+							<div class="xxgk-menu-item">
+								<div class="xxgk-one-text-deactive"><a href="/xxgk/xinxifenlei/fdzdgknr/rsxx/rsrm/">��������</a></div>
+							</div>
+							<div class="xxgk-menu-item">
+								<div class="xxgk-one-text-deactive"><a href="/xxgk/xinxifenlei/fdzdgknr/jyta/">�����᰸</a></div>
+							</div>
+							<!--						<div class="xxgk-menu-item"><div class="xxgk-one-text-deactive"><a href="/mostinfo/index.htm?r-url=./xinxifenlei/zfwzndbb/">��ȱ���</a></div></div>-->
+						</div>
+						<div class="xxgk-menu-item2" style="width:70px;"><a href="http://appweblogic.most.gov.cn/ysqgk/index.htm">�����빫��</a></div>
+						<div class="xxgk-menu-item2" style="width:35px;"><a href="/xxgk/xinxifenlei/zfxxgkzn/">ָ��</a></div>
+					</div>
+					<div id="xxgk-two-content" style="width: 948px;">
+						<!--					���¹���-->
+						<div class="xxgk-two" id="xxgk-two-zxgk">
+						</div>
+						<!--					֪ͨͨ��-->
+						<div class="xxgk-two" id="xxgk-two-tztg" style="display: none;">
+							<ul>
+								
+									<li><span>
+											2021-04-30</span>
+										<a href='./tztg/202104/t20210430_162669.htm' title='����ң������������ṫ����Ƹ������Ƹ��Ա�Ĺ���'
+										 target="_blank">
+											����ң������������ṫ����Ƹ������Ƹ��Ա�Ĺ���</a>
+									</li>
+								
+									<li><span>
+											2021-04-30</span>
+										<a href='./tztg/202104/t20210430_162667.htm' title='����ITER��ְ֯Ա��Ƹ��2021���4������֪ͨ'
+										 target="_blank">
+											����ITER��ְ֯Ա��Ƹ��2021���4������֪ͨ</a>
+									</li>
+								
+									<li><span>
+											2021-04-25</span>
+										<a href='./tztg/202104/t20210425_162505.htm' title='�й������Ŵ���Դ����칫�ҹ��ڻָ����������������ֳ������й����˵�֪ͨ'
+										 target="_blank">
+											�й������Ŵ���Դ����칫�ҹ��ڻָ����������������ֳ������й����˵�֪ͨ</a>
+									</li>
+								
+									<li><span>
+											2021-04-22</span>
+										<a href='./tztg/202104/t20210422_162453.htm' title='�й�ũ�弼���������Ĺ��ڹ���2021��ȹ�����ƸӦ���У��ҵ��������Ա���������ŵ�֪ͨ'
+										 target="_blank">
+											�й�ũ�弼���������Ĺ��ڹ���2021��ȹ�����ƸӦ���У��ҵ��������Ա���������ŵ�֪ͨ</a>
+									</li>
+								
+									<li><span>
+											2021-04-21</span>
+										<a href='./tztg/202104/t20210421_162443.htm' title='�Ƽ�����Ϣ����2021��ȹ�����Ƹ��УӦ���ҵ�����Թ���'
+										 target="_blank">
+											�Ƽ�����Ϣ����2021��ȹ�����Ƹ��УӦ���ҵ�����Թ���</a>
+									</li>
+								
+									<li><span>
+											2021-04-19</span>
+										<a href='./tztg/202104/t20210419_162408.htm' title='���ҿƼ����տ�����ҵ���Ĺ���2021�깫����Ƹ��УӦ���ҵ���������������԰��ŵ�֪ͨ'
+										 target="_blank">
+											���ҿƼ����տ�����ҵ���Ĺ���2021�깫����Ƹ��УӦ���ҵ���������������԰��ŵ�֪ͨ</a>
+									</li>
+								
+									<li><span>
+											2021-04-19</span>
+										<a href='./tztg/202104/t20210419_162403.htm' title='�й���ѧ������չս���о�Ժ2021��ȸ�УӦ���ҵ����Ƹ����֪ͨ'
+										 target="_blank">
+											�й���ѧ������չս���о�Ժ2021��ȸ�УӦ���ҵ����Ƹ����֪ͨ</a>
+									</li>
+								
+							</ul>
+						</div>
+						<!--					��������-->
+						<div class="xxgk-two" id="xxgk-two-fgzc" style="display: none;">
+						</div>
+						<!--					������Ϣ-->
+						<div class="xxgk-two" id="xxgk-two-rsxx" style="display: none;">
+						</div>
+						<!--					�����᰸-->
+						<div class="xxgk-two" id="xxgk-two-jyta" style="display: none;">
+						</div>
+						<!--					��ȱ���-->
+						<!--
+					<div class="xxgk-two" id="xxgk-two-ndbg" style="display: none;">
+					</div>
+-->
+					</div>
+				</div>
+				<div id="xxgk-right" style="margin-left: 2px; position: relative; right: 1px;">
+					<div id="rdzx-one" style="height:49px;width:240px; border-bottom: solid 1px #31689b;">
+						<div class="rdzx-one-item rdzx-one-active" style="height: 49px;"><a href="/ztzl/">�ȵ�ר��</a></div>
+						<div class="rdzx-one-item rdzx-one-deactive" style="height: 49px;"><a href="/zxgz/">ר���</a></div>
+					</div>
+					<div>
+						<div class="rdzx-two" style="width: 240px; height: 267px;">
+							<div style="border: solid 1px #bbb; border-top: none;">
+								<ul style="font-size: 0px;padding-bottom: 3px;">
+                                    <li style="padding-top: 0px;line-height: 17px;"> <a href="/ztzl/lhzt/lhzt2021/index.htm" title="	
+2021�������ر𱨵�" style="color:red;" target="_blank">2021�������ر𱨵�</a>
+									</li>
+									<li style="padding-top: 0px;line-height: 17px;"> <a href="/ztzl/kxydfyyq/index.htm" title="��ѧӦ�����͹�״������Ⱦ�ķ�������" target="_blank">��ѧӦ�Է�������</a>
+									</li>
+									<li style="padding-top: 0px;line-height: 17px;"> <a href="/ztzl/kjfp/index.htm" title="�Ƽ���ƶ" target="_blank">�Ƽ���ƶ</a> </li>
+									<li style="padding-top: 0px;line-height: 17px;"> <a href="/ztzl/kjda2022/index.htm" title="�Ƽ����� 2022�ж��ƻ�" target="_blank">�Ƽ����� 2022�ж��ƻ�</a> </li>
+
+								</ul>
+							</div>
+							<div style="margin-top: 4px;width: 240px; height: 50px; overflow: hidden; bottom: 0px;">
+								<a href="https://advice.most.gov.cn/" target="_blank" style="padding-left: 0px;"><img src="/images/rdzl_zckjgg.png"
+									 alt="" style="width:240px; height: 50px;"></a>
+							</div>
+							<div style="margin-top: 4px;width: 240px; height: 50px; overflow: hidden; bottom: 0px;">
+								<a href="https://advice2025.most.cn/" target="_blank" style="padding-left: 0px;"><img src="/images/rdzl_zc145.png" alt=""
+									 style="width:240px; height: 50px;"></a>
+							</div>
+							<div style="margin-top: 4px;width: 240px; height: 50px; overflow: hidden;">
+								<a href="https://advice2035.most.gov.cn/" target="_blank" style="padding-left: 0px;"><img src="/images/rdzl_zc2035.png"
+									 alt="" style="width:240px; height: 50px;"></a>
+							</div>
+
+
+						</div>
+						<div class="rdzx-two" id="zxgz-two" style="display: none;border: solid 1px #bbb; width: 238px; border-top: none; width: 238px;">
+							<ul>
+								
+									<li>
+										<a href="/cxdc/index.htm" target="_blank">���µ���</a>
+									</li>
+								
+									<li>
+										<a href="http://www.cistc.gov.cn/" target="_blank">���ʿƼ�����</a>
+									</li>
+								
+									<li>
+										<a href="/tjcw/index.htm" target="_blank">�Ƽ��ƻ��뾭��</a>
+									</li>
+								
+									<li>
+										<a href="/kjrcgz/index.htm" target="_blank">�Ƽ��˲Ź���</a>
+									</li>
+								
+									<li>
+										<a href="/jgdj/index.htm" target="_blank">���ص���</a>
+									</li>
+								
+									<li>
+										<a href="/jscxgc/index.htm" target="_blank">�������¹���</a>
+									</li>
+								
+									<li>
+										<a href="/kxjspj/index.htm" target="_blank">��ѧ�����ռ�</a>
+									</li>
+								
+									<li>
+										<a href="/kycxjs/index.htm" target="_blank">���г��Ž���</a>
+									</li>
+								
+									<li>
+										<a href="/gxjscykfq/index.htm" target="_blank">���Ҹ�����</a>
+									</li>
+								
+									<li>
+										<a href="http://www.fwzx.most.cn/" target="_blank">�����������</a>
+									</li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="fwpt" style="margin-bottom: 0px;">
+				<div id="fwpt-left" style="width: 948px;">
+					<div id="fwpt-one">
+						<img src="image/zffwptb.png" style="width: 88px; height: 50px;">
+						<div id="fwpt-one-title">�������ƽ̨</div>
+						<div id="fwpt-one-subtitle">֧�ſƼ����¡����������Ա</div>
+						<!-- <div class="xxgk-menu-item2"><a href="http://fuwu.most.gov.cn/jdfw/suggest/" target="_blank">�ල����</a></div> -->
+						<div class="xxgk-menu-item2"><a href="https://fuwu.most.gov.cn/" target="_blank">����ƽ̨</a></div>
+					</div>
+					<div id="fwpt-two">
+						<div class="fwpt-two-panel" style="position: relative; top: -15px;">
+							<div class="fwpt-two-panel-title">
+								<div>
+									<div style="font-size:18px;">�������</div>
+								</div>
+								<a href="https://fuwu.most.gov.cn/html/xzxk/" target="_blank" style=" cursor: pointer;">����<img src="image/fwpt-arrow.png"
+									 alt=""></a>
+							</div>
+							<hr>
+							<div class="fwpt-two-panel-body">
+								<div class="fwpt-two-panel-body-item" t="c1" style="height: 60px; line-height: 60px;">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E4%BA%BA%E7%B1%BB%E9%81%97%E4%BC%A0%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86"
+									 target="_blank" style="width: 310px;line-height: 20px; margin-top: 10px; cursor: pointer;">�����Ŵ���Դ����</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="c2" style="height: 60px; line-height: 60px;">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E9%AB%98%E7%AD%89%E7%BA%A7%E7%97%85%E5%8E%9F%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%BB%BA%E8%AE%BE%E5%AE%A1%E6%9F%A5"
+									 target="_blank" style="width: 320px;line-height: 55px; cursor: pointer;">�ߵȼ���ԭ΢����ʵ���ҽ������</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="c3" style="height: 60px; line-height: 60px;">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%9D%A5%E5%8D%8E%E5%B7%A5%E4%BD%9C%E8%AE%B8%E5%8F%AF"
+									 target="_blank" style="width: 320px;line-height: 55px;">����������������</a>
+								</div>
+							</div>
+						</div>
+						<div class="fwpt-two-panel" style="width: 300px;">
+							<div class="fwpt-two-panel-title">
+								<div>�Ƽ��ƻ��뾭��</div>
+								<a href="https://fuwu.most.gov.cn/html/kjjhyjf/" target="_blank" style=" cursor: pointer;">����<img src="image/fwpt-arrow.png"
+									 alt=""></a>
+							</div>
+							<hr>
+							<div class="fwpt-two-panel-body">
+								<div class="fwpt-two-panel-body-item" t="d1">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0"
+									 target="_blank">���ҿƼ�������Ϣϵͳ��������ƽ̨</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="d2">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%9B%BD%E5%AE%B6%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E7%AE%A1%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F"
+									 target="_blank">������Ȼ��ѧ���������Ϣϵͳ</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="d3">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E7%BB%8F%E8%B4%B9%E9%A2%84%E7%AE%97%E7%94%B3%E6%8A%A5%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83"
+									 target="_blank">���ҿƼ�����Ԥ���걨��������</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="d4">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E8%AE%A1%E5%88%92%E9%A1%B9%E7%9B%AE%E8%B5%84%E9%87%91%E7%AE%A1%E7%90%86"
+									 target="_blank">���ҿƼ��ƻ���Ŀ�ʽ����</a>
+								</div>
+							</div>
+						</div>
+						<div class="fwpt-two-panel" style="width: 240px;">
+							<div class="fwpt-two-panel-title">
+								<div>�Ƽ����·���</div>
+								<a href="https://fuwu.most.gov.cn/html/kjcxfw/" target="_blank" style=" cursor: pointer;">����<img src="image/fwpt-arrow.png"
+									 alt=""></a>
+							</div>
+							<hr>
+							<div class="fwpt-two-panel-body">
+								<div class="fwpt-two-panel-body-item" t="e1">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E5%A5%96%E5%8A%B1"
+									 target="_blank">���ҿƼ�����</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="e2">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E6%88%90%E6%9E%9C%E8%BD%AC%E5%8C%96%E5%BC%95%E5%AF%BC%E5%9F%BA%E9%87%91"
+									 target="_blank">���ҿƼ��ɹ�ת����������</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="e3">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E7%A7%91%E6%8A%80%E5%9E%8B%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E8%AF%84%E4%BB%B7"
+									 target="_blank">�Ƽ�����С��ҵ����</a>
+								</div>
+								<div class="fwpt-two-panel-body-item" t="e4">
+									<a href="https://fuwu.most.gov.cn/html/zxbl/cxjg/?searchword=%E9%AB%98%E6%96%B0%E6%8A%80%E6%9C%AF%E4%BC%81%E4%B8%9A%E8%AE%A4%E5%AE%9A"
+									 target="_blank">���¼�����ҵ�϶�</a>
+								</div>
+							</div>
+						</div>
+						<!--
+					<div class="fwpt-two-panel" style="position: relative; top: -55px; width: 170px;">
+						<div class="fwpt-two-panel-title">
+							<div>���ڷ���</div>
+							<a href="https://fuwu.most.gov.cn/mostreg">����<img src="image/fwpt-arrow.png" alt=""></a>
+						</div>
+						<hr>
+						<div class="fwpt-two-panel-body">
+							<div class="fwpt-two-panel-body-item" t="g">
+								<a href="https://fuwu.most.gov.cn/mostreg" target="_blank">�û�ע��</a>
+							</div>
+							<div class="fwpt-two-panel-body-item" t="e">
+								<a href="https://fuwu.most.gov.cn/mostreg" target="_blank">�û�����</a>
+							</div>
+							<div class="fwpt-two-panel-body-item" t="f">
+								<a href="/cxfw">��ѯ����</a>
+							</div>
+						</div>
+					</div>
+-->
+					</div>
+				</div>
+				<div class="fwpt-right" style="height:321px;width:240px;float:right; position: relative;">
+					<div id="gzcy-one">���ڲ���</div>
+					<div id="gzcy-two" style="">
+						<div class="gzcy-two-item"><a href="http://appweblogic.most.gov.cn/bzxx/index.htm"><img src="image/gzcy5.png"
+								 width="36" />��������</a></div>
+						<div class="gzcy-two-item"><a href="http://appweblogic.most.gov.cn/lsxw/xbwzwsdc.jsp"><img src="image/gzcy2.png"
+								 width="36" />���ϵ���</a></div>
+						<div class="gzcy-two-item"><a href="http://appweblogic.most.gov.cn/gzwd/gzwd.htm"><img src="image/gzcy3.png"
+								 width="36" />�����ʴ�</a></div>
+						<div class="gzcy-two-item"><a href="/jdts/" target="_blank"><img src="image/gzcy4.png" width="36" />�ලͶ��</a></div>
+					</div>
+                    <div class="govfwpt">
+						<a href="https://liuyan.www.gov.cn/2021wxzlsjh/index.htm" target="_blank">
+							<img src="/images/wxzlsjh2021.jpg" />
+						</a>
+					</div>
+
+					<div class="gwyxc" id="gwyxc">
+						<a href="https://tousu.www.gov.cn/dc/6wen6bao/index.htm" target="_blank">
+							<img src="/images/hlwjdc1.jpg" />
+						</a>
+						<div  class="gwyxc_con" id="gwyxc_con">
+							<img src="/images/h122.jpg" />
+						</div>
+					</div>
+                    
+                    <div class="gwyxc" id="gwyxc2">
+						<a href="https://tousu.www.gov.cn/dc/sqlsf/index.htm" target="_blank">
+							<img src="/images/hlwjdc2.jpg" />
+						</a>
+						<div class="gwyxc_con" id="gwyxc_con2">
+							<img src="/images/wdc2.jpg" />
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="footer" style="position: relative; width: 100%; padding-bottom: 0px; margin-bottom: 0px;min-width:1200px;"
+		 style="width: 938px;">
+			<!--<div class="footer" id="footer-seperator" style="height: 1px; width: 1196px; border: none; overflow: hidden; background-color:#bbb;"></div>-->
+			<div class="footer" id="footer-links">
+				<div class="footer" id="footer-links-head">
+					<div id="footer-relate-links">
+						<span style="font-size: 14px; color: #31689B; font-weight: bold;">������ӣ�</span>
+						<div class="footer-relate-link-0"><a href="http://www.gov.cn" target="_blank">�й�������</a></div>
+						<div class="footer-relate-link footer-relate-link-1 footer-relate-link-active" style="width: 140px;">����Ժ��ɲ���</div>
+						<div class="footer-relate-link footer-relate-link-2 footer-relate-link-deactive">�����λ</div>
+						<div class="footer-relate-link footer-relate-link-2 footer-relate-link-deactive">�ط��Ƽ�</div>
+						<div class="footer-relate-link footer-relate-link-3 footer-relate-link-deactive" style="width: 50px;">����</div>
+					</div>
+					<div id="footer-action-links">
+
+						<div class="footer-action-link">
+							<!-- <a href="http://appweblogic.most.gov.cn/zjgx/index.jsp"> -->
+							<a href=" http://www.most.gov.cn/search/zjgx/#">
+								<img src="image/footer-zjgx.png" alt="" class="footer-relate-link-icon">�������
+
+							</a></div>
+						<div class="footer-action-link"><a href="/bzxx/">
+								<img src="image/footer-bzxx.png" alt="" class="footer-relate-link-icon">������Ϣ
+							</a></div>
+						<div class="footer-action-link"><a href="/wzsm/">
+								<img src="image/footer-wzsm.png" alt="" class="footer-relate-link-icon">��վ����
+							</a></div>
+						<div class="footer-action-link"><a href="/bzdh/">
+								<img src="image/footer-wzdt.png" alt="" class="footer-relate-link-icon">��վ��ͼ
+							</a></div>
+					</div>
+				</div>
+				<div class="footer" id="footer-links-body" style="overflow: hidden;">
+					<div class="footer footer-links-body-panel" id="footer-links-body-panel1" style="overflow-y: auto; height: 190px;">
+						<script type="text/javascript" src="/inc/index_links_gwyzcbm.js"></script>
+					</div>
+					<div class="footer footer-links-body-panel" id="footer-links-body-panel4" style="display: none; overflow: hidden; overflow-y: scroll;">
+						<script type="text/javascript" src="/inc/index_links_bsdw.js"></script>
+					</div>
+					<div class="footer footer-links-body-panel" id="footer-links-body-panel2" style="display: none;">
+						<script type="text/javascript" src="/inc/index_links_dfkj.js"></script>
+					</div>
+					<div class="footer footer-links-body-panel" id="footer-links-body-panel3" style="display: none;">
+						<script type="text/javascript" src="/inc/index_links_qt.js"></script>
+					</div>
+				</div>
+			</div>
+			<!--	end of links	-->
+			<div class="footer" id="footer-info" style="margin-top: 12px;">
+				<script type="text/javascript" src="/inc/index_footer.js"></script>
+			</div>
+		</div>
+	</body>
+
+	<script src="/inc/jquery/jquery-1.12.4.min.js"></script>
+    <script src="/inc/jquery/slides.min.jquery.js"></script>
+	<script type="text/javascript">
+		function selectList(s) {
+			$("#" + s + "").css("display", "");
+		}
+
+		function leaveSelectList(s) {
+			$("#" + s + "").css("display", "none");
+		}
+		$("#zxgz-two ul li:odd").css("float", "right");
+
+		$("#gwyxc").mouseenter(function() {
+			$("#gwyxc_con").css("display", "block");
+		});
+		$("#gwyxc").mouseleave(function() {
+			$("#gwyxc_con").css("display", "none");
+		});
+        $("#gwyxc2").mouseenter(function() {
+			$("#gwyxc_con2").css("display", "block");
+		});
+		$("#gwyxc2").mouseleave(function() {
+			$("#gwyxc_con2").css("display", "none");
+		});
+	</script>
+    <script type="text/javascript">
+        $(function(){
+            $('#slides2 .slides_container div.slide').width($('#example2').width());//
+            $('#slides2').slides({
+                preload: true,
+                play: 4000,
+                pause: 2000,
+                hoverPause: true,
+            });
+            var $elements = $('#example2 .slide');
+            var len = $elements.length;
+            $('#example2 .pagination').width(len*20);
+        });
+
+        $(window).resize(function(){
+            $('#slides2 .slides_container div.slide').width($('#example2').width());
+        });
+
+    </script>
+	<script src="/js/header.js"></script>
+	<script src="/js/kjbmh10px5pic_changeTab.js"></script>
+	<script src="/js/xxgk-fwpt20200727.js"></script>
+	<script src="/js/float.js"></script>
+	<script src="/js/footer.js"></script>
+	<script src="/js/jump_out_msg.js"></script>
+
+</html>

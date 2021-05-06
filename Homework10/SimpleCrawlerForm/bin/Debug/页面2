@@ -1,0 +1,758 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>国际礼仪(通识课)</title>
+		<script src="/js/ServerHost.js"></script>
+		<script src="/ananas/tk"></script>
+		<script src="/js/image.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+        <link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+        <link type="text/css" href="/css/comm.css?v=2021-0312" rel="stylesheet" />
+<link type="text/css" href="/css/course.css?v=2019-1204-1823" rel="stylesheet" />
+<link type="text/css" href="/css/tm.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css" />
+
+<link href="/css/master.css" rel="stylesheet" type="text/css" />
+<!--<link href="/css/pingfen_index.css" rel="stylesheet" type="text/css" />-->
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/ext.js"></script>
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+
+        <style>
+            .edit_inline_two, .edit_inline_three, .edit_inline_four, .edit_inline_five, .edit_inline_six,.edit_inline_seven,.edit_inline_eight{display:inline-block; *display:inline; letter-spacing:0; vertical-align:top; *zoom:1;}
+            .edit_inline_two{width:46.2%;}
+            .edit_inline_three{width:30.8%;}
+            .edit_inline_four{width:23.1%;}
+            .edit_inline_five{width:18.5%;}
+            .edit_inline_six{width:15.4%;}
+            .edit_inline_seven{width:13.2%;}
+            .edit_inline_eight{width:11.5%;}
+			div.ans-cc iframe.ans-attach-online {
+			width: 100% !important;
+            }
+        </style>
+    </head>
+    <body class="bgc3" style="position:relative;">
+		<!--<div class="zopacity" id="zopacity">
+</div>
+<div class="content" style="display:none;" id="pingfenContent">
+	<div class="zscore">
+    	<div class="zs_top">
+        	<div class="zs_t_re">
+            	<h2 class="zs_t_abs1">课程评价</h2>
+                <ul class="zs_t_abs2">
+                	<li class="zs_t_left">平均评分：</li>
+                    <li class="zs_t_right zs_padding5">
+                    	<dl class="zs_star_gray">
+                        	<dd class="zs_star_color" style=" width:50px;" id="zs_avgStar"></dd>
+                        </dl>
+                    </li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+            <div class="zs_close" id="_zs_close"></div>
+        </div>
+        
+        <div class="zs_conent">
+			         	
+            <div id="replyList">
+				
+			</div>
+        	
+        </div>
+    </div>
+</div>-->
+        
+			<div class="mb10">
+            			                                <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024"  charset="utf-8"></script>
+                                    </div>
+		
+
+
+        <div id="tchDescBox" class="pt10 mb20 rel abs_out">
+            <span class="char_cort tch_desc_corp1 ml40 ">◆</span>
+            <span class="char_cort tch_desc_corp2 ml40">◆</span>
+            <div id="tchDescInnerBox" class="tchDescBox tchDescBoxShadow g3 f14 ova bccc bgwh">
+                <div class="mb10 f16 b fix">
+                    <span class="tch_card l"></span>
+                    <span class="ml10 pt2 dib">个人介绍</span>
+                </div>
+                <div id="tchDescContent" class="lh24 pt5"></div>
+            </div>
+        </div>
+        <div class="constr">
+            <div class="bg34 p40 wh">
+                                    <div class="f30 mb10 wh">
+                        <span>国际礼仪(通识课)</span>
+                                                    <span class="f18 g9 b ml10">武汉大学</span>
+												                    </div>
+                    <div class="teacherDiv fr" style=" margin-top: 20px;  ">
+    <p class="zhuTacher" style=" color:#fff ;">主讲教师：李晶</p>
+    </div>                                <div class="fix mt30">
+                    <div class="l pct60" id="clazzTag" data="false" flag="false">
+                    	                        <div id="courseInfoBox" class="course_info_tbox h160">
+                            <div id="courseInfoTxt" class="h160 ans-cc" style="color: #fff;">
+                                
+                            </div>
+                            <div id="courseTxtDot" class="course_txt_dotted abs_out">…</div>
+                        </div>
+                        <div class="mt5 tr">
+                            <a id="courseInfoFold" class="wh abs_out" href="javascript:;">[展开]</a>
+                        </div>
+                                                    <div class="lh18 mt20">
+                                                                <table>
+	    <tr  class="">
+		<td valign="top" class="w80 w70 wh tr">学校：</td>
+		<td >武汉大学</td>
+	</tr>
+			<tr valign="top" class="">
+		<td class="w70 wh tr">开课院系：</td>
+		<td >政治与公共管理学院</td>
+	</tr>
+							 <tr  class="">
+		<td valign="top" class="w70 wh tr">编号：</td>
+		<td>2331230011065</td>
+	</tr>
+			</table>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="bgf3 p5 pr40 fix" style="height:60px;position:relative;">
+                <div class="r"  id='courseStarTag' data="207653276">
+                                   </div>
+								<div style="text-align: right;position:absolute;top:30px;right:100px;" id="viewTimesTag" name = "viewTimesTagNew">
+
+				</div>
+            </div>
+            <div class="bgwh p40">
+                <div class="inline_box mb30 pt10">
+                    <div class="inline_any pct60">
+                        <img class="clickme" width="513" height="304" class="p5 bdc4" src="https://p.ananas.chaoxing.com/star3/513_304c/2f73bd3a67ec33fd9dfce90851abee50.png" onerror="nofind(event)" imagedata='https://p.ananas.chaoxing.com/star3/513_304/2f73bd3a67ec33fd9dfce90851abee50.png' />
+                        <div id="content" class="inline_box mt30 pt20 c_tm3">
+                                                                                    
+                                                                    <a title="课程章节" class="edit_inline_two  course_snav_on " href="?edit=false&articleId=170054453">课程章节</a>
+                                                                                        
+                                                                
+									<a title="教学资源" class="edit_inline_two  course_snav_off " href="?edit=false&articleId=170054454">教学资源</a>
+									
+									                                                    </div>
+                                                    <ul class="mt20 c_tm3_list">
+								                                     <li>
+                                        <span class="c_tm3_color c_tm3_c2">1</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">礼仪与国际礼仪概述</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286532" >礼仪与国际礼仪概述</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c3">2</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">礼仪与 国际礼仪的概念、特征及基本原则</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286537" >礼仪与 国际礼仪的概念、特征及基本原则</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c4">3</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往活动中的形象礼仪（一）</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286541" >国际交往活动中的形象礼仪（一）</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c5">4</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往活动中的形象礼仪（二）</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286546" >国际交往活动中的形象礼仪（二）</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c6">5</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往活动活动中的服饰穿戴礼仪（一）</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286551" >国际交往活动活动中的服饰穿戴礼仪（一）</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c7">6</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往活动活动中的服饰穿戴礼仪（二）</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286556" >国际交往活动活动中的服饰穿戴礼仪（二）</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c8">7</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往中的交流与沟通礼仪</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286562" >国际交往中的交流与沟通礼仪</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c1">8</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往活动中的外宾接待礼仪</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286567" >国际交往活动中的外宾接待礼仪</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c2">9</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">国际交往活动中的宴会宴请礼仪</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286573" >国际交往活动中的宴会宴请礼仪</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c3">10</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">外交、外事礼仪</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286581" >外交、外事礼仪</a>
+                                    </li>
+                                                                    <li>
+                                        <span class="c_tm3_color c_tm3_c4">11</span>
+                                        <!--<a class="g5" href="$ResourceUtils.getCourseDetailUrl($firstNode.id)" target="_blank">第十一单元</a>-->
+                                        <a class="g5"  href="/nodedetailcontroller/visitnodedetail?courseId=207653276&knowledgeId=229286601" >第十一单元</a>
+                                    </li>
+                                                            </ul>
+                                            </div>
+                    <div class="inline_any ml35">
+                                            </div>
+                </div>
+            </div>
+        </div>
+                <script type="text/javascript" src="/js/min/mootools.1.4.0.js"></script>
+<script type="text/javascript" src="/js/min/comm.js"></script>
+<!--以下为临时添加内容-->
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/testRemind.js"></script>
+<script>
+
+    var rebindTestRemind = function(){
+    $$(".unimplement").addEvent("click", function(){
+    var obj = this;
+    $testRemind(obj,"该功能正在建设中",1);
+    setTimeout('$testRemind.hide()',2000);
+    })
+    }
+    rebindTestRemind();
+	
+	
+</script>
+<script type="text/javascript" src="/js/min/overlay.js"></script>
+<script type="text/javascript" src="/js/min/classToggle.js"></script>
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/autoRemind.js"></script>
+<script type="text/javascript" src="/js/min/tabSwitch.js"></script>
+<script type="text/javascript" src="/js/min/startDrag.js"></script>
+<script type="text/javascript" src="/js/min/ibox.js"></script>
+<script type="text/javascript" src="/js/min/ajax.js"></script>
+<script type="text/javascript" src="/js/head.js"></script>
+<script type="text/javascript" src="/js/course_clazz.js"></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
+<script src="/js/show_resources.js?v=2021-0315-1612"></script>
+<script src="/js/index.js" type="text/javascript"></script>
+
+<script>
+    uParse(".ans-cc");
+    audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+    });
+    //课程介绍展开收起
+    var courseInfoFold = $("courseInfoFold");
+    if ($isEle(courseInfoFold)){
+    var courseInfoBox = $("courseInfoBox"), courseInfoTxt = $("courseInfoTxt"), courseTxtDot = $("courseTxtDot");
+    var height = courseInfoFold.attr("data");
+    var classStr = "";
+    switch(height){
+    case "380":
+    classStr = "h380";
+    break;
+    case "330":
+    classStr = "h330";
+    break;
+    default:
+    classStr = "h150";
+    height = 151;
+    break;
+    }	
+    if(courseInfoTxt.getSize().y > height){
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.removeClass("abs_out");
+    courseInfoFold.removeClass("abs_out");
+    }
+    courseInfoFold.addEvent("click", function(){
+    if (this.txt() === "[展开]") {
+    courseInfoBox.removeClass(classStr);
+    courseInfoTxt.removeClass(classStr);
+    courseTxtDot.hide();
+    this.txt("[收起]")
+    } else {
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.show();
+    this.txt("[展开]")
+    }
+    })
+    }
+    var tchDescBox = $('tchDescBox');
+    $powerFloat($$('.course_tch_item'), {
+    position: "4-1",
+    offsets: {x:0, y:0},
+    target: tchDescBox,
+    showCall: function(){
+    var tchDesc = $('tchDescContent'), tchDescInnerBox = $('tchDescInnerBox');
+    tchDesc.html(this.attr('data'));
+    if(tchDesc.h() < 200) {
+        tchDescInnerBox.h(tchDesc.h() + 40);
+        }else{
+        tchDescInnerBox.h(240);
+        }
+        },
+        hideCall: function(){
+        }
+        });
+        var initStarNum = $$('.i_50').length, initGrayStarArr = $$('.i_49');
+        $$('.jsForStar').each(function(item, index){
+        item.store('initGray', item.getElement('i').hasClass('i_49'));
+        item.addEvents({
+        'mouseenter': function(){
+	           if(item.getElement('i').hasClass('i_49')){
+		           for(var i = 0; i < index+1; i++){
+			            if($$('.jsForStar')[i].getElement('i').hasClass('i_49')){
+			               $$('.jsForStar')[i].getElement('i').swapClass('i_49', 'i_50');
+			            }
+		            }
+	            }
+            },
+            'mouseleave': function(){
+                if(item.retrieve('initGray') && item.getElement('i').hasClass('i_50')){
+	            	for(var i = 0; i < initGrayStarArr.length; i++){
+		        	        if(initGrayStarArr[i].hasClass('i_50')){
+		                	initGrayStarArr[i].swapClass('i_50', 'i_49');
+		                }
+	                }
+                }
+             },
+                'click': function(){
+                    for(var i = index+1; i < $$('.jsForStar').length; i++){//当前星星的后面均变灰
+	                    if($$('.jsForStar')[i].getElement('i').hasClass('i_50')){	
+		                    $$('.jsForStar')[i].getElement('i').swapClass('i_50', 'i_49');
+		                    $$('.jsForStar')[i].store('initGray', true);
+	                    }
+                    }
+                    if(index === 0 && !item.retrieve('initGray')){
+                    	item.getElement('i').swapClass('i_50', 'i_49');
+                    }
+                    new AjaxPost(item, {
+	                    url: '/CourseController/setCourseStar',
+	                    data: {courseId: $('courseStars').attr('data'), starNumber: $$('.i_50').length},
+	                    callback: function(json){
+		                    	if(json.succ){
+			                    	$('personCount').txt(new Number($('personCount').txt()) + 1);
+			                   		 var html = '';
+			                     	for(var i = 0; i < new Number(json.html); i++){
+			                        	html += '<i class="i i_50"></i>';
+			                        }
+			                        $('courseStars').html(html);
+			                        $('courseStars').attr('flag', 'true');
+			                        $testRemind($('courseStars'), '评价成功！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }else{
+			                        $('courseStars').attr('flag', 'false');
+			                        $testRemind($('courseStars'), '评价失败！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }
+	                        }
+                      }).send();
+                  }
+                        })
+                        })
+</script>
+<script type="text/javascript">
+   var pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				//打开窗口
+			     document.getElementById("zopacity").style.display="block";
+			     document.getElementById("pingfenContent").style.display="block";
+				 if(curPersonStar > 0){
+					document.getElementById("id_zs_item").style.display="none";
+				 }
+				 //窗口定位
+				 var heit = window.screen.availHeight,
+                    wid = window.screen.availWidth,
+                    alertwid = document.getElementById("pingfenContent").css("width").replace("px",""),
+                    left = (wid-alertwid)/2,
+					top = heit/8; 
+                    document.getElementById("pingfenContent").css({position: "absolute",top: top, left: left,zIndex:9999}); 
+					
+					//加载评价记录列表
+					new AjaxPost(btn, {
+        				url : '/CourseController/CourseStarContextReplyList',
+        				data : {
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('replyList').html("");
+								for(var i=0;i<json.contextReplyList.length;i++){
+									var _width = json.contextReplyList[i].starNumber*18+(json.contextReplyList[i].starNumber-1)*6;
+									var html = ""+
+    							    "<div class=\"zs_item\">"+
+                                    	"<div class=\"zs_i_gray\">"+
+                                        	"<div class=\"zs_i_re\">"+
+                                            	"<div class=\"zs_i_abs\">"+
+                                                	"<p class=\"zs_i_portrait\"><img src=\""+json.contextReplyList[i].userImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                    "<ul class=\"zs_i_infor\">"+
+                                                    	"<li class=\"zs_i_top\"><span>"+json.contextReplyList[i].username+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.contextReplyList[i].createTimes+"</span></li>"+
+                                                        "<li class=\"zs_padding5\">"+
+                                                        	"<dl class=\"zs_star_gray\">"+
+                                                                "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                            "</dl>"+
+                                                		"</li>"+
+                                                    "</ul>"+
+                                                "</div>"+
+                                            "</div>"+
+                                            "<div>"+json.contextReplyList[i].context+"</div>"+
+                                        "</div>"+
+                                    "</div>";
+									
+    								$('replyList').html($('replyList').html()+html);
+									
+								}
+							    if(json.contextReplyList.length<=0){
+									$('replyList').html('暂无评论！');
+								}
+        					}
+        				}
+        			}).send();
+    		});
+    	}
+    }
+var close_pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				 document.getElementById("zopacity").style.display="none";
+				 document.getElementById("pingfenContent").style.display="none";
+    		});
+    	}
+    }
+close_pingfen($('_zs_close'))
+
+var commitPingfen = function(btn){
+	if($isEle(btn)){
+		btn.addEvent('click', function(){
+		var _context = $('zs_i_textarea').val(); 
+    		if(_context.length>0){
+    		   _context = _context.replace(/^\s+|\s+$/g, ""); 
+    		   if(_context.length>0&&_context.length<150){
+    		       new AjaxPost(btn, {
+        				url : '/CourseController/setCourseStarContext',
+        				data : {
+        					context : _context,
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('zs_i_textarea').val(""); 
+								document.getElementById("id_zs_item").style.display="none";
+								var beforehtml = $('replyList').html();
+								if(beforehtml=="暂无评论！"){
+									$('replyList').html("")
+								}
+								
+							 	var _width = curPersonStar*18+(curPersonStar-1)*6;
+								var html = ""+
+							    "<div class=\"zs_item\">"+
+                                	"<div class=\"zs_i_gray\">"+
+                                    	"<div class=\"zs_i_re\">"+
+                                        	"<div class=\"zs_i_abs\">"+
+                                            	"<p class=\"zs_i_portrait\"><img src=\""+json.curImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                "<ul class=\"zs_i_infor\">"+
+                                                	"<li class=\"zs_i_top\"><span>"+json.curUserName+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.publicTime+"</span></li>"+
+                                                    "<li class=\"zs_padding5\">"+
+                                                    	"<dl class=\"zs_star_gray\">"+
+                                                            "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                        "</dl>"+
+                                            		"</li>"+
+                                                "</ul>"+
+                                            "</div>"+
+                                        "</div>"+
+                                        "<div>"+_context+"</div>"+
+                                    "</div>"+
+                                "</div>";
+								$('replyList').html(html+$('replyList').html());
+        					}else{
+        					    alert(json.msg);
+        					    return;
+        					}
+        				}
+        			}).send();
+    		    }else{
+				   alert("0<字数<150");
+				}
+    		}
+		});
+	}
+}
+commitPingfen($('commitPingfen'))
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+} 
+</script>
+
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.2.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+
+<script>
+  	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+var courseStar=document.getElementById("courseStarTag");
+var oclazzTag=document.getElementById("clazzTag");
+var editvalue,courseid,isLogin,templatevalue;
+if(oclazzTag){  
+   editvalue=oclazzTag.getAttribute("data");
+   isLogin=oclazzTag.getAttribute("flag");
+   templatevalue=oclazzTag.getAttribute("template");
+}
+if(courseStar){
+	courseid=courseStar.getAttribute("data");
+}
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=207653276&edit="+editvalue;
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:templatevalue}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				//alert("getCourseStarTag");
+				jQuery('#courseStarTag').prepend(data);
+    		    //document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+jQuery.ajax({ //一个Ajax过程 
+			type: "get", //以get方式与后台沟通 
+			url : "/CourseController/courseEvaluation", 
+			dataType:'html',//返回的值
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){//如果调用成功 
+			    jQuery('#courseEvaluation').append(data);
+			} 
+		}); 
+	
+var oPriceCourse=document.getElementById("priceCourse");
+if(oPriceCourse){
+jQuery.ajax({ //一个Ajax过程 
+	type: "get", //以get方式与后台沟通 
+	url : "/course/priceTag", 
+	dataType:'html',//返回的值
+	data: {courseId:courseid}, 
+	success: function(data){//如果调用成功 
+	    jQuery('#priceCourse').append(data);
+	} 
+});
+}
+ 
+jQuery(function(){
+    try{
+        //获取登录状态
+        var login = true;
+        var fid = jQuery.cookie("fid");
+        var loginString = "_uid";
+                		var loginStatus=jQuery.cookie(loginString);
+						//alert(loginStatus);
+                		if(loginStatus==undefined) login=false;
+        	          //  alert(login);
+						
+                		//请求访问数
+                		jQuery.ajax({ //一个Ajax过程 
+                			type: "get", //以get方式与后台沟通 
+                			url : "/course/viewTimesTag", 
+                			dataType:'html',//返回的值
+                			data: {courseId:courseid,loginStatus:login},
+                			success: function(data){//如果调用成功 
+                			    jQuery('#viewTimesTag').append(data);
+                			} 
+                		}); 
+    }catch(e){
+	  alert(e.message);
+	 }
+});
+</script>
+<script>
+	jQuery(function(){
+		jQuery(".M1C2").hover(function(){
+			jQuery(this).children().eq(2).show();
+			},function(){
+				jQuery(this).children().eq(2).hide();
+				})
+		})
+	jQuery(function(){
+		jQuery(".Djckxq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).next().show();
+			jQuery(this).parent().prev().show();
+			})
+		jQuery(".Djsq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).prev().show();
+			jQuery(this).parent().prev().hide();
+			})
+	})
+	jQuery(function(){
+		jQuery(".MRc1bt a").click(function(){
+			if(jQuery(this).parent().next().is(":hidden")){
+				jQuery(".MRc1ul").hide();
+				jQuery(this).parent().next().show();
+				} else {
+				jQuery(this).parent().next().hide();
+					}
+
+	 })
+		
+   })
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm" style="left:50%;margin-left:-170px;">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<script>
+jQuery("#iboxAlertOk").click(function(){
+	jQuery('.courseAlert').hide();
+});
+jQuery(".courseTilte .ibox_close").click(function(){
+	jQuery('.courseAlert').hide();
+});
+
+jQuery(".courseTilte-confirm .ibox_close").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+</script>
+<script>
+	var $ = mootools;
+</script>
+<script>
+	jQuery(".listtitle").toggle(function(){
+		jQuery(this).next("div").show()
+	},function(){
+		jQuery(this).next("div").hide()
+	})
+</script>
+
+        <div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div>        <script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script>        <link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+        <script src="/js/coursehomeTip.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+        <script src="/js/init-teamteacher.js"></script>
+        <script>
+                        </script>
+    </body>
+</html>

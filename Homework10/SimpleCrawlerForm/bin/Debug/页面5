@@ -1,0 +1,386 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>医学史（医学这些事儿）</title>
+    <link rel="stylesheet" type="text/css" href="/css/detail/global.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/detail/headFoot.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/detail/style.css?v=2019-0925-1630"/>
+    <script src="/js/jquery-1.9.0.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="application/javascript" src="/js/detail/detail.js?v=2020-0103-1745"></script>
+</head>
+
+<body>
+    <iframe src="/portal/new-header?cur=2" name="header" frameborder="0" scrolling="no" style="width:100%; height: 80px;"></iframe><!--main start-->
+<div class="mainBox wrap">
+        <input type="hidden" id="courseId" value="207554474"/>
+    <input type="hidden" id="t" value="0"/>
+    <input type="hidden" id="jinkeType" value="0"/>
+        <div class="crumbs">当前位置：首页 > 学银慕课 > 医学史（医学这些事儿）</div>
+    <div class="mgCard">
+        <div class="mgCard_play fl">
+                                                              <script type="text/javascript" src="/js/detail/video/swfobject.js"></script>
+<script type="text/javascript" src="/js/detail/video/icplayer.js" charset="utf-8"></script>
+<link href="/js/detail/video/video-js.min.css" rel="stylesheet">
+<script src="/js/detail/video/video.min.js"></script>
+<script src="/js/detail/video/zh-CN.js"></script>
+
+
+<div class="mainBanner">
+    <div class="mainCon" style="height:522px;">
+
+
+        <div class="mainCon_left mainBanCon" id="reader">
+
+            <script type="text/javascript">
+
+                function showFlashPlayer() {
+                    var img = '<img width="776" height="436"\n' +
+                            '                         src="http://p.ananas.chaoxing.com/star3/776_436c/2cbed9bf6198faaa5fa17a34aa7c0c03.jpg"\n' +
+                            '                         onerror="nofind(event)"\n' +
+                            '                         imagedata=\'http://p.ananas.chaoxing.com/star3/776_436c/2cbed9bf6198faaa5fa17a34aa7c0c03.jpg\'/>';
+                    var tpl = ' <div id="zvideo" style="width:776;height:436;left:0px" width="776" height="436">\n' +
+                            '                <div id="moocplayer" data=\'{"length":94372213,"screenshot":"https://p2.ananas.chaoxing.com/video/dd/b2/00/3b1505d38ad99b31413e18f9aff4cd82/snapshot.jpg","httpmd":"https://s1.ananas.chaoxing.com/video/dd/b2/00/3b1505d38ad99b31413e18f9aff4cd82/md.mp4?at_=1620320923556&ak_=6494bd9e4d06063b69b89fdc814fed80&ad_=9cf7fe736025ce696853133a698c6a12","duration":298,"mp3":"https://s1.ananas.chaoxing.com/video/dd/b2/00/3b1505d38ad99b31413e18f9aff4cd82/mp3/","download":"http://d0.ananas.chaoxing.com/download/3b1505d38ad99b31413e18f9aff4cd82?at_=1620320923555&ak_=9fc06385efa9f5298be221ee45fea10a&ad_=50031fff7b0c4b7c24526e297c9264a7","filename":"序言.mp4","crc":"5680757fc34ada7288ed8eb83a735811","httphd":"7d63e71ebe77a61485fdaa439b93cee42f8f330567739cfd92ab3da4563cd3258adc33ed1975b3ab2204ad5e1198ae3559cd104f687d2245fb0bfe6f0496fb609b9defc0f649819438dd454404372c08b90b239c73b396711e0ab80f245f85414e01fe4981f3f88a00d1b96d2f9322046ff08352c7330b267bd2b201a28ff20aacd33a795af098b1ada91700ddd67898f8f38d7e02ac9986b194cb94d58b9724cf571f2610d036cd5bed429a0a56a390072eaba0fe5db1b8","http":"7d63e71ebe77a61485fdaa439b93cee42f8f330567739cfd92ab3da4563cd3258adc33ed1975b3ab2204ad5e1198ae3559cd104f687d2245fb0bfe6f0496fb609b9defc0f6498194a042de5235f1a23fb90b239c73b396711e0ab80f245f85414e01fe4981f3f88aaf3ebbf2a9e4a199ab819a4db4fb1a6145d6e15de28394de26d2f4942610df1c719f36df08c71214556a738e10b11ef946dcaa9b4e3d7df335d87c59ed4b4baf0f74de252e8d3ce22da66f984b3ec958","thumbnails":"https://p2.ananas.chaoxing.com/video/dd/b2/00/3b1505d38ad99b31413e18f9aff4cd82/thumbnails/","objectid":"3b1505d38ad99b31413e18f9aff4cd82","status":"success"}\'>\n' +
+                            '                </div>\n' +
+                            '            </div>\n' +
+                            '                <div id="zvideo_play">\n' +
+                            '                </div>';
+                    $("#reader").append(img);
+                    $("#reader").append(tpl);
+                }
+
+                function showHTML5Player() {
+
+                    var tpl = '<video  id="html5player" class="video-js vjs-default-skin vjs-big-play-centered"></video>';
+                    $("#reader").append(tpl);
+                    var player =
+                            videojs('html5player', {
+                                language : "zh-CN",
+                                controls : true,
+                                preload : "none",
+                                width: 776,
+                                height: 436,
+                                sources : [{
+                                    src: 'https://s1.ananas.chaoxing.com/video/dd/b2/00/3b1505d38ad99b31413e18f9aff4cd82/sd.mp4?at_=1620320923556&ak_=17bf851f80accbdac93da4f4c201052a&ad_=a46f16adc52fc5de191bbf05f4b25147',
+                                    type : "video/mp4",
+                                    label : '标清',
+                                    res : 360
+                                }],
+                                poster: 'http://p.ananas.chaoxing.com/star3/776_436c/2cbed9bf6198faaa5fa17a34aa7c0c03.jpg'
+                            });
+                }
+
+                function supportH5Video() {
+
+                    var videoMp4Support = function() {
+                        var elem = document.createElement('video');
+                        if ( typeof elem.canPlayType == 'function') {
+                            var playable = elem.canPlayType('video/mp4;codecs="avc1.42E01E,mp4a.40.2"');
+                            if ( (playable.toLowerCase() == 'maybe') || (playable.toLowerCase() == 'probably')) {
+                                return true;
+                            }
+                            var playable = elem.canPlayType('video/mp4;codecs="avc1.64001E,mp4a.40.2"');
+                            if ( (playable.toLowerCase() == 'maybe') || (playable.toLowerCase() == 'probably')) {
+                                return true;
+                            }
+                        }
+                        return false;
+                    }
+                    return videoMp4Support();
+                }
+              if (supportH5Video()) {
+                  //showFlashPlayer();
+                  showHTML5Player();
+              } else {
+                 showFlashPlayer();
+              }
+            </script>
+        </div>
+    </div>
+</div>
+            
+
+
+        
+        </div>
+        <div class="mgCard_con fr" >
+                   
+            <dl class="mgCard_deta">
+                <dt title="医学史（医学这些事儿）" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;font-size: 20px">医学史（医学这些事儿）</dt>
+                <dd class="mgCard_deta_yi" style="overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">主讲教师：  </dd>
+                <dd class="mgCard_deta_er">
+					<span class="mgCard_dijiqi fl"><a class="mgCard_dijiqi_name">
+                                                                                                </a>
+						<span class="mgCard_dijiqi_con">
+                                                                                        													</span>
+					</span>
+                    <span class="fl">起止日期：至</span>
+                </dd>
+                <dd class="mgCard_deta_sa">
+                    <span>教学进度：</span>
+                    <span class="mgCard_state">
+                                                    <a>预报名</a>
+						    <a>进行中</a>
+						    <a class="current">已结束</a>
+                        					</span>
+                    <span class="span_margin">学时：32学时</span>
+                </dd>
+                
+            </dl>
+            <div class="mgCard_text">课程简介：
+                                                                           医学史是医学人文教育的重要组成部分，是一门联系社会、政治、经济、哲学等来研究医学发展过程和规律的科学，以历史之眼光来审视现实，以未来之理想来改变现实，培养学生对当代医学生活的独立思考和批判的精神。
+                                                </div>
+            <div  id="course_info" class="mgCard_bnt_con clearfix">
+
+            </div>
+        </div>
+    </div>
+    <div class="service">
+        <div class="serviceData serviceData_red fl">
+            <span class="serviceData_ico"></span>
+            <dl class="serviceData_text">
+                <dt id="_viewTimes"></dt>
+                <dd>累计页面浏览量</dd>
+            </dl>
+        </div>
+        <div class="serviceData serviceData_blue fl">
+            <span class="serviceData_ico"></span>
+            <dl class="serviceData_text">
+                <dt id="_chooseCourseCount"></dt>
+                <dd>累计选课人数</dd>
+            </dl>
+        </div>
+        <div class="serviceData serviceData_violet fl">
+            <span class="serviceData_ico"></span>
+            <dl class="serviceData_text">
+                <dt id="_bbsAllCount"></dt>
+                <dd>累计互动次数</dd>
+            </dl>
+        </div>
+        <a class="service_bnt fr">课程结业证书</a>
+        <a class="service_bnt fr">X2倍速播放</a>
+        <a class="service_bnt fr">24小时内解答</a>
+        <span class="service_name fr">服务保障：</span>
+    </div>
+    <div class="mgCard_tab mgCard_blue">
+        <ul class="mgCard_tabName">
+            <li class="current" id="li_introduce">课程介绍<span class="line"></span></li>
+            <li id="li_knowledge-catalog">章节目录<span class="line"></span><span class="mgCard_shidu"></span></li>
+            <li id="li_coursebbs">师生互答<span class="line"></span></li>
+            <li>常见问题<span class="line"></span></li>
+        </ul>
+    </div>
+    <div class="mgCard_tabCon mgCard_blue">
+            <div class="kc_intro" id="introduce" style="display:block;">
+        </div>
+            <div class="kc_catalog" id="knowledge-catalog" style="display:none;">
+        </div>
+            <div class="kc_mutual" id="coursebbs" style="display:none;">
+        </div>
+            <div class="kc_problem" style="display:none;">
+            <div class="kc_catalog_title">
+                <div class="kc_catalog_name bgBlue">
+                    <span class="kc_catalog_name_line bgBlue"></span>
+                    常见问题
+                </div>
+            </div>
+            <div class="kc_mutual_search" style="display: none;">
+                <div class="kc_mutual_form">
+                    <input type="text" name="text" class="kc_mutual_input" placeholder="输入想要咨询的问题"/>
+                    <input type="button" name="button" value="提问" class="kc_mutual_bnt bgBlue"/>
+                </div>
+            </div>
+            <div class="kc_problem_con">
+                <dl class="kc_problem_row">
+                    <dt>1.我该如何学习这门课程？</dt>
+                    <dd>
+                        <p>（1）首先您要注册一个学银在线的账号。</p>
+                        <p>（2）您需要有一定的上网条件，能够流畅的观看教学视频。在观看的过程中，您可以选择在PC端登陆我们的网页， 也可以选择下载我们的app学习通，通过手机客户端来学习。</p>
+                        <p>（3）您一旦报名选择了课程，我们的课程主讲老师或课程团队会通过通知的形式给您发送课程有关的消息，同时会抄送您的邮箱，请您及时查收。</p>
+                    </dd>
+                </dl>
+                <dl class="kc_problem_row">
+                    <dt>2.我在学习过程中遇到问题了，怎么办？</dt>
+                    <dd>
+                        <p>您可以通过以下几种方式获取帮助：</p>
+                        <p>（1）在课程群聊中发布求助信息，说不定和你一起学习这门课的小伙伴就能够解决你的问题呢；</p>
+                        <p>（2）在课程讨论区留言，课程团队看到后将会及时回复。</p>
+                        <p>（3）联系我们的客服，或者随时给我们发邮件，邮箱地址：xueyinkf@chaoxing.com</p>
+                    </dd>
+                </dl>
+                <dl class="kc_problem_row">
+                    <dt>3.我是新手，能否给我一些学习建议？</dt>
+                    <dd>
+                        <p>
+                            （1）我们的课程采用MOOC的方式授课，因此您可以自由安排您的学习时间、学习地点。但我们仍旧希望您每周能都有固定的时间持续进行本课程的学习，根据人的记忆曲线显示这种规律的学习方式能够最大限度的提升您的学习质量。</p>
+                        <p>（2）学习的过程比较容易，为了检验您的学习成果，我们的课程团队会在课程章节结束后布置测验或作业，希望您尽可能的按时独立完成。如果有没有掌握的知识点，您可以继续回看复习课程。</p>
+                        <p>（3）希望您能够积极参与课程的讨论，与各位学习者一起煮酒论英雄。在讨论的过程中，不光可以对课程所学内容温习内化，还能互相碰撞出思想的火花，相信您一定会有额外的收获。</p>
+                    </dd>
+                </dl>
+                <dl class="kc_problem_row">
+                    <dt>4.课程会不会很难、很枯燥？</dt>
+                    <dd>
+                        <p>（1）我们的课程都是老师经过精心设计拍摄制作而成，并且由于是MOOC的方式，所以课程拆分成了不同的知识点，学习起来一点也不费劲。</p>
+                        <p>（2）我们的课程多采取理论结合实际的授课方式，课程中也有许多案例的呈现，相信会给学习者带来诸多方面的启发。我们也将力求做到深入浅出，支持学习者将研究发现转化为实践，改进自身教学。</p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+<!--main end-->
+<script type="text/javascript">
+    /**
+     * 课程介绍
+     */
+    function getCourseIntroduce() {
+        $.ajax({
+            type: "get",
+            url: "/detail/introduce",
+            data: {
+                courseId: '207554474',
+                orgCourseId: '207554474',
+                jinkeType : '0'
+            },
+            dataType: 'html',
+            success: function (data) {
+                $("#introduce").empty();
+                $("#introduce").append(data);
+            }
+        });
+    }
+
+    /**
+     * 章节目录
+     */
+    function getKnowledgeCatalog() {
+        $.ajax({
+            type: "get",
+            url: "/detail/knowledge-catalog",
+            data: {
+                courseId: '207554474',
+                orgCourseId: '207554474',
+                t : '0',
+                jinkeType : '0'
+            },
+            dataType: 'html',
+            success: function (data) {
+                $("#knowledge-catalog").empty();
+                $("#knowledge-catalog").append(data);
+            }
+        });
+    }
+
+    /**
+     * 师生互动
+     */
+    function getCourseBBs() {
+        $.ajax({
+            type: "get",
+            url: "/detail/coursebbs",
+            data: {
+                courseId: '207554474',
+                jinkeType : '0'
+            },
+            dataType: 'html',
+            success: function (data) {
+                $("#coursebbs").empty();
+                $("#coursebbs").append(data);
+            }
+        });
+    }
+
+    function getData(id) {
+        if (id == 'li_introduce') {
+            getCourseIntroduce();
+        } else if (id == 'li_knowledge-catalog') {
+            getKnowledgeCatalog();
+        } else if (id == 'li_coursebbs') {
+            getCourseBBs();
+        }
+    }
+
+    function clazzTag() {
+        jQuery.ajax({
+            type: "get",
+            url : "/detail/clazz-tag",
+            dataType:'html',
+            data: {
+                courseId:'207554474',
+                t : '0',
+                jinkeType : '0'
+            },
+            success: function(data){
+                jQuery('#course_info').prepend(data);
+            }
+        });
+    }
+
+    /**
+     * 3个统计数
+     */
+    function getStatisticsData() {
+        jQuery.ajax({
+            type: "get",
+            url : "/statistics/api/stattistics-data",
+            dataType:'html',
+            data: {
+                courseId:'207554474'
+            },
+            success: function(data){
+                var json = eval("(" + data + ")");
+                document.getElementById('_bbsAllCount').innerText = json.bbsAllCount;
+                document.getElementById('_chooseCourseCount').innerText = json.chooseCourseCount;
+                document.getElementById('_viewTimes').innerText = json.viewTimes;
+            }
+        });
+    }
+    $(function () {
+        //最后一个div隐藏
+        $('.kc_vertical_line').last().css('display', 'none')
+        $('.kc_mutual_text').last().css('border', 'none')
+
+        //tab
+        $('.mgCard_tabName').children().on('click', function () {
+            var id = $(this).attr('id');
+            getData(id);
+
+            $(this).addClass('current').siblings().removeClass('current')
+            $('.mgCard_tabCon').children().eq($(this).index()).show().siblings().hide()
+        })
+
+        //第几期
+        $('.mgCard_dijiqi').click(function(){
+            var _this = $(this).find('.mgCard_dijiqi_con')
+            if(_this.is(':visible')){
+                _this.css('display','none')
+            }else{
+                _this.css('display','block')
+            }
+        })
+        $('.mgCard_dijiqi_con').children().click(function(){
+            var thisVlaue = $(this).parent().prev()
+            thisVlaue.text($(this).text())
+        })
+
+        //点击div1外任何地方，div2消失
+        $(document).mouseup(function (e) {
+            var _con = $('.mgCard_dijiqi');
+            if (!_con.is(e.target) && _con.has(e.target).length === 0) {
+                $('.mgCard_dijiqi_con').hide()
+            }
+        })
+
+
+    });
+    $(document).ready(function () {
+        getCourseIntroduce();
+        clazzTag();
+        getStatisticsData();
+    });
+
+
+</script>
+    <iframe src="/footer/index-new" name="header" frameborder="0" scrolling="no" style="width:100%; height: 290px;"></iframe></body>
+</html>

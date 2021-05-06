@@ -1,0 +1,294 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>�����빫��</title>
+<meta name="SiteName" content="�л����񹲺͹���ѧ������" />
+<meta name="SiteDomain" content="www.most.gov.cn" />
+<meta name="SiteIDCode" content="bm06000001" />
+<meta name="ColumnName" content="�����빫��" />
+<meta name="ColumnDescription" content="" />
+<meta name="ColumnKeywords" content="" />
+<meta name="ColumnType" content="" />
+<link href="/inc/mst2.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="./css/zfxxgk_base.css">
+<link rel="stylesheet" type="text/css" href="./css/zfxxgk_common.css">
+<link rel="stylesheet" type="text/css" href="./css/footer.css">
+
+<style type="text/css">
+<!--
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+text-align: left;
+}
+.input1 {  background:#ffffff;
+BORDER-RIGHT: #A1A1A1 1px solid; 
+PADDING-RIGHT: 1px; 
+BORDER-TOP: #A1A1A1 1px solid; 
+PADDING-LEFT: 1px; 
+FONT-SIZE: 12px; 
+BORDER-LEFT: #A1A1A1 1px solid; 
+CURSOR: hand; 
+COLOR: black; 
+PADDING-TOP: 1px; 
+BORDER-BOTTOM: #A1A1A1 1px solid ; padding:3px;
+}
+.anniu { 
+BORDER-RIGHT: #7b9ebd 1px solid; 
+PADDING-RIGHT: 2px; 
+BORDER-TOP: #7b9ebd 1px solid; 
+PADDING-LEFT: 2px; 
+FONT-SIZE: 12px; 
+BORDER-LEFT: #7b9ebd 1px solid; 
+CURSOR: hand; 
+COLOR: black; 
+PADDING-TOP: 2px; 
+BORDER-BOTTOM: #7b9ebd 1px solid 
+} 
+
+.select
+        {
+            position: relative;
+            left: -2px;
+            top: -2px;
+            width: 80px;
+            line-height: 14px;
+            color: #909993;
+            border-style: none;
+            border-width: 0px;
+        }
+
+
+.box{position:relative;border:1px solid #F4F4F4;width:110px;height:22px;clip:rect(0px,78px,18px,0px);overflow:hidden;}
+.box2{border:1px solid #F4F4F4;width:110px;height:22px;clip:rect(0px,76px,16px,0px);overflow:hidden;}
+.style213 {
+color: #000000;font-size: 12px;	text-decoration: none;
+}
+.style213 :link {color: #000000;font-size: 12px;
+	text-decoration: none;
+	
+}
+.style213 :visited {color: #000000;font-size: 12px;
+	text-decoration: none;
+	
+}
+.style213 :active {color: #000000;font-size: 12px;
+	text-decoration: none;
+}
+
+.style214 {
+color: #000000;font-size: 14px;	text-decoration: none;line-height:28px;text-align: left;
+}
+.style214 :link {color: #000000;font-size: 14px;text-align: left;
+	text-decoration: none;
+	
+}
+.style214 :visited {color: #000000;font-size: 14px;text-align: left;
+	text-decoration: none;
+	
+}
+.style214 :active {color: #000000;font-size: 14px;text-align: left;
+	text-decoration: none;
+}
+.left404{ background:url(images/left-bg-1.jpg) no-repeat;}
+-->
+.left404 {
+	padding-left: 35px;
+}
+</style>
+</head>
+
+<body>
+<div class="main">
+    <div class="header" id="ifr_top">
+        <div class="header_top"> 
+            <!--logo��࿪ʼ-->
+            <div class="header_left fl"> <a href="/index.htm" class="logo" target="_blank"> </a> </div>
+            <!--logo������--> 
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="title_zfxxgk">
+        <img src="images/font_zfxxgk.png" />
+    </div>
+    <div class="floor_content auto">
+        <div class="floor_content_search w1028 auto"> 
+            <!--����-->
+            <div class=" advancedSearch clearfix">
+                <div class="advancedSearch_text clearfix">
+                    <form target="_self" id="qform" class="search-form" onsubmit="return false;">
+                        <input type="text" id="q" name="q" class="changvalue blurinput advancedSearchInput fl" autocomplete="off">
+                        <input id="search" type="button" value="" class="advancedSearchSubmit fl">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="floor_content_details w1028 auto clearfix">
+            <div class="leftPart fl mh735 mr18"> 
+                <a href="http://www.most.gov.cn/xxgk/xinxifenlei/zfxxgkzn/" class="menu_one-level gkzn" id="gkzn">������Ϣ����ָ��</a> 
+                <a href="http://www.most.gov.cn/xxgk/xinxifenlei/zfxxgkzd/" class="menu_one-level gkzd" id="gkzd">������Ϣ�����ƶ�</a> 
+                <a href="http://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/" class="menu_one-level gknr" id="gknr">
+                    ����������������
+                    <span>+</span>
+                </a>
+                <a href="http://www.most.gov.cn/xxgk/xinxifenlei/xxgknb/" class="menu_one-level gknb" id="gknb">
+                    ������Ϣ�����걨
+                </a>
+                <a class="menu_one-level ysqgk active" id="ysqgk">
+                    �����빫��
+                </a>
+            </div>
+            <div class="rightPart mh735 fl">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    
+    <td align="center"><br />
+	<table  width="680" class="style214"><tr><td height="31" valign="top">
+	 <form name="form1" id="form1" action="query.jsp" method="post" onSubmit="return chck(form1)">
+       <table width="683" border="0" cellpadding="0" cellspacing="0" background="images/ztcx-1.JPG" align="right"  height="50">
+  <tr>
+                  <td width="150">&nbsp;</td>
+    <td  width="120" class="style214" >����/��λ����:</td>
+    <td>
+      <input  type="text"  name="textquery"  size="14" />
+    </td>
+    <td width="100"class="style214">������ȡ��:</td>
+    <td><input type="text" name="id"  size="14" onKeyUp="value=value.replace(/[^\d]/g,'') "/></td>
+    <td><input type="image"  name="search2" src="images/btn_search.gif" width="37" height="23" />    </td>
+  </tr>
+</table>      </form>
+</td></tr>
+<tr><td><br>
+	</td>
+  </tr>
+  
+ 
+</table>
+<br>
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="30" style="background-image: url(images/ysq-sqxz.jpg)">&nbsp;</td>
+  </tr>
+</table>
+        <table cellspacing="0" cellpadding="0" width="656" align="center" border="0">
+          <tbody>
+            <tr> 
+              <td><img height="15" src="images//xxgk-2-11.jpg" 
+            width="656" /></td>
+            </tr>
+            <tr> 
+              <td background="images/xxgk-2-21.jpg"> <table width="630" align="center" style="padding:15px;">
+                  <tr> 
+                    <td bgcolor="#FFFFFF">
+					<table width="100%"  class="style214"><tr><td  class="style214">
+					 &nbsp;&nbsp;&nbsp;&nbsp;1.����������Ϣ���������漰��һ�������̣���˽���������ʽ�ύ������Ϣ��������֮ǰ��ͨ������ġ���������������Ϣ���������в�ѯ��<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;2.ֻ������񡢷��˻���������֯��Ƽ��������ȡ���������������������Ϣ�������룬����������ʴ𡢼ලͶ�ߵȡ����������뵽<a href="http://appweblogic.most.gov.cn/gzwd/gzwd.htm"><img src="images/gzwd-logo.gif" border="0"  /></a>�ύ��Ͷ���뵽<a href="http://www.most.gov.cn/jdts/index.htm"><img src="images/jdts.jpg" border="0"  /></a>�ύ��<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;3.���������ύ������Ϣ��������֮ǰ���������ϸ�Ķ�����ѧ������������Ϣ����ָ�ϡ���<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;4.������ͨ���Ƽ�����Ϣ������������ϵͳ�ɹ��ύ����󣬽��õ�һ��������ȡ�ţ���������Ʊ��档��������ȡ�Ž���Ϊ�����˲�ѯ��Ϣ�����������״̬����Ҫ���ݡ���úű��ܲ��ƶ��������ˡ�����������𺦣��������˸�ȫ�����Ρ�������������κηǷ�ʹ��������ȡ�ŵ��������������֪�Ƽ����칫����<br>
+&nbsp;&nbsp;&nbsp;&nbsp;�����������Ķ�������֪
+��<br>
+
+
+
+
+
+
+	
+	<form id="form2" name="form2" method="post" action="apply.jsp">
+&nbsp;&nbsp;&nbsp; <label>
+	    <input type="radio" name="ragree" value="0" onclick="agreeform('block')"/>
+	    <b><font color="#F57B06">ͬ��</font></b></label>  <label>
+	    <input type="radio" name="ragree" value="1" onclick="agreeform('none')" />
+	    <b><font color="#F57B06">��ͬ��</font></b></label>
+		<div id="divbt1" style="display:none"> &nbsp;&nbsp;&nbsp;&nbsp;<input name="submit1" type="submit" value="��һ��"   class=btn_2k2  />
+		</div>
+	  </form>
+					  
+					  </td></tr></table>
+					 
+					  </td>
+                  </tr>
+                </table> </td></tr>
+			
+            <tr> 
+              <td><img height="9" src="images/xxgk-2-31.jpg" 
+            width="656" /></td>
+            </tr>
+          </tbody>
+        </table>
+       
+	
+	    <br />
+
+	  
+	  </td></tr></table>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<div class="footer" id="footer-info" style="margin-top: 0px;"> 
+    <script type="text/javascript" src="./js/index_footer.js"></script> 
+</div>
+<SCRIPT language='JavaScript'>
+function chck(form1)
+ {
+   if(form1.textquery.value=="")
+   {
+      alert("�����������������ƣ�");
+      form1.textquery.focus();
+      return false;    
+   } 
+   if (form1.id.value=="")
+   {
+      alert("������������ţ�");
+      form1.id.focus();
+      return false;    
+   }
+ 
+   return true;
+ }
+ 
+ /*function chck(form1)
+ {
+   if(form1.textquery.value=="")textquery
+   {
+      alert("�����������������ƣ�");
+      form1.textquery.focus();
+      return false;    
+   } 
+   if (form1.id.value=="")
+   {
+      alert("������������ţ�");
+      form1.id.focus();
+      return false;    
+   }
+ 
+   return true;
+ }*/
+ function agreeform(str)
+ {
+ //alert("1");
+  document.all.divbt1.style.display =str;
+  if(str == "none" )
+  {
+  	alert("����ͬ����������������룡");
+  }
+ }
+ 
+ 
+ 
+</SCRIPT>
+
+<script language='JavaScript' src='checkform.js' type='text/JavaScript'></script>
+<script type="text/javascript" src="./inc/jquery/jquery-1.12.4.min.js"></script>
+</body>
+</html>

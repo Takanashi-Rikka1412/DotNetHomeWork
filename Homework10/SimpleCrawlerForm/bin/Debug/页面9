@@ -1,0 +1,1279 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>分子生物学</title>
+<link href="/css/template9/excellent_course.css?v=2019-1018-1105" type="text/css" rel="stylesheet"/>
+<link href="/css/template9/comm.css" type="text/css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css">
+<link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+<link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+<style type="text/css">
+.lvtl {font-size: 14px;}
+.lvtv {color: #FF6600;font-size: 22px;}
+tbody td a{overflow:hidden; white-space:nowrap; text-overflow:clip}
+pre {white-space: pre-wrap;       
+	/* css-3 */white-space: -moz-pre-wrap;  
+	/* Mozilla, since 1999 */white-space: -pre-wrap;      
+	/* Opera 4-6 */white-space: -o-pre-wrap;    
+	/* Opera 7 */word-wrap: break-word;       
+	/* Internet Explorer 5.5+ */
+}
+.headermask{opacity:100;}
+/*新版精品课程*/
+.w_exccourmenu{width: 240px;border-right: 1px solid #bfc3cd;background-color: #0570ad;min-height: 300px;border-top: 1px solid #979191}
+.w_exccourmenu .w_exccourmenu_item.wcurr{background:#034e79}
+.w_exccourmenu .w_exccourmenu_item {line-height: 30px;color: #fff;font-size: 14px;padding-left: 35px;cursor: pointer}
+.w_exccourmenu .w_first_exccourmenu{padding-left: 23px;}
+.w_exccourmenu .w_exccourmenu_item a{color: #fff;}
+.w_cont{padding:0 26px;font-size: 14px;color: #000;width: 652px;line-height: 24px;}
+.w_cont p{margin-top: 23px}
+</style>
+<script src="/js/ServerHost.js"></script>
+<script>
+var flag=false;
+    if(flag)
+	{
+		ServerHost.createScript("/ananas/tk");
+	}
+var switchModule = function (index, edit) {
+    var knowledgeId = $("#knowledgeId").val();
+    var date = new Date().getTime();
+    location.href = "?edit=" + edit + "&knowledgeId=" + knowledgeId + "&module=" + index + "&v=" + date + "#content";
+}
+ </script>
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/all-classes.js"></script>		
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+	<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script><script type="text/javascript" src="/js/resourceRecord.js"></script>
+<script type="text/javascript">
+$(function(){
+	$(".courselist").click(function(){
+		if($(this).next(".courselistCon").is(":hidden")){
+			$(this).next(".courselistCon").show();
+		} else {
+			$(this).next(".courselistCon").hide()
+		}
+	})
+	
+	$(".secondCap p").click(function(){
+		$(".secondCap p").removeClass("click")
+		$(this).addClass("click")
+	})
+	
+	
+	$('.courselistCon ul li').click(function(){
+		$('.courselistCon ul li').removeClass("click");
+		$(this).addClass("click");
+	});
+})
+</script>
+
+<link href="/css/templates/subArticleBasic.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+ <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024" method="get" charset="utf-8"></script>
+
+<div style="background:#2395d4;height:236px;"  >
+	<div class="banner" >
+		<p style=" font-size:32px;">分子生物学</p>
+		<p style="font-size:14px;">
+			
+			                 武汉大学
+            		</p>
+		<div class="teacherDiv fr" style=" margin-top: -50px;  ">
+    <p class="zhuTacher" style="color:  #fff  ;">主讲教师：刘青珍</p>
+    </div>		<div style="width:100%;">
+
+    		<div class="courseEdit fl" style="width:320px;"  id="clazzTag" data="false" flag="false" template="8" courseid="207161794">
+    			    		</div>
+							<div id='viewTimesTag' name="207161794" class="fl lvtt" style="margin-left:0px;margin-top:2px; width:200px;line-height:24px;" >
+    			</div>	
+    			<div id='courseStarTag' data="207161794" class="r mr20 fr" style="width:300px;  ">
+                                    </div><!---->
+							  <div class="clear"></div>
+		</div>
+	</div>
+</div>
+<div class="wrap1000" style="margin-top: -25px;">
+	<div class="bodyBg">
+        <div class="navBg">
+                        <div class="nav fl">
+				<table>
+                   <tbody>
+                   		<tr>
+                        	<td><a href="javascript:;" class="click" title="课程介绍">课程介绍</a></td>
+    														    								<td><a title="课程章节" href="javascript:;">课程章节</a></td>
+    																					
+																					            					
+							            				             					
+							            				             					
+							            				 							
+                        </tr>
+                   </tbody>
+               </table>
+            </div>
+                        <div class="clear"></div>
+        </div>
+		 <div class="topCon module module1 zvideo_re" style="display:none;padding:45px 20px;" >
+
+			                  <span class="fl" style="padding:3px;border:solid 1px #e5e5e5;"><img class="clickme" src="https://p.ananas.chaoxing.com/star3/origin/0470a823563a320f265fb85653d1471e.jpg" width="342" height="246"/></span>
+			 		 
+                      <div class="fl topFont">
+            	<h3>课程介绍</h3>
+                <div class="showBox" style="font-size:14px"><pre>    本课程在生物化学、遗传学和细胞生物学基本知识的基础上，从生物大分子水平阐述基因组的保持、基因组的表达和基因表达调控的机制。
+    本课程授课内容是学生将来从事生物学研究所需掌握的基础理论知识，除了分子生物学基础理论知识，课程还注重培养学生的科研思维能力和训练学生的学术表达能力，因为这两方面对学生的将来非常重要。
+    本课程2003年成为“国家理科基地名牌课程建设”项目，2005年获批“武汉大学精品课程建设”项目，2006年获批“湖北省精品课程”和“国家精品课程”项目，2007年获批“教育部分子生物学双语示范课程”项目，2011年获批“武汉大学分子生物学全英文教学课程”项目，2013年获批“国家精品资源共享课”项目，2016年获首批“国家精品资源共享课”，分子生物学MOOC于2015年在爱课程网开课，并获批国家精品在线开放课程。
+</pre></div>
+				
+                <div><a href="javascript:;" class="showall">[展开]</a></div>
+            </div>
+                       <div class="clear"></div>
+         </div>
+						  <div class="main module module2" style="display:none;padding-top:45px;">
+        	<div class="fl  mainLeft ">
+                    <div class="firstCap">
+					
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >1 &nbsp&nbsp 第一周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.1</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.2</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.3</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.4</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.5</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.6</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-6</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.7</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-7</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>1.8</i><a class="chapterText" onclick="read()" href="javascript:;">第一周-8</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >2 &nbsp&nbsp 第二章第二周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>2.1</i><a class="chapterText" onclick="read()" href="javascript:;">第二周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>2.2</i><a class="chapterText" onclick="read()" href="javascript:;">第二周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>2.3</i><a class="chapterText" onclick="read()" href="javascript:;">第二周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>2.4</i><a class="chapterText" onclick="read()" href="javascript:;">第二周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>2.5</i><a class="chapterText" onclick="read()" href="javascript:;">第二周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>2.6</i><a class="chapterText" onclick="read()" href="javascript:;">第二周-6</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >3 &nbsp&nbsp ﻿第三周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>3.1</i><a class="chapterText" onclick="read()" href="javascript:;">第三周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>3.2</i><a class="chapterText" onclick="read()" href="javascript:;">第三周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>3.3</i><a class="chapterText" onclick="read()" href="javascript:;">第三周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>3.4</i><a class="chapterText" onclick="read()" href="javascript:;">第三周-4</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >4 &nbsp&nbsp ﻿第四周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>4.1</i><a class="chapterText" onclick="read()" href="javascript:;">第四周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>4.2</i><a class="chapterText" onclick="read()" href="javascript:;">第四周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>4.3</i><a class="chapterText" onclick="read()" href="javascript:;">第四周-3</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >5 &nbsp&nbsp 第五周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>5.1</i><a class="chapterText" onclick="read()" href="javascript:;">第五周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>5.2</i><a class="chapterText" onclick="read()" href="javascript:;">第五周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>5.3</i><a class="chapterText" onclick="read()" href="javascript:;">第五周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>5.4</i><a class="chapterText" onclick="read()" href="javascript:;">第五周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>5.5</i><a class="chapterText" onclick="read()" href="javascript:;">第五周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>5.6</i><a class="chapterText" onclick="read()" href="javascript:;">第五周-6</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >6 &nbsp&nbsp 第六周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>6.1</i><a class="chapterText" onclick="read()" href="javascript:;">第六周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>6.2</i><a class="chapterText" onclick="read()" href="javascript:;">第六周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>6.3</i><a class="chapterText" onclick="read()" href="javascript:;">第六周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>6.4</i><a class="chapterText" onclick="read()" href="javascript:;">第六周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>6.5</i><a class="chapterText" onclick="read()" href="javascript:;">第六周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>6.6</i><a class="chapterText" onclick="read()" href="javascript:;">第六周-6</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >7 &nbsp&nbsp 第七周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>7.1</i><a class="chapterText" onclick="read()" href="javascript:;">第七周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>7.2</i><a class="chapterText" onclick="read()" href="javascript:;">第七周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>7.3</i><a class="chapterText" onclick="read()" href="javascript:;">第七周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>7.4</i><a class="chapterText" onclick="read()" href="javascript:;">第七周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>7.5</i><a class="chapterText" onclick="read()" href="javascript:;">第七周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>7.6</i><a class="chapterText" onclick="read()" href="javascript:;">第七周-6</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >8 &nbsp&nbsp 第八周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>8.1</i><a class="chapterText" onclick="read()" href="javascript:;">第八周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>8.2</i><a class="chapterText" onclick="read()" href="javascript:;">第八周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>8.3</i><a class="chapterText" onclick="read()" href="javascript:;">第八周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>8.4</i><a class="chapterText" onclick="read()" href="javascript:;">第八周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>8.5</i><a class="chapterText" onclick="read()" href="javascript:;">第八周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>8.6</i><a class="chapterText" onclick="read()" href="javascript:;">第八周-6</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >9 &nbsp&nbsp 第九周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.1</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.2</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.3</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.4</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.5</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.6</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-6</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.7</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-7</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>9.8</i><a class="chapterText" onclick="read()" href="javascript:;">第九周-8</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >10 &nbsp&nbsp 第十周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.1</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.2</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.3</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.4</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.5</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.6</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-6</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.7</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-7</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.8</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-8</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>10.9</i><a class="chapterText" onclick="read()" href="javascript:;">第十周-9</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >11 &nbsp&nbsp 第十一周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.1</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.2</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.3</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.4</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.5</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.6</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-6</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>11.7</i><a class="chapterText" onclick="read()" href="javascript:;">第十一周-7</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >12 &nbsp&nbsp 第十二周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.1</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.2</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.3</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.4</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.5</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.6</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-6</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.7</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-7</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>12.8</i><a class="chapterText" onclick="read()" href="javascript:;">第十二周-8</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >13 &nbsp&nbsp 第十三周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.1</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.2</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.3</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.4</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.5</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.6</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-6</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.7</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-7</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.8</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-8</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.9</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-9</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.10</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-10</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.11</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-11</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.12</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-12</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.13</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-13</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.14</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-14</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>13.15</i><a class="chapterText" onclick="read()" href="javascript:;">第十三周-15</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+			
+                        <div class="secondCap">
+							
+                                                        <p class="courselist chapterText"  style="cursor:default;" >14 &nbsp&nbsp 第十四周 </p>
+			  <div class="courselistCon" >
+			       		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>14.1</i><a class="chapterText" onclick="read()" href="javascript:;">第十四周-1</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>14.2</i><a class="chapterText" onclick="read()" href="javascript:;">第十四周-2</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>14.3</i><a class="chapterText" onclick="read()" href="javascript:;">第十四周-3</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>14.4</i><a class="chapterText" onclick="read()" href="javascript:;">第十四周-4</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>14.5</i><a class="chapterText" onclick="read()" href="javascript:;">第十四周-5</a></li>
+                                          
+                            </ul>
+							    		                 
+							 							 
+							 
+							 <ul>
+                                                                <li ><i>14.6</i><a class="chapterText" onclick="read()" href="javascript:;">第十四周-6</a></li>
+                                          
+                            </ul>
+							                        </div>
+                        </div>     
+                
+                  </div>
+            </div>
+            <div class="fr mainRight">
+            	<div class="rightTop">
+                	<a  onclick="openNext(1);return false"  href=" ?edit=false&articleId=166090050&knowledgeId=215536642&module=2#content " class="fr nextKe">下一课</a>
+                	<a href=" javascript:; "  class="fr prevKe">上一课</a>
+                </div>
+				
+				
+                					<input type="hidden" value="215536625" id="knowledgeId">
+								
+				            </div>
+            <div class="clear"></div>
+		  </div>
+		         		    																						
+				        				        
+    </div>
+</div>
+
+<script type="text/javascript">
+ window.onload=function(){
+ 	var knowledgeId = $("#knowledgeId").val();
+    var indexnum=1;
+	$(".module").css('display','none');
+	$(".module"+indexnum).css('display','block');
+    var ali =$(".navBg td");
+	
+	ali.find("a").removeClass('click');
+	$(".navBg td").eq(indexnum-1).find("a").addClass("click")
+    var modulesize=Math.ceil(ali.length);
+		ali.click(function(){
+            if (((ali.index(this)) == 1) &&  (1 == 1)) {
+                read()
+            }
+            else {
+                var indexnum = ali.index(this) + 1;
+                var module = "module" + indexnum;
+                $(".module").css('display', 'none');
+                var date = new Date().getTime();
+                location.href = "?edit=false&knowledgeId=" + knowledgeId + "&module=" + indexnum + "&v=" + date + "#content";
+            }
+		});
+		
+
+
+
+$("#iboxAlertOk").click(function(){
+	$('.courseAlert').hide();
+});
+$(".courseTilte .ibox_close").click(function(){
+	$('.courseAlert').hide();
+});
+
+	jQuery(".courseTilte-confirm .ibox_close").click(function(){
+    	jQuery('.courseAlert-confirm').hide();
+    });
+    jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+    	jQuery('.courseAlert-confirm').hide();
+	});
+		
+ 
+	var heit = $(".showBox").height();
+	if(heit<=186){
+		$(".showall").hide()
+	} else {
+		$(".showall").show();
+		$(".showBox").css("height","192px")
+	}
+	$(".showall").toggle(function(){
+		$(".showBox").css("height","auto")
+		$(this).text("[收起]")
+	},function(){
+		$(".showBox").css("height","186px")
+		$(this).text("[展开]")
+		})
+		
+		
+		
+	$(".secondCap ul li").click(function(){
+		$(".secondCap ul li").removeClass("click")
+		$(this).addClass("click")
+	})
+	$(".teachers").hover(function(){
+		$(this).find(".teachersBottom").show();
+		$(this).find("b").show()
+		},function(){
+		$(this).find(".teachersBottom").hide();
+		$(this).find("b").hide()		
+		})	
+	
+uParse(".ans-cc");
+
+}
+</script>
+<script type="text/javascript">
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+}
+
+function openNext(privately){
+	if(privately == 1){
+		alert("该课程不可试读");
+	} else if (privately == 3) {
+		alert("该课程只可试读第一章");
+	} else if (privately == 2) {
+		alert("该课程只可试读前三章");
+	}
+}
+
+</script>
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script><script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.5.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+<script>
+	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+	loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+
+</script>
+<script>
+//var courseStar=document.getElementById("courseStarTag");
+var editvalue=document.getElementById("clazzTag").getAttribute("data");
+var courseid=document.getElementById("clazzTag").getAttribute("courseid");
+var isLogin=document.getElementById("clazzTag").getAttribute("flag");
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=207161794";
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:8}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				jQuery('#courseStarTag').prepend(data);
+    		   // document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+		
+		
+		
+		
+jQuery(function(){
+	    try{
+            //获取登录状态
+            var login = true;
+            var fid = jQuery.cookie("fid");
+            var loginString = "_uid";
+            var loginStatus = jQuery.cookie(loginString);
+            if (loginStatus == undefined) login = false;
+            //请求访问数
+			jQuery.ajax({ //一个Ajax过程 
+				type: "get", //以get方式与后台沟通 
+				url : "/course/viewTimesTag", 
+				dataType:'html',//返回的值
+				data: {courseId:courseid,loginStatus:login}, 
+				success: function(data){//如果调用成功 
+				    jQuery('#viewTimesTag').append(data);
+				} 
+			});
+	    }catch(e){alert(e.message)}
+});
+jQuery(function(){
+      function subStr(str,n){
+		 var filename=str.replace(/.*(\/|\\)/, "");
+		 var fileExt=(/[.]/.exec(filename)) ? /[^.]+$/.exec(filename.toLowerCase()) : '';
+		 var strReg=/[^\x00-\xff]/g;  
+         var _str=filename.replace(strReg,"**");  
+	     var _len=_str.length;
+		 if(_len>n){  
+		 var _newLen=Math.floor(n/2);  
+		 var _strLen=str.length;  
+		 for(var i=_newLen;i<_strLen;i++){  
+			 var _newStr=str.substr(0,i).replace(strReg,"**");  
+			 if(_newStr.length>=n){  
+				 return str.substr(0,i)+"...."+fileExt;  
+				 break;  
+			}  
+		 }  
+	   }else{  
+		 return str;  
+	   }  
+   	}
+	  jQuery(".origin").each(function(){
+	  	var content=jQuery(this).text();
+		jQuery(this).text(subStr(content,20));
+	  })
+});	
+	
+	var $ =mootools ;
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div><script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script><link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+<script src="/js/coursehomeTipJquery.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="/js/excellent_show_resources.js?v=2020-0218-1550"></script>
+<script src="/js/init-teamteacher.js"></script>
+</body>
+<script>
+(function() {
+	var editorMediaArgs = "";
+	try {
+		editorMediaArgs = $mediaArgs;
+	} catch (e) {}
+	uParse(".ans-cc", null, editorMediaArgs);
+})();
+
+$(function(){
+	var size = $(".navBg tbody tr td").size();
+    var otherSize = $(".znavMore-site ul li").size();
+    var navBg =  $(".nav");
+
+    if(otherSize > 0) {
+        $(".navBg tbody td a").css("width",(900-2*size)/size);
+        navBg.css("width", '900');
+    }else {
+        $(".navBg tbody td a").css("width",(1000-2*size)/size);
+        navBg.css("width", '1000');
+    }
+
+
+	if ((207161794 == 200018483 || 207161794 == 200018489) ) {
+		$(".navBg tbody td a").eq(0).css('width','47px');
+		$(".navBg tbody td a").eq(1).css('width','125px');
+		$(".navBg tbody td a").eq(2).css('width','125px');
+	}
+
+	$('.znavMore-js').mouseover(function () {
+		$(this).find('.znavMore-site').slideDown(100)
+	}).mouseleave(function () {
+		$(this).find('.znavMore-site').slideUp(100)
+	})
+});
+</script>
+<script>
+		</script>
+</html>

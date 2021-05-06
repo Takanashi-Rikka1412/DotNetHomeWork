@@ -1,0 +1,102 @@
+﻿
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes" />
+<meta name="author" content="星雲大師">
+<meta name="Title" content="星雲大師">
+<meta name="description" content="星雲大師,星雲文集,星雲大師墨寶,人間佛教" />
+<title>星雲大師</title>
+<!--FB meta-->
+<meta property="og:site_name" content="星雲大師"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="人間佛教的行者-星雲大師"/>
+<meta property="og:image" content="http://www.masterhsingyun.org.tw/images/facebooktitle.png"/>
+<meta property="og:url" content="http://www.masterhsingyun.org.tw/"/>
+<meta property="og:description" content="星雲大師 略傳 動態 年表 著作 文集 墨跡"/>
+<!--FB meta-->
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link href="../css/layout.css" rel="stylesheet" type="text/css">
+<!--0322 新增-->
+<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+<script src="../js/jquery-1.9.1.js"></script>
+<!-- Google分析 -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53370744-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google分析 -->
+</head>
+<!--20130823 delete id=page -->
+<body id="page">
+<!-- navigation row -->
+<!-- 前台內頁導航列 -->
+
+<nav id="pagenav">
+    <ul>
+  		<li><a href="../FrontBiograhyServlet">大師略傳</a> </li>
+		<li><a href="http://www.lnanews.com/list/16" target="_blank">大師動態</a></li>
+		<li><a href="../FrontHistoryServlet">大事年表</a></li>
+       	<li><a href="../FrontBookServlet">著作總覽</a></li>
+      	<li><a href="../ArticleTListServlet">星雲大師文集</a></li>
+     	<li><a href="../PictureServlet">書法墨跡</a></li>
+    	<li>
+        	<ul>
+        		<li><a href="https://www.facebook.com/HsingyunDashi" target="_blank"><img src="../images/fbicon.png"  alt="大師中文粉絲團" title="大師中文粉絲團"></a></li>
+        		<li><a href="https://www.facebook.com/MasterHsingYun" target="_blank"><img src="../images/fbicon2.png"  alt="大師英文粉絲團" title="大師英文粉絲團"></a></li>
+        		<li><a href="http://weibo.com/foguangyun" target="_blank"><img src="../images/weboicon.png"  alt="大師微博" title="大師微博"></a></li>
+        		<li><a href="http://m.3g.qq.com/cgi-bin/account.cgi?aid=masterhsingyun&uuid=189348" target="_blank"><img src="../images/qqicon.png" alt="大師騰訊" title="大師騰訊"></a></li>
+        	</ul>    
+    	</li>     	
+	</ul>
+</nav>
+<!-- navigation row -->
+<header id="pageT"><a href="../index.jsp"><img src="../images/page/ad5.png" ></a></header>
+<!--title-->
+<section id="title">
+	<h2>星雲大師文集</h2>
+	<p><a href="../index.jsp">首頁</a> > 星雲大師文集</p>
+</section>
+<!--title--> 
+<article> 
+<!--content-->
+<section id="content">
+	<!--search-->
+	<section id="search">
+		<form name="aform" action="../ArticleKeywordServlet" method="post">
+			<div id="keywordselF">請輸入關鍵字
+				<label for="textfield"></label>
+				<input type="text" name="key" id="keywords" placeholder="請輸入關鍵字">
+				<input type="hidden" name="range" value="all">
+			</div>
+			<div id="searchbtn">
+				<input type="image" src="../images/page/searchbtn.png" onClick="document.aform.submit();">
+			</div>
+		</form>
+	</section>
+	<!--search-->
+	<ul id="book">
+	
+    </ul>
+</section>
+<!--content--> 
+</article>
+<footer><!-- footer -->
+
+<footer><h3>如需引用文章，請註明出處。 本網站由 佛光山資訊中心 協助製作Copyright © 著作權 佛光山 所有 All Rights Reserved.</h3></footer></footer>
+
+<script src="../js/booktype.js"></script>
+<script src="../js/article.js"></script>
+</body>
+</html>

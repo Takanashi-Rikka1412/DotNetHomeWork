@@ -1,0 +1,2329 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>人文社科经典导引</title>
+		<style type="text/css">
+			pre {white-space: pre-wrap;       
+				/* css-3 */white-space: -moz-pre-wrap;  
+				/* Mozilla, since 1999 */white-space: -pre-wrap;      
+				/* Opera 4-6 */white-space: -o-pre-wrap;    
+				/* Opera 7 */word-wrap: break-word;       
+				/* Internet Explorer 5.5+ */
+			} 
+			.wh32 {color: #2681dc !important;}
+			.zev_content p{word-wrap: break-word;word-break:break-all;}
+		</style>
+        <link rel="stylesheet" type="text/css" href="/css/templates/subArticle.css">
+        <link rel="stylesheet" type="text/css" href="/css/coursedownloadTip.css">
+        <link rel="stylesheet" type="text/css" href="/css/templates/teamteacher.css">
+        <script src="/js/ServerHost.js"></script>
+		<script src="/js/image.js"></script>
+		 <script>
+		 	var flag=false;
+		    if(flag)
+			{
+				ServerHost.createScript("/ananas/tk");
+			}
+			
+		 </script>
+        <link type="text/css" href="/css/comm.css?v=2021-0312" rel="stylesheet" />
+<link type="text/css" href="/css/course.css?v=2019-1204-1823" rel="stylesheet" />
+<link type="text/css" href="/css/tm.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="/ananas/ueditor/themes/iframe.css" />
+
+<link href="/css/master.css" rel="stylesheet" type="text/css" />
+<!--<link href="/css/pingfen_index.css" rel="stylesheet" type="text/css" />-->
+<script type="text/javascript" src="/static/js/domain.js"></script>
+<script src="/ananas/ext-4.2.0.663/ext.js"></script>
+<script type="text/javascript" charset="utf-8" src="/ananas/ueditor/ueditor.parse.js"></script>
+
+    </head>
+    <body class="bgc3" style="position:relative;">
+      
+			<div class="mb10">
+            			                                <script type="text/javascript" src="http://www.fanya.mooc.whu.edu.cn/passport/allHead.shtml?schoolid=1024"  charset="utf-8"></script>
+                                    </div>
+		
+
+
+	  <style type="text/css">
+		.mb10{margin-bottom:0px;}
+        h1, h2, h3,h4,h5,h6 {font-weight:bolder}
+        h1{font-size:2em}
+        h2{font-size:1.5em}
+        h3{font-size:1.17em}
+        h4{font-size:1em}
+        h5{font-size:.83em}
+        h6{font-size:.75em}
+        .normal_font{font-weight:normal;}
+	  </style>
+	  <div class="bgc3" >
+        <div id="tchDescBox" class="pt10 mb20 rel abs_out">
+            <span class="char_cort tch_desc_corp1 ml40 ">◆</span>
+            <span class="char_cort tch_desc_corp2 ml40">◆</span>
+            <div id="tchDescInnerBox" class="tchDescBox tchDescBoxShadow g3 f14 ova bccc bgwh">
+                <div class="mb10 f16 b fix">
+                    <span class="tch_card l"></span>
+                    <span class="ml10 pt2 dib">个人介绍</span>
+                </div>
+                <div id="tchDescContent" class="lh24 pt5"></div>
+            </div>
+        </div>
+          <div class="constr bgwh fix mb46" style="position:relative;">
+            <div class="pct66 l pb40" style="width:733px">
+                <div class="bbc pb1 rel" style="position:relative">
+                    <input type="hidden" id="video_width" value="733">
+                    <input type="hidden" id="video_height" value="434">
+                                            <img class="clickme" width="733" height="434" src="https://p.ananas.chaoxing.com/star3/733_434c/a811de3b9eb48c1a9df3debcc82774a2.png" onerror="nofind(event)" imagedata='https://p.ananas.chaoxing.com/star3/733_434/a811de3b9eb48c1a9df3debcc82774a2.png'/>
+                                                                <div class="course_title_box">
+                            <div class="fix">
+                                <div class="mt10 f33 l g5" >
+                                    <span title="人文社科经典导引">人文社科经典导引</span>
+                                                                                                             
+									                                </div>
+                                <div class="teacherDiv fr" style=" margin-top: 20px;  ">
+    <p class="zhuTacher" style=";">主讲教师：徐广淼</p>
+            <div class="teacherTeam">
+            <p style=";">教师团队：共<span style=";">25</span>位</p>
+            <ul>
+                                    <li>李建中</li>
+                                    <li>刘重春</li>
+                                    <li>高文强</li>
+                                    <li>曹建国</li>
+                                    <li>陈溪</li>
+                                    <li>刁莉</li>
+                                    <li>何元国</li>
+                                    <li>鲁家亮</li>
+                                    <li>汪超</li>
+                                    <li>余婉卉</li>
+                                    <li>包向飞</li>
+                                    <li>梁静</li>
+                                    <li>刘春阳</li>
+                                    <li>廖璨璨</li>
+                                    <li>刘伟</li>
+                                    <li>鲁小俊</li>
+                                    <li>潘迎春</li>
+                                    <li>苏德超</li>
+                                    <li>吴兆丰</li>
+                                    <li>杨云飞</li>
+                                    <li>叶李</li>
+                                    <li>张晶</li>
+                                    <li>裴亮</li>
+                                    <li>文建东</li>
+                                    <li>易栋</li>
+                            </ul>
+        </div>
+    </div>                            </div>
+                        </div>
+					
+                </div>
+                <div class="ml40 mt10 ">
+                
+               		 
+               		
+                    <div class="mb10 fix">
+                        <div id="clazzTag" data="false" flag="false" class="l f14 lh24 g3" >
+						                        </div>
+
+                         <div id='courseStarTag' data="207726523" class="r mr20" style='width:300px;'>
+                                                 </div>
+						
+                    </div>
+					<div class="mb10 fix">
+						<div id="viewTimesTag" class="r mr20 lvtt" >
+							
+                        </div>
+                    </div>
+                                            <table>
+								 <tr  class="">
+		<td valign="top" class="w70 g9 f14 tr">编号：</td>
+		<td>2110720011001</td>
+	</tr>
+			</table>
+                                    </div>
+                <div class="ml30 mr30">
+                    <div class="mt10 mb20 fix">
+                        <div class="l">
+                            <div class="mt20">
+                                <div class="catalog_box bdd1 rel">
+                                    <img width="30" height="56" class="catalog_p" src="/images/catalog.png" />                                    <ul id="courseNavList" class="lh30 f16">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    	                    <div class="mt30 pt20">
+	                        <div id="courseDesc" class="courseArticle f20 mb10 pb5 bbc"> 课程介绍</div>
+	                        <div class="pl20">
+	                            <div class="mt5 ans-cc"><pre>    《人文社科经典导引》旨在对大一同学进行启蒙性质的通识教育，打开学生视野，激发学生兴趣，培养学生博雅品味，养成学生君子人格，并为后面三年的核心及一般通识课程的学习打下良好基础。而从课程问题阈这一更深的层面论，《人文社科经典导引》所精选的12部中外伟大著作，从不同的角度切入一个共通的主旨：如何成“人”。
+    6部中国经典，既融通儒道释，又覆盖文史哲，其核心问题是人的仁爱、感悟与超越。6部西方经典，从古希腊、古罗马，到文艺复兴、启蒙运动，其核心问题是人的自由、理性和审美。而中西人文社科经典的会通之处，则是引导大一学生如何成为合格公民和博雅君子，如何成为新时代的国家脊梁和领袖人才。</pre></div>
+	                        </div>
+	                    </div>
+                                        						                        <div class="mt30 pt20">
+                            <div id="courseTeam" class="courseArticle mr10 f20  pb5 bbc  ">教师团队</div>
+                        </div>
+                        <div class="mt30 inline_box">
+                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事中国文论及文化的研究与教学&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;著有《体：中国文论元关键词解诠》、《古代文论的诗性空间》、《批评文体论纲》等书，主编《中国文化：元典与要义》《中国文化概论》《中国传统文化人格》（丛书）等&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312&quot;&gt;1955&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312&quot;&gt;年生，湖北江陵人，武汉大学文学院教授，博士生导师。&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;武汉大学珞珈杰出学者，武汉大学通识教育中心主任。国家“万人计划”教学名师，国务院有突出贡献专家，教育部马工程首席专家，国家社科基金重大招标项目首席专家。兼任中国古代文学理论学会副会长，中国《文心雕龙》学会副会长，中国中外文艺理论学会常务理事，中国大学通识教育联盟常务理事。&lt;/span&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事中国文论及文化的研究与教学，著有《体：中国文论元关键词解诠》、《古代文论的诗性空间》、《批评文体论纲》等书，主编《中国文化：元典与要义》《中国文化概论》《中国传统文化人格》（丛书）等，多次获教育部和湖北省社科优秀成果奖，获中国大学出版社图书一等奖。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585236">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/50a9ad9d2a9f6a6709585d323aa48f89.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/50a9ad9d2a9f6a6709585d323aa48f89.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585236">
+                    <strong class="mr10 f24">李建中</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                        <p>职位：主任</p>
+                </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;著有《理性化之路：韩国公务员制度研究》、《服务型政府的职与责》、《当代中国人事行政制度的文化分析》、《公文写作基础与方法》等多部专著，并在《政治学研究》、《中国行政管理》&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;等权威和核心期刊上发表十多篇论文。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;;font-family:宋体&quot;&gt;曾在地方党政机关工作多年。主要从事政府组织与人事管理研究，&lt;/span&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;主持和参与多项国家和省部级课题。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585235">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/d18df075f3ac4f9dd14f50befaf46643.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/d18df075f3ac4f9dd14f50befaf46643.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585235">
+                    <strong class="mr10 f24">刘重春</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：政治与公共管理学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事中国文论及佛教文化的研究与教学&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;著有《佛教与永明文学批评》、《中国古代文论范畴发生史&amp;lt;老子&amp;gt;卷：道法自然》、《东晋南朝文人接受佛教研究》等书，主编有《中国文论经典导读》、《中国文学批评史》等多部教材&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;兼任湖北省文艺学学会副秘书长，湖北省写作学会常务理事，中国古代文学理论学会理事。&lt;/span&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事中国文论及佛教文化的研究与教学，多次获湖北省社科优秀成果奖，曾获湖北省高等学校教学成果一等奖。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585234">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/da182062027933162c239afd1e64827e.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/da182062027933162c239afd1e64827e.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585234">
+                    <strong class="mr10 f24">高文强</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                        <p>职位：主任</p>
+                </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;14px;&quot;&gt;主要从事先秦两汉文学和出土文献的教学和研究&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;14px;&quot;&gt;已出版《出土文献与先秦〈诗〉学研究》等专著、教材等5部，在《文学评论》、《文学遗产》、《文艺研究》、《中国学术》等刊物上发表学术论文50余篇&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;line-height:&nbsp;150%;&quot;&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&quot;&gt;主持完成国家社科基金、教育部人文社科项目、211项目等5项，曾获复旦大学优秀博士论文奖。曾先后访学于北京大学中文系、美国伊利诺伊大学香槟分校东亚语言文化系。&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585233">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/d18415796b50a5c8bf14da8a5c6df514.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/d18415796b50a5c8bf14da8a5c6df514.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585233">
+                    <strong class="mr10 f24">曹建国</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;主要教学方向：外国文学史、东方文学史；主要研究方向：英美文学、西方现代戏剧与比较文学跨学科研究等。&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;;text-indent:&nbsp;32px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Arial&amp;#39;,sans-serif;color:#230000&quot;&gt;&amp;nbsp;2009&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;－&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Arial&amp;#39;,sans-serif;color:#230000&quot;&gt;2010&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;年度&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Arial&amp;#39;,sans-serif;color:#230000&quot;&gt;“&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;哈佛－燕京&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Arial&amp;#39;,sans-serif;color:#230000&quot;&gt;”&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;奖学金访问学者，赴哈佛大学比较文学系及东亚语言与文明系访学一年。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;主持的科研项目包括：2014年度国家社会科学基金青年项目&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;微软雅黑&amp;#39;,sans-serif;color:#230000&quot;&gt;、&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;中国博士后科学基金第&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Arial&amp;#39;,sans-serif;color:#230000&quot;&gt;52&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;批资助项目和中国博士后科学基金第&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Arial&amp;#39;,sans-serif;color:#230000&quot;&gt;8&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:宋体;color:#230000&quot;&gt;批特别资助项目等。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585232">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/5f86f44af8ed2a3ac4638ec075db11ba.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/5f86f44af8ed2a3ac4638ec075db11ba.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585232">
+                    <strong class="mr10 f24">陈溪</strong>
+                </a>
+                        讲师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事经济史和世界经济、国别地区经济的研究与教学&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;著有俄文独著&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;《&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Times&nbsp;New&nbsp;Roman&amp;#39;,serif;color:#353535&quot;&gt;ГосудаоственноеРегулирование&nbsp;в&nbsp;Китае(1980-1997)&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;》&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;圣彼得堡国立经济大学出版社2016年5月出版。（书名为：中国的宏观经济调控（1980-1997）、主编教材《转轨经济学》、参编教材《国别地区经济》等，在《管理世界》、《统计研究》、《中国社会科学文摘》、《清华大学学报》、《中国软科学》、《中国经济史研究》等，共发表中、英、俄文章近百篇，&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;曾获湖北省大中专学生暑期社会实践&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体;color:#353535&quot;&gt;“&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;优秀工作者&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体;color:#353535&quot;&gt;”&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;，多次获商务部中国国际贸易学会优秀奖等。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585231">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/022e9abe8b34d1d1de8f8ffc19c2b3c8.png"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/022e9abe8b34d1d1de8f8ffc19c2b3c8.png' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585231">
+                    <strong class="mr10 f24">刁莉</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：经济与管理学院</p>
+                        <p>职位：主任</p>
+                </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;古希腊经典著作汉译及研究；从中西比较的角度研究古希腊史学、政治、法律、经济、体育竞技、伦理思想、哲学等等。&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&nbsp;style=&quot;white-space:&nbsp;normal;&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;white-space:&nbsp;normal;&quot;&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&quot;&gt;《“修昔底德陷阱”与公元前5世纪希腊国际关系研究》，2015年度教育部人文社科研究项目（规划基金项目），批准号：15YJA770005&lt;/span&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;white-space:&nbsp;normal;&quot;&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;湖北省世界史学会理事、南开大学希腊研究中心特邀研究员&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;2011&lt;/span&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;年12月1日，获希腊驻华大使颁发的“传播希腊文化荣誉证书”。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585230">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/3af229c74186af4aeffde474a7fc0142.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/3af229c74186af4aeffde474a7fc0142.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585230">
+                    <strong class="mr10 f24">何元国</strong>
+                </a>
+                        教师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：历史学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事秦汉出土文献与秦汉史的研究与教学&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;color:&nbsp;rgb(53,&nbsp;53,&nbsp;53);&nbsp;font-family:&nbsp;楷体_GB2312;&nbsp;font-size:&nbsp;19px;&nbsp;text-indent:&nbsp;37px;&nbsp;&quot;&gt;合著有《里耶秦简牍校释（第一卷）》、《放马滩秦简及岳麓秦简〈梦书〉研究》等书。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585229">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/b71cc77c336f1f57a1d801e8e75ee097.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/b71cc77c336f1f57a1d801e8e75ee097.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585229">
+                    <strong class="mr10 f24">鲁家亮</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：历史学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事词学、宋明文学与文献的研究与教学&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;发表论文数十篇，主持、参与课题十数项。著有《明词传播述论》，参点《续资治通鉴长编拾补》，参撰《续修四库全书总目提要》《宋才子传笺证》等&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;武汉大学珞珈&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312&quot;&gt;青年学者。中国词学学会、湖北省古代文学学会理事。《宋代文学研究年鉴》执行主编。曾任日本立命馆大学客员研究员。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585228">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/6fbe09b0a9cdce418d59b56bbd126624.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/6fbe09b0a9cdce418d59b56bbd126624.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585228">
+                    <strong class="mr10 f24">汪超</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要研究领域为比较诗学、海外中国学、中国近现代学术史。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;曾在《中国学术》《读书》《清华大学学报》《文化与诗学》等刊发表论文或译文，已出版译著《文学体验导引》（第一译者）、《温德先生》（第二译者），参与选编“清华国学书系”。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312&quot;&gt;连续多次被评为武汉大学“弘毅学堂”优秀教育工作者&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要研究领域为比较诗学、海外中国学、中国近现代学术史。主讲专业课程有“海外中国学研究”“西方文学与文化专题”“学术规范与论文写作”等。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585227">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/c0a4a309461312c9ca9bf6e622956cc5.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/c0a4a309461312c9ca9bf6e622956cc5.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585227">
+                    <strong class="mr10 f24">余婉卉</strong>
+                </a>
+                        讲师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：哲学学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事德国哲学、文化及日耳曼语言学的研究与教学。&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;著有《康德的数学哲学》、《真理的痕迹》，译作《时间的味道》等。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585226">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/f3a4b4411b9c99d52b83c52a36f988f3.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/f3a4b4411b9c99d52b83c52a36f988f3.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585226">
+                    <strong class="mr10 f24">包向飞</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：外国语言文学学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要从事先秦秦汉出土与传世文献的研究及中国古代汉语、古代文化的教学工作。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;专著《出土&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体;color:#353535&quot;&gt;〈&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;苍颉篇&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体;color:#353535&quot;&gt;〉&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;研究》（科学出版社2015年版），获武汉市社会科学优秀成果奖。此外，先后在《文献》、《考古与文物》、《中国历史文物》、《故宫博物院院刊》等学术期刊上发表学术论文十余篇。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主持并完成教育部人文社科基金青年项目“《仓颉》研究”（11YJC770027）和国家社科基金青年项目“上博楚简儒籍研究”（12CZS007）等项目。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585225">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/3404f77cc29d51e5f042c1c64f129825.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/3404f77cc29d51e5f042c1c64f129825.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585225">
+                    <strong class="mr10 f24">梁静</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：国际教育学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;主要从事美学理论、艺术社会学等方面的研究与教学。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;著有《审美与救赎：奥古斯丁美学思想研究》一书，在《文艺研究》等各类期刊发表论文30余篇&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&nbsp;style=&quot;line-height:33px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;主持国家社科基金项目、教育部人文社科基金项目、博士后面上资助项目等，曾获第九届湖北文艺评论奖一等奖、武汉大学第十四届人文社会科学研究优秀成果奖二等奖等奖项。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585222">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/b75ac7300d8a26baf7bb248f8ba32c5b.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/b75ac7300d8a26baf7bb248f8ba32c5b.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585222">
+                    <strong class="mr10 f24">刘春阳</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312&quot;&gt;主要研究方向为宋元明清哲学、比较哲学。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;text-indent:&nbsp;37px;&nbsp;&nbsp;font-size:&nbsp;19px;&nbsp;font-family:&nbsp;楷体_GB2312;&quot;&gt;本科就读于武汉大学哲学基地班，北京大学哲学博士，国家留学基金委公派英国伦敦大学国王学院（&lt;/span&gt;&lt;span&nbsp;style=&quot;text-indent:&nbsp;37px;&nbsp;&nbsp;font-size:&nbsp;19px;&nbsp;font-family:&nbsp;&amp;quot;Times&nbsp;New&nbsp;Roman&amp;quot;,&nbsp;serif;&quot;&gt;King’s&nbsp;College&nbsp;London&lt;/span&gt;&lt;span&nbsp;style=&quot;text-indent:&nbsp;37px;&nbsp;&nbsp;font-size:&nbsp;19px;&nbsp;font-family:&nbsp;楷体_GB2312;&quot;&gt;）联合培养博士。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585221">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/a053e3560c1be8962d47ad020b8dbf40.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/a053e3560c1be8962d47ad020b8dbf40.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585221">
+                    <strong class="mr10 f24">廖璨璨</strong>
+                </a>
+                        讲师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：哲学学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:&nbsp;10.5pt;&nbsp;font-family:&nbsp;宋体;&quot;&gt;研究领域涉及政治学理论与方法、基层政治与当代中国政治。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&nbsp;style=&quot;text-indent:28px;line-height:150%&quot;&gt;&lt;span&nbsp;style=&quot;line-height:&nbsp;150%;font-family:&nbsp;宋体&quot;&gt;著有《难以产出的村落政治》、《普通人话语中的政治》、《政治学学术规范与方法论研究》等；译有《多元社会中的民主》；参编《政治心理学》等。专著曾获湖北省社会科学优秀成果奖。发表CSSCI论文近40篇，《中国社会科学文摘》、《高等学校文科学术文摘》、《社会科学文摘》、《新华文摘》（数字版）、人大复印资料《政治学》、《中国政治》、《中国共产党》、《政治学文摘》全文转载10余篇次。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:&nbsp;10.5pt;&nbsp;font-family:&nbsp;宋体;&quot;&gt;先后于武汉大学、北京大学和复旦大学获政治学学士（&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2000&lt;/span&gt;）、硕士（&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2003&lt;/span&gt;）和博士（&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2008&lt;/span&gt;）学位。曾为华中师范大学政治学博士后，英国诺丁汉大学访问学者。先后两次被评为武汉大学“十佳教师”（&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2010&lt;/span&gt;，&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2014&lt;/span&gt;），入选武汉大学“珞珈青年学者”（&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2013&lt;/span&gt;）、湖北省“高校马克思主义中青年理论家培育计划”（&lt;span&nbsp;lang=&quot;EN-US&quot;&gt;2016&lt;/span&gt;）等。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585220">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/a090cd918ad192da352ebe0a13a0d039.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/a090cd918ad192da352ebe0a13a0d039.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585220">
+                    <strong class="mr10 f24">刘伟</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：政治与公共管理学院</p>
+                        <p>职位：主任</p>
+                </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:&amp;#39;微软雅黑&amp;#39;,sans-serif&quot;&gt;主要从事明清书院、科举、小说的研究与教学。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:&amp;#39;微软雅黑&amp;#39;,sans-serif&quot;&gt;在《文学遗产》《文艺研究》《北京大学学报》等刊物发表论文四十余篇,著有《清代书院课艺总集叙录》《清代书院课艺考述》《三国演义的现代误读》《中国文学编年史·清前中期卷》等，&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;line-height:20px&quot;&gt;&lt;span&nbsp;style=&quot;font-family:&amp;#39;微软雅黑&amp;#39;,sans-serif&quot;&gt;主持国家社科基金项目一项、教育人文社科项目两项、中国博士后科学基金项目一项，曾获湖北省社会科学优秀成果二等奖、三等奖。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585219">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/c905e5ed6326c63d8aef5395c66b645c.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/c905e5ed6326c63d8aef5395c66b645c.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585219">
+                    <strong class="mr10 f24">鲁小俊</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&nbsp;style=&quot;text-indent:42px&quot;&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;主讲国家级精品视频公开课《西方历史的源头》、国家级精品在线公开课《简明世界史》在爱课程网、网易公开课上线，在线学习人数超过&lt;/span&gt;30&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;万人。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;曾获国家级教学成果奖一等奖，湖北省高等学校教学成果一等奖；获武汉大学教学名师，“武汉大学杰出教学贡献校长奖”，武汉大学师德标兵等。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585218">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/82671e9569226fd98336c95342acc795.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/82671e9569226fd98336c95342acc795.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585218">
+                    <strong class="mr10 f24">潘迎春</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：历史学院</p>
+                        <p>职位：副主任</p>
+                </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;主要从事形而上学与宗教哲学、语言哲学、德国古典哲学、中西比较哲学与文化的研究与教学。&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;著有《哲学、语言与生活——论维特根施坦的语言哲学》等书；在AHCI、CSSCI期刊上发表论文数十篇&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:&nbsp;28px&quot;&gt;&lt;span&nbsp;style=&quot;;font-family:宋体&quot;&gt;指导学生科研多次获得省级奖励；两次荣获武汉大学年度本科教学优质奖；是武汉大学首届“查全性教授1977纪念奖”获得者之一；曾被评为武汉大学十佳教师（2017）。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585217">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/39542ac79cf64510dc28580d28620050.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/39542ac79cf64510dc28580d28620050.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585217">
+                    <strong class="mr10 f24">苏德超</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：哲学学院</p>
+                        <p>职位：主任</p>
+                </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;主要从事明史与近世思想文化史研究&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:14px;font-family:宋体&quot;&gt;于《燕京学报》、《史林》、香港《中国文化研究所学报》、台北《汉学研究》、《明代研究》等境内外学术刊物发表学术论文十余篇。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:27px&quot;&gt;&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;主持&lt;/span&gt;2013&lt;span&nbsp;style=&quot;font-family:宋体&quot;&gt;年武汉大学“中国传统礼仪与风俗”课程建设项目，开设《中国传统礼仪与风俗》全校通识课、《中国文化史》、《中国历史文献学》等专业课程。&lt;/span&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:27px&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585216">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/a3316a76b02c9148c2c2665dd33c39ab.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/a3316a76b02c9148c2c2665dd33c39ab.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585216">
+                    <strong class="mr10 f24">吴兆丰</strong>
+                </a>
+                        讲师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：历史学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主要研究领域为西方哲学，特别是德国哲学与实践哲学&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px;line-height:32px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;发表《道德形而上学奠基》等译著两部，在《哲学研究》等学术刊物发表论文和译文二十余篇。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;主持和参与教育部人文社科青年基金、国家级精品视频公开课《西方哲学史》、美国&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:&amp;#39;Times&nbsp;New&nbsp;Roman&amp;#39;,serif;color:#353535&quot;&gt;John&nbsp;Templeton&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;研究基金、武汉大学人文社科自主研究项目和研究生精品课程项目等国内外各类项目十余项&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585215">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/dc5eef21e6f3c8b9d77a47f04fc0d927.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/dc5eef21e6f3c8b9d77a47f04fc0d927.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585215">
+                    <strong class="mr10 f24">杨云飞</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：哲学学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;16px;&nbsp;text-indent:&nbsp;28px;&nbsp;&quot;&gt;主要研究方向为中国现当代文学&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;line-height:27px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;湖北省作协主办《长江丛刊》（评论版）副主编&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;湖北省教学能手，&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;武汉大学第十一届“尊师爱学”我最喜爱的十佳教师，&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:宋体&quot;&gt;湖北省作家协会首届签约评论家&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585214">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/19529db2cf3d0e37fadd1c5571b381bc.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/19529db2cf3d0e37fadd1c5571b381bc.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585214">
+                    <strong class="mr10 f24">叶李</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:等线&quot;&gt;主要从事比较文学、海外华文文学、世界文学的跨文化传播的教学与科研工作&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:等线&quot;&gt;合著有《当代台港澳小说在内地的传播与接受》、《跨区域华文诗歌的中国想象》，主编《世界华文文学经典欣赏》、《台港名家名作选读》等。国家精品在线课程《世界华文文学经典欣赏》、武汉大学基础通识课《人文社科经典导引》、武汉大学核心通识课《诺贝尔文学奖作品导读》等课程的主讲教师&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:等线&quot;&gt;哈佛大学访问学者，现任武汉大学文学院讲师。兼任世界华文文学学会理事、湖北省比较文学学会秘书长、湖北省毛泽东诗词研究会常务理事&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:16px;font-family:等线&quot;&gt;。湖北省第六届青年教师教学竞赛一等奖、武汉大学第八届青年教师教学竞赛特等奖获得者。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585213">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/b59af6c1d0f40bd9698915b6a753a4d0.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/b59af6c1d0f40bd9698915b6a753a4d0.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585213">
+                    <strong class="mr10 f24">张晶</strong>
+                </a>
+                        讲师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;研究方向为中国现当代文学、中日近现代比较文学。在研课题涉及：中国现代作家的越境体验与书写、中日近现代诗歌交流史以及中日文学交互译介史等领域。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;在日本出版日语专著《中国五&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体;color:#353535&quot;&gt;·&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;四時期嶺南文学の新地平&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体;color:#353535&quot;&gt;—&lt;/span&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;文学研究会広州分会及び詩人草野心平を中心に》，并获得2015年度武汉大学高水平著作成果奖励。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&nbsp;style=&quot;text-indent:37px&quot;&gt;&lt;span&nbsp;style=&quot;font-size:19px;font-family:楷体_GB2312;color:#353535&quot;&gt;教学方面曾获2016年第五届湖北省高校青年教师教学竞赛文史组三等奖。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585212">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/65300f35ba4cf81a14ecc07eaeeeb2da.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/65300f35ba4cf81a14ecc07eaeeeb2da.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585212">
+                    <strong class="mr10 f24">裴亮</strong>
+                </a>
+                        副教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：文学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;p&nbsp;style=&quot;text-align:&nbsp;left;&quot;&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;16px;&quot;&gt;武汉大学通识教育中心副主任。“社会科学与当代社会”团队首席专家。武汉大学经济与管理学院经济学教授，博士生导师。武汉大学珞珈特聘教授。中华外国经济学说研究会理事，中宣部马工程《西方经济学》教材项目主要成员。&lt;/span&gt;&lt;/p&gt;&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:&nbsp;16px;&quot;&gt;研究方向为中国经济问题、宏观经济与新政治经济学。曾经获得“教育部第六届高等学校科学研究优秀成果奖”(2013)、“湖北省第七届社会科学优秀成果一等奖（2011）”等学术奖励。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;论文与著作&lt;/h2&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:&nbsp;16px;&quot;&gt;主讲《西方经济学》、《中级微观经济学》、《高级宏观经济学》和《博弈论与信息经济学》等本科生和研究生课程。主编有马工程项目配套教材《西方经济学精要与案例分析》（2013）。&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-size:&nbsp;16px;&quot;&gt;曾获得&nbsp;“武汉大学教学成果特等奖”（2014）、“武汉大学杰出教学贡献校长奖”（2013）、“武汉大学优秀教学成果一等奖”（2011）、“武汉大学第三届十佳教师”（2008）等教学奖励。主持国家级精品资源共享课程《西方经济学》，主持《微观经济学》慕课首批入住爱课程网运行。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585211">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/8d3079430ae8f5f395d0d3e20d8999a2.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/8d3079430ae8f5f395d0d3e20d8999a2.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585211">
+                    <strong class="mr10 f24">文建东</strong>
+                </a>
+                        教授</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：经济与管理学院</p>
+                            </div>
+</div>
+                                </div>
+								                            								                                <div class="inline_any mb30 mr15">
+                                    <div class="course_tch_info brsh2 fix  course_tch_item " data="&lt;h2&gt;研究领域&lt;br/&gt;&lt;/h2&gt;&lt;p&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;16px;&quot;&gt;戏曲与传统文化研究&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;h2&gt;荣誉与奖励&lt;/h2&gt;&lt;p&nbsp;style=&quot;text-align:&nbsp;left;&quot;&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;16px;&quot;&gt;2015&lt;/span&gt;&lt;span&nbsp;style=&quot;font-family:&nbsp;宋体;&nbsp;font-size:&nbsp;16px;&quot;&gt;年6月9日，易栋老师获武汉大学2015年度杰出教学贡献校长奖。&lt;/span&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;">
+		
+            <a href="/personcontroller/teachercard?teacherId=4585210">
+            <img width="108" height="108" class="mr15 l" src="http://p.ananas.chaoxing.com/star3/origin/f4f861f988e57b6ce41ce95aa8ef2c2b.jpg"  onerror="nofind(event)" imagedata='http://p.ananas.chaoxing.com/star3/origin/f4f861f988e57b6ce41ce95aa8ef2c2b.jpg' />
+        </a>
+        <div class="cell">
+        <p class="mb10" >
+                            <a class="tdn g0" href="/personcontroller/teachercard?teacherId=4585210">
+                    <strong class="mr10 f24">易栋</strong>
+                </a>
+                        讲师</p>
+            <p>单位：武汉大学</p>
+                        <p>部门：艺术学院</p>
+                        <p>职位：院长助理，戏剧影视系副主任</p>
+                </div>
+</div>
+                                </div>
+								                                                    </div>
+						                                        						                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_170654912" class="courseArticle f20 mb10  pb5 bbc ">参考教材</div>
+                                <div class="mt5 ans-cc"><p style="line-height: normal; text-indent: 0em;"><span style="font-size:19px;font-family:宋体"></span></p><p style="text-indent: 0em;"><strong><span style="font-family: 宋体, SimSun; font-size: 16px;">课程教材：</span></strong></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">《人文社科经典导引》，武汉大学出版社2018年7月版</span></p><p style="text-indent: 0em;"><strong><span style="font-family: 宋体, SimSun; font-size: 16px;">参考书目：</span></strong></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">1、杨伯峻：《论语译注》，中华书局2009年第3版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">2、郭朋：《坛经校释》，中华书局2012年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">3、范文澜：《文心雕龙注》，中华书局1958年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">4、曹雪芹著，无名氏续：《红楼梦》，中华书局2008年第三版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;"><span style="font-family: 宋体, SimSun; font-size: 16px; ">5、（清）郭庆藩：《庄子集释（中华国学文库）》中华书局2013年版</span></span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;"><span style="font-family: 宋体, SimSun; font-size: 16px; "><span style="font-family: 宋体, SimSun; font-size: 16px; ">6、（汉）司马迁撰，（宋）裴骃集解，（唐）司马贞索引，（唐）张守节正义：《史记》（点校本二十四史修订本），中华书局2014年版</span></span></span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">7、（古希腊）希罗多德：《希罗多德历史》，王以铸译，商务印书馆2009年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">8、（古希腊）柏拉图：《斐多》，杨绛译，生活·读书·新知三联书店2011年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">9、（德）弗里德里希·席勒：《审美教育书简》，冯至，范大灿译，北京大学出版社1985年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">10、（法）孟德斯鸠：《论法的精神》，许明龙译，商务印书馆2012年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">11、（英）亚当·斯密：《国富论》，郭大力，王亚南译，商务印书馆2015年版</span></p><p style="text-indent: 0em;"><span style="font-family: 宋体, SimSun; font-size: 16px;">12、（美）罗尔斯：《正义论（修订版）》，何怀宏，何包钢，廖申白译，中国社会科学出版社2009年版</span></p><p style="line-height: normal;"><br/></p></div>
+                                                    </div>
+																	                        <div class="mt30 pt20" style="overflow-x: hidden">
+                                                            <div id="courseArticle_170654913" class="courseArticle f20 mb10  pb5 bbc ">关键词</div>
+                                <div class="mt5 ans-cc"><p><strong><span style="font-size:19px;font-family:宋体">仁性、天性、悟性</span><span style="font-size:19px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:19px;font-family:宋体">使命、博雅、爱恨</span></strong></p><p><strong><span style="font-size:19px;font-family:宋体">历史、生命、审美</span><span style="font-size:19px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:19px;font-family:宋体">自由、理性、正义</span></strong></p></div>
+                                                    </div>
+											                                                                        <!--课程评价-->
+                                                        <div id="courseEvaluation" class="mt30 pt20">
+                                                        <input type="hidden" id="pageNum" value="1">
+                            <div id="courseArticle_cp" class="courseArticle f20 mb10  pb5 bbc fix"><h2 class="l f20 normal_font">课程评价</h2></div>
+
+                        </div>
+                                            
+											                        							
+                            <div class="mt30 pt20">
+                                <div id="courseResc" class="courseArticle f20 mb10 pb5 bbc">教学资源</div>
+                                <div class="mt15">
+                                    <script type="text/javascript" src="/js/resourceRecord.js"></script>
+<div class="fix">
+            <div class="l tc pt3">
+            <a class="resTab" rel="chapterResTabTip" href="javascript:;">
+                <div class="res_tab_selected bdrad3">课程章节资源</div>
+                <div id="chapterResTabTip" class="cor res_cor" rel="chapterResTab"></div>
+            </a>
+        </div>
+	</div>
+    <div id="chapterResTab" class="mt10 p1 brsh2 resTabTarget">
+        <table class="g9" width="100%"  style="table-layout:fixed;" cellpadding="5" cellspacing="0">
+            <tr id="resTableHead" class="bgf9">
+                <td width="200">课程章节</td>
+                <td width="60">| 文件类型</td>
+                <td width="80" >&nbsp;</td>
+                <td class="pct15">| 修改时间</td>
+                <td class="pct10" width="60px">| 大小</td>
+                <td class="pct20">| 备注</td>
+            </tr>
+                        								<tr id="resList_80157323"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157323">
+				                                            <td class="pt10 g6 resources_td">1.1 绪论</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="人文绪论"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">77.35MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157328"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157328">
+				                                            <td class="pt10 g6 resources_td">1.2 第一章&nbsp;《论语》与仁性</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.1（重渲）"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">60.67MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157329"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157329">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.2"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">46.21MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157330"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157330">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.3"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">63.18MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157331"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157331">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1.4_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">64.22MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157332"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157332">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="1孔子世家"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">1.49MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157333"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157333">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2仲尼弟子列传"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">1.14MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157334"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157334">
+				                                            <td class="pt10 g6 resources_td">1.3 第二章&nbsp;《庄子》与天性</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="庄子说"/>
+                            .flv
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">363.30MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157335"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157335">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.1"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">42.51MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157336"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157336">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.2"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">54.48MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157337"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157337">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.3_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">43.78MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157338"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157338">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="2.4"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">63.71MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157339"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157339">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_02"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>文档</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="庄子重要概念简释（选自王博《庄子哲学》）"/>
+                            .pdf
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">4.33MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157341"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157341">
+				                                            <td class="pt10 g6 resources_td">1.4 第三章&nbsp;《坛经》与悟性</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.1"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">47.57MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157342"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157342">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.2"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">56.58MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157343"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157343">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.3_Batch(1)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">49.86MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157344"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157344">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="3.4"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">37.82MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157347"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157347">
+				                                            <td class="pt10 g6 resources_td">2.1 第四章&nbsp;《史记》与使命</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.1_Batch(1)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">64.05MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157348"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157348">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.2_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">59.17MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157349"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157349">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.3_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">57.06MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157350"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157350">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="4.4_Batch(1)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">69.51MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157352"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157352">
+				                                            <td class="pt10 g6 resources_td">2.2 第五章&nbsp;《文心雕龙》与博雅</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.1刘勰与文心_batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">62.93MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157353"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157353">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.2"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">77.02MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157354"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157354">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.3"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">65.56MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157355"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157355">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="5.4_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">67.17MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157356"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157356">
+				                                            <td class="pt10 g6 resources_td">2.3 第六章&nbsp;《红楼梦》与爱恨</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.1_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">47.84MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157357"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157357">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.2_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">52.63MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157358"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157358">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.3_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">55.32MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157359"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157359">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="6.4_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">37.97MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157360"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157360">
+				                                            <td class="pt10 g6 resources_td">3.1 第七章&nbsp;《历史》与历史</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.1_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">50.46MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157361"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157361">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.2_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">63.68MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157362"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157362">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.3_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">40.46MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157363"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157363">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="7.4_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">38.36MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157528"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157528">
+				                                            <td class="pt10 g6 resources_td">3.2 第八章&nbsp;《斐多》与生命</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.1_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">36.28MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157529"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157529">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.2_batch)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">162.38MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157530"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157530">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.3"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">254.50MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157531"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157531">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="8.4_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">65.77MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157503"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157503">
+				                                            <td class="pt10 g6 resources_td">3.3 第九章&nbsp;《审美教育书简》与审美</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="9.1（人文1改）_batch)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">267.06MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157504"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157504">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="9.2（人文一改）_batch)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">221.55MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157505"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157505">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="9.3_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">48.10MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157506"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157506">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="9.4_Batch"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">46.73MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157508"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157508">
+				                                            <td class="pt10 g6 resources_td">4.1 第十章&nbsp;《论法的精神》与自由</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="10.1"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">329.88MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157509"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157509">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="10.2(1)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">118.83MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157510"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157510">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="10.3(1)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">122.22MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157511"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157511">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="10.4"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">200.03MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157524"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157524">
+				                                            <td class="pt10 g6 resources_td">4.2 第十一章&nbsp;《国富论》与理性</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="11.1(人文）)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">218.71MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157525"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157525">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="11.2)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">299.89MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157526"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157526">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="11.3)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">237.09MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157527"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157527">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="11.4成片)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">261.26MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157520"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157520">
+				                                            <td class="pt10 g6 resources_td">4.3 第十二章&nbsp;《正义论》与正义</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="12.1成片_batch)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">332.10MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157521"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157521">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="12.2_batch)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">290.88MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157522"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi  bgf9   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157522">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="12.3"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">75.54MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                            								<tr id="resList_80157523"  allowdown="false" hasReadingAuthority="false" class="resources_list zbghover poi   resHidden abs_out  "
+                     data="0|0|javascript:;|javascript:;|" onclick="isPrivately(1);"  info="80157523">
+				                                            <td>&nbsp;</td>
+                                        <td class="pt5 pb5 pl10 tr resources_td">
+                        <i class="i i_f i_07"></i>
+                    </td>
+                    <td class="pt5 pb5 resources_td">
+                        <div class="b g6 f12 bk origin"> <img id="loadingimg" style="float:right; display:none;" src="/images/sync.gif"></img>视频</div>
+                        <div class="abs_out rename">
+                            <input class="input w140" value="12.4_batch)"/>
+                            .mp4
+                        </div>
+                    </td>
+                    <td class="pt5 pb5 resources_td">2020-02-22</td>
+                    <td class="pt5 pb5 resources_td">282.47MB</td>
+                    <td class="pt5 pb5 resources_td"></td>
+                </tr>
+                                    </table>
+                    <div class="pt5 pb5 bgf9 f16 tc">
+                <a class="g9 resMoreBtn" href="javascript:;" rel="chapterResTab">
+                    <i class="i i_25"></i>
+                    <span type = "more" moreValue="更多" packUpValue="收起">更多</span>
+                </a>
+            </div>
+            </div>
+<style>
+.zbghover:hover { color:#666}
+td.pt10.g6.resources_td {word-wrap: break-word;}
+</style>
+<div id="resOptBox" class="rescources_opt_box brsh2 bdc4 abs_out f14" style="border:1px">
+    <a id="resOptDown" class="res_opt_a" href="javascript:;">
+        <span class="pl10 pt10">下载</span>
+    </a>
+    <a id="resOptPreview" class="res_opt_a" href="" target="_blank">
+             <span class="pl10 pt10">在线观看</span>
+         </a>
+    <a id="resOptStudy" class="res_opt_a" target="_blank" href="" rel="">
+        <span class="pl10 pt10">进入课程章节</span>
+    </a>
+    <a id="resOptUpload" class="res_opt_a" href="javascript:;"target="_self">
+        <span class="pl10 pt10">同步到网盘</span>
+    </a>
+</div>
+<script type="text/javascript">
+		function isPrivately(isPrivately){
+		if(isPrivately == 1){
+			alert('关闭试读');
+		} else if(isPrivately == 2){
+			alert('试读前三章');
+		} else if(isPrivately == 3){
+			alert('试读第一章');
+		}
+	}
+</script>
+                                </div>
+                            </div>
+																	                </div>
+            </div>
+						            <div class="cell bgblue bgblue1 wh">
+                <div id="courseUnit" class="courseArticle mt25 pb20 f24 wh tc" > 课程章节</div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">1</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">甲编  “人”的仁性、天性与悟性</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">绪论</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第一章 《论语》与仁性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第二章 《庄子》与天性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">1.4</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第三章 《坛经》与悟性</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">2</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">乙编  “人”的使命、博雅与爱恨</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第四章 《史记》与使命</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第五章 《文心雕龙》与博雅</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">2.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第六章 《红楼梦》与爱恨</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">3</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">丙编  “人”的历史、生命与审美</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第七章 《历史》与历史</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第八章 《斐多》与生命</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">3.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第九章 《审美教育书简》与审美</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                                    <div class="p20 btdwh btdwh1 fix">
+                                                <div class="wh_cricle_l1 mr20 l cblue chapter_index">4</div>
+                        <div class="cell">
+                                                                                                                <a class="wh wh1" style="cursor:default">
+                                <div class="f16 chapterText">丁编  “人”的自由、理性与正义</div>
+                            </a>
+                            <ul class="mt10">
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.1</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第十章 《论法的精神》与自由</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.2</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第十一章 《国富论》与理性</div>
+                                        </a>
+                                    </li>
+                                                                    <li class="mb15 course_section fix">
+                                                                                <a class="wh wh1" onclick="read()"  href="javascript:;">
+                                                                                   <div class="f16 chapter_index l">4.3</div>
+                                                                                        <div class="f16 pct70 pr10 l ml10 chapterText" style="word-break: break-word;word-wrap: break-word; width:75%;">第十二章 《正义论》与正义</div>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                            </div>
+			                            <div id="_report" style="position:absolute;left:30px;bottom:13px;">
+                    <img src="/images/report.png" style="height: 12px;">
+                    <a href="javascript:;" id="toReport" onclick="reportCourse()" style="font-size: 12px; color:rgb(145,160,181);margin-left: 4px;">举报</a>
+                </div>
+            </div>
+                        <script type="text/javascript" src="/js/min/mootools.1.4.0.js"></script>
+<script type="text/javascript" src="/js/min/comm.js"></script>
+<!--以下为临时添加内容-->
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/testRemind.js"></script>
+<script>
+
+    var rebindTestRemind = function(){
+    $$(".unimplement").addEvent("click", function(){
+    var obj = this;
+    $testRemind(obj,"该功能正在建设中",1);
+    setTimeout('$testRemind.hide()',2000);
+    })
+    }
+    rebindTestRemind();
+	
+	
+</script>
+<script type="text/javascript" src="/js/min/overlay.js"></script>
+<script type="text/javascript" src="/js/min/classToggle.js"></script>
+<script type="text/javascript" src="/js/min/powerFloat.js"></script>
+<script type="text/javascript" src="/js/min/autoRemind.js"></script>
+<script type="text/javascript" src="/js/min/tabSwitch.js"></script>
+<script type="text/javascript" src="/js/min/startDrag.js"></script>
+<script type="text/javascript" src="/js/min/ibox.js"></script>
+<script type="text/javascript" src="/js/min/ajax.js"></script>
+<script type="text/javascript" src="/js/head.js"></script>
+<script type="text/javascript" src="/js/course_clazz.js"></script>
+<script type="text/javascript" src="/js/audiojs/audio.min.js"></script>
+<script src="/js/show_resources.js?v=2021-0315-1612"></script>
+<script src="/js/index.js" type="text/javascript"></script>
+
+<script>
+    uParse(".ans-cc");
+    audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+    });
+    //课程介绍展开收起
+    var courseInfoFold = $("courseInfoFold");
+    if ($isEle(courseInfoFold)){
+    var courseInfoBox = $("courseInfoBox"), courseInfoTxt = $("courseInfoTxt"), courseTxtDot = $("courseTxtDot");
+    var height = courseInfoFold.attr("data");
+    var classStr = "";
+    switch(height){
+    case "380":
+    classStr = "h380";
+    break;
+    case "330":
+    classStr = "h330";
+    break;
+    default:
+    classStr = "h150";
+    height = 151;
+    break;
+    }	
+    if(courseInfoTxt.getSize().y > height){
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.removeClass("abs_out");
+    courseInfoFold.removeClass("abs_out");
+    }
+    courseInfoFold.addEvent("click", function(){
+    if (this.txt() === "[展开]") {
+    courseInfoBox.removeClass(classStr);
+    courseInfoTxt.removeClass(classStr);
+    courseTxtDot.hide();
+    this.txt("[收起]")
+    } else {
+    courseInfoBox.addClass(classStr);
+    courseInfoTxt.addClass(classStr);
+    courseTxtDot.show();
+    this.txt("[展开]")
+    }
+    })
+    }
+    var tchDescBox = $('tchDescBox');
+    $powerFloat($$('.course_tch_item'), {
+    position: "4-1",
+    offsets: {x:0, y:0},
+    target: tchDescBox,
+    showCall: function(){
+    var tchDesc = $('tchDescContent'), tchDescInnerBox = $('tchDescInnerBox');
+    tchDesc.html(this.attr('data'));
+    if(tchDesc.h() < 200) {
+        tchDescInnerBox.h(tchDesc.h() + 40);
+        }else{
+        tchDescInnerBox.h(240);
+        }
+        },
+        hideCall: function(){
+        }
+        });
+        var initStarNum = $$('.i_50').length, initGrayStarArr = $$('.i_49');
+        $$('.jsForStar').each(function(item, index){
+        item.store('initGray', item.getElement('i').hasClass('i_49'));
+        item.addEvents({
+        'mouseenter': function(){
+	           if(item.getElement('i').hasClass('i_49')){
+		           for(var i = 0; i < index+1; i++){
+			            if($$('.jsForStar')[i].getElement('i').hasClass('i_49')){
+			               $$('.jsForStar')[i].getElement('i').swapClass('i_49', 'i_50');
+			            }
+		            }
+	            }
+            },
+            'mouseleave': function(){
+                if(item.retrieve('initGray') && item.getElement('i').hasClass('i_50')){
+	            	for(var i = 0; i < initGrayStarArr.length; i++){
+		        	        if(initGrayStarArr[i].hasClass('i_50')){
+		                	initGrayStarArr[i].swapClass('i_50', 'i_49');
+		                }
+	                }
+                }
+             },
+                'click': function(){
+                    for(var i = index+1; i < $$('.jsForStar').length; i++){//当前星星的后面均变灰
+	                    if($$('.jsForStar')[i].getElement('i').hasClass('i_50')){	
+		                    $$('.jsForStar')[i].getElement('i').swapClass('i_50', 'i_49');
+		                    $$('.jsForStar')[i].store('initGray', true);
+	                    }
+                    }
+                    if(index === 0 && !item.retrieve('initGray')){
+                    	item.getElement('i').swapClass('i_50', 'i_49');
+                    }
+                    new AjaxPost(item, {
+	                    url: '/CourseController/setCourseStar',
+	                    data: {courseId: $('courseStars').attr('data'), starNumber: $$('.i_50').length},
+	                    callback: function(json){
+		                    	if(json.succ){
+			                    	$('personCount').txt(new Number($('personCount').txt()) + 1);
+			                   		 var html = '';
+			                     	for(var i = 0; i < new Number(json.html); i++){
+			                        	html += '<i class="i i_50"></i>';
+			                        }
+			                        $('courseStars').html(html);
+			                        $('courseStars').attr('flag', 'true');
+			                        $testRemind($('courseStars'), '评价成功！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }else{
+			                        $('courseStars').attr('flag', 'false');
+			                        $testRemind($('courseStars'), '评价失败！', 1);
+			                        setTimeout('$testRemind.hide()',2000);
+		                        }
+	                        }
+                      }).send();
+                  }
+                        })
+                        })
+</script>
+<script type="text/javascript">
+   var pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				//打开窗口
+			     document.getElementById("zopacity").style.display="block";
+			     document.getElementById("pingfenContent").style.display="block";
+				 if(curPersonStar > 0){
+					document.getElementById("id_zs_item").style.display="none";
+				 }
+				 //窗口定位
+				 var heit = window.screen.availHeight,
+                    wid = window.screen.availWidth,
+                    alertwid = document.getElementById("pingfenContent").css("width").replace("px",""),
+                    left = (wid-alertwid)/2,
+					top = heit/8; 
+                    document.getElementById("pingfenContent").css({position: "absolute",top: top, left: left,zIndex:9999}); 
+					
+					//加载评价记录列表
+					new AjaxPost(btn, {
+        				url : '/CourseController/CourseStarContextReplyList',
+        				data : {
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('replyList').html("");
+								for(var i=0;i<json.contextReplyList.length;i++){
+									var _width = json.contextReplyList[i].starNumber*18+(json.contextReplyList[i].starNumber-1)*6;
+									var html = ""+
+    							    "<div class=\"zs_item\">"+
+                                    	"<div class=\"zs_i_gray\">"+
+                                        	"<div class=\"zs_i_re\">"+
+                                            	"<div class=\"zs_i_abs\">"+
+                                                	"<p class=\"zs_i_portrait\"><img src=\""+json.contextReplyList[i].userImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                    "<ul class=\"zs_i_infor\">"+
+                                                    	"<li class=\"zs_i_top\"><span>"+json.contextReplyList[i].username+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.contextReplyList[i].createTimes+"</span></li>"+
+                                                        "<li class=\"zs_padding5\">"+
+                                                        	"<dl class=\"zs_star_gray\">"+
+                                                                "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                            "</dl>"+
+                                                		"</li>"+
+                                                    "</ul>"+
+                                                "</div>"+
+                                            "</div>"+
+                                            "<div>"+json.contextReplyList[i].context+"</div>"+
+                                        "</div>"+
+                                    "</div>";
+									
+    								$('replyList').html($('replyList').html()+html);
+									
+								}
+							    if(json.contextReplyList.length<=0){
+									$('replyList').html('暂无评论！');
+								}
+        					}
+        				}
+        			}).send();
+    		});
+    	}
+    }
+var close_pingfen = function(btn){
+    	if($isEle(btn)){
+    		btn.addEvent('click', function(){
+				 document.getElementById("zopacity").style.display="none";
+				 document.getElementById("pingfenContent").style.display="none";
+    		});
+    	}
+    }
+close_pingfen($('_zs_close'))
+
+var commitPingfen = function(btn){
+	if($isEle(btn)){
+		btn.addEvent('click', function(){
+		var _context = $('zs_i_textarea').val(); 
+    		if(_context.length>0){
+    		   _context = _context.replace(/^\s+|\s+$/g, ""); 
+    		   if(_context.length>0&&_context.length<150){
+    		       new AjaxPost(btn, {
+        				url : '/CourseController/setCourseStarContext',
+        				data : {
+        					context : _context,
+        					courseId: $('courseStars').attr('data')
+        				},
+        				callback : function(json) {
+        					if (json.succ) {
+								$('zs_i_textarea').val(""); 
+								document.getElementById("id_zs_item").style.display="none";
+								var beforehtml = $('replyList').html();
+								if(beforehtml=="暂无评论！"){
+									$('replyList').html("")
+								}
+								
+							 	var _width = curPersonStar*18+(curPersonStar-1)*6;
+								var html = ""+
+							    "<div class=\"zs_item\">"+
+                                	"<div class=\"zs_i_gray\">"+
+                                    	"<div class=\"zs_i_re\">"+
+                                        	"<div class=\"zs_i_abs\">"+
+                                            	"<p class=\"zs_i_portrait\"><img src=\""+json.curImg+"\" width=\"50\" height=\"50\" /></p>"+
+                                                "<ul class=\"zs_i_infor\">"+
+                                                	"<li class=\"zs_i_top\"><span>"+json.curUserName+"</span><span class=\"gray\">发表于</span><span class=\"gray\">"+json.publicTime+"</span></li>"+
+                                                    "<li class=\"zs_padding5\">"+
+                                                    	"<dl class=\"zs_star_gray\">"+
+                                                            "<dd class=\"zs_star_color\" style=\"width:"+_width+"px;\"></dd>"+
+                                                        "</dl>"+
+                                            		"</li>"+
+                                                "</ul>"+
+                                            "</div>"+
+                                        "</div>"+
+                                        "<div>"+_context+"</div>"+
+                                    "</div>"+
+                                "</div>";
+								$('replyList').html(html+$('replyList').html());
+        					}else{
+        					    alert(json.msg);
+        					    return;
+        					}
+        				}
+        			}).send();
+    		    }else{
+				   alert("0<字数<150");
+				}
+    		}
+		});
+	}
+}
+commitPingfen($('commitPingfen'))
+
+function read(){
+var tip="该章节不能试读，若要继续学习，请登录或报名！";
+var status=jQuery("#clazzTag a").text();
+if(status.indexOf("进入课程")!=-1){
+tip="该章节不能试读，若要继续学习，请点击\"进入课程\"进行学习。";
+}
+alert(tip);
+} 
+</script>
+
+<script>
+	var mootools = $;
+</script>
+<script type="text/javascript" src="/js/common/jquery.min.js"></script>
+<script type="text/javascript" src="/js/common/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?v=2020-0703-1045"></script>
+<script type="text/javascript" src="/cxplayer/js/json.util.js"></script>
+<script type="text/javascript" src="/cxplayer/js/cxplayer.4.0.2.js"></script>
+<script type="text/javascript" src="/cxplayer/js/swfobject.js"></script>
+<script type="text/javascript" src="/cxplayer/js/simpleplayer.js"></script>
+
+<script>
+  	jQuery(".chapterText").each(function(){
+    	jQuery(this).html(jQuery(this).html().replace(/&nbsp;/ig," "));
+  	});
+	function loadVideo() {
+		var oMoocPlayer = jQuery('#moocplayer');
+		 var sVideoData =  oMoocPlayer ? oMoocPlayer.attr('data') : null;
+		 if (sVideoData) {
+		        sVideoData=sVideoData.replace(/\\~/g,"'");// 单引号替换过来
+			    var oVideoData = JSON.parse(sVideoData);
+        		var videoUrl=oVideoData.http;
+        		var priviewUrl=oVideoData.screenshot;
+        		var hd_videoUrl=oVideoData.httphd;
+        		if(document.domain=='haust.edu.cn'){
+        			videoUrl=videoUrl.replace("chaoxing.com",document.domain);
+        			priviewUrl=priviewUrl.replace("chaoxing.com",document.domain);
+        			hd_videoUrl=hd_videoUrl.replace("chaoxing.com",document.domain);
+        		}
+				var player = new SimplePlayer({
+				render: 'moocplayer',
+				videoUrl: videoUrl,
+				priviewUrl:priviewUrl,
+				hd_videoUrl:hd_videoUrl
+				
+			});
+			
+		}
+	}
+	
+loadVideo();
+    var play=document.getElementById("zvideo_play");
+    if(play){
+    play.onclick=function(){
+        var zplay=document.getElementById("zvideo");
+        zplay.style.display="block";
+        this.style.display="none";
+    	
+    }
+ }
+var courseStar=document.getElementById("courseStarTag");
+var oclazzTag=document.getElementById("clazzTag");
+var editvalue,courseid,isLogin,templatevalue;
+if(oclazzTag){  
+   editvalue=oclazzTag.getAttribute("data");
+   isLogin=oclazzTag.getAttribute("flag");
+   templatevalue=oclazzTag.getAttribute("template");
+}
+if(courseStar){
+	courseid=courseStar.getAttribute("data");
+}
+	var flag=false;
+	if(isLogin)
+	flag=true;
+	
+	function checklogin(){
+		if(!flag){
+			alert("请先登录")
+		}else{
+			window.location.href="/coursestar?courseId=207726523&edit="+editvalue;
+		}
+	} 
+
+jQuery.ajax({ 
+			type: "get", 
+			url : "/course/clazzTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue,template:templatevalue}, 
+			success: function(data){//如果调用成功 
+			   jQuery('#clazzTag').prepend(data);
+			} 
+		});
+jQuery.ajax({ 
+			type: "get", 
+			url : "/CourseController/getCourseStarTag", 
+			dataType:'html',
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){
+				//alert("getCourseStarTag");
+				jQuery('#courseStarTag').prepend(data);
+    		    //document.getElementById("courseStarTag").innerHTML=data;
+			} 
+		}); 
+jQuery.ajax({ //一个Ajax过程 
+			type: "get", //以get方式与后台沟通 
+			url : "/CourseController/courseEvaluation", 
+			dataType:'html',//返回的值
+			data: {courseId:courseid,edit:editvalue}, 
+			success: function(data){//如果调用成功 
+			    jQuery('#courseEvaluation').append(data);
+			} 
+		}); 
+	
+var oPriceCourse=document.getElementById("priceCourse");
+if(oPriceCourse){
+jQuery.ajax({ //一个Ajax过程 
+	type: "get", //以get方式与后台沟通 
+	url : "/course/priceTag", 
+	dataType:'html',//返回的值
+	data: {courseId:courseid}, 
+	success: function(data){//如果调用成功 
+	    jQuery('#priceCourse').append(data);
+	} 
+});
+}
+ 
+jQuery(function(){
+    try{
+        //获取登录状态
+        var login = true;
+        var fid = jQuery.cookie("fid");
+        var loginString = "_uid";
+                		var loginStatus=jQuery.cookie(loginString);
+						//alert(loginStatus);
+                		if(loginStatus==undefined) login=false;
+        	          //  alert(login);
+						
+                		//请求访问数
+                		jQuery.ajax({ //一个Ajax过程 
+                			type: "get", //以get方式与后台沟通 
+                			url : "/course/viewTimesTag", 
+                			dataType:'html',//返回的值
+                			data: {courseId:courseid,loginStatus:login},
+                			success: function(data){//如果调用成功 
+                			    jQuery('#viewTimesTag').append(data);
+                			} 
+                		}); 
+    }catch(e){
+	  alert(e.message);
+	 }
+});
+</script>
+<script>
+	jQuery(function(){
+		jQuery(".M1C2").hover(function(){
+			jQuery(this).children().eq(2).show();
+			},function(){
+				jQuery(this).children().eq(2).hide();
+				})
+		})
+	jQuery(function(){
+		jQuery(".Djckxq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).next().show();
+			jQuery(this).parent().prev().show();
+			})
+		jQuery(".Djsq").click(function(){
+			jQuery(this).hide();
+			jQuery(this).prev().show();
+			jQuery(this).parent().prev().hide();
+			})
+	})
+	jQuery(function(){
+		jQuery(".MRc1bt a").click(function(){
+			if(jQuery(this).parent().next().is(":hidden")){
+				jQuery(".MRc1ul").hide();
+				jQuery(this).parent().next().show();
+				} else {
+				jQuery(this).parent().next().hide();
+					}
+
+	 })
+		
+   })
+</script>
+<div class="courseAlert">
+	<div class="courseTilte"><a title="关闭" class="ibox_close fr" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon"><div class="ibox_alert"></div>
+		<a id="iboxAlertOk" class="bluebtn btn_s bdrad3" style="margin-right:50px" href="javascript:;">取消</a>
+		<a id="linkUrl" class="bluebtn btn_s bdrad3" href="">进入课程</a>
+	</div>
+</div>
+<div class="courseAlert-confirm" style="left:50%;margin-left:-170px;">
+	<div class="courseTilte-confirm"><a title="关闭" class="ibox_close" href="javascript:;" onclick="return false;" style="visibility: visible;"></a>提示框</div>
+	<div class="courseCon-confirm"><div class="ibox_alert-confirm">确定要报名此课程吗？</div><a id="iboxAlertOk-confirm" class="bluebtn btn_s bdrad3" href="javascript:;">确定</a><a id="iboxAlertOk-confirm-cancel" class="bluebtn_cancel btn_s bdrad3" href="javascript:;">取消</a></div>
+</div>
+<script>
+jQuery("#iboxAlertOk").click(function(){
+	jQuery('.courseAlert').hide();
+});
+jQuery(".courseTilte .ibox_close").click(function(){
+	jQuery('.courseAlert').hide();
+});
+
+jQuery(".courseTilte-confirm .ibox_close").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+jQuery("#iboxAlertOk-confirm-cancel").click(function(){
+	jQuery('.courseAlert-confirm').hide();
+});
+</script>
+<script>
+	var $ = mootools;
+</script>
+<script>
+	jQuery(".listtitle").toggle(function(){
+		jQuery(this).next("div").show()
+	},function(){
+		jQuery(this).next("div").hide()
+	})
+</script>
+
+            <script src="/js/formUtils.js"></script>
+<script src="/js/group/reportNew.js?v=2021-0406-1922"></script>            <link rel="stylesheet" type="text/css" href="/css/templates/viewImg.css">
+<script type="text/javascript" src="/js/jquery.md5.js"></script>
+<script src="/js/group/reportNew.js"></script>
+
+<div>
+    <div class="maskBg" style="display:none">
+        <div class="imgPop"><img id = "previewImg" src=""/></div>
+        <div class="bomDiv">
+            <a href="javascript:;" class="jb" onclick="reportImg()" title="举报"></a>
+            <a href="javascript:;" class="close" title="关闭"></a>
+        </div>
+    </div>
+
+    <script>
+        jQuery(function(){
+            jQuery(".clickme").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".ans-cc img").click(function(){
+                var srcStr = jQuery(this).attr("src");
+                jQuery(".maskBg").find("#previewImg").attr("src", srcStr);
+                jQuery(".maskBg").show();
+            });
+
+            jQuery(".close").click(function(){
+                jQuery(".maskBg").hide();
+            });
+        })
+
+        function reportImg() {
+            var imgSrc = jQuery(".maskBg").find("#previewImg").attr("src");
+            var objectId = imgSrc.substring(imgSrc.lastIndexOf("/")+1, imgSrc.lastIndexOf("."));
+            var params = new Array();
+
+            params.push({'name':'type', 'value':'image'});
+            params.push({'name':'sourceIdstr', 'value': jQuery.md5(objectId)});
+            params.push({'name':'sourceContent', 'value': encodeURIComponent(JSON.stringify({'image':imgSrc}))});
+            FORM_UTILS.post('https://groupweb.chaoxing.com/pc/report/reportIndex', params, '_blank');
+        }
+    </script>
+</div>
+            <script src="/js/grouplistUploadCourseImg.js?v=2019-1122-1325"></script>
+            <script src="/js/init-teamteacher.js"></script>
+            <script>
+		function moreEvaluation(courseId){
+				jQuery(".viewmore").hide();
+		 		jQuery("#pageNum").val(parseInt(jQuery("#pageNum").val())+1);
+				var page = jQuery("#pageNum").val();
+				jQuery.ajax({ //一个Ajax过程 
+					type: "get", //以get方式与后台沟通 
+					url : "/CourseController/courseEvaluation", 
+					dataType:'html',//返回的值
+					data: {courseId:courseid,edit:editvalue,page:page,hiddenMyEvaluation:1}, 
+					success: function(data){//如果调用成功 
+					    jQuery('#courseEvaluation').append(data);
+					} 
+				}); 
+		}
+        jQuery(".w_menu_item").on("click",function(){
+            jQuery(this).addClass("wcurr").siblings().removeClass("wcurr");
+            var  id = jQuery(this).attr("id");
+            var  parentId = jQuery(this).attr("parentId");
+            var array = document.getElementsByName("ariticleParentId_"+parentId);
+            if(array != null){
+                for(var i = 0 ; i<array.length;i++){
+                    array[i].css('display','none');
+                }
+            }
+            jQuery("#ariticlecontent_"+id).css('display','block');
+        })
+        if(207726523== '200119420'){
+            jQuery("#courseNavList li").each(function(){
+                if(jQuery(this).html().indexOf('课程评价') > 0 ){
+                    jQuery(this).css('display','none');
+                }
+            });
+        }
+	</script>
+
+    </div>
+          <input type="hidden" id="report_type" value="webURL"/>
+          <input type="hidden" id="sourceContent" value=""/>
+          <input type="hidden" id="sourceIdStr" value=""/>
+        <div class="pop_notice" id="downloadTipDiv" style="display:none">
+    <div class="pop_notice_title"><h2>提示信息</h2><a class="pop_dele downloadTipClose" href="javascript:;"></a></div>
+    <div class="pop_notice_cont">请下载学习通进行学习</div>
+    <div class="q_pop_import_bnt"><input type="button" value="确定" class="q_pop_bnt_queding"><input type="button" value="取消" class="q_pop_bnt_quxiao"></div>
+</div>        <script src="/js/coursehomeTip.js?v=2019-1014-1035" type="text/javascript" charset="utf-8"></script>
+	    <script>
+               //初始化举报按钮
+        jQuery(document).ready(function () {
+            var is_login = jQuery("#is_login").val();
+            var is_teacher = jQuery("#is_teacher").val();
+            if (is_login == 'false') {
+                //未登录
+                jQuery("#toReport").attr('onclick', '_msgtip()');
+            } else if (typeof(is_teacher) != "undefined" && is_teacher == 'true') {
+                //教师身份
+                jQuery("#_report").remove();
+            }
+        })
+
+	   function showSemesterList(){
+		   var display = jQuery("#options").css("display");
+	  	   if(display == "none"){
+	  	  		jQuery("#options").show();
+	  	   }else{
+	  	   		jQuery("#options").hide();
+	  	   }
+	      
+	    }
+
+        var _msgtip = function () {
+            alert("请先登录！");
+        }
+    </script>
+
+    </body>
+	
+</html>
