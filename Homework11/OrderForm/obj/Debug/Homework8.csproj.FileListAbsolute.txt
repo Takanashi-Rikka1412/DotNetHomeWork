@@ -1,0 +1,15 @@
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.csprojAssemblyReference.cache
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.Properties.Resources.resources
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
+E:\C#\Homework8\Homework8\bin\Debug\Homework8.exe.config
+E:\C#\Homework8\Homework8\bin\Debug\Homework8.exe
+E:\C#\Homework8\Homework8\bin\Debug\Homework8.pdb
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.exe
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.pdb
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.MainForm.resources
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.OrderFormDialog.resources
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.DetailFormDialog.resources
+E:\C#\Homework8\Homework8\bin\Debug\NSOrder.dll
+E:\C#\Homework8\Homework8\bin\Debug\NSOrder.pdb
+E:\C#\Homework8\Homework8\obj\Debug\Homework8.csproj.CopyComplete
